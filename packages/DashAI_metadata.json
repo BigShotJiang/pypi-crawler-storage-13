@@ -1,0 +1,11 @@
+{
+  "name": "DashAI",
+  "version": "0.3.0",
+  "summary": "DashAI: a graphical toolbox for training, evaluating and deploying state-of-the-art AI models.",
+  "author": "DashAI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/DashAISoftware/DashAI",
+  "download_filename": "dashai-0.3.0.tar.gz",
+  "download_time": "2025-11-17T21:20:13.233751",
+  "package_url": "https://pypi.org/project/DashAI/"
+}

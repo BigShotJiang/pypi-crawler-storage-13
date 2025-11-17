@@ -1,0 +1,11 @@
+{
+  "name": "antescofo",
+  "version": "0.1.1",
+  "summary": "A Python interface for Antescofo, the score following and synchronous programming language for music",
+  "author": "Antescofo Python Interface Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "antescofo-0.1.1.tar.gz",
+  "download_time": "2025-11-17T21:20:03.835535",
+  "package_url": "https://pypi.org/project/antescofo/"
+}

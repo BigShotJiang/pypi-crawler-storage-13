@@ -1,0 +1,11 @@
+{
+  "name": "chameleon-blazarclient",
+  "version": "3.6.2",
+  "summary": "Client for OpenStack Reservation Service",
+  "author": "OpenStack",
+  "license": "Apache Software License",
+  "home_page": "https://launchpad.net/blazar",
+  "download_filename": "chameleon_blazarclient-3.6.2.tar.gz",
+  "download_time": "2025-11-17T21:20:22.138904",
+  "package_url": "https://pypi.org/project/chameleon-blazarclient/"
+}

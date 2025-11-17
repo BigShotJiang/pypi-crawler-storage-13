@@ -1,0 +1,11 @@
+{
+  "name": "st-selectable-grid",
+  "version": "1.0.0",
+  "summary": "A Streamlit component for a selectable grid",
+  "author": "Luke Hoggatt",
+  "license": null,
+  "home_page": "https://github.com/hoggatt/st-selectable-grid",
+  "download_filename": "st_selectable_grid-1.0.0.tar.gz",
+  "download_time": "2025-11-17T21:20:24.738169",
+  "package_url": "https://pypi.org/project/st-selectable-grid/"
+}

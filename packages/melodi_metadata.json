@@ -1,0 +1,11 @@
+{
+  "name": "melodi",
+  "version": "0.2.0",
+  "summary": "Helper functions for Melodi - DEPRECATED",
+  "author": "Melodi Ltd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "melodi-0.2.0.tar.gz",
+  "download_time": "2025-11-17T21:20:22.653066",
+  "package_url": "https://pypi.org/project/melodi/"
+}

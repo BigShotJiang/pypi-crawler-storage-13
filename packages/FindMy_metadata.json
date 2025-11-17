@@ -1,0 +1,11 @@
+{
+  "name": "FindMy",
+  "version": "0.9.6",
+  "summary": "Query the location of your FindMy devices with Python!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "findmy-0.9.6.tar.gz",
+  "download_time": "2025-11-17T21:20:15.302055",
+  "package_url": "https://pypi.org/project/FindMy/"
+}

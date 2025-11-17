@@ -1,0 +1,11 @@
+{
+  "name": "nlsam",
+  "version": "1.0",
+  "summary": "Implementation of \"Non Local Spatial and Angular Matching : Enabling higher spatial resolution diffusion MRI datasets through adaptive denoising\"",
+  "author": "Samuel St-Jean",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nlsam-1.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-17T21:20:10.588706",
+  "package_url": "https://pypi.org/project/nlsam/"
+}

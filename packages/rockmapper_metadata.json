@@ -1,0 +1,11 @@
+{
+  "name": "rockmapper",
+  "version": "1.0.0a3",
+  "summary": "Interface for predicting and mapping benthic habitat (substrates) from any side-scan sonar mosaic.",
+  "author": "Cameron Bodine, Wyatt Wolfenkoehler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rockmapper-1.0.0a3.tar.gz",
+  "download_time": "2025-11-17T21:20:01.230295",
+  "package_url": "https://pypi.org/project/rockmapper/"
+}

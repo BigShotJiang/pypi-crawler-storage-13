@@ -1,11 +1,11 @@
 {
   "name": "synth-ai",
-  "version": "0.2.23",
-  "summary": "RL as a service SDK - Core AI functionality and tracing",
+  "version": "0.2.24",
+  "summary": "Serverless Posttraining for Agents - Core AI functionality and tracing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synth_ai-0.2.23.tar.gz",
-  "download_time": "2025-11-17T20:25:27.887887",
+  "download_filename": "synth_ai-0.2.24.tar.gz",
+  "download_time": "2025-11-17T21:20:18.920384",
   "package_url": "https://pypi.org/project/synth-ai/"
 }
