@@ -1,0 +1,11 @@
+{
+  "name": "xcon",
+  "version": "1.1.0",
+  "summary": "Dynamic configuration retreiver.",
+  "author": "Josh Orr",
+  "license": null,
+  "home_page": "https://github.com/xyngular/py-xcon",
+  "download_filename": "xcon-1.1.0.tar.gz",
+  "download_time": "2025-11-17T23:51:40.132168",
+  "package_url": "https://pypi.org/project/xcon/"
+}

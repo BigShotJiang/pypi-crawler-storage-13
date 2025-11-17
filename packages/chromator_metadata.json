@@ -1,11 +1,11 @@
 {
   "name": "chromator",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "summary": "Color shades generator",
   "author": "Huib Piguillet",
   "license": null,
   "home_page": null,
-  "download_filename": "chromator-0.6.3.tar.gz",
-  "download_time": "2025-11-17T20:41:36.277275",
+  "download_filename": "chromator-0.6.5.tar.gz",
+  "download_time": "2025-11-17T23:51:36.334219",
   "package_url": "https://pypi.org/project/chromator/"
 }

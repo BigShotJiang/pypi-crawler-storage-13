@@ -1,0 +1,11 @@
+{
+  "name": "fbpic",
+  "version": "0.27.0",
+  "summary": "Spectral, quasi-3D Particle-In-Cell for CPU and GPU",
+  "author": null,
+  "license": "BSD-3-Clause-LBNL",
+  "home_page": "http://github.com/fbpic/fbpic",
+  "download_filename": "fbpic-0.27.0.tar.gz",
+  "download_time": "2025-11-17T23:51:32.556666",
+  "package_url": "https://pypi.org/project/fbpic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blend2d-py",
+  "version": "2025.2.0",
+  "summary": "Python bindings for Blend2D (via nanobind)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blend2d_py-2025.2.0-cp311-cp311-macosx_14_0_arm64.whl",
+  "download_time": "2025-11-17T23:51:44.281734",
+  "package_url": "https://pypi.org/project/blend2d-py/"
+}
