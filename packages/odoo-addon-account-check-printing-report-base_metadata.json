@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-check-printing-report-base",
+  "version": "19.0.1.0.0.2",
+  "summary": "Account Check Printing Report Base",
+  "author": "ForgeFlow,Serpent Consulting Services Pvt. Ltd.,Ursa Information Systems,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_account_check_printing_report_base-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-17T18:31:43.868040",
+  "package_url": "https://pypi.org/project/odoo-addon-account-check-printing-report-base/"
+}

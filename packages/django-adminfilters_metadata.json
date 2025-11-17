@@ -1,0 +1,11 @@
+{
+  "name": "django-adminfilters",
+  "version": "2.7",
+  "summary": "Collection of Django Admin filters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_adminfilters-2.7.tar.gz",
+  "download_time": "2025-11-17T18:32:06.693660",
+  "package_url": "https://pypi.org/project/django-adminfilters/"
+}

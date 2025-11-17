@@ -1,0 +1,11 @@
+{
+  "name": "loon-utils",
+  "version": "0.0.7",
+  "summary": "A python library for updating / converting data for use in Loon visualization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loon_utils-0.0.7.tar.gz",
+  "download_time": "2025-11-17T18:31:33.579315",
+  "package_url": "https://pypi.org/project/loon-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "questfoundry-compiler",
+  "version": "0.6.0",
+  "summary": "Spec compiler for QuestFoundry - transforms atomic behavior primitives into runtime artifacts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "questfoundry_compiler-0.6.0.tar.gz",
+  "download_time": "2025-11-17T18:31:13.296293",
+  "package_url": "https://pypi.org/project/questfoundry-compiler/"
+}

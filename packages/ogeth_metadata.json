@@ -1,0 +1,11 @@
+{
+  "name": "ogeth",
+  "version": "0.0.4",
+  "summary": "Ethiopia Calibration for OG-Core",
+  "author": "Marcelo LaFleur, Richard W. Evans, and Jason DeBacker",
+  "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "home_page": "https://github.com/EAPD-DRB/OG-ETH/",
+  "download_filename": "ogeth-0.0.4.tar.gz",
+  "download_time": "2025-11-17T18:31:58.188352",
+  "package_url": "https://pypi.org/project/ogeth/"
+}

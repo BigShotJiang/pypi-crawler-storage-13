@@ -1,0 +1,11 @@
+{
+  "name": "DeepTile",
+  "version": "2.0.10",
+  "summary": "Large image tiling and stitching library for scaling Python functions to arbitrary input image sizes.",
+  "author": "William Niu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deeptile-2.0.10.tar.gz",
+  "download_time": "2025-11-17T18:31:44.514352",
+  "package_url": "https://pypi.org/project/DeepTile/"
+}
