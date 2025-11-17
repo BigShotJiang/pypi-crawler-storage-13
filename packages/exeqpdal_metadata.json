@@ -1,0 +1,11 @@
+{
+  "name": "exeqpdal",
+  "version": "0.1.0a4",
+  "summary": "Python API for executing PDAL CLI commands with native syntax support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exeqpdal-0.1.0a4.tar.gz",
+  "download_time": "2025-11-17T18:54:59.668967",
+  "package_url": "https://pypi.org/project/exeqpdal/"
+}

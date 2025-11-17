@@ -1,0 +1,11 @@
+{
+  "name": "toa-extractor",
+  "version": "0.6.0",
+  "summary": "Calculate TOAs and residuals of pulsars",
+  "author": "Matteo Bachetti",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/matteobachetti/toa_extractor",
+  "download_filename": "toa_extractor-0.6.0.tar.gz",
+  "download_time": "2025-11-17T18:55:06.138003",
+  "package_url": "https://pypi.org/project/toa-extractor/"
+}
