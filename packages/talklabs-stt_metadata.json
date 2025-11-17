@@ -1,0 +1,11 @@
+{
+  "name": "talklabs-stt",
+  "version": "2.0.1",
+  "summary": "TalkLabs STT SDK - Speech-to-Text API compatible with Deepgram",
+  "author": "Francisco Lima",
+  "license": null,
+  "home_page": "https://talklabs.com.br",
+  "download_filename": "talklabs_stt-2.0.1.tar.gz",
+  "download_time": "2025-11-17T17:51:36.127994",
+  "package_url": "https://pypi.org/project/talklabs-stt/"
+}

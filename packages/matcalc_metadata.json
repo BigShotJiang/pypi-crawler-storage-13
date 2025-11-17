@@ -1,0 +1,11 @@
+{
+  "name": "matcalc",
+  "version": "0.4.4",
+  "summary": "Calculators for materials properties from the potential energy surface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matcalc-0.4.4.tar.gz",
+  "download_time": "2025-11-17T17:51:08.773339",
+  "package_url": "https://pypi.org/project/matcalc/"
+}

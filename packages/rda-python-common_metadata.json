@@ -1,0 +1,11 @@
+{
+  "name": "rda-python-common",
+  "version": "1.0.55",
+  "summary": "RDA Python common library codes shared by other RDA python packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rda_python_common-1.0.55.tar.gz",
+  "download_time": "2025-11-17T17:51:10.339565",
+  "package_url": "https://pypi.org/project/rda-python-common/"
+}

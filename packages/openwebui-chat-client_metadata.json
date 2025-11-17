@@ -1,0 +1,11 @@
+{
+  "name": "openwebui-chat-client",
+  "version": "0.1.999",
+  "summary": "A powerful and intelligent Python client for the Open WebUI API.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openwebui_chat_client-0.1.999.tar.gz",
+  "download_time": "2025-11-17T17:51:31.909826",
+  "package_url": "https://pypi.org/project/openwebui-chat-client/"
+}

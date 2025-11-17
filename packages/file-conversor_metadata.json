@@ -1,0 +1,11 @@
+{
+  "name": "file-conversor",
+  "version": "0.7.0",
+  "summary": "Universal file conversor for multimedia files (audio, video, pdf, docs, etc)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "file_conversor-0.7.0.tar.gz",
+  "download_time": "2025-11-17T17:51:24.566119",
+  "package_url": "https://pypi.org/project/file-conversor/"
+}

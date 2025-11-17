@@ -1,0 +1,11 @@
+{
+  "name": "pitchai-gpt",
+  "version": "0.2.0",
+  "summary": "Async GPT helpers and the Fast Streaming Agent runtime used across AFASAsk projects.",
+  "author": "PitchAI",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "pitchai_gpt-0.2.0.tar.gz",
+  "download_time": "2025-11-17T17:51:01.439505",
+  "package_url": "https://pypi.org/project/pitchai-gpt/"
+}
