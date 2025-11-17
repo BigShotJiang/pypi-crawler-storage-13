@@ -1,0 +1,11 @@
+{
+  "name": "infraweave",
+  "version": "0.1.3",
+  "summary": "Interact with InfraWeave using Python",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "infraweave-0.1.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-17T23:39:55.682090",
+  "package_url": "https://pypi.org/project/infraweave/"
+}

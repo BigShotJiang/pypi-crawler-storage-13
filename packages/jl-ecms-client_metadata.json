@@ -1,11 +1,11 @@
 {
   "name": "jl-ecms-client",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "summary": "Intuit ECMS Client - Lightweight Python client for Intuit ECMS server",
   "author": "Mirix AI",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/Mirix-AI/MIRIX",
-  "download_filename": "jl_ecms_client-0.6.3.tar.gz",
-  "download_time": "2025-11-17T21:40:31.630347",
+  "download_filename": "jl_ecms_client-0.6.5.tar.gz",
+  "download_time": "2025-11-17T23:40:17.676869",
   "package_url": "https://pypi.org/project/jl-ecms-client/"
 }

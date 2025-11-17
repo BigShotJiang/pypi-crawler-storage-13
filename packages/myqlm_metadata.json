@@ -1,0 +1,11 @@
+{
+  "name": "myqlm",
+  "version": "1.12.3",
+  "summary": "myQLM package",
+  "author": "Atos Quantum Lab",
+  "license": "Atos myQLM EULA",
+  "home_page": "https://atos.net/en/lp/myqlm",
+  "download_filename": "myqlm-1.12.3-py3-none-any.whl",
+  "download_time": "2025-11-17T23:40:07.127877",
+  "package_url": "https://pypi.org/project/myqlm/"
+}

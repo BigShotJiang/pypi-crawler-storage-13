@@ -1,0 +1,11 @@
+{
+  "name": "CHE1147-demo",
+  "version": "0.2.0",
+  "summary": "Example package for teaching packaging and PyPI publishing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "che1147_demo-0.2.0.tar.gz",
+  "download_time": "2025-11-17T23:40:28.094017",
+  "package_url": "https://pypi.org/project/CHE1147-demo/"
+}
