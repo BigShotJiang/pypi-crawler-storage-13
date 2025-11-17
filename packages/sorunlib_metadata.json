@@ -1,0 +1,11 @@
+{
+  "name": "sorunlib",
+  "version": "0.1.31",
+  "summary": "OCS Control Programs for running the observatory.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sorunlib-0.1.31.tar.gz",
+  "download_time": "2025-11-17T19:52:09.678349",
+  "package_url": "https://pypi.org/project/sorunlib/"
+}

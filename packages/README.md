@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T19:38:58.052892
+- **Download Time**: 2025-11-17T19:52:58.409438
 - **Total Packages**: 80
-- **Total Size**: 35.35 MB
+- **Total Size**: 14.11 MB
 
 ## Packages List
+- idc-index-data
+- sorunlib
+- stregion
+- garf-core
+- MinecraftDockerCLI
+- coders2iamc
+- tiktok-afriton
+- simba-uw-tf-dev
+- imgrs
+- agent-workshop
+- GoekenDataScience
 - agentmail
 - gwseq-io
 - celltraj
@@ -75,14 +86,3 @@
 - bluehive
 - simpletkwidgets
 - quiz-cultura-general
-- pyCallisto
-- nexus-rpc
-- open-cravat
-- LnkParse3
-- odoo-addon-license_website_sale
-- dyff-schema
-- glancewatch
-- thds.mops
-- thds.attrs-utils
-- thds.adls
-- thds.core

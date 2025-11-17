@@ -1,11 +1,11 @@
 {
   "name": "MinecraftDockerCLI",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "CLI tool to enhance and simplify containerization of Minecraft servers",
   "author": "Dtar380",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "minecraftdockercli-0.1.6.tar.gz",
-  "download_time": "2025-11-17T19:17:34.381382",
+  "download_filename": "minecraftdockercli-0.1.7.tar.gz",
+  "download_time": "2025-11-17T19:52:12.060925",
   "package_url": "https://pypi.org/project/MinecraftDockerCLI/"
 }
