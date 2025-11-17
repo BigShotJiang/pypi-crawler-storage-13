@@ -1,0 +1,11 @@
+{
+  "name": "starsystem",
+  "version": "1.0.0",
+  "summary": "STARSYSTEM - Complete compound intelligence ecosystem with master help system",
+  "author": "Isaac",
+  "license": "GNOSYS Personal Builder License (GPBL) v1.0",
+  "home_page": "https://github.com/sancovp/starsystem",
+  "download_filename": "starsystem-1.0.0.tar.gz",
+  "download_time": "2025-11-17T21:40:27.342682",
+  "package_url": "https://pypi.org/project/starsystem/"
+}

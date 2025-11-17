@@ -1,11 +1,11 @@
 {
   "name": "toot-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Train of Thought (TOOT) MCP for validated conceptual reasoning chains",
   "author": null,
-  "license": null,
+  "license": "GNOSYS Personal Builder License (GPBL) v1.0",
   "home_page": null,
-  "download_filename": "toot_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-17T20:53:02.800995",
+  "download_filename": "toot_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-17T21:40:28.388229",
   "package_url": "https://pypi.org/project/toot-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plain.start",
+  "version": "0.1.0",
+  "summary": "Bootstrap a new Plain project from starter templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plain_start-0.1.0.tar.gz",
+  "download_time": "2025-11-17T21:40:59.931527",
+  "package_url": "https://pypi.org/project/plain.start/"
+}

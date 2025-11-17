@@ -1,11 +1,11 @@
 {
   "name": "seed-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SEED MCP - Unified System Identity and Publishing Platform for Compound Intelligence",
   "author": null,
-  "license": null,
+  "license": "GNOSYS Personal Builder License (GPBL) v1.0",
   "home_page": null,
-  "download_filename": "seed_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-17T20:41:49.064030",
+  "download_filename": "seed_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-17T21:40:32.674919",
   "package_url": "https://pypi.org/project/seed-mcp/"
 }
