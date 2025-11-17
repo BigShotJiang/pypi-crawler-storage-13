@@ -1,0 +1,11 @@
+{
+  "name": "POP-guotai",
+  "version": "0.3.3",
+  "summary": "[DEPRECATED] Reusable, mutable, prompt functions for LLMs. Please migrate to the new package: pypop.",
+  "author": "Guotai Shen",
+  "license": null,
+  "home_page": "https://github.com/sgt1796/POP",
+  "download_filename": "pop_guotai-0.3.3.tar.gz",
+  "download_time": "2025-11-17T19:38:35.653679",
+  "package_url": "https://pypi.org/project/POP-guotai/"
+}

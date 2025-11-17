@@ -1,0 +1,11 @@
+{
+  "name": "traccar-api-python-client",
+  "version": "0.0.3",
+  "summary": "A Python client for the Traccar API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "traccar_api_python_client-0.0.3.tar.gz",
+  "download_time": "2025-11-17T19:38:27.831459",
+  "package_url": "https://pypi.org/project/traccar-api-python-client/"
+}

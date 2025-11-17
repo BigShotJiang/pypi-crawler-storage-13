@@ -1,0 +1,11 @@
+{
+  "name": "nexus-rpc",
+  "version": "1.2.0",
+  "summary": "Nexus Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexus_rpc-1.2.0.tar.gz",
+  "download_time": "2025-11-17T19:38:52.375716",
+  "package_url": "https://pypi.org/project/nexus-rpc/"
+}

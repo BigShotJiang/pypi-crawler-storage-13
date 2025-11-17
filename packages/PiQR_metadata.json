@@ -1,0 +1,11 @@
+{
+  "name": "PiQR",
+  "version": "0.1.6",
+  "summary": "A Python library for generating and displaying QR codes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "piqr-0.1.6.tar.gz",
+  "download_time": "2025-11-17T19:38:14.092384",
+  "package_url": "https://pypi.org/project/PiQR/"
+}
