@@ -1,0 +1,11 @@
+{
+  "name": "msr605-tool",
+  "version": "2.4.5",
+  "summary": "MSR605 Tool - A comprehensive magnetic stripe card reader/writer application",
+  "author": "Nsfr750",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Nsfr750/MSR605",
+  "download_filename": "msr605_tool-2.4.5.tar.gz",
+  "download_time": "2025-11-17T20:41:34.057854",
+  "package_url": "https://pypi.org/project/msr605-tool/"
+}

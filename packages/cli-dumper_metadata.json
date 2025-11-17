@@ -1,0 +1,11 @@
+{
+  "name": "cli-dumper",
+  "version": "1.1",
+  "summary": "A CLI tool that merges multiple files into a single text file",
+  "author": "DasKaroWow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_dumper-1.1.tar.gz",
+  "download_time": "2025-11-17T20:41:51.243835",
+  "package_url": "https://pypi.org/project/cli-dumper/"
+}

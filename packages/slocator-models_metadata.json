@@ -1,0 +1,11 @@
+{
+  "name": "slocator-models",
+  "version": "0.1.1",
+  "summary": "Shared Pydantic models for Slocator services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slocator_models-0.1.1.tar.gz",
+  "download_time": "2025-11-17T20:41:45.779567",
+  "package_url": "https://pypi.org/project/slocator-models/"
+}
