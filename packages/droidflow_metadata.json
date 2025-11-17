@@ -1,0 +1,11 @@
+{
+  "name": "droidflow",
+  "version": "0.0.2.2",
+  "summary": "A multi agent orchestrator library",
+  "author": "Kaan Simsek",
+  "license": null,
+  "home_page": "https://github.com/KaanSimsek/droidflow",
+  "download_filename": "droidflow-0.0.2.2.tar.gz",
+  "download_time": "2025-11-17T21:52:01.868380",
+  "package_url": "https://pypi.org/project/droidflow/"
+}

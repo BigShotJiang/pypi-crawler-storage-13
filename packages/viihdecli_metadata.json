@@ -1,0 +1,11 @@
+{
+  "name": "viihdecli",
+  "version": "0.22.1",
+  "summary": "Command line interface for handling Elisa Viihde recordings",
+  "author": "Qotscha",
+  "license": null,
+  "home_page": "https://github.com/Qotscha/viihdecli",
+  "download_filename": "viihdecli-0.22.1.tar.gz",
+  "download_time": "2025-11-17T21:52:02.388828",
+  "package_url": "https://pypi.org/project/viihdecli/"
+}

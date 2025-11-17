@@ -1,0 +1,11 @@
+{
+  "name": "alodenhftmarketclient",
+  "version": "0.1.4",
+  "summary": "Python client for the HFT Simulator bridge server (REST + WebSockets helpers)",
+  "author": "Aloden",
+  "license": "Proprietary",
+  "home_page": "https://hft-simulator.fr",
+  "download_filename": "alodenhftmarketclient-0.1.4.tar.gz",
+  "download_time": "2025-11-17T21:52:05.561593",
+  "package_url": "https://pypi.org/project/alodenhftmarketclient/"
+}

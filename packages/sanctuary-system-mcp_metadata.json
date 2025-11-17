@@ -1,0 +1,11 @@
+{
+  "name": "sanctuary-system-mcp",
+  "version": "0.1.0",
+  "summary": "Sanctuary System - Narrative wrapper and scoring for STARSYSTEM compound intelligence",
+  "author": "Isaac",
+  "license": "GNOSYS Personal Builder License (GPBL) v1.0",
+  "home_page": null,
+  "download_filename": "sanctuary_system_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-17T21:52:05.041663",
+  "package_url": "https://pypi.org/project/sanctuary-system-mcp/"
+}
