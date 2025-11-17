@@ -1,0 +1,11 @@
+{
+  "name": "probabilistic-functions",
+  "version": "0.6.0",
+  "summary": "A Python package for working with probabilistic functions and distributions.",
+  "author": "Wilhelm David Buitrago Garcia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "probabilistic_functions-0.6.0.tar.gz",
+  "download_time": "2025-11-17T23:20:01.674550",
+  "package_url": "https://pypi.org/project/probabilistic-functions/"
+}

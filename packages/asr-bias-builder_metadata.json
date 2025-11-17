@@ -1,0 +1,11 @@
+{
+  "name": "asr-bias-builder",
+  "version": "0.1.1",
+  "summary": "Build ASR bias artifacts from presentation decks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asr_bias_builder-0.1.1.tar.gz",
+  "download_time": "2025-11-17T23:20:09.034043",
+  "package_url": "https://pypi.org/project/asr-bias-builder/"
+}

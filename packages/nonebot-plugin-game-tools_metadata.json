@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-game-tools",
+  "version": "1.0.10",
+  "summary": "游戏工具插件.",
+  "author": "SnowRabbit",
+  "license": "MIT",
+  "home_page": "https://github.com/snowrabbit-top/nonebot_plugin_game_tools",
+  "download_filename": "nonebot_plugin_game_tools-1.0.10.tar.gz",
+  "download_time": "2025-11-17T23:19:53.869577",
+  "package_url": "https://pypi.org/project/nonebot-plugin-game-tools/"
+}

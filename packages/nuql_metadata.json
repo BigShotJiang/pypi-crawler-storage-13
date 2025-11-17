@@ -1,0 +1,11 @@
+{
+  "name": "nuql",
+  "version": "0.0.18",
+  "summary": "Nuql (pronounced 'nuckle') is a lightweight DynamoDB library for implementing the single table model pattern.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nuql-0.0.18.tar.gz",
+  "download_time": "2025-11-17T23:20:00.513684",
+  "package_url": "https://pypi.org/project/nuql/"
+}
