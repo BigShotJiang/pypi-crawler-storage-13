@@ -1,0 +1,11 @@
+{
+  "name": "pipowl",
+  "version": "1.0.0",
+  "summary": "A lightweight local AI tooling shell from OwlGalaxy ecosystem.",
+  "author": "SadlyOwl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipowl-1.0.0.tar.gz",
+  "download_time": "2025-11-17T20:53:05.454333",
+  "package_url": "https://pypi.org/project/pipowl/"
+}

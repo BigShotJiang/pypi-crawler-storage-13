@@ -1,0 +1,11 @@
+{
+  "name": "pyqutree",
+  "version": "0.1.5",
+  "summary": "QuTree: A tree tensor network package",
+  "author": "Roman Ellerbrock",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyqutree-0.1.5.tar.gz",
+  "download_time": "2025-11-17T20:53:14.792861",
+  "package_url": "https://pypi.org/project/pyqutree/"
+}

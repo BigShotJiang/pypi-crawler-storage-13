@@ -1,0 +1,11 @@
+{
+  "name": "ai-cache",
+  "version": "0.1.1",
+  "summary": "Lightweight automatic caching for LLM API responses",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_cache-0.1.1.tar.gz",
+  "download_time": "2025-11-17T20:53:22.113615",
+  "package_url": "https://pypi.org/project/ai-cache/"
+}

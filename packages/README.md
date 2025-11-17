@@ -1,16 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T20:42:17.759144
-- **Total Packages**: 83
-- **Total Size**: 17.52 MB
+- **Download Time**: 2025-11-17T20:53:45.569650
+- **Total Packages**: 80
+- **Total Size**: 16.54 MB
 
 ## Packages List
+- ypricemagic
+- flow360
+- medusa-security
+- openmmml
+- rag-core-lib
+- SimpleDomControl
+- webtoolkit
+- isitpublic
+- toot-mcp
+- kappybara
+- chromasql
+- config-cli-gui
+- sqlalchemy-jdbcapi
+- pipowl
+- star-toffee
+- policy-uploader-sdk
+- plinkformatter
+- biblemategui
+- oc-2-python-app
+- jazelle
+- wasm-action
+- incredible-python
+- davey
+- tdp-TauCeti
+- alas-ce0-client
+- Python-Lua-Helper
+- ninjecto
+- pyqutree
+- async-substrate-interface
+- EasyLoggerAJM
+- flerity-core
+- oneccl-cpu
+- intel-pti
+- sapiopycommons
+- mccoygroup-mcutils
+- feldera
+- ledger-sdk
+- vellum-workflow-server
+- ai-cache
 - code-spy
 - python-terminusgps
 - textual-mastermind
 - multidimio
-- oc-2-python-app
 - matchescu-matching
 - msr605-tool
 - aioairtable
@@ -26,7 +64,6 @@
 - opexcore
 - astrocytes
 - baltra-sdk
-- star-toffee
 - primfunctions
 - terminus-ai
 - fondsweb-scraper
@@ -49,43 +86,3 @@
 - sqlmesh
 - cloudx-proxy
 - innerloop
-- keycardai-mcp-fastmcp
-- pyCallisto
-- keycardai-mcp
-- keycardai-oauth
-- isitpublic
-- enforce-notebook-run-order
-- worker-automate-hub
-- makeprov
-- agrivisor
-- dragohan-grimoire
-- neuro-san
-- check-zpools
-- pythagoras
-- synth-ai
-- lexia
-- mbb
-- medicalimageanalysis
-- medusa-security
-- llama-cloud-services
-- llama-parse
-- boxes-tui
-- pydeephaven
-- synqed
-- lwagents
-- deephaven-core
-- svg-ultralight
-- ifBO
-- diode
-- l2m
-- AoE2ScenarioParser
-- dyff
-- spotoptim
-- smoosense
-- larch-pickle
-- based-utils
-- opera-mcp
-- simpletkwidgets
-- file-conversor
-- piwave
-- rdworks

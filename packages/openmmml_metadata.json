@@ -1,0 +1,11 @@
+{
+  "name": "openmmml",
+  "version": "1.4",
+  "summary": "OpenMM-ML: A high level API for using machine learning models in OpenMM simulations",
+  "author": "Peter Eastman",
+  "license": "MIT",
+  "home_page": "https://github.com/openmm/openmm-ml",
+  "download_filename": "openmmml-1.4-py3-none-any.whl",
+  "download_time": "2025-11-17T20:53:00.125524",
+  "package_url": "https://pypi.org/project/openmmml/"
+}
