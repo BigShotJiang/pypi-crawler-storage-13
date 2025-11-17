@@ -1,0 +1,11 @@
+{
+  "name": "WorldPopPy",
+  "version": "0.3.0",
+  "summary": "Library to help you work with WorldPop data for any region on earth",
+  "author": null,
+  "license": "Mozilla Public License 2.0 (MPL-2.0)",
+  "home_page": null,
+  "download_filename": "worldpoppy-0.3.0.tar.gz",
+  "download_time": "2025-11-17T22:21:11.002355",
+  "package_url": "https://pypi.org/project/WorldPopPy/"
+}

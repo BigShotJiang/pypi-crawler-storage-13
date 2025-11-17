@@ -1,11 +1,11 @@
 {
   "name": "llama-cloud-services",
-  "version": "0.6.80",
+  "version": "0.6.81",
   "summary": "Tailored SDK clients for LlamaCloud services.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llama_cloud_services-0.6.80.tar.gz",
-  "download_time": "2025-11-17T20:25:30.475400",
+  "download_filename": "llama_cloud_services-0.6.81.tar.gz",
+  "download_time": "2025-11-17T22:20:46.683620",
   "package_url": "https://pypi.org/project/llama-cloud-services/"
 }

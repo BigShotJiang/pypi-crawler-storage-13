@@ -1,0 +1,11 @@
+{
+  "name": "mypy-protobuf",
+  "version": "3.7.0",
+  "summary": "Generate mypy stub files from protobuf specs",
+  "author": "Nipunn Koorapati",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/nipunn1313/mypy-protobuf",
+  "download_filename": "mypy_protobuf-3.7.0.tar.gz",
+  "download_time": "2025-11-17T22:20:58.143501",
+  "package_url": "https://pypi.org/project/mypy-protobuf/"
+}
