@@ -1,0 +1,11 @@
+{
+  "name": "nenucal",
+  "version": "0.10",
+  "summary": "Calibration pipeline for the NenuFAR Cosmic Dawn project",
+  "author": "Florent Mertens",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nenucal-0.10.tar.gz",
+  "download_time": "2025-11-17T22:54:35.281713",
+  "package_url": "https://pypi.org/project/nenucal/"
+}
