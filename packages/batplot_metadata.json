@@ -1,0 +1,11 @@
+{
+  "name": "batplot",
+  "version": "1.6.2",
+  "summary": "Interactive plotting tool for material science (1D plot) and electrochemistry (GC, CV, dQ/dV, CPC, operando) with batch processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "batplot-1.6.2.tar.gz",
+  "download_time": "2025-11-17T22:42:40.342992",
+  "package_url": "https://pypi.org/project/batplot/"
+}

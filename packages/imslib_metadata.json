@@ -1,0 +1,11 @@
+{
+  "name": "imslib",
+  "version": "2.0.2",
+  "summary": "Python bindings for iMS devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imslib-2.0.2-cp38-abi3-win_amd64.whl",
+  "download_time": "2025-11-17T22:43:07.214149",
+  "package_url": "https://pypi.org/project/imslib/"
+}

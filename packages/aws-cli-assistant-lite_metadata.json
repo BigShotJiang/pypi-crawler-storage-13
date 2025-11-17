@@ -1,0 +1,11 @@
+{
+  "name": "aws-cli-assistant-lite",
+  "version": "1.0.1",
+  "summary": "Natural language to AWS CLI converter with real-time validation",
+  "author": "Malini Agrawal",
+  "license": "Commercial",
+  "home_page": "https://github.com/maliniagrawal/aws-cli-assistant-lite",
+  "download_filename": "aws_cli_assistant_lite-1.0.1.tar.gz",
+  "download_time": "2025-11-17T22:43:06.128850",
+  "package_url": "https://pypi.org/project/aws-cli-assistant-lite/"
+}

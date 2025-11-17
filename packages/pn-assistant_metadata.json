@@ -1,0 +1,11 @@
+{
+  "name": "pn-assistant",
+  "version": "1.0.0",
+  "summary": "A command-line personal assistant with address book and notes",
+  "author": "PythoNauts",
+  "license": "MIT",
+  "home_page": "https://github.com/yulikafsd/personal_assistant",
+  "download_filename": "pn_assistant-1.0.0.tar.gz",
+  "download_time": "2025-11-17T22:43:03.402920",
+  "package_url": "https://pypi.org/project/pn-assistant/"
+}
