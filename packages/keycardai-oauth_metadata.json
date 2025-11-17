@@ -1,0 +1,11 @@
+{
+  "name": "keycardai-oauth",
+  "version": "0.6.0",
+  "summary": "A Python SDK for OAuth 2.0 functionality implementing multiple OAuth 2.0 standards",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keycardai_oauth-0.6.0.tar.gz",
+  "download_time": "2025-11-17T20:25:22.097849",
+  "package_url": "https://pypi.org/project/keycardai-oauth/"
+}

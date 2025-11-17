@@ -1,0 +1,11 @@
+{
+  "name": "agrivisor",
+  "version": "1.0",
+  "summary": "Agriculture advisory engine for weather-based recommendations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agrivisor-1.0.tar.gz",
+  "download_time": "2025-11-17T20:25:25.231289",
+  "package_url": "https://pypi.org/project/agrivisor/"
+}

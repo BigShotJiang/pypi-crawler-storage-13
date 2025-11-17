@@ -1,0 +1,11 @@
+{
+  "name": "django-countries",
+  "version": "8.1.1",
+  "summary": "Provides a country field for Django models.",
+  "author": "Chris Beaven",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_countries-8.1.1.tar.gz",
+  "download_time": "2025-11-17T20:25:57.407009",
+  "package_url": "https://pypi.org/project/django-countries/"
+}

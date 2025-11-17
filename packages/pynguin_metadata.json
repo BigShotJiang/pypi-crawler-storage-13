@@ -1,0 +1,11 @@
+{
+  "name": "pynguin",
+  "version": "0.44.0",
+  "summary": "Pynguin is a tool for automated unit test generation for Python",
+  "author": "Stephan Lukasczyk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynguin-0.44.0.tar.gz",
+  "download_time": "2025-11-17T20:26:06.186511",
+  "package_url": "https://pypi.org/project/pynguin/"
+}
