@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-17T18:55:45.123363
-- **Total Packages**: 83
-- **Total Size**: 57.45 MB
+- **Download Time**: 2025-11-17T19:18:07.123798
+- **Total Packages**: 91
+- **Total Size**: 31.88 MB
 
 ## Packages List
+- MAVez
+- nsj-rest-lib
+- baltra-sdk
+- inference-sdk
+- inference-gpu
+- inference-cpu
+- flint-python
+- inference-core
+- inference-cli
+- inference
+- ipyslides
+- ibm-watsonx-orchestrate-mcp-server
+- ibm-watsonx-orchestrate
+- dayhoff-tools
+- payme-pkg
+- cdk8s-cdktf-resolver
+- datamodelutils
+- gen3datamodel
+- synqed
+- scythe-ttp
+- star-toffee
+- noiseframework
+- trimap
+- pycarlo
+- sql-blocks
+- locoformer
+- nominal-api-protos
+- nominal-api
+- based-utils
+- jazelle
+- bblean
+- graphiti-core-varming
+- prompt-declaration-language
+- syft-client
+- tacotoolbox
+- workspace-agent
+- MinecraftDockerCLI
+- promptshield-ptit
+- qiskit-braket-provider
+- lerl
 - massgen
 - webquest-mcp
 - j2toon
@@ -36,7 +76,6 @@
 - yt-dlp-termux-gui
 - changedetection-tui
 - edx-arch-experiments
-- syft-client
 - gemprf
 - edaplot-vl
 - chipiq
@@ -56,36 +95,5 @@
 - nvmath-python
 - pylacus
 - ACID-code-v2
-- scythe-ttp
 - scientific-writer
 - smartroute
-- nsj-gcf-utils
-- avalanchepy
-- test-keishis
-- metapulsar
-- file-conversor
-- kaqing
-- xpander-sdk
-- signalpilot-ai-internal
-- psx-feed
-- yayawallet-python-sdk
-- glean-api-client
-- siga-mcp
-- pycells-mds
-- spoox
-- gotn
-- bookmarks-curses
-- ligandsplitter
-- questfoundry-compiler
-- hideandseek
-- api-investment-risk
-- AWSArchitectureBase
-- listen2_rust
-- pushikoo-adapter-testgetter
-- tooluniverse
-- odoo-addon-account-commission
-- terra-scientific-pipelines-service-api-client
-- stregion
-- fbnconfig
-- fitrequest
-- neupi

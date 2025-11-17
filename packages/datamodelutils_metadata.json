@@ -1,0 +1,11 @@
+{
+  "name": "datamodelutils",
+  "version": "1.1.2",
+  "summary": "Gen3 Data Model Utils",
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/uc-cdis/datamodelutils",
+  "download_filename": "datamodelutils-1.1.2.tar.gz",
+  "download_time": "2025-11-17T19:17:20.631283",
+  "package_url": "https://pypi.org/project/datamodelutils/"
+}

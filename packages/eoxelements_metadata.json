@@ -1,11 +1,11 @@
 {
   "name": "eoxelements",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Jupyter notebook wrapper for EOxElements web components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eoxelements-0.2.13.tar.gz",
-  "download_time": "2025-11-17T18:55:02.051975",
+  "download_filename": "eoxelements-0.2.14.tar.gz",
+  "download_time": "2025-11-17T19:17:44.451008",
   "package_url": "https://pypi.org/project/eoxelements/"
 }

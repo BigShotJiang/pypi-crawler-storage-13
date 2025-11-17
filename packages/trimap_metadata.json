@@ -1,0 +1,11 @@
+{
+  "name": "trimap",
+  "version": "1.1.5",
+  "summary": "TriMap: Large-scale Dimensionality Reduction Using Triplets",
+  "author": "Ehsan Amid",
+  "license": "LICENSE.txt",
+  "home_page": "http://github.com/eamid/trimap",
+  "download_filename": "trimap-1.1.5-py3-none-any.whl",
+  "download_time": "2025-11-17T19:17:24.443951",
+  "package_url": "https://pypi.org/project/trimap/"
+}
