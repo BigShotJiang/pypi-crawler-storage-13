@@ -1,0 +1,11 @@
+{
+  "name": "mozilla-taskgraph",
+  "version": "4.0.1",
+  "summary": "Mozilla specific transforms and utilities for Taskgraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozilla_taskgraph-4.0.1.tar.gz",
+  "download_time": "2025-11-18T17:55:00.016419",
+  "package_url": "https://pypi.org/project/mozilla-taskgraph/"
+}

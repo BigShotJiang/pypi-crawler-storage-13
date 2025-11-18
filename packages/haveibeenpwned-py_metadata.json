@@ -1,0 +1,11 @@
+{
+  "name": "haveibeenpwned-py",
+  "version": "1.0.0",
+  "summary": "Python client library for the Have I Been Pwned API",
+  "author": "HaveIBeenPwned API Client",
+  "license": null,
+  "home_page": "https://github.com/dynacylabs/haveibeenpwned",
+  "download_filename": "haveibeenpwned_py-1.0.0.tar.gz",
+  "download_time": "2025-11-18T17:54:50.625546",
+  "package_url": "https://pypi.org/project/haveibeenpwned-py/"
+}

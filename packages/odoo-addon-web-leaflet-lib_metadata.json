@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-leaflet-lib",
+  "version": "18.0.1.0.3",
+  "summary": "Bring leaflet.js librairy in odoo.",
+  "author": "GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/geospatial",
+  "download_filename": "odoo_addon_web_leaflet_lib-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2025-11-18T17:54:50.105221",
+  "package_url": "https://pypi.org/project/odoo-addon-web-leaflet-lib/"
+}

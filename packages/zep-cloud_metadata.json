@@ -1,11 +1,11 @@
 {
   "name": "zep-cloud",
-  "version": "3.11.0",
+  "version": "3.12.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zep_cloud-3.11.0.tar.gz",
-  "download_time": "2025-11-18T16:55:25.965759",
+  "download_filename": "zep_cloud-3.12.0.tar.gz",
+  "download_time": "2025-11-18T17:54:54.790276",
   "package_url": "https://pypi.org/project/zep-cloud/"
 }

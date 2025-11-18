@@ -1,11 +1,11 @@
 {
   "name": "dsf-quantum-gps-sdk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "SDK oficial en Python para la API de DSF Quantum GPS (Optimization y Amplitude Estimation)",
   "author": "Jaime Alexander Jimenez",
   "license": "Proprietary",
   "home_page": "https://github.com/jaimeajl/dsf-quantum-gps-sdk",
-  "download_filename": "dsf_quantum_gps_sdk-1.1.0.tar.gz",
-  "download_time": "2025-11-18T16:55:21.796362",
+  "download_filename": "dsf_quantum_gps_sdk-1.1.1.tar.gz",
+  "download_time": "2025-11-18T17:54:52.186598",
   "package_url": "https://pypi.org/project/dsf-quantum-gps-sdk/"
 }

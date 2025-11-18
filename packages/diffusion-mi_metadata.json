@@ -1,0 +1,11 @@
+{
+  "name": "diffusion-mi",
+  "version": "0.1.0",
+  "summary": "Diffusion Mutual Information (DMI) estimators and benchmarks",
+  "author": "fengsxy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diffusion_mi-0.1.0.tar.gz",
+  "download_time": "2025-11-18T17:54:48.533756",
+  "package_url": "https://pypi.org/project/diffusion-mi/"
+}

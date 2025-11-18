@@ -1,11 +1,11 @@
 {
   "name": "dragohan-grimoire",
-  "version": "2.0.9",
-  "summary": "💀 AI Automation Grimoire v2.0 - Shadow Monarch Edition with Agent System",
+  "version": "2.2.0",
+  "summary": "💀 AI Automation Grimoire v2.1.0 - PRODUCTION with Fixed Monarch System",
   "author": "DragoHan",
   "license": null,
   "home_page": "https://github.com/farhanistopG1/my_grimoire",
-  "download_filename": "dragohan_grimoire-2.0.9.tar.gz",
-  "download_time": "2025-11-18T15:25:54.949854",
+  "download_filename": "dragohan_grimoire-2.2.0.tar.gz",
+  "download_time": "2025-11-18T17:54:46.357634",
   "package_url": "https://pypi.org/project/dragohan-grimoire/"
 }
