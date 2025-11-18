@@ -1,0 +1,11 @@
+{
+  "name": "digitaleye-msgs",
+  "version": "1.10.0",
+  "summary": "Python ROS Message for the PORTAL system",
+  "author": "Slink Tech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "digitaleye_msgs-1.10.0.tar.gz",
+  "download_time": "2025-11-18T14:22:42.427233",
+  "package_url": "https://pypi.org/project/digitaleye-msgs/"
+}

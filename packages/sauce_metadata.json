@@ -1,0 +1,11 @@
+{
+  "name": "sauce",
+  "version": "1.4",
+  "summary": "SAUCE record parser",
+  "author": "Wijnand Modderman-Lenstra",
+  "license": null,
+  "home_page": "https://github.com/tehmaze/sauce",
+  "download_filename": "sauce-1.4.tar.gz",
+  "download_time": "2025-11-18T14:22:21.473512",
+  "package_url": "https://pypi.org/project/sauce/"
+}

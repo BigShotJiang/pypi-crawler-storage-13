@@ -1,0 +1,11 @@
+{
+  "name": "nti.property",
+  "version": "2.2.2",
+  "summary": "NTI Property",
+  "author": "Jason Madden",
+  "license": "Apache",
+  "home_page": "https://github.com/OpenNTI/nti.property",
+  "download_filename": "nti_property-2.2.2.tar.gz",
+  "download_time": "2025-11-18T14:22:28.636572",
+  "package_url": "https://pypi.org/project/nti.property/"
+}

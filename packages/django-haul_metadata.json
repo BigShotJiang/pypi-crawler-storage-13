@@ -1,0 +1,11 @@
+{
+  "name": "django-haul",
+  "version": "0.1.0",
+  "summary": "Structured object import/export for Django ORM",
+  "author": "Eugene Pankov`",
+  "license": "MIT",
+  "home_page": "https://github.com/elements-storage/haul",
+  "download_filename": "django_haul-0.1.0-py2.py3-none-any.whl",
+  "download_time": "2025-11-18T14:22:50.801763",
+  "package_url": "https://pypi.org/project/django-haul/"
+}

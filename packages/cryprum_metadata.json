@@ -1,0 +1,11 @@
+{
+  "name": "cryprum",
+  "version": "1.0.2",
+  "summary": "cryprum client, for Python 3.",
+  "author": "Cryprum",
+  "license": "MIT",
+  "home_page": "https://cryprum.com",
+  "download_filename": "cryprum-1.0.2.tar.gz",
+  "download_time": "2025-11-18T14:22:22.520570",
+  "package_url": "https://pypi.org/project/cryprum/"
+}

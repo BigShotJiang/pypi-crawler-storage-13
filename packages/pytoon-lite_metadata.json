@@ -1,0 +1,11 @@
+{
+  "name": "pytoon-lite",
+  "version": "0.1.0",
+  "summary": "Lightweight Python encoder/decoder for TOON (Token-Oriented Object Notation)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytoon_lite-0.1.0.tar.gz",
+  "download_time": "2025-11-18T14:22:41.905687",
+  "package_url": "https://pypi.org/project/pytoon-lite/"
+}

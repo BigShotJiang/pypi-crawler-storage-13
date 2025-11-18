@@ -1,0 +1,11 @@
+{
+  "name": "tri3d",
+  "version": "0.2.2",
+  "summary": "A unified interface to various 3D driving datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tri3d-0.2.2.tar.gz",
+  "download_time": "2025-11-18T14:22:30.798799",
+  "package_url": "https://pypi.org/project/tri3d/"
+}

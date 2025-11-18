@@ -1,0 +1,11 @@
+{
+  "name": "getnative",
+  "version": "3.3.0",
+  "summary": "Find the native resolution(s) of upscaled material (mostly anime)",
+  "author": "Infi, Kageru",
+  "license": null,
+  "home_page": "https://github.com/Infiziert90/getnative",
+  "download_filename": "getnative-3.3.0.tar.gz",
+  "download_time": "2025-11-18T14:22:32.360681",
+  "package_url": "https://pypi.org/project/getnative/"
+}

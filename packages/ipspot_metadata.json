@@ -1,0 +1,11 @@
+{
+  "name": "ipspot",
+  "version": "0.6",
+  "summary": "IPSpot: A Python Tool to Fetch the System's IP Address",
+  "author": "IPSpot Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openscilab/ipspot",
+  "download_filename": "ipspot-0.6.tar.gz",
+  "download_time": "2025-11-18T14:22:19.383739",
+  "package_url": "https://pypi.org/project/ipspot/"
+}
