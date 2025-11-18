@@ -1,0 +1,11 @@
+{
+  "name": "agora-python-server-sdk",
+  "version": "2.4.0",
+  "summary": "A Python SDK for Agora Server",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/AgoraIO-Extensions/Agora-Python-Server-SDK",
+  "download_filename": "agora_python_server_sdk-2.4.0.tar.gz",
+  "download_time": "2025-11-18T09:45:06.681984",
+  "package_url": "https://pypi.org/project/agora-python-server-sdk/"
+}

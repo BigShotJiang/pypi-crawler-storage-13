@@ -1,0 +1,11 @@
+{
+  "name": "devduck",
+  "version": "0.7.0",
+  "summary": "🦆 Extreme minimalist self-adapting AI agent - one file, self-healing, runtime dependencies",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "devduck-0.7.0.tar.gz",
+  "download_time": "2025-11-18T09:45:08.231180",
+  "package_url": "https://pypi.org/project/devduck/"
+}

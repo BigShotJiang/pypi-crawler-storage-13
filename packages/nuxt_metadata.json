@@ -1,0 +1,11 @@
+{
+  "name": "nuxt",
+  "version": "0.2.12",
+  "summary": "A integration framework for build web app.",
+  "author": "arvin",
+  "license": "MIT",
+  "home_page": "https://github.com/Arvintian/nuxt",
+  "download_filename": "nuxt-0.2.12.tar.gz",
+  "download_time": "2025-11-18T09:45:18.535042",
+  "package_url": "https://pypi.org/project/nuxt/"
+}

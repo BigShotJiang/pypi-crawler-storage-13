@@ -1,0 +1,11 @@
+{
+  "name": "ovsdbapp",
+  "version": "2.14.0",
+  "summary": "A library for creating OVSDB applications",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://pypi.org/project/ovsdbapp/",
+  "download_filename": "ovsdbapp-2.14.0.tar.gz",
+  "download_time": "2025-11-18T09:44:46.430454",
+  "package_url": "https://pypi.org/project/ovsdbapp/"
+}

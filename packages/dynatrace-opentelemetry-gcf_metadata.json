@@ -1,0 +1,11 @@
+{
+  "name": "dynatrace-opentelemetry-gcf",
+  "version": "1.327.3",
+  "summary": "Dynatrace OpenTelemetry package for Google Cloud Functions",
+  "author": "Dynatrace",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynatrace_opentelemetry_gcf-1.327.3-py3-none-any.whl",
+  "download_time": "2025-11-18T09:44:52.199336",
+  "package_url": "https://pypi.org/project/dynatrace-opentelemetry-gcf/"
+}
