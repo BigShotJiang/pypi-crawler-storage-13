@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.iac-mcp-server",
+  "version": "0.0.0",
+  "summary": "An AWS Model Context Protocol (MCP) server",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_iac_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-11-18T18:58:51.129126",
+  "package_url": "https://pypi.org/project/awslabs.iac-mcp-server/"
+}

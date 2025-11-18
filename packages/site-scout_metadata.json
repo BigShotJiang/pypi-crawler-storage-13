@@ -1,0 +1,11 @@
+{
+  "name": "site-scout",
+  "version": "5.4.0",
+  "summary": "A tool to identify and report browser issues triggered by visiting a list of URLs.",
+  "author": "Tyson Smith",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/MozillaSecurity/site-scout",
+  "download_filename": "site_scout-5.4.0.tar.gz",
+  "download_time": "2025-11-18T18:58:57.994767",
+  "package_url": "https://pypi.org/project/site-scout/"
+}

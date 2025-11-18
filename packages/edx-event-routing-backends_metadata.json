@@ -1,0 +1,11 @@
+{
+  "name": "edx-event-routing-backends",
+  "version": "9.3.8",
+  "summary": "Various backends for receiving edX LMS events.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/event-routing-backends",
+  "download_filename": "edx_event_routing_backends-9.3.8.tar.gz",
+  "download_time": "2025-11-18T18:58:43.764753",
+  "package_url": "https://pypi.org/project/edx-event-routing-backends/"
+}

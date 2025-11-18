@@ -1,0 +1,11 @@
+{
+  "name": "OpenCtrl",
+  "version": "1.0.16",
+  "summary": "A library for Optimal Control and System Dynamics",
+  "author": "Shoham Roy",
+  "license": null,
+  "home_page": "https://github.com/shoham-roy31/OpenCtrl",
+  "download_filename": "openctrl-1.0.16.tar.gz",
+  "download_time": "2025-11-18T18:58:29.508642",
+  "package_url": "https://pypi.org/project/OpenCtrl/"
+}

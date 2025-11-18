@@ -1,0 +1,11 @@
+{
+  "name": "sync-with-uv",
+  "version": "0.5.0",
+  "summary": "Sync '.pre-commit-config.yaml' from 'uv.lock'.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sync_with_uv-0.5.0.tar.gz",
+  "download_time": "2025-11-18T18:58:27.849988",
+  "package_url": "https://pypi.org/project/sync-with-uv/"
+}

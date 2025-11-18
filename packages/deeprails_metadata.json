@@ -1,0 +1,11 @@
+{
+  "name": "deeprails",
+  "version": "1.16.0",
+  "summary": "The official Python library for the deeprails API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deeprails-1.16.0.tar.gz",
+  "download_time": "2025-11-18T18:58:53.381438",
+  "package_url": "https://pypi.org/project/deeprails/"
+}
