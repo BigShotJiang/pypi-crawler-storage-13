@@ -1,0 +1,11 @@
+{
+  "name": "aoai_api_wrapper",
+  "version": "0.1.0",
+  "summary": "Simple chat.completion executor for Azure OpenAI with profiling support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aoai_api_wrapper-0.1.0.tar.gz",
+  "download_time": "2025-11-18T08:53:10.399678",
+  "package_url": "https://pypi.org/project/aoai_api_wrapper/"
+}

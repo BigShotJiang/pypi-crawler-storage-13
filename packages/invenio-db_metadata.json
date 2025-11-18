@@ -1,0 +1,11 @@
+{
+  "name": "invenio-db",
+  "version": "2.1.2",
+  "summary": "Database management for Invenio.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-db",
+  "download_filename": "invenio_db-2.1.2.tar.gz",
+  "download_time": "2025-11-18T08:53:17.171175",
+  "package_url": "https://pypi.org/project/invenio-db/"
+}

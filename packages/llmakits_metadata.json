@@ -1,0 +1,11 @@
+{
+  "name": "llmakits",
+  "version": "0.6.22",
+  "summary": "A powerful Python toolkit for simplifying LLM integration and management with multi-model scheduling, fault tolerance, and load balancing support",
+  "author": "tinycen",
+  "license": null,
+  "home_page": "https://github.com/tinycen/llmakits",
+  "download_filename": "llmakits-0.6.22.tar.gz",
+  "download_time": "2025-11-18T08:53:26.418764",
+  "package_url": "https://pypi.org/project/llmakits/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cegalprizm-hub",
+  "version": "1.2.4",
+  "summary": "A Python package to interact with a Cegal Hub Server and Cegal Hub Connectors",
+  "author": "Cegal Prizm Team",
+  "license": null,
+  "home_page": "https://docs.prizm.cegal-geo.com/",
+  "download_filename": "cegalprizm_hub-1.2.4-py3-none-any.whl",
+  "download_time": "2025-11-18T08:53:15.595883",
+  "package_url": "https://pypi.org/project/cegalprizm-hub/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bluepyll",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "A Python library designed to control BlueStacks through ADB commands, enabling seamless automation and management of Android applications on a PC.",
   "author": "IAmNo1Special",
   "license": null,
   "home_page": null,
-  "download_filename": "bluepyll-0.1.14.tar.gz",
-  "download_time": "2025-11-18T07:24:24.373749",
+  "download_filename": "bluepyll-0.1.15.tar.gz",
+  "download_time": "2025-11-18T08:53:02.039502",
   "package_url": "https://pypi.org/project/bluepyll/"
 }

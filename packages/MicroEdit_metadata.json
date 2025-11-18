@@ -1,0 +1,11 @@
+{
+  "name": "MicroEdit",
+  "version": "1.1.2",
+  "summary": "A non-interactive file editor",
+  "author": "Kokonico",
+  "license": "Zlib",
+  "home_page": null,
+  "download_filename": "microedit-1.1.2.tar.gz",
+  "download_time": "2025-11-18T08:53:06.255720",
+  "package_url": "https://pypi.org/project/MicroEdit/"
+}

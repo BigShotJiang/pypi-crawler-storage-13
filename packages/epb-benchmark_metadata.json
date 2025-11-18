@@ -1,0 +1,11 @@
+{
+  "name": "epb-benchmark",
+  "version": "1.0.0",
+  "summary": "Epistemic Pathology Benchmark - The MLPerf of AI Truth Systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epb_benchmark-1.0.0.tar.gz",
+  "download_time": "2025-11-18T08:53:08.851930",
+  "package_url": "https://pypi.org/project/epb-benchmark/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-enumerateiam",
+  "version": "1.0.0",
+  "summary": "Enumerate the permissions associated with AWS credential set",
+  "author": "andresrianch",
+  "license": "MIT LICENSE",
+  "home_page": "https://github.com/andresrianch/enumerate-iam",
+  "download_filename": "aws_enumerateiam-1.0.0.tar.gz",
+  "download_time": "2025-11-18T08:53:45.602019",
+  "package_url": "https://pypi.org/project/aws-enumerateiam/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "influxio",
+  "version": "0.6.1",
+  "summary": "Import and export data into/from InfluxDB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "influxio-0.6.1.tar.gz",
+  "download_time": "2025-11-18T08:53:13.017118",
+  "package_url": "https://pypi.org/project/influxio/"
+}

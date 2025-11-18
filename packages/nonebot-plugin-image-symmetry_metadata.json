@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-image-symmetry",
+  "version": "0.2.1",
+  "summary": "NoneBot 图像对称处理插件，提供图片上下左右四个方向的对称变换功能",
+  "author": "GT610",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GT-610/nonebot-plugin-image-symmetry",
+  "download_filename": "nonebot_plugin_image_symmetry-0.2.1.tar.gz",
+  "download_time": "2025-11-18T08:53:25.904638",
+  "package_url": "https://pypi.org/project/nonebot-plugin-image-symmetry/"
+}

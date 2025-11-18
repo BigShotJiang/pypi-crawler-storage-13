@@ -1,0 +1,11 @@
+{
+  "name": "vyte",
+  "version": "2.0.5",
+  "summary": "Professional API project generator for Python - Flask, FastAPI, Django-Rest",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vyte-2.0.5.tar.gz",
+  "download_time": "2025-11-18T08:53:22.315816",
+  "package_url": "https://pypi.org/project/vyte/"
+}
