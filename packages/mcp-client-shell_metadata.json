@@ -1,0 +1,11 @@
+{
+  "name": "mcp-client-shell",
+  "version": "0.2",
+  "summary": "A local MCP client for testing FastMCP servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_client_shell-0.2.tar.gz",
+  "download_time": "2025-11-18T22:54:53.111290",
+  "package_url": "https://pypi.org/project/mcp-client-shell/"
+}

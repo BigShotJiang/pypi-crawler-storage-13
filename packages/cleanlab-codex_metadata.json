@@ -1,0 +1,11 @@
+{
+  "name": "cleanlab-codex",
+  "version": "1.0.34",
+  "summary": "Python client library for developers to integrate Cleanlab Codex into RAG systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cleanlab_codex-1.0.34.tar.gz",
+  "download_time": "2025-11-18T22:55:06.748130",
+  "package_url": "https://pypi.org/project/cleanlab-codex/"
+}

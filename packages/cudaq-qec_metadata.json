@@ -1,0 +1,11 @@
+{
+  "name": "cudaq-qec",
+  "version": "0.5.0",
+  "summary": "Accelerated libraries for Quantum Error Correction built on CUDA-Q",
+  "author": "NVIDIA Corporation & Affiliates",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cudaq_qec-0.5.0.tar.gz",
+  "download_time": "2025-11-18T22:54:48.302358",
+  "package_url": "https://pypi.org/project/cudaq-qec/"
+}

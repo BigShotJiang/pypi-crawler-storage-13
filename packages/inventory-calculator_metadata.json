@@ -1,0 +1,11 @@
+{
+  "name": "inventory-calculator",
+  "version": "1.0.0",
+  "summary": "A simple Python library for inventory stock calculations",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/inventory-calculator",
+  "download_filename": "inventory_calculator-1.0.0.tar.gz",
+  "download_time": "2025-11-18T22:54:46.017758",
+  "package_url": "https://pypi.org/project/inventory-calculator/"
+}

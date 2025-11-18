@@ -1,0 +1,11 @@
+{
+  "name": "grypereport",
+  "version": "0.0.17",
+  "summary": "Grype vulnerability scanner report builder and CSV exporter.",
+  "author": "Alex Marienko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grypereport-0.0.17.tar.gz",
+  "download_time": "2025-11-18T22:54:39.623043",
+  "package_url": "https://pypi.org/project/grypereport/"
+}

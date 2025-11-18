@@ -1,0 +1,11 @@
+{
+  "name": "cudaq-solvers",
+  "version": "0.5.0",
+  "summary": "Accelerated libraries for Quantum Error Correction built on CUDA-Q",
+  "author": "NVIDIA Corporation & Affiliates",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cudaq_solvers-0.5.0.tar.gz",
+  "download_time": "2025-11-18T22:54:56.801975",
+  "package_url": "https://pypi.org/project/cudaq-solvers/"
+}

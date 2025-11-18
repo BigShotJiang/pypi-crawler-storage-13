@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-AdSel",
+  "version": "3.5.5",
+  "summary": "A library for connecting to the AdSel API at the University of Washington",
+  "author": "UW-IT AXDD",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-adsel",
+  "download_filename": "uw_restclients_adsel-3.5.5.tar.gz",
+  "download_time": "2025-11-18T22:55:00.881621",
+  "package_url": "https://pypi.org/project/UW-RestClients-AdSel/"
+}
