@@ -1,0 +1,11 @@
+{
+  "name": "abstract-gui",
+  "version": "0.1.63.220",
+  "summary": "abstract_gui provides reusable components, factories, utilities for logging, threading, state management, and more, making it easier to build responsive, feature-rich interfaces without boilerplate code.",
+  "author": "putkoff",
+  "license": null,
+  "home_page": "https://github.com/AbstractEndeavors/abstract_gui",
+  "download_filename": "abstract_gui-0.1.63.220.tar.gz",
+  "download_time": "2025-11-18T10:28:00.724928",
+  "package_url": "https://pypi.org/project/abstract-gui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opik",
+  "version": "1.9.16",
+  "summary": "Comet tool for logging and evaluating LLM traces",
+  "author": "Comet ML Inc.",
+  "license": "Apache 2.0 License",
+  "home_page": "https://www.comet.com",
+  "download_filename": "opik-1.9.16.tar.gz",
+  "download_time": "2025-11-18T10:27:58.635555",
+  "package_url": "https://pypi.org/project/opik/"
+}

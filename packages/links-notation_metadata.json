@@ -1,0 +1,11 @@
+{
+  "name": "links-notation",
+  "version": "0.12.0",
+  "summary": "Python implementation of the Links Notation parser",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "links_notation-0.12.0.tar.gz",
+  "download_time": "2025-11-18T10:28:11.737667",
+  "package_url": "https://pypi.org/project/links-notation/"
+}

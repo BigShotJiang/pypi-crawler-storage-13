@@ -1,0 +1,11 @@
+{
+  "name": "smooth-transcriber",
+  "version": "0.2.0",
+  "summary": "Async streaming speech-to-text helper built on Google Cloud Speech",
+  "author": "Trans Project",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smooth_transcriber-0.2.0.tar.gz",
+  "download_time": "2025-11-18T10:28:16.428602",
+  "package_url": "https://pypi.org/project/smooth-transcriber/"
+}

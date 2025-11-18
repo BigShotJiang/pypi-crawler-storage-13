@@ -1,0 +1,11 @@
+{
+  "name": "devnarrate",
+  "version": "0.1.0a3",
+  "summary": "MCP server that narrates your code changes, from commits to deployments.",
+  "author": "K Man",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devnarrate-0.1.0a3.tar.gz",
+  "download_time": "2025-11-18T10:28:05.968938",
+  "package_url": "https://pypi.org/project/devnarrate/"
+}

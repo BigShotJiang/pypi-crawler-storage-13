@@ -1,0 +1,11 @@
+{
+  "name": "opticalib",
+  "version": "1.0.0",
+  "summary": "This package is a python interface for laboratory adaptive optics systems, with a focus on the calibration of deformable mirrors (DMs) and the acquisition of wavefront data using interferometers.",
+  "author": "Adaptive Optics Group - INAF - Osservatorio Astrofisico di Arcetri",
+  "license": "MIT License",
+  "home_page": "https://github.com/pietroferraiuolo/LABOTT",
+  "download_filename": "opticalib-1.0.0.tar.gz",
+  "download_time": "2025-11-18T10:28:03.874834",
+  "package_url": "https://pypi.org/project/opticalib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nb-path",
+  "version": "2.4",
+  "summary": "A Python path library that gives filesystem operations superpowers",
+  "author": "ydf0509",
+  "license": null,
+  "home_page": "https://github.com/ydf0509/nb_path",
+  "download_filename": "nb_path-2.4.tar.gz",
+  "download_time": "2025-11-18T10:28:05.450082",
+  "package_url": "https://pypi.org/project/nb-path/"
+}
