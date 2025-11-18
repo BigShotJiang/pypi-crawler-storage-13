@@ -1,11 +1,11 @@
 {
   "name": "payme-pkg",
-  "version": "3.2.6",
+  "version": "3.0.29",
   "summary": null,
   "author": "Muhammadali Akbarov",
   "license": "MIT",
   "home_page": "https://github.com/Muhammadali-Akbarov/payme-pkg",
-  "download_filename": "payme_pkg-3.2.6.tar.gz",
-  "download_time": "2025-11-17T19:17:19.338586",
+  "download_filename": "payme_pkg-3.0.29.tar.gz",
+  "download_time": "2025-11-18T03:52:11.538361",
   "package_url": "https://pypi.org/project/payme-pkg/"
 }

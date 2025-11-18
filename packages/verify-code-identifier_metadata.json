@@ -1,0 +1,11 @@
+{
+  "name": "verify-code-identifier",
+  "version": "0.1.0",
+  "summary": "基于ddddocr的验证码识别工具库",
+  "author": "kujq",
+  "license": null,
+  "home_page": null,
+  "download_filename": "verify_code_identifier-0.1.0.tar.gz",
+  "download_time": "2025-11-18T03:52:42.810431",
+  "package_url": "https://pypi.org/project/verify-code-identifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PyEasyUtils",
+  "version": "0.3.6",
+  "summary": "A simple python util library",
+  "author": "Spr_Aachen",
+  "license": "MIT",
+  "home_page": "https://github.com/Spr-Aachen/PyEasyUtils",
+  "download_filename": "pyeasyutils-0.3.6.tar.gz",
+  "download_time": "2025-11-18T03:52:32.581281",
+  "package_url": "https://pypi.org/project/PyEasyUtils/"
+}

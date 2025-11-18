@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-intrastat-statement",
+  "version": "18.0.1.0.0.2",
+  "summary": "Dichiarazione Intrastat per l'Agenzia delle Dogane",
+  "author": "Openforce, Link IT srl, Agile Business Group, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_intrastat_statement-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-18T03:52:40.749399",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-intrastat-statement/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "strands-fun-tools",
+  "version": "0.1.1",
+  "summary": "Creative and utility tools for Strands AI agents - interactive experiences",
+  "author": "Cagatay Cali",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cagataycali/strands-fun-tools",
+  "download_filename": "strands_fun_tools-0.1.1.tar.gz",
+  "download_time": "2025-11-18T03:52:27.927376",
+  "package_url": "https://pypi.org/project/strands-fun-tools/"
+}

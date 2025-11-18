@@ -1,11 +1,11 @@
 {
   "name": "syncline-mcp-server",
-  "version": "1.0.21",
+  "version": "1.0.29",
   "summary": "Model Context Protocol server for Syncline - AI-powered meeting scheduling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "syncline_mcp_server-1.0.21.tar.gz",
-  "download_time": "2025-11-17T23:20:12.880442",
+  "download_filename": "syncline_mcp_server-1.0.29.tar.gz",
+  "download_time": "2025-11-18T03:52:07.666634",
   "package_url": "https://pypi.org/project/syncline-mcp-server/"
 }

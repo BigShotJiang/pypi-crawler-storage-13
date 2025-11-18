@@ -1,11 +1,11 @@
 {
   "name": "textual-totp",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "TOTP (authenticator) application using Python & Textual",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "textual_totp-0.9.5.tar.gz",
-  "download_time": "2025-11-18T03:04:21.201242",
+  "download_filename": "textual_totp-0.9.6.tar.gz",
+  "download_time": "2025-11-18T03:52:42.297969",
   "package_url": "https://pypi.org/project/textual-totp/"
 }

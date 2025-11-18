@@ -1,0 +1,11 @@
+{
+  "name": "qiniu-mcp-server",
+  "version": "1.3.0",
+  "summary": "A MCP server project of Qiniu.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qiniu_mcp_server-1.3.0.tar.gz",
+  "download_time": "2025-11-18T03:52:30.639058",
+  "package_url": "https://pypi.org/project/qiniu-mcp-server/"
+}

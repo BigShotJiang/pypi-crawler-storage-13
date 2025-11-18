@@ -1,11 +1,11 @@
 {
   "name": "imgrs",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A modern, high-performance image processing library for Python, powered by Rust.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "imgrs-0.2.6-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-11-17T19:52:14.690254",
+  "download_filename": "imgrs-0.2.7-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-18T03:52:36.945083",
   "package_url": "https://pypi.org/project/imgrs/"
 }

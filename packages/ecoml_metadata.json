@@ -1,0 +1,11 @@
+{
+  "name": "ecoml",
+  "version": "0.1.3",
+  "summary": "Real-time GPU, CPU, and CO₂ tracking with pill UI for Jupyter notebooks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecoml-0.1.3.tar.gz",
+  "download_time": "2025-11-18T03:52:48.635903",
+  "package_url": "https://pypi.org/project/ecoml/"
+}

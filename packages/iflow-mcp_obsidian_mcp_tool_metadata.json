@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_obsidian_mcp_tool",
+  "version": "1.0.0",
+  "summary": "An MCP server exposing tools to interact with an Obsidian vault.",
+  "author": "Rwb3n / Gemini 2.5 pro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_obsidian_mcp_tool-1.0.0.tar.gz",
+  "download_time": "2025-11-18T03:52:24.769471",
+  "package_url": "https://pypi.org/project/iflow-mcp_obsidian_mcp_tool/"
+}
