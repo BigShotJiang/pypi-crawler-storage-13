@@ -1,0 +1,11 @@
+{
+  "name": "cubicweb-prometheus",
+  "version": "0.7.1",
+  "summary": "Exporting prometheus metrics",
+  "author": "LOGILAB S.A. (Paris, FRANCE)",
+  "license": "LGPL",
+  "home_page": "https://forge.extranet.logilab.fr/cubicweb/cubes/prometheus",
+  "download_filename": "cubicweb_prometheus-0.7.1.tar.gz",
+  "download_time": "2025-11-18T11:20:47.738237",
+  "package_url": "https://pypi.org/project/cubicweb-prometheus/"
+}

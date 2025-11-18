@@ -1,11 +1,11 @@
 {
   "name": "rlang-compiler",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Deterministic RLang compiler with cryptographic proof generation for BoR (Blockchain of Reasoning)",
   "author": "Kushagra Bhatnagar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rlang_compiler-0.2.4.tar.gz",
-  "download_time": "2025-11-18T04:27:10.659352",
+  "download_filename": "rlang_compiler-0.2.5.tar.gz",
+  "download_time": "2025-11-18T11:20:40.325480",
   "package_url": "https://pypi.org/project/rlang-compiler/"
 }

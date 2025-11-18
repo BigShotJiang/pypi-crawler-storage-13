@@ -1,0 +1,11 @@
+{
+  "name": "phringe",
+  "version": "1.5.5",
+  "summary": "PHRINGE",
+  "author": "Philipp A. Huber",
+  "license": "MIT",
+  "home_page": "https://github.com/pahuber/phringe",
+  "download_filename": "phringe-1.5.5.tar.gz",
+  "download_time": "2025-11-18T11:20:55.022870",
+  "package_url": "https://pypi.org/project/phringe/"
+}
