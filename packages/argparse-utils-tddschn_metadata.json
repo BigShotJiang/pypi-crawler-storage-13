@@ -1,0 +1,11 @@
+{
+  "name": "argparse-utils-tddschn",
+  "version": "0.2.0",
+  "summary": "A utility library to dynamically remove and rename arguments from argparse.ArgumentParser objects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argparse_utils_tddschn-0.2.0.tar.gz",
+  "download_time": "2025-11-18T16:55:38.308639",
+  "package_url": "https://pypi.org/project/argparse-utils-tddschn/"
+}

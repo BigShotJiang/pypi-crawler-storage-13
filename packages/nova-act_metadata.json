@@ -1,0 +1,11 @@
+{
+  "name": "nova-act",
+  "version": "2.3.18.0",
+  "summary": "A Python SDK for Amazon Nova Act.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nova_act-2.3.18.0-py3-none-any.whl",
+  "download_time": "2025-11-18T16:55:47.037326",
+  "package_url": "https://pypi.org/project/nova-act/"
+}

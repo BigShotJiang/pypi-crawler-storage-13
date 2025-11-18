@@ -1,0 +1,11 @@
+{
+  "name": "crossbow-agent",
+  "version": "2.0.2",
+  "summary": "World's first fully autonomous AI security engineer",
+  "author": "Crossbow Security",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crossbow_agent-2.0.2.tar.gz",
+  "download_time": "2025-11-18T16:55:07.273626",
+  "package_url": "https://pypi.org/project/crossbow-agent/"
+}

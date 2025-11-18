@@ -1,0 +1,11 @@
+{
+  "name": "rebop",
+  "version": "0.9.6",
+  "summary": "A fast stochastic simulator for chemical reaction networks",
+  "author": null,
+  "license": null,
+  "home_page": "https://armavica.github.io/rebop/",
+  "download_filename": "rebop-0.9.6.tar.gz",
+  "download_time": "2025-11-18T16:55:52.793083",
+  "package_url": "https://pypi.org/project/rebop/"
+}

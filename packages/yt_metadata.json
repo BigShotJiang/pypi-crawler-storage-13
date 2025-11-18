@@ -1,0 +1,11 @@
+{
+  "name": "yt",
+  "version": "4.4.2",
+  "summary": "An analysis and visualization toolkit for volumetric data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt-4.4.2.tar.gz",
+  "download_time": "2025-11-18T16:55:23.899389",
+  "package_url": "https://pypi.org/project/yt/"
+}
