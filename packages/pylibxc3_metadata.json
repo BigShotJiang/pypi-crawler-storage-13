@@ -1,0 +1,11 @@
+{
+  "name": "pylibxc3",
+  "version": "7.0.0",
+  "summary": "PyLibxc is a python-bound C library of exchange and correlation functionals for density-functional (DFT) theory.",
+  "author": "LibXC Authors",
+  "license": "MPL",
+  "home_page": "https://gitlab.com/libxc/libxc",
+  "download_filename": "pylibxc3-7.0.0.tar.gz",
+  "download_time": "2025-11-18T06:32:55.368725",
+  "package_url": "https://pypi.org/project/pylibxc3/"
+}

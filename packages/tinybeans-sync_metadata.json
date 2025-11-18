@@ -1,0 +1,11 @@
+{
+  "name": "tinybeans-sync",
+  "version": "0.1",
+  "summary": "Download original quality images from Tinybeans photo journals",
+  "author": "Wyatt Brege",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinybeans_sync-0.1.tar.gz",
+  "download_time": "2025-11-18T06:32:57.983062",
+  "package_url": "https://pypi.org/project/tinybeans-sync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-ai-oca-bridge-fieldservice",
+  "version": "16.0.2.0.0",
+  "summary": "Integrate AI Bridge with Field Service",
+  "author": "Escodoo,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/ai",
+  "download_filename": "odoo_addon_ai_oca_bridge_fieldservice-16.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-18T06:32:52.774158",
+  "package_url": "https://pypi.org/project/odoo-addon-ai-oca-bridge-fieldservice/"
+}

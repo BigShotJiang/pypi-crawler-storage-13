@@ -1,0 +1,11 @@
+{
+  "name": "newspaper4k",
+  "version": "0.9.4.1",
+  "summary": "Simplified python article discovery & extraction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "newspaper4k-0.9.4.1.tar.gz",
+  "download_time": "2025-11-18T06:33:07.908848",
+  "package_url": "https://pypi.org/project/newspaper4k/"
+}

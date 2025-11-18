@@ -1,0 +1,11 @@
+{
+  "name": "biocodelib",
+  "version": "0.1.0",
+  "summary": "A unified Python library for converting biometric images to secure codes using classical algorithms",
+  "author": "Nima jzzz",
+  "license": "MIT",
+  "home_page": "https://github.com/nimajz/BiocodeLib",
+  "download_filename": "biocodelib-0.1.0.tar.gz",
+  "download_time": "2025-11-18T06:33:06.827928",
+  "package_url": "https://pypi.org/project/biocodelib/"
+}

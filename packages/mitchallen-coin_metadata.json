@@ -1,11 +1,11 @@
 {
   "name": "mitchallen-coin",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A simple coin flip random number generator",
   "author": "Mitch Allen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mitchallen_coin-0.1.6.tar.gz",
-  "download_time": "2025-11-18T05:43:20.593289",
+  "download_filename": "mitchallen_coin-0.1.7.tar.gz",
+  "download_time": "2025-11-18T06:32:59.543272",
   "package_url": "https://pypi.org/project/mitchallen-coin/"
 }

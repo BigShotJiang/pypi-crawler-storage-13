@@ -1,0 +1,11 @@
+{
+  "name": "dedup-pg",
+  "version": "0.4.1",
+  "summary": "Postgres indexing utilities to implement high-throughput queries with on-the-fly deduplication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dedup_pg-0.4.1.tar.gz",
+  "download_time": "2025-11-18T06:33:02.661858",
+  "package_url": "https://pypi.org/project/dedup-pg/"
+}

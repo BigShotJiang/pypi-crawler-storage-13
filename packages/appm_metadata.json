@@ -1,11 +1,11 @@
 {
   "name": "appm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "APPN Phenomate Project Manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "appm-0.1.0.tar.gz",
-  "download_time": "2025-11-18T04:26:49.456528",
+  "download_filename": "appm-0.1.1.tar.gz",
+  "download_time": "2025-11-18T06:33:19.989649",
   "package_url": "https://pypi.org/project/appm/"
 }
