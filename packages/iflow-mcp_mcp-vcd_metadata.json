@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-vcd",
+  "version": "0.1.1",
+  "summary": "A model context protocol (MCP) server for value change dump (VCD) waveforms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_vcd-0.1.1.tar.gz",
+  "download_time": "2025-11-18T04:26:53.924379",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-vcd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_meilisearch-mcp",
+  "version": "0.6.0",
+  "summary": "MCP server for Meilisearch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_meilisearch_mcp-0.6.0.tar.gz",
+  "download_time": "2025-11-18T04:27:25.160705",
+  "package_url": "https://pypi.org/project/iflow-mcp_meilisearch-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airgap-transfer",
+  "version": "0.1.0",
+  "summary": "Bi-directional file transfer tools for air-gapped and isolated environments",
+  "author": "airgap-transfer contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airgap_transfer-0.1.0.tar.gz",
+  "download_time": "2025-11-18T04:27:11.300261",
+  "package_url": "https://pypi.org/project/airgap-transfer/"
+}

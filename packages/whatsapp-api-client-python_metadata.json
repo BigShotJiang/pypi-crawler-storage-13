@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-api-client-python",
+  "version": "0.0.53",
+  "summary": "This library helps you easily create a Python application with WhatsApp API.",
+  "author": "GREEN API",
+  "license": "Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+  "home_page": "https://github.com/green-api/whatsapp-api-client-python",
+  "download_filename": "whatsapp_api_client_python-0.0.53.tar.gz",
+  "download_time": "2025-11-18T04:26:55.314669",
+  "package_url": "https://pypi.org/project/whatsapp-api-client-python/"
+}

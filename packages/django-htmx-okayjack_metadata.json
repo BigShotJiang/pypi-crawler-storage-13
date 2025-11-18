@@ -1,0 +1,11 @@
+{
+  "name": "django-htmx-okayjack",
+  "version": "3.0",
+  "summary": "Tell htmx what to do with success (200) and error (4xx) responses for a request by using new ``hx-*`` attributes.",
+  "author": "Ben Michie",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/benopotamus/django-htmx-okayjack",
+  "download_filename": "django_htmx_okayjack-3.0.tar.gz",
+  "download_time": "2025-11-18T04:27:02.317665",
+  "package_url": "https://pypi.org/project/django-htmx-okayjack/"
+}

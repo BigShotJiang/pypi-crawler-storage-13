@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-res-company-mastodon-link",
+  "version": "18.0.1.0.0.5",
+  "summary": "Add mastodon url at company model",
+  "author": "GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_res_company_mastodon_link-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-11-18T04:26:56.551165",
+  "package_url": "https://pypi.org/project/odoo-addon-res-company-mastodon-link/"
+}

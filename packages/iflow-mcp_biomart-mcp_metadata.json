@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_biomart-mcp",
+  "version": "0.1.0",
+  "summary": "A MCP server for Biomart",
+  "author": "John Zinno",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_biomart_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-18T04:27:21.753969",
+  "package_url": "https://pypi.org/project/iflow-mcp_biomart-mcp/"
+}

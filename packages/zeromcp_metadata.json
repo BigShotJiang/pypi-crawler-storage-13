@@ -1,11 +1,11 @@
 {
   "name": "zeromcp",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Zero-dependency MCP server implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zeromcp-1.1.0.tar.gz",
-  "download_time": "2025-11-18T01:43:15.723815",
+  "download_filename": "zeromcp-1.2.0.tar.gz",
+  "download_time": "2025-11-18T04:27:04.911428",
   "package_url": "https://pypi.org/project/zeromcp/"
 }
