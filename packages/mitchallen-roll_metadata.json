@@ -1,11 +1,11 @@
 {
   "name": "mitchallen-roll",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "summary": "A dice rolling random number generator",
   "author": "Mitch Allen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mitchallen_roll-1.0.1.tar.gz",
-  "download_time": "2025-11-18T20:27:16.025241",
+  "download_filename": "mitchallen_roll-1.0.9.tar.gz",
+  "download_time": "2025-11-18T23:52:16.760498",
   "package_url": "https://pypi.org/project/mitchallen-roll/"
 }

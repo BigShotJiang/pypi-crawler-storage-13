@@ -1,0 +1,11 @@
+{
+  "name": "owasp-schema",
+  "version": "0.1.42",
+  "summary": "A collection of OWASP schemas",
+  "author": "Arkadii Yakovets",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "owasp_schema-0.1.42.tar.gz",
+  "download_time": "2025-11-18T23:52:24.884105",
+  "package_url": "https://pypi.org/project/owasp-schema/"
+}

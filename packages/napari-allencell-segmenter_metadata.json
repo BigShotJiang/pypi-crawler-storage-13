@@ -1,0 +1,11 @@
+{
+  "name": "napari-allencell-segmenter",
+  "version": "2.1.13",
+  "summary": "A plugin that enables 3D image segmentation provided by Allen Institute for Cell Science",
+  "author": "Allen Institute for Cell Science",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "napari_allencell_segmenter-2.1.13.tar.gz",
+  "download_time": "2025-11-18T23:52:11.705318",
+  "package_url": "https://pypi.org/project/napari-allencell-segmenter/"
+}
