@@ -1,0 +1,11 @@
+{
+  "name": "kaist-or-gym",
+  "version": "0.1.6",
+  "summary": "Custom Gym/Gymnasium environments for operations research problems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaist_or_gym-0.1.6.tar.gz",
+  "download_time": "2025-11-18T09:25:23.934621",
+  "package_url": "https://pypi.org/project/kaist-or-gym/"
+}

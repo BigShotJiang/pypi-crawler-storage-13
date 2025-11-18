@@ -1,0 +1,11 @@
+{
+  "name": "moveshelf-api",
+  "version": "1.6.0",
+  "summary": "Public package including the Python API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moveshelf_api-1.6.0.tar.gz",
+  "download_time": "2025-11-18T09:25:23.425011",
+  "package_url": "https://pypi.org/project/moveshelf-api/"
+}

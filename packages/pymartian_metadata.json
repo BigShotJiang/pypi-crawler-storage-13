@@ -1,0 +1,11 @@
+{
+  "name": "pymartian",
+  "version": "1.0.0",
+  "summary": "Convert Markdown to Notion API Blocks and RichText",
+  "author": "Martian Python Port",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymartian-1.0.0.tar.gz",
+  "download_time": "2025-11-18T09:25:34.311520",
+  "package_url": "https://pypi.org/project/pymartian/"
+}
