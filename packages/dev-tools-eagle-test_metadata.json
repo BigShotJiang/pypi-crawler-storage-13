@@ -1,0 +1,11 @@
+{
+  "name": "dev-tools-eagle-test",
+  "version": "0.5.0",
+  "summary": "Implements LangGraph based agents following the CoALA framework.",
+  "author": "Pedro Henrique Thompson Furtado",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dev_tools_eagle_test-0.5.0.tar.gz",
+  "download_time": "2025-11-18T17:43:21.090762",
+  "package_url": "https://pypi.org/project/dev-tools-eagle-test/"
+}

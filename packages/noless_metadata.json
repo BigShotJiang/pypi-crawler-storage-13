@@ -1,0 +1,11 @@
+{
+  "name": "noless",
+  "version": "0.2.1a1",
+  "summary": "AI-powered ML project generation with local LLMs - lightweight and modular",
+  "author": "NoLess Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/NoLess",
+  "download_filename": "noless-0.2.1a1.tar.gz",
+  "download_time": "2025-11-18T17:43:12.499198",
+  "package_url": "https://pypi.org/project/noless/"
+}

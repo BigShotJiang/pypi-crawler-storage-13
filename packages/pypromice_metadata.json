@@ -1,0 +1,11 @@
+{
+  "name": "pypromice",
+  "version": "1.8.1",
+  "summary": "PROMICE/GC-Net data processing toolbox",
+  "author": "GEUS Glaciology and Climate",
+  "license": null,
+  "home_page": "https://github.com/GEUS-Glaciology-and-Climate/pypromice",
+  "download_filename": "pypromice-1.8.1.tar.gz",
+  "download_time": "2025-11-18T17:43:47.483560",
+  "package_url": "https://pypi.org/project/pypromice/"
+}

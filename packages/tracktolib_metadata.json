@@ -1,11 +1,11 @@
 {
   "name": "tracktolib",
-  "version": "0.61.1",
+  "version": "0.62.0",
   "summary": "Utility library for python",
-  "author": "Julien Brayere",
-  "license": "MIT",
-  "home_page": "https://github.com/tracktor/tracktolib",
-  "download_filename": "tracktolib-0.61.1.tar.gz",
-  "download_time": "2025-11-18T16:31:17.129575",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracktolib-0.62.0.tar.gz",
+  "download_time": "2025-11-18T17:43:30.089356",
   "package_url": "https://pypi.org/project/tracktolib/"
 }

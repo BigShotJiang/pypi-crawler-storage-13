@@ -1,11 +1,11 @@
 {
   "name": "checkpointer",
-  "version": "2.14.9",
+  "version": "2.14.10",
   "summary": "checkpointer adds code-aware caching to Python functions, maintaining correctness and speeding up execution as your code changes.",
   "author": "Hampus Hallman",
   "license": null,
   "home_page": null,
-  "download_filename": "checkpointer-2.14.9.tar.gz",
-  "download_time": "2025-11-18T09:24:53.851740",
+  "download_filename": "checkpointer-2.14.10.tar.gz",
+  "download_time": "2025-11-18T17:43:25.794807",
   "package_url": "https://pypi.org/project/checkpointer/"
 }

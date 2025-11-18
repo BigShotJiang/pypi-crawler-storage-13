@@ -1,0 +1,11 @@
+{
+  "name": "gitview",
+  "version": "0.1.2",
+  "summary": "Git history analyzer with LLM-powered narrative generation",
+  "author": "GitView Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/carstenbund/gitview",
+  "download_filename": "gitview-0.1.2.tar.gz",
+  "download_time": "2025-11-18T17:43:07.754544",
+  "package_url": "https://pypi.org/project/gitview/"
+}

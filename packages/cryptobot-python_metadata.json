@@ -1,0 +1,11 @@
+{
+  "name": "cryptobot-python",
+  "version": "0.3.0",
+  "summary": "Non official, but friendly CryptoBot library for the Python language",
+  "author": "Reinier Hernández",
+  "license": "MIT",
+  "home_page": "https://cryptobot-python.readthedocs.io/en/latest",
+  "download_filename": "cryptobot_python-0.3.0.tar.gz",
+  "download_time": "2025-11-18T17:43:40.652330",
+  "package_url": "https://pypi.org/project/cryptobot-python/"
+}
