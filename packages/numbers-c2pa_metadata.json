@@ -1,0 +1,11 @@
+{
+  "name": "numbers-c2pa",
+  "version": "0.4.0",
+  "summary": "Numbers C2PA tool",
+  "author": "Numbers Co., Inc",
+  "license": null,
+  "home_page": "https://github.com/numbersprotocol/numbers-c2pa",
+  "download_filename": "numbers_c2pa-0.4.0.tar.gz",
+  "download_time": "2025-11-18T07:53:04.050211",
+  "package_url": "https://pypi.org/project/numbers-c2pa/"
+}

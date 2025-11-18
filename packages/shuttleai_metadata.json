@@ -1,0 +1,11 @@
+{
+  "name": "shuttleai",
+  "version": "4.9.0",
+  "summary": "Access Shuttle AI's API via an easy-to-use Python wrapper. Dashboard: https://shuttleai.com Discord: https://discord.gg/shuttleai",
+  "author": "Tristan Liu",
+  "license": null,
+  "home_page": "https://github.com/shuttleai",
+  "download_filename": "shuttleai-4.9.0.tar.gz",
+  "download_time": "2025-11-18T07:52:51.483078",
+  "package_url": "https://pypi.org/project/shuttleai/"
+}

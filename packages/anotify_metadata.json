@@ -1,0 +1,11 @@
+{
+  "name": "anotify",
+  "version": "0.2.1",
+  "summary": "Send notifications by multiple channels",
+  "author": "7ommy",
+  "license": "MIT",
+  "home_page": "https://github.com/TommyMerlin/ANotify",
+  "download_filename": "anotify-0.2.1.tar.gz",
+  "download_time": "2025-11-18T07:53:16.090011",
+  "package_url": "https://pypi.org/project/anotify/"
+}

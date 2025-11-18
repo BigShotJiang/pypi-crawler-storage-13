@@ -1,11 +1,11 @@
 {
   "name": "jxc-python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "JAX-based exchange-correlation functionals library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jxc_python-0.1.1.tar.gz",
-  "download_time": "2025-11-18T06:32:47.037655",
+  "download_filename": "jxc_python-0.1.2.tar.gz",
+  "download_time": "2025-11-18T07:53:09.313369",
   "package_url": "https://pypi.org/project/jxc-python/"
 }

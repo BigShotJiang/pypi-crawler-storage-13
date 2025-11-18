@@ -1,11 +1,11 @@
 {
   "name": "excel2db",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "用于将excle文件转为数据库",
   "author": "endlessdesert",
   "license": null,
   "home_page": "https://github.com",
-  "download_filename": "excel2db-1.2.5.tar.gz",
-  "download_time": "2025-11-18T06:33:04.224623",
+  "download_filename": "excel2db-1.2.6.tar.gz",
+  "download_time": "2025-11-18T07:52:56.738505",
   "package_url": "https://pypi.org/project/excel2db/"
 }

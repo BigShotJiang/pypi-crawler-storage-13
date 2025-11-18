@@ -1,0 +1,11 @@
+{
+  "name": "avido",
+  "version": "1.13.6",
+  "summary": "The official Python library for the Avido API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "avido-1.13.6.tar.gz",
+  "download_time": "2025-11-18T07:53:01.437832",
+  "package_url": "https://pypi.org/project/avido/"
+}
