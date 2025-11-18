@@ -1,0 +1,11 @@
+{
+  "name": "aton-format",
+  "version": "1.0.2",
+  "summary": "ATON FORMAT - Adaptive Token-Oriented Notation - Data format optimized for LLMs with 56% token reduction",
+  "author": "Stefano D'Agostino",
+  "license": "MIT",
+  "home_page": "https://www.atonformat.com",
+  "download_filename": "aton_format-1.0.2.tar.gz",
+  "download_time": "2025-11-18T10:49:26.682025",
+  "package_url": "https://pypi.org/project/aton-format/"
+}

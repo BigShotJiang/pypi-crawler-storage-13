@@ -1,0 +1,11 @@
+{
+  "name": "gaql",
+  "version": "1.15.0",
+  "summary": "A command line interface to the Google Ads Query Language (GAQL). Run with `gaql` or `gaql-tools`",
+  "author": "Ben Ryves",
+  "license": null,
+  "home_page": "https://github.com/getyourguide/gaql-cli",
+  "download_filename": "gaql-1.15.0.tar.gz",
+  "download_time": "2025-11-18T10:49:28.761851",
+  "package_url": "https://pypi.org/project/gaql/"
+}

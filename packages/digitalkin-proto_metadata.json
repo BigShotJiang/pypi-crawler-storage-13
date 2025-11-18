@@ -1,0 +1,11 @@
+{
+  "name": "digitalkin-proto",
+  "version": "0.1.16",
+  "summary": "Python Generated gRPC client and server interfaces from Digitalkin's service apis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "digitalkin_proto-0.1.16.tar.gz",
+  "download_time": "2025-11-18T10:49:19.906792",
+  "package_url": "https://pypi.org/project/digitalkin-proto/"
+}

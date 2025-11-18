@@ -1,0 +1,11 @@
+{
+  "name": "ebk",
+  "version": "0.3.3",
+  "summary": "A lightweight, extensible tool for managing eBook metadata",
+  "author": "Alex Towell",
+  "license": "MIT",
+  "home_page": "https://github.com/queelius/ebk",
+  "download_filename": "ebk-0.3.3.tar.gz",
+  "download_time": "2025-11-18T10:49:23.045914",
+  "package_url": "https://pypi.org/project/ebk/"
+}

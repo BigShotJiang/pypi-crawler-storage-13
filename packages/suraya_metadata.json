@@ -1,0 +1,11 @@
+{
+  "name": "suraya",
+  "version": "0.0.0",
+  "summary": "Suraya - a blend of Grafana and Marimo, with flavours of AMG and PMM.",
+  "author": null,
+  "license": "AGPL 3, EUPL 1.2",
+  "home_page": null,
+  "download_filename": "suraya-0.0.0.tar.gz",
+  "download_time": "2025-11-18T10:49:18.346783",
+  "package_url": "https://pypi.org/project/suraya/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thalabus",
+  "version": "1.1.4",
+  "summary": "An SDK for the thalabus AI chatbot platform",
+  "author": "Luca Strozzi",
+  "license": "This project is licensed under the MIT License.",
+  "home_page": "https://www.thalabus.com",
+  "download_filename": "thalabus-1.1.4.tar.gz",
+  "download_time": "2025-11-18T10:48:53.727090",
+  "package_url": "https://pypi.org/project/thalabus/"
+}

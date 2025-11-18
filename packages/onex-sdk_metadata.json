@@ -1,0 +1,11 @@
+{
+  "name": "onex-sdk",
+  "version": "0.1.2",
+  "summary": "Framework-agnostic neural signal monitoring",
+  "author": "OneX AI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/onex-ai/onex-sdk",
+  "download_filename": "onex_sdk-0.1.2.tar.gz",
+  "download_time": "2025-11-18T10:49:33.455412",
+  "package_url": "https://pypi.org/project/onex-sdk/"
+}
