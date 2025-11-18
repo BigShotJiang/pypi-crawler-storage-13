@@ -1,0 +1,11 @@
+{
+  "name": "sqlobjects",
+  "version": "1.0.12",
+  "summary": "Django-style async ORM library based on SQLAlchemy with chainable queries, Q objects, and relationship loading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlobjects-1.0.12.tar.gz",
+  "download_time": "2025-11-18T03:04:27.045137",
+  "package_url": "https://pypi.org/project/sqlobjects/"
+}

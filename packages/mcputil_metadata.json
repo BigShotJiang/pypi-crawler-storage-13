@@ -1,0 +1,11 @@
+{
+  "name": "mcputil",
+  "version": "0.5.0",
+  "summary": "A lightweight library that converts MCP tools into Python tools (function-like objects).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcputil-0.5.0.tar.gz",
+  "download_time": "2025-11-18T03:04:35.529567",
+  "package_url": "https://pypi.org/project/mcputil/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-pyspec",
+  "version": "1.1.1",
+  "summary": "The pytest-pyspec plugin transforms pytest output into a beautiful, readable format similar to RSpec. It provides semantic meaning to your tests by organizing them into descriptive hierarchies, using the prefixes `Describe`/`Test`, `With`/`Without`/`When`, and `test_`/`it_`, while allowing docstrings and decorators to override the descriptions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_pyspec-1.1.1.tar.gz",
+  "download_time": "2025-11-18T03:04:34.486491",
+  "package_url": "https://pypi.org/project/pytest-pyspec/"
+}

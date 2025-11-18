@@ -1,0 +1,11 @@
+{
+  "name": "fcs-order",
+  "version": "4.0.5",
+  "summary": "Extract 2nd-, 3rd-, and 4th-order force constants using arbitrary machine-learning potentials; compatible with the original thirdorder and fourthorder sow and reap commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fcs_order-4.0.5.tar.gz",
+  "download_time": "2025-11-18T03:04:41.817706",
+  "package_url": "https://pypi.org/project/fcs-order/"
+}

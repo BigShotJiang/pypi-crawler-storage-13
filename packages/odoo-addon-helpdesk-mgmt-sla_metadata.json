@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-mgmt-sla",
+  "version": "18.0.2.1.0.2",
+  "summary": "Add SLA to the tickets for Helpdesk Management.",
+  "author": "GARCO Consulting, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_mgmt_sla-18.0.2.1.0.2-py3-none-any.whl",
+  "download_time": "2025-11-18T03:04:21.727232",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt-sla/"
+}

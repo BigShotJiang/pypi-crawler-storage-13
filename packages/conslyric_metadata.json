@@ -1,0 +1,11 @@
+{
+  "name": "conslyric",
+  "version": "0.1.0",
+  "summary": "Pythonで記述されたConslyric Schemaの実行環境",
+  "author": "AmaseCocoa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "conslyric-0.1.0.tar.gz",
+  "download_time": "2025-11-18T03:04:42.340574",
+  "package_url": "https://pypi.org/project/conslyric/"
+}

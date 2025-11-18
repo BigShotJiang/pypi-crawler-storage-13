@@ -1,0 +1,11 @@
+{
+  "name": "tschm",
+  "version": "4.0.1",
+  "summary": "windows定时任务管理器 即使电脑睡眠也能运行的定时任务管理器",
+  "author": "lipanpan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tschm-4.0.1-py3-none-any.whl",
+  "download_time": "2025-11-18T03:04:59.294366",
+  "package_url": "https://pypi.org/project/tschm/"
+}

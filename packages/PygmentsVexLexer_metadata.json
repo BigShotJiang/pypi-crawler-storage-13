@@ -1,0 +1,11 @@
+{
+  "name": "PygmentsVexLexer",
+  "version": "1.0.2",
+  "summary": "Pygments Lexer for Side Effects Software's Vex and Vex Wrangle source code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygmentsvexlexer-1.0.2.tar.gz",
+  "download_time": "2025-11-18T03:04:47.186421",
+  "package_url": "https://pypi.org/project/PygmentsVexLexer/"
+}

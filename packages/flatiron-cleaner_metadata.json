@@ -1,0 +1,11 @@
+{
+  "name": "flatiron-cleaner",
+  "version": "0.1.9",
+  "summary": "A Python package for cleaning and harmonizing Flatiron Health cancer data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flatiron_cleaner-0.1.9.tar.gz",
+  "download_time": "2025-11-18T03:04:57.197329",
+  "package_url": "https://pypi.org/project/flatiron-cleaner/"
+}
