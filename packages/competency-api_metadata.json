@@ -1,0 +1,11 @@
+{
+  "name": "competency-api",
+  "version": "0.2.0",
+  "summary": "Python binding for the competency matching API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "competency_api-0.2.0.tar.gz",
+  "download_time": "2025-11-18T14:46:47.261500",
+  "package_url": "https://pypi.org/project/competency-api/"
+}

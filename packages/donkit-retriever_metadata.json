@@ -1,0 +1,11 @@
+{
+  "name": "donkit-retriever",
+  "version": "0.1.7",
+  "summary": "Unified retrieval module for RAG system with multiple vector database support",
+  "author": "Roman Losev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "donkit_retriever-0.1.7.tar.gz",
+  "download_time": "2025-11-18T14:46:22.442034",
+  "package_url": "https://pypi.org/project/donkit-retriever/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spectacles",
+  "version": "2.4.16",
+  "summary": "A command-line, continuous integration tool for Looker and LookML.",
+  "author": "Spectacles",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spectacles-2.4.16.tar.gz",
+  "download_time": "2025-11-18T14:46:45.155513",
+  "package_url": "https://pypi.org/project/spectacles/"
+}

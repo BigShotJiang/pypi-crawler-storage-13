@@ -1,0 +1,11 @@
+{
+  "name": "positivo-appium-extensions",
+  "version": "1.1.0",
+  "summary": "Additional keywords for Robot Framework's AppiumLibrary. Developed within the Technology Residency Program executed by CEPEDI, coordinated by SOFTEX, and supported by MCTI, with the participation of Positivo Tecnologia as the partner company that proposed the development challenge.",
+  "author": "Equipe de QA - CEPEDI / RESTIC36",
+  "license": null,
+  "home_page": null,
+  "download_filename": "positivo_appium_extensions-1.1.0.tar.gz",
+  "download_time": "2025-11-18T14:46:37.909768",
+  "package_url": "https://pypi.org/project/positivo-appium-extensions/"
+}

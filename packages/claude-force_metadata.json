@@ -1,11 +1,11 @@
 {
   "name": "claude-force",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Multi-Agent Orchestration System for Claude",
   "author": "Claude Force Team",
   "license": "MIT",
   "home_page": "https://github.com/khanh-vu/claude-force",
-  "download_filename": "claude_force-1.2.2.tar.gz",
-  "download_time": "2025-11-18T13:49:32.099033",
+  "download_filename": "claude_force-1.2.3.tar.gz",
+  "download_time": "2025-11-18T14:46:16.192539",
   "package_url": "https://pypi.org/project/claude-force/"
 }

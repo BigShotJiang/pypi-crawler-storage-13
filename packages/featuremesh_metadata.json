@@ -1,0 +1,11 @@
+{
+  "name": "featuremesh",
+  "version": "0.1.2",
+  "summary": "Python client for FeatureMesh - Execute FeatureQL queries on multiple database backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "featuremesh-0.1.2.tar.gz",
+  "download_time": "2025-11-18T14:46:47.774078",
+  "package_url": "https://pypi.org/project/featuremesh/"
+}

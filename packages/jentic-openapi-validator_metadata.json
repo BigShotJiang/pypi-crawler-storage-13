@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-validator",
-  "version": "1.0.0a19",
+  "version": "1.0.0a20",
   "summary": "Jentic OpenAPI Validator",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_validator-1.0.0a19.tar.gz",
-  "download_time": "2025-11-18T11:51:57.761031",
+  "download_filename": "jentic_openapi_validator-1.0.0a20.tar.gz",
+  "download_time": "2025-11-18T14:46:24.496271",
   "package_url": "https://pypi.org/project/jentic-openapi-validator/"
 }

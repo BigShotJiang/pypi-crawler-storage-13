@@ -1,0 +1,11 @@
+{
+  "name": "biotrainer",
+  "version": "1.2.1",
+  "summary": "Biological prediction models made simple.",
+  "author": null,
+  "license": "AFL v3.0",
+  "home_page": null,
+  "download_filename": "biotrainer-1.2.1.tar.gz",
+  "download_time": "2025-11-18T14:46:45.694777",
+  "package_url": "https://pypi.org/project/biotrainer/"
+}
