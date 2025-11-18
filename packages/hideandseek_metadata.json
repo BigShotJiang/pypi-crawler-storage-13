@@ -1,11 +1,11 @@
 {
   "name": "hideandseek",
-  "version": "0.3.23",
+  "version": "0.3.24",
   "summary": "library for deep learning and privacy preserving deep learning",
   "author": "JaeSung Yoo",
   "license": null,
   "home_page": "https://github.com/jsyoo61/hideandseek",
-  "download_filename": "hideandseek-0.3.23.tar.gz",
-  "download_time": "2025-11-17T18:31:13.942178",
+  "download_filename": "hideandseek-0.3.24.tar.gz",
+  "download_time": "2025-11-18T16:30:50.526497",
   "package_url": "https://pypi.org/project/hideandseek/"
 }

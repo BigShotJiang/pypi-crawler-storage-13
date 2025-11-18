@@ -1,0 +1,11 @@
+{
+  "name": "devart-dl",
+  "version": "3.0.3",
+  "summary": "专业的 DeviantArt 作品批量下载工具 - Professional DeviantArt batch downloader with anti-ban features",
+  "author": "DeviantArt Downloader Team",
+  "license": "MIT",
+  "home_page": "https://github.com/zoidberg-xgd/deviantart-downloader",
+  "download_filename": "devart_dl-3.0.3.tar.gz",
+  "download_time": "2025-11-18T16:30:46.493740",
+  "package_url": "https://pypi.org/project/devart-dl/"
+}

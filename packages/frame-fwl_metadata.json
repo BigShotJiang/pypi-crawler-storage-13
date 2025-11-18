@@ -1,0 +1,11 @@
+{
+  "name": "frame-fwl",
+  "version": "0.5.9.1",
+  "summary": "The Frame - multitool framework.",
+  "author": "pt",
+  "license": null,
+  "home_page": "https://github.com/pt-main/frame",
+  "download_filename": "frame_fwl-0.5.9.1.tar.gz",
+  "download_time": "2025-11-18T16:31:13.661980",
+  "package_url": "https://pypi.org/project/frame-fwl/"
+}

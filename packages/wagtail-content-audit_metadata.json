@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-content-audit",
+  "version": "0.2",
+  "summary": "Tools for performing content audits of Wagtail sites",
+  "author": null,
+  "license": "CC0",
+  "home_page": null,
+  "download_filename": "wagtail_content_audit-0.2.tar.gz",
+  "download_time": "2025-11-18T16:31:12.493291",
+  "package_url": "https://pypi.org/project/wagtail-content-audit/"
+}

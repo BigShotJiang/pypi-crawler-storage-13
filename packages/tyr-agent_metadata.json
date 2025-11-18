@@ -1,0 +1,11 @@
+{
+  "name": "tyr-agent",
+  "version": "1.0.3",
+  "summary": "Biblioteca para criação de agentes LLM com suporte a Gemini e GPT, histórico persistente, execução de funções e roteamento entre múltiplos agentes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tyr_agent-1.0.3.tar.gz",
+  "download_time": "2025-11-18T16:30:57.660659",
+  "package_url": "https://pypi.org/project/tyr-agent/"
+}

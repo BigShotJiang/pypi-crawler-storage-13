@@ -1,0 +1,11 @@
+{
+  "name": "dtfabric",
+  "version": "20251118",
+  "summary": "Data type fabric (dtfabric)",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/libyal/dtfabric",
+  "download_filename": "dtfabric-20251118.tar.gz",
+  "download_time": "2025-11-18T16:31:06.943552",
+  "package_url": "https://pypi.org/project/dtfabric/"
+}

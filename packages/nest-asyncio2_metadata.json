@@ -1,0 +1,11 @@
+{
+  "name": "nest-asyncio2",
+  "version": "1.6.1",
+  "summary": "Patch asyncio to allow nested event loops",
+  "author": "Ewald R. de Wit",
+  "license": "BSD",
+  "home_page": "https://github.com/Chaoses-Ib/nest-asyncio2",
+  "download_filename": "nest_asyncio2-1.6.1.tar.gz",
+  "download_time": "2025-11-18T16:31:31.252802",
+  "package_url": "https://pypi.org/project/nest-asyncio2/"
+}
