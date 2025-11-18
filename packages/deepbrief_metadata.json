@@ -1,11 +1,11 @@
 {
   "name": "deepbrief",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A workflow-driven system for converting PDF documents into structured narrative and audio briefings.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "deepbrief-0.2.0.tar.gz",
-  "download_time": "2025-11-18T07:53:19.220563",
+  "download_filename": "deepbrief-0.2.1.tar.gz",
+  "download_time": "2025-11-18T19:22:44.661174",
   "package_url": "https://pypi.org/project/deepbrief/"
 }

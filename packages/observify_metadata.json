@@ -1,11 +1,11 @@
 {
   "name": "observify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "SDK de métricas HTTP para FastAPI e Django com batch e retries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "observify-1.0.2.tar.gz",
-  "download_time": "2025-11-17T23:40:34.864432",
+  "download_filename": "observify-1.0.3.tar.gz",
+  "download_time": "2025-11-18T19:22:46.731757",
   "package_url": "https://pypi.org/project/observify/"
 }

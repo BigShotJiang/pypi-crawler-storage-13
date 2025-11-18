@@ -1,11 +1,11 @@
 {
   "name": "rdworks",
-  "version": "0.72.6",
+  "version": "0.72.7",
   "summary": "For chained workflows built on RDKit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rdworks-0.72.6.tar.gz",
-  "download_time": "2025-11-17T22:43:08.288464",
+  "download_filename": "rdworks-0.72.7.tar.gz",
+  "download_time": "2025-11-18T19:22:24.205760",
   "package_url": "https://pypi.org/project/rdworks/"
 }

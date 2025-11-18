@@ -1,0 +1,11 @@
+{
+  "name": "styxgraph",
+  "version": "0.6.0",
+  "summary": "Execution graph middleware for Styx",
+  "author": "Florian Rupprecht",
+  "license": null,
+  "home_page": null,
+  "download_filename": "styxgraph-0.6.0.tar.gz",
+  "download_time": "2025-11-18T19:22:07.025160",
+  "package_url": "https://pypi.org/project/styxgraph/"
+}

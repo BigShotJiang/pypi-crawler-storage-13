@@ -1,0 +1,11 @@
+{
+  "name": "rundec",
+  "version": "0.7",
+  "summary": "A Python wrapper around the CRunDec package for the  running and decoupling of the strong coupling constant and quark masses",
+  "author": "David M. Straub",
+  "license": "MIT",
+  "home_page": "https://github.com/DavidMStraub/rundec-python",
+  "download_filename": "rundec-0.7.tar.gz",
+  "download_time": "2025-11-18T19:22:47.775085",
+  "package_url": "https://pypi.org/project/rundec/"
+}

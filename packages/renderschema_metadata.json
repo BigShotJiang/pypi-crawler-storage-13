@@ -1,11 +1,11 @@
 {
   "name": "renderschema",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Automatically generate beautiful documentation diagrams from Python code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "renderschema-0.1.1.tar.gz",
-  "download_time": "2025-11-18T18:58:45.980225",
+  "download_filename": "renderschema-0.1.2.tar.gz",
+  "download_time": "2025-11-18T19:22:39.495039",
   "package_url": "https://pypi.org/project/renderschema/"
 }

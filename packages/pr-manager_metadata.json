@@ -1,0 +1,11 @@
+{
+  "name": "pr-manager",
+  "version": "0.1.0",
+  "summary": "Review your PRs with agentic AI using LlamaIndex and Gemini 3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pr_manager-0.1.0.tar.gz",
+  "download_time": "2025-11-18T19:22:34.061507",
+  "package_url": "https://pypi.org/project/pr-manager/"
+}
