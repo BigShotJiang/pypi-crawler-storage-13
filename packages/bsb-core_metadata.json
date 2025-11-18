@@ -1,0 +1,11 @@
+{
+  "name": "bsb-core",
+  "version": "7.0.1",
+  "summary": "`bsb-core` is the backbone package contain the essential code of the BSB: A component",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsb_core-7.0.1.tar.gz",
+  "download_time": "2025-11-18T15:47:07.548701",
+  "package_url": "https://pypi.org/project/bsb-core/"
+}
