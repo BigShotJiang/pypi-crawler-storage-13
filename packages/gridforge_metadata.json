@@ -1,0 +1,11 @@
+{
+  "name": "gridforge",
+  "version": "3.0.0",
+  "summary": "Eine extrem schnelle und moderne Python-Bibliothek zur Erstellung von gut formatierten Tabellen in der Konsole",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/gridforge",
+  "download_filename": "gridforge-3.0.0.tar.gz",
+  "download_time": "2025-11-18T23:20:52.667630",
+  "package_url": "https://pypi.org/project/gridforge/"
+}

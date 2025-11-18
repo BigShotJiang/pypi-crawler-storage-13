@@ -1,11 +1,11 @@
 {
   "name": "pygame-event-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A small package that helps handling events in pygame-ce.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygame_event_handler-0.0.1.tar.gz",
-  "download_time": "2025-11-18T22:54:37.885873",
+  "download_filename": "pygame_event_handler-0.0.2.tar.gz",
+  "download_time": "2025-11-18T23:21:04.523550",
   "package_url": "https://pypi.org/project/pygame-event-handler/"
 }

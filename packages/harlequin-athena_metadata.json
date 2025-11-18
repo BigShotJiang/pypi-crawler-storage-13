@@ -1,11 +1,11 @@
 {
   "name": "harlequin-athena",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Harlequin adapter for Amazon Athena.",
   "author": "Jacob Williams",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "harlequin_athena-0.1.1.tar.gz",
-  "download_time": "2025-11-18T22:54:54.332957",
+  "download_filename": "harlequin_athena-0.1.2.tar.gz",
+  "download_time": "2025-11-18T23:21:18.918169",
   "package_url": "https://pypi.org/project/harlequin-athena/"
 }

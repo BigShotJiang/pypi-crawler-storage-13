@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T22:55:26.045807
-- **Total Packages**: 88
-- **Total Size**: 54.12 MB
+- **Download Time**: 2025-11-18T23:21:24.739979
+- **Total Packages**: 87
+- **Total Size**: 32.69 MB
 
 ## Packages List
+- ethyca-fides
+- sc-napalm
+- glomos
+- ikalogic-sp1000g
+- byu_pytest_utils
+- ECOv003-L3T-L4T-JET
+- pico-celery
+- pulumi-xyz
+- llm-gemini
+- reticulum
+- GameSentenceMiner
+- abi3info
+- smle
+- cogames
+- BAGLE
+- mpneuralnetwork
+- lumo-sdk
+- mcp-client-shell
+- ioc
+- supply-chain-security-nyu
+- arraylake
+- metamorphic-guard
+- pyaedt
+- loopflow
+- growpal
+- agent-dossier
+- cascadeflow
+- ncBacktester
+- gridforge
+- jaaql-middleware-python
+- clippy-code
+- duosida-ev
+- prompt-unifier
+- pytqs
+- aitana
+- primitive
+- tunacode-cli
+- alubia
+- teradatamodelops
+- nnlpy
+- xmle
+- py-clob-client
+- anc-data
 - pyiron-dataclasses
 - limacharlie
 - microweldr
@@ -38,7 +81,6 @@
 - cudaq-qec-cu13
 - model-runner-client
 - openziti
-- mcp-client-shell
 - cybrid-api-bank-python
 - harlequin-athena
 - cybrid-api-organization-python
@@ -51,46 +93,3 @@
 - bountylab
 - emergent
 - cudaq-solvers-cu13
-- UW-RestClients-AdSel
-- fuel-tk
-- cudaq-solvers-cu12
-- nef-pipelines
-- pyiron-lammps
-- ethyca-fides
-- primitive
-- increase
-- pyiron-vasp
-- pydantic-resolve
-- cleanlab-codex
-- defenter-proxy
-- pvw-cli
-- vital
-- allianceauth-corp-tools-zoo
-- mcp-ticketer
-- heretic-llm-notebook
-- david8-postgresql
-- feldera
-- aiosonic
-- mystmd
-- pulumi-random
-- dsf-quantum-oracle-sdk
-- core-mixins
-- loopflow
-- sunsolve-p90-client
-- griptape-nodes
-- mpneuralnetwork
-- pico-fastapi
-- viur-shop
-- tinker
-- structuretoolkit
-- strangeworks-core
-- vulkan-object
-- dimo-python-sdk
-- dialetica
-- google-colabkit
-- xtlsapi-onlineiplist
-- nci-cidc-api-modules
-- reticulum
-- khoj
-- napistu
-- osz2

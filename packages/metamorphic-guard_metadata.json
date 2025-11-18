@@ -1,0 +1,11 @@
+{
+  "name": "metamorphic-guard",
+  "version": "3.3.4",
+  "summary": "A Python library for comparing program versions using metamorphic testing",
+  "author": "Spencer Duh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metamorphic_guard-3.3.4.tar.gz",
+  "download_time": "2025-11-18T23:20:48.116255",
+  "package_url": "https://pypi.org/project/metamorphic-guard/"
+}
