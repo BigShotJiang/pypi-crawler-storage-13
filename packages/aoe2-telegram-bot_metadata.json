@@ -1,0 +1,11 @@
+{
+  "name": "aoe2-telegram-bot",
+  "version": "0.3.0",
+  "summary": "A Telegram Bot that gives a random quote of Age of Empires 2 original edition",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aoe2_telegram_bot-0.3.0.tar.gz",
+  "download_time": "2025-11-18T23:38:15.791027",
+  "package_url": "https://pypi.org/project/aoe2-telegram-bot/"
+}

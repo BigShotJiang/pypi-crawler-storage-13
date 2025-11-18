@@ -1,0 +1,11 @@
+{
+  "name": "aio-nookipedia",
+  "version": "0.1.9",
+  "summary": "A simple, easy to use python wrapper for the Nookipedia API",
+  "author": "FormlessDuck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aio_nookipedia-0.1.9.tar.gz",
+  "download_time": "2025-11-18T23:38:52.478064",
+  "package_url": "https://pypi.org/project/aio-nookipedia/"
+}

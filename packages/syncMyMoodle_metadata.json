@@ -1,0 +1,11 @@
+{
+  "name": "syncMyMoodle",
+  "version": "0.3.0",
+  "summary": "Synchronization client for RWTH Moodle",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "syncmymoodle-0.3.0.tar.gz",
+  "download_time": "2025-11-18T23:38:26.203507",
+  "package_url": "https://pypi.org/project/syncMyMoodle/"
+}

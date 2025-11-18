@@ -1,11 +1,11 @@
 {
   "name": "vogel-model-trainer",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A tool to extract bird images from videos and train custom species classifiers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vogel_model_trainer-0.1.17.tar.gz",
-  "download_time": "2025-11-18T14:22:47.682015",
+  "download_filename": "vogel_model_trainer-0.1.18.tar.gz",
+  "download_time": "2025-11-18T23:38:35.118725",
   "package_url": "https://pypi.org/project/vogel-model-trainer/"
 }

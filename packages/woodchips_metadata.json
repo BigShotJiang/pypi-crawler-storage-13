@@ -1,0 +1,11 @@
+{
+  "name": "woodchips",
+  "version": "2.0.0",
+  "summary": "The cutest little logger you've ever seen.",
+  "author": "justintime50",
+  "license": "MIT",
+  "home_page": "http://github.com/justintime50/woodchips",
+  "download_filename": "woodchips-2.0.0.tar.gz",
+  "download_time": "2025-11-18T23:38:24.012243",
+  "package_url": "https://pypi.org/project/woodchips/"
+}

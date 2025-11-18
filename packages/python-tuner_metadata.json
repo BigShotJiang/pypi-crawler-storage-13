@@ -1,0 +1,11 @@
+{
+  "name": "python-tuner",
+  "version": "0.1.0",
+  "summary": "A small library for tuning musical instruments.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_tuner-0.1.0.tar.gz",
+  "download_time": "2025-11-18T23:38:14.723287",
+  "package_url": "https://pypi.org/project/python-tuner/"
+}

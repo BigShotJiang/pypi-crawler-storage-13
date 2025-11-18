@@ -1,0 +1,11 @@
+{
+  "name": "turbx",
+  "version": "0.5.2",
+  "summary": "Extensible toolkit for analyzing turbulent flow datasets",
+  "author": "Jason A",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turbx-0.5.2.tar.gz",
+  "download_time": "2025-11-18T23:38:54.070683",
+  "package_url": "https://pypi.org/project/turbx/"
+}
