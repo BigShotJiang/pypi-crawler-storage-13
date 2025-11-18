@@ -1,11 +1,11 @@
 {
   "name": "fetch-markdown",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "Fetch a web page and convert it into cleaned Markdown.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fetch_markdown-0.0.2.tar.gz",
-  "download_time": "2025-11-18T12:45:28.774691",
+  "download_filename": "fetch_markdown-0.1.0.tar.gz",
+  "download_time": "2025-11-18T22:43:56.617651",
   "package_url": "https://pypi.org/project/fetch-markdown/"
 }

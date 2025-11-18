@@ -1,0 +1,11 @@
+{
+  "name": "dsf-quantum-oracle-sdk",
+  "version": "1.1.2",
+  "summary": "SDK oficial en Python para la API de DSF Quantum Oracle (Grover's Search y Marcado de Estados)",
+  "author": "Jaime Alexander Jimenez",
+  "license": "Proprietary",
+  "home_page": "https://github.com/jaimeajl/dsf-quantum-oracle-sdk",
+  "download_filename": "dsf_quantum_oracle_sdk-1.1.2.tar.gz",
+  "download_time": "2025-11-18T22:43:16.549651",
+  "package_url": "https://pypi.org/project/dsf-quantum-oracle-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caom2",
+  "version": "2.6.5",
+  "summary": "CAOM-2.4 library",
+  "author": "Canadian Astronomy Data Centre",
+  "license": "AGPLv3",
+  "home_page": "http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/caom2",
+  "download_filename": "caom2-2.6.5.tar.gz",
+  "download_time": "2025-11-18T22:43:49.558175",
+  "package_url": "https://pypi.org/project/caom2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-embedded-metrics",
+  "version": "3.3.1",
+  "summary": "AWS Embedded Metrics Package",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": "https://github.com/awslabs/aws-embedded-metrics-python",
+  "download_filename": "aws_embedded_metrics-3.3.1-py3-none-any.whl",
+  "download_time": "2025-11-18T22:43:32.823732",
+  "package_url": "https://pypi.org/project/aws-embedded-metrics/"
+}

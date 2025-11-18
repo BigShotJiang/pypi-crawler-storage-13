@@ -1,0 +1,11 @@
+{
+  "name": "sunsolve-p90-client",
+  "version": "0.2.0.224",
+  "summary": "Python client library for SunSolve p90 analysis service",
+  "author": "SunSolve",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sunsolve_p90_client-0.2.0.224.tar.gz",
+  "download_time": "2025-11-18T22:43:18.126018",
+  "package_url": "https://pypi.org/project/sunsolve-p90-client/"
+}
