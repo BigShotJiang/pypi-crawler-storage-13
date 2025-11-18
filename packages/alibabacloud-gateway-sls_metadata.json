@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-gateway-sls",
+  "version": "0.4.0",
+  "summary": "Alibaba Cloud SLS Gateway Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-gateway",
+  "download_filename": "alibabacloud_gateway_sls-0.4.0.tar.gz",
+  "download_time": "2025-11-18T11:51:44.443583",
+  "package_url": "https://pypi.org/project/alibabacloud-gateway-sls/"
+}

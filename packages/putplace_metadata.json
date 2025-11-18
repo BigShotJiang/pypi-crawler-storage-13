@@ -1,0 +1,11 @@
+{
+  "name": "putplace",
+  "version": "0.8.0",
+  "summary": "File and Metadata storage system",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "putplace-0.8.0.tar.gz",
+  "download_time": "2025-11-18T11:52:06.146305",
+  "package_url": "https://pypi.org/project/putplace/"
+}

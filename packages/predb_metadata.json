@@ -1,11 +1,11 @@
 {
   "name": "predb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python client for PreDB.net API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "predb-1.0.0.tar.gz",
-  "download_time": "2025-11-18T11:40:16.281343",
+  "download_filename": "predb-1.0.1.tar.gz",
+  "download_time": "2025-11-18T11:52:01.986483",
   "package_url": "https://pypi.org/project/predb/"
 }

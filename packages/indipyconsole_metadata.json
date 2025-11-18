@@ -1,0 +1,11 @@
+{
+  "name": "indipyconsole",
+  "version": "0.0.3",
+  "summary": "A terminal client which can be used to control remote instruments using the INDI protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "indipyconsole-0.0.3.tar.gz",
+  "download_time": "2025-11-18T11:51:54.607560",
+  "package_url": "https://pypi.org/project/indipyconsole/"
+}

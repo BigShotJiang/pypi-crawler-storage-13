@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T11:40:49.454872
-- **Total Packages**: 90
-- **Total Size**: 21.64 MB
+- **Download Time**: 2025-11-18T11:52:32.969559
+- **Total Packages**: 91
+- **Total Size**: 3.26 MB
 
 ## Packages List
+- cradl
+- alibabacloud-gateway-sls
+- medusa-security
+- gwonir-interpreter
+- django-maintenance-panel
+- srx-lib-llm
+- nucliadb-utils
+- nucliadb-telemetry
+- berryworld
+- nucliadb-sdk
+- oq-riskmanager
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- david8-postgresql
+- mozilla-django-oidc-db
+- enhanced-s3-storage-provider
+- indipyconsole
+- polymcp
+- jmpUI
+- kanvas
+- jentic-openapi-validator-spectral
+- jentic-openapi-validator-redocly
+- jentic-openapi-validator
+- jentic-openapi-traverse
+- jentic-openapi-transformer-redocly
+- jentic-openapi-transformer
+- jentic-openapi-tools
+- jentic-openapi-parser
+- jentic-openapi-datamodels
+- jentic-openapi-common
+- predb
+- mayini-framework
+- oemof.visio
+- onex-sdk
+- mindsdb-sql-parser
+- kodit
+- setting-manager
+- putplace
 - extrator-fbds
 - notify-bridge
 - cegalprizm-pycoderunner
@@ -16,7 +57,6 @@
 - python-gmp
 - solie
 - pixelarraythirdparty
-- onex-sdk
 - coverage
 - doordeck-headless-sdk
 - dbbs-catalogue
@@ -35,7 +75,6 @@
 - secure-slurm-tool
 - secbatch
 - datacosmos
-- predb
 - Invenio-Utilities-tuw
 - danegovpl
 - regolo
@@ -58,41 +97,3 @@
 - odoo-addon-purchase-advance-payment
 - first-llms
 - orq-ai-sdk
-- zonolayer
-- inventory-monitor
-- json-repair
-- satelles
-- sep-distances
-- cloudx-proxy
-- grid-api
-- swisper-studio-sdk
-- tira
-- nsj-integracao-api-client
-- gh-pulse
-- polars-st
-- smoltrace
-- hoa-tools
-- qrzlib
-- playwright-stealth-plugin
-- ieeLabTools
-- ANNarchy
-- sagarcustompackage
-- supervisely
-- aiinbx
-- cobotar-protocol
-- iatoolkit
-- legend-pygeom-l200
-- tf-keras-nightly
-- extensiondp
-- xslim
-- django-project-base
-- sigmaflow
-- denkproto
-- lhcb-ftcalib
-- reticulum
-- nucliadb-utils
-- nucliadb-telemetry
-- antchain-blockchain
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
