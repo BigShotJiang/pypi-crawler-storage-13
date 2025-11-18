@@ -1,0 +1,11 @@
+{
+  "name": "orderedmultidict",
+  "version": "1.0.2",
+  "summary": "Ordered Multivalue Dictionary",
+  "author": "Ansgar Grunseid",
+  "license": "Unlicense",
+  "home_page": "https://github.com/gruns/orderedmultidict",
+  "download_filename": "orderedmultidict-1.0.2.tar.gz",
+  "download_time": "2025-11-18T08:30:41.467762",
+  "package_url": "https://pypi.org/project/orderedmultidict/"
+}

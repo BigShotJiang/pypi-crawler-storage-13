@@ -1,0 +1,11 @@
+{
+  "name": "llmeter",
+  "version": "0.1.6",
+  "summary": "A lightweight, cross-platform latency and throughput profiler for LLMs",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llmeter-0.1.6.tar.gz",
+  "download_time": "2025-11-18T08:30:09.961524",
+  "package_url": "https://pypi.org/project/llmeter/"
+}

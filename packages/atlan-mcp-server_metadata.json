@@ -1,0 +1,11 @@
+{
+  "name": "atlan-mcp-server",
+  "version": "0.2.12",
+  "summary": "Atlan Model Context Protocol server for interacting with Atlan services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atlan_mcp_server-0.2.12.tar.gz",
+  "download_time": "2025-11-18T08:29:57.154354",
+  "package_url": "https://pypi.org/project/atlan-mcp-server/"
+}

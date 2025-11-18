@@ -1,11 +1,11 @@
 {
   "name": "Python-Lua-Helper",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Lua configuration system for your Python projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_lua_helper-1.0.1.tar.gz",
-  "download_time": "2025-11-17T21:20:25.252288",
+  "download_filename": "python_lua_helper-1.1.0.tar.gz",
+  "download_time": "2025-11-18T08:30:31.856084",
   "package_url": "https://pypi.org/project/Python-Lua-Helper/"
 }

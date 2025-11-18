@@ -1,0 +1,11 @@
+{
+  "name": "pyasc",
+  "version": "0.0.1",
+  "summary": "An empty Python package for demonstration.",
+  "author": "CANN",
+  "license": null,
+  "home_page": "https://gitcode.com/cann/pyasc",
+  "download_filename": "pyasc-0.0.1.tar.gz",
+  "download_time": "2025-11-18T08:30:22.300329",
+  "package_url": "https://pypi.org/project/pyasc/"
+}
