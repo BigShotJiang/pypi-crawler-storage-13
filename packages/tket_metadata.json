@@ -1,0 +1,11 @@
+{
+  "name": "tket",
+  "version": "0.12.12",
+  "summary": "Quantinuum's TKET Quantum Compiler",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/CQCL/tket2",
+  "download_filename": "tket-0.12.12.tar.gz",
+  "download_time": "2025-11-18T17:21:22.813361",
+  "package_url": "https://pypi.org/project/tket/"
+}

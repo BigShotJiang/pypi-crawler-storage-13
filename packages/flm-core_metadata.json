@@ -1,0 +1,11 @@
+{
+  "name": "flm-core",
+  "version": "0.3.0a26",
+  "summary": "Flexible Latex-like Markup",
+  "author": "Philippe Faist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flm_core-0.3.0a26.tar.gz",
+  "download_time": "2025-11-18T17:20:54.218109",
+  "package_url": "https://pypi.org/project/flm-core/"
+}

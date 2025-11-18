@@ -1,0 +1,11 @@
+{
+  "name": "pyessential",
+  "version": "0.1.0",
+  "summary": "A growing collection of Python utilities and decorators.",
+  "author": "Abhishek Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/Abhi39054/PyEssential.git",
+  "download_filename": "pyessential-0.1.0.tar.gz",
+  "download_time": "2025-11-18T17:21:15.563401",
+  "package_url": "https://pypi.org/project/pyessential/"
+}

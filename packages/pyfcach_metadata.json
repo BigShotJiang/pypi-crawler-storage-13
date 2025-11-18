@@ -1,11 +1,11 @@
 {
   "name": "pyfcach",
-  "version": "0.0.4",
-  "summary": "Ultra Fast Memory Cache, ttl lfu mru lru",
+  "version": "0.1.5",
+  "summary": "Ultra Fast Memory Cache, ttl lfu mru lru arc",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyfcach-0.0.4.tar.gz",
-  "download_time": "2025-11-17T22:21:10.268860",
+  "download_filename": "pyfcach-0.1.5.tar.gz",
+  "download_time": "2025-11-18T17:21:28.460715",
   "package_url": "https://pypi.org/project/pyfcach/"
 }

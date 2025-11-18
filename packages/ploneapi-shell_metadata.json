@@ -1,11 +1,11 @@
 {
   "name": "ploneapi-shell",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "Interactive shell and CLI for exploring Plone REST API sites",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ploneapi_shell-0.1.3.tar.gz",
-  "download_time": "2025-11-18T16:55:28.534897",
+  "download_filename": "ploneapi_shell-0.1.6.tar.gz",
+  "download_time": "2025-11-18T17:20:59.957260",
   "package_url": "https://pypi.org/project/ploneapi-shell/"
 }

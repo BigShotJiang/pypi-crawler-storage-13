@@ -1,0 +1,11 @@
+{
+  "name": "p115ftp",
+  "version": "0.0.4.2",
+  "summary": "Python 115 FTP Server.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/p115client/tree/main/modules/p115ftp",
+  "download_filename": "p115ftp-0.0.4.2.tar.gz",
+  "download_time": "2025-11-18T17:20:50.555644",
+  "package_url": "https://pypi.org/project/p115ftp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-month-selector",
+  "version": "0.0.1",
+  "summary": "this component offers you to input and choose single month from year",
+  "author": "Dmitry Usman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_month_selector-0.0.1.tar.gz",
+  "download_time": "2025-11-18T17:21:00.469938",
+  "package_url": "https://pypi.org/project/streamlit-month-selector/"
+}

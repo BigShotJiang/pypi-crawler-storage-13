@@ -1,0 +1,11 @@
+{
+  "name": "swm-comments-attachments",
+  "version": "0.3.3",
+  "summary": "Generic comments and attachments system for FastAPI applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swm_comments_attachments-0.3.3.tar.gz",
+  "download_time": "2025-11-18T17:21:02.584801",
+  "package_url": "https://pypi.org/project/swm-comments-attachments/"
+}

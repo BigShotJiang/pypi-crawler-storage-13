@@ -1,0 +1,11 @@
+{
+  "name": "eole",
+  "version": "0.4.0",
+  "summary": "Open language modeling toolkit based on PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eole-0.4.0.tar.gz",
+  "download_time": "2025-11-18T17:21:30.514708",
+  "package_url": "https://pypi.org/project/eole/"
+}

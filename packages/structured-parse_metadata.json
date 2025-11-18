@@ -1,11 +1,11 @@
 {
   "name": "structured-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Multi-language library for parsing labeled/structured LLM output",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "structured_parse-1.0.0.tar.gz",
-  "download_time": "2025-11-18T07:24:47.794858",
+  "download_filename": "structured_parse-1.0.1.tar.gz",
+  "download_time": "2025-11-18T17:20:57.901442",
   "package_url": "https://pypi.org/project/structured-parse/"
 }

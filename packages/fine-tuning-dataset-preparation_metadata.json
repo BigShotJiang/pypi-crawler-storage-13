@@ -1,0 +1,11 @@
+{
+  "name": "fine-tuning-dataset-preparation",
+  "version": "0.1.0",
+  "summary": "Utilities for building code and document fine-tuning datasets.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://bitbucket.org/entinco/eic-aimodelknowledge-utils/src/master/lib-finetuningdatasetpreparation-python",
+  "download_filename": "fine_tuning_dataset_preparation-0.1.0.tar.gz",
+  "download_time": "2025-11-18T17:21:01.494945",
+  "package_url": "https://pypi.org/project/fine-tuning-dataset-preparation/"
+}

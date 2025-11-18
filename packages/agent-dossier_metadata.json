@@ -1,11 +1,11 @@
 {
   "name": "agent-dossier",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A logging library for AI agents",
   "author": "Ricardo Decal",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_dossier-0.2.0.tar.gz",
-  "download_time": "2025-11-18T09:25:27.525555",
+  "download_filename": "agent_dossier-0.2.1.tar.gz",
+  "download_time": "2025-11-18T17:21:10.843447",
   "package_url": "https://pypi.org/project/agent-dossier/"
 }

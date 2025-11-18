@@ -1,0 +1,11 @@
+{
+  "name": "probotanki-lib",
+  "version": "2.1.4",
+  "summary": "Core library for ProboTanki providing networking modules and packet handling utilities.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "probotanki_lib-2.1.4-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-18T17:20:52.118470",
+  "package_url": "https://pypi.org/project/probotanki-lib/"
+}

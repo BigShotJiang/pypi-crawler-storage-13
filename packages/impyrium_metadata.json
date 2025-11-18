@@ -1,0 +1,11 @@
+{
+  "name": "impyrium",
+  "version": "0.1.17",
+  "summary": "A tool to setup device controls",
+  "author": "Caden Churchman",
+  "license": null,
+  "home_page": "https://github.com/c3n3/impyrium",
+  "download_filename": "impyrium-0.1.17.tar.gz",
+  "download_time": "2025-11-18T17:21:27.435888",
+  "package_url": "https://pypi.org/project/impyrium/"
+}

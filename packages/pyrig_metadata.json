@@ -1,11 +1,11 @@
 {
   "name": "pyrig",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "summary": "A dev kit that standardizes configurations and testing",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "pyrig-1.1.10.tar.gz",
-  "download_time": "2025-11-18T06:57:12.326956",
+  "download_filename": "pyrig-1.1.11.tar.gz",
+  "download_time": "2025-11-18T17:21:00.983395",
   "package_url": "https://pypi.org/project/pyrig/"
 }
