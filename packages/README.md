@@ -1,72 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T21:52:58.118249
-- **Total Packages**: 86
-- **Total Size**: 9.0 MB
+- **Download Time**: 2025-11-18T22:22:34.855062
+- **Total Packages**: 70
+- **Total Size**: 6.81 MB
 
 ## Packages List
-- ghreport
-- smartseeds
-- urbanairship
-- retry-deco
-- ascii-guard
-- pygeofilter-aeronet
-- gemprf
-- agent-dossier
-- langswarm
-- babicli
-- artifact-torch
-- we-love-alfred
-- lazy-log-formatter
-- segregation
-- types-boto3-wafv2
-- types-boto3-storagegateway
-- types-boto3-resourcegroupstaggingapi
-- types-boto3-logs
-- types-boto3-kafka
-- types-boto3-iam
-- types-boto3-ec2
-- types-boto3-connect
-- types-boto3-cloudformation
-- types-boto3-autoscaling
-- types-boto3-bedrock-runtime
-- types-boto3-backup
-- spoox
-- tumblr-2-album
-- gs-quant
-- artifact-core
-- primitive
-- jobsync
-- bm25s
-- redata
-- boto3-stubs
-- boto3-stubs-lite
-- mypy-boto3-wafv2
-- mypy-boto3-storagegateway
-- mypy-boto3-resourcegroupstaggingapi
-- mypy-boto3-logs
-- mypy-boto3-kafka
-- mypy-boto3-iam
-- devcommit
-- pygeometry2d
-- mypy-boto3-ec2
-- mypy-boto3-connect
-- mypy-boto3-cloudformation
-- mypy-boto3-autoscaling
-- mypy-boto3-backup
-- mypy-boto3-bedrock-runtime
-- gcp-secret-lib
-- asciiasm
-- sqlalchemy-mptt
-- inspect-flow
-- wass2s
-- heretic-llm-notebook
-- synqed
 - mcp-ticketer
 - math-engine
 - files-com
 - cs-naysync
+- gcp-secret-lib
 - csle-attack-profiler
 - gym-csle-cyborg
 - gym-csle-apt-game
@@ -82,13 +26,53 @@
 - csle-system-identification
 - csle-defender
 - csle-attacker
+- synqed
 - csle-common
 - csle-collector
+- babicli
 - csle-ryu
 - csle-base
 - searxng-mcp-server
 - pyegeria
 - keywordsai-tracing
 - dialetica
+- we-love-alfred
 - gui-utilities
 - sapiopycommons
+- heretic-llm-notebook
+- circuitydatabase
+- dayhoff-tools
+- batplot
+- ghreport
+- neuronpedia_inference_client
+- smoothglue_calendar
+- kk0
+- inhumate-rti
+- energysystemmodels
+- d1-client
+- celltraj
+- fba-finance
+- plinkformatter
+- gwseq-io
+- mun-feas-ga-data
+- better-qdrant-mcp
+- orcatech-client
+- gwseq-io-pp
+- math-playground-armen-nadaryan
+- parselbox
+- supply-chain-security-nyu
+- smtp-dane-verify
+- GNServer
+- modulos-tema-13
+- metatron-qso
+- textql
+- marinerg-backend
+- MEDfl
+- bonniebully
+- kaqing
+- marinerg-test-access
+- vicpyx
+- bauklotz
+- wyn360-cli
+- ploneapi-shell
+- dbt-databricks

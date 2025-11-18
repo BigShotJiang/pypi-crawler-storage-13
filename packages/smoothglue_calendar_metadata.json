@@ -1,0 +1,11 @@
+{
+  "name": "smoothglue_calendar",
+  "version": "1.0.1",
+  "summary": "SmoothGlue Calendar: A reusable Django app for calendar functionality.",
+  "author": "BrainGu",
+  "license": "Proprietary",
+  "home_page": "https://braingu.com/solutions/smoothglue/",
+  "download_filename": "smoothglue_calendar-1.0.1.tar.gz",
+  "download_time": "2025-11-18T22:22:15.974731",
+  "package_url": "https://pypi.org/project/smoothglue_calendar/"
+}

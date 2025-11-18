@@ -1,0 +1,11 @@
+{
+  "name": "bauklotz",
+  "version": "2.0.2",
+  "summary": null,
+  "author": "voidpointercast",
+  "license": "BSD3",
+  "home_page": "https://gitlab.com/patrick.daniel.gress/bauklotz",
+  "download_filename": "bauklotz-2.0.2.tar.gz",
+  "download_time": "2025-11-18T22:22:32.578809",
+  "package_url": "https://pypi.org/project/bauklotz/"
+}

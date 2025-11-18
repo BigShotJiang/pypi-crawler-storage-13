@@ -1,0 +1,11 @@
+{
+  "name": "vicpyx",
+  "version": "0.6.0",
+  "summary": "The vicpyx module from Correlated Solutions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vicpyx-0.6.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-18T22:22:32.001543",
+  "package_url": "https://pypi.org/project/vicpyx/"
+}

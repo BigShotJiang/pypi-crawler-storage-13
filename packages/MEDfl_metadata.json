@@ -1,0 +1,11 @@
+{
+  "name": "MEDfl",
+  "version": "2.0.5",
+  "summary": "Python Open-source package for simulating federated learning and differential privacy",
+  "author": "MEDomics consortium",
+  "license": null,
+  "home_page": "https://github.com/MEDomics-UdeS/MEDfl",
+  "download_filename": "MEDfl-2.0.5-py3-none-any.whl",
+  "download_time": "2025-11-18T22:22:29.605188",
+  "package_url": "https://pypi.org/project/MEDfl/"
+}

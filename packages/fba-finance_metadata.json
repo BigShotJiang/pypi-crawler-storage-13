@@ -1,11 +1,11 @@
 {
   "name": "fba-finance",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Multi-source financial data library with anti-rate-limiting strategies",
   "author": "Fausto Bandini",
   "license": null,
   "home_page": "https://github.com/faux62/fba_finance",
-  "download_filename": "fba_finance-0.2.3-py3-none-any.whl",
-  "download_time": "2025-11-18T19:22:29.910082",
+  "download_filename": "fba_finance-0.2.4.tar.gz",
+  "download_time": "2025-11-18T22:22:19.562040",
   "package_url": "https://pypi.org/project/fba-finance/"
 }

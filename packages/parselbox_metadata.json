@@ -1,0 +1,11 @@
+{
+  "name": "parselbox",
+  "version": "0.0.1",
+  "summary": "A Python sandbox for running untrusted code.",
+  "author": "Sanjeet Chatterjee",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "parselbox-0.0.1.tar.gz",
+  "download_time": "2025-11-18T22:22:24.306879",
+  "package_url": "https://pypi.org/project/parselbox/"
+}
