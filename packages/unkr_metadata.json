@@ -1,0 +1,11 @@
+{
+  "name": "unkr",
+  "version": "1.0.3",
+  "summary": "An Open Source Library for uncertain Knowledge Reasoning",
+  "author": "SEUKGE",
+  "license": null,
+  "home_page": "https://github.com/CodeSlogan/unKR",
+  "download_filename": "unkr-1.0.3.tar.gz",
+  "download_time": "2025-11-18T05:21:52.200423",
+  "package_url": "https://pypi.org/project/unkr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qtom",
+  "version": "1.0.2",
+  "summary": "Neural Network Quantum State Tomography Library",
+  "author": "Manuel A. Garcia & Johan Garzon",
+  "license": null,
+  "home_page": "https://github.com/alhazacod/qtom",
+  "download_filename": "qtom-1.0.2.tar.gz",
+  "download_time": "2025-11-18T05:21:22.110144",
+  "package_url": "https://pypi.org/project/qtom/"
+}

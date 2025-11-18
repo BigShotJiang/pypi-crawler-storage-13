@@ -1,0 +1,11 @@
+{
+  "name": "choosegpu",
+  "version": "0.0.2",
+  "summary": "Choose GPU (supports NVIDIA CUDA and Apple Silicon MPS)",
+  "author": "Maxim Zaslavsky",
+  "license": "MIT license",
+  "home_page": "https://github.com/maximz/choosegpu",
+  "download_filename": "choosegpu-0.0.2.tar.gz",
+  "download_time": "2025-11-18T05:21:45.359429",
+  "package_url": "https://pypi.org/project/choosegpu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fair-search-packages",
+  "version": "0.2.6",
+  "summary": "RAG 기반 공평 검색 알고리즘을 위한 전역 Util 함수 모음",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fair_search_packages-0.2.6.tar.gz",
+  "download_time": "2025-11-18T05:21:40.168053",
+  "package_url": "https://pypi.org/project/fair-search-packages/"
+}

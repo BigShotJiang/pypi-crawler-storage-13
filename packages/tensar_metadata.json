@@ -1,0 +1,11 @@
+{
+  "name": "tensar",
+  "version": "1.0.0",
+  "summary": "A collection of neural network implementations from ANN & DL lab assignments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tensar-1.0.0.tar.gz",
+  "download_time": "2025-11-18T05:21:33.332409",
+  "package_url": "https://pypi.org/project/tensar/"
+}
