@@ -1,0 +1,11 @@
+{
+  "name": "cellart",
+  "version": "0.0.62",
+  "summary": "CellART: a unified framework for extracting single-cell information from high-resolution spatial transcriptomics",
+  "author": "Yuheng Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/YangLabHKUST/cellart",
+  "download_filename": "cellart-0.0.62.tar.gz",
+  "download_time": "2025-11-18T18:33:20.027225",
+  "package_url": "https://pypi.org/project/cellart/"
+}

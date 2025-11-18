@@ -1,0 +1,11 @@
+{
+  "name": "opentube",
+  "version": "1.7.4",
+  "summary": "Access YouTube Public Data without YouTubeAPI",
+  "author": "Sougata Jana",
+  "license": null,
+  "home_page": "https://github.com/jnsougata/opentube",
+  "download_filename": "opentube-1.7.4.tar.gz",
+  "download_time": "2025-11-18T18:33:22.392118",
+  "package_url": "https://pypi.org/project/opentube/"
+}

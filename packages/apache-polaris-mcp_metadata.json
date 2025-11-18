@@ -1,0 +1,11 @@
+{
+  "name": "apache-polaris-mcp",
+  "version": "0.9.0",
+  "summary": "Apache Polaris Model Context Protocol server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_polaris_mcp-0.9.0.tar.gz",
+  "download_time": "2025-11-18T18:33:24.749913",
+  "package_url": "https://pypi.org/project/apache-polaris-mcp/"
+}

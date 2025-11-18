@@ -1,0 +1,11 @@
+{
+  "name": "pyqula",
+  "version": "0.0.88",
+  "summary": "Python library for quantum lattice tight binding models",
+  "author": "Jose Lado",
+  "license": null,
+  "home_page": "https://github.com/joselado/pyqula",
+  "download_filename": "pyqula-0.0.88.tar.gz",
+  "download_time": "2025-11-18T18:33:18.252558",
+  "package_url": "https://pypi.org/project/pyqula/"
+}

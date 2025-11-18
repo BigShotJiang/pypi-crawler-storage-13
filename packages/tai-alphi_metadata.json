@@ -1,0 +1,11 @@
+{
+  "name": "tai-alphi",
+  "version": "2.0.1",
+  "summary": "Logs y monitorización de recursos",
+  "author": "MateoSaezMata",
+  "license": "MIT",
+  "home_page": "https://www.triplealpha.in/es/",
+  "download_filename": "tai_alphi-2.0.1.tar.gz",
+  "download_time": "2025-11-18T18:33:28.219322",
+  "package_url": "https://pypi.org/project/tai-alphi/"
+}

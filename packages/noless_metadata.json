@@ -1,11 +1,11 @@
 {
   "name": "noless",
-  "version": "0.2.1a1",
-  "summary": "AI-powered ML project generation with local LLMs - lightweight and modular",
+  "version": "0.2.1a2",
+  "summary": "Multi-agent CLI for automatic dataset discovery and ML project generation",
   "author": "NoLess Team",
   "license": "MIT",
-  "home_page": "https://github.com/your-org/NoLess",
-  "download_filename": "noless-0.2.1a1.tar.gz",
-  "download_time": "2025-11-18T17:43:12.499198",
+  "home_page": "https://github.com/DWE-CLOUD/NoLess",
+  "download_filename": "noless-0.2.1a2.tar.gz",
+  "download_time": "2025-11-18T18:33:27.022112",
   "package_url": "https://pypi.org/project/noless/"
 }

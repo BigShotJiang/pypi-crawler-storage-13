@@ -1,11 +1,11 @@
 {
   "name": "pytorch-mini",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A minimal PyTorch-like autograd engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytorch_mini-0.1.1.tar.gz",
-  "download_time": "2025-11-18T17:43:35.897393",
+  "download_filename": "pytorch_mini-0.1.2.tar.gz",
+  "download_time": "2025-11-18T18:33:34.081852",
   "package_url": "https://pypi.org/project/pytorch-mini/"
 }

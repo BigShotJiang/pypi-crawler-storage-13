@@ -1,11 +1,11 @@
 {
   "name": "ikon-auth",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A reusable OAuth2 token provider and JWT verification dependency for FastAPI microservices with JWKS support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ikon_auth-0.1.2.tar.gz",
-  "download_time": "2025-11-18T17:54:41.087666",
+  "download_filename": "ikon_auth-0.1.4.tar.gz",
+  "download_time": "2025-11-18T18:33:48.067710",
   "package_url": "https://pypi.org/project/ikon-auth/"
 }
