@@ -1,11 +1,11 @@
 {
   "name": "speech-to-text-vcb",
-  "version": "0.1",
-  "summary": "this is stt file",
+  "version": "0.2",
+  "summary": "this is stt file ",
   "author": "Vishal Chandrabhan Bolke",
   "license": null,
   "home_page": null,
-  "download_filename": "speech_to_text_vcb-0.1.tar.gz",
-  "download_time": "2025-11-18T09:24:52.305672",
+  "download_filename": "speech_to_text_vcb-0.2.tar.gz",
+  "download_time": "2025-11-18T09:57:09.030540",
   "package_url": "https://pypi.org/project/speech-to-text-vcb/"
 }
