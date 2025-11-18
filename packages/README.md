@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T07:25:12.407916
-- **Total Packages**: 90
-- **Total Size**: 63.67 MB
+- **Download Time**: 2025-11-18T07:42:11.122017
+- **Total Packages**: 91
+- **Total Size**: 0.35 MB
 
 ## Packages List
-- hidroconta
-- fastcodedog
-- bluepyll
-- ai-edge-litert-nightly
-- hex-maze-neuro
 - iflow-mcp_kafka_mcp_server
 - openinference-instrumentation-openai-agents
 - openinference-instrumentation-smolagents
@@ -96,3 +91,9 @@
 - rquote
 - pylib-searchalgo
 - kingsoftcloud-sdk-python
+- pylib-datastruct
+- pylib-streams
+- pylib-dictutils
+- pylib-summarize
+- jdcat
+- maleo-mcu

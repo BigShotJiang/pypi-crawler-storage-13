@@ -1,0 +1,11 @@
+{
+  "name": "pylib-summarize",
+  "version": "0.1.0",
+  "summary": "Summarize long text using frequency-based or AI-based summarizers. Perfect for AI agents. Perfect for AI agents and LLM applications.",
+  "author": "pylib-summarize",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_summarize-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:42:09.483338",
+  "package_url": "https://pypi.org/project/pylib-summarize/"
+}

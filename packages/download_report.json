@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-11-18T07:25:12.407916",
-  "total_packages_downloaded": 90,
-  "total_size_mb": 63.67,
+  "download_time": "2025-11-18T07:42:11.122017",
+  "total_packages_downloaded": 91,
+  "total_size_mb": 0.35,
   "packages": [
-    "hidroconta",
-    "fastcodedog",
-    "bluepyll",
-    "ai-edge-litert-nightly",
-    "hex-maze-neuro",
     "iflow-mcp_kafka_mcp_server",
     "openinference-instrumentation-openai-agents",
     "openinference-instrumentation-smolagents",
@@ -92,6 +87,12 @@
     "iflow-mcp_zaturn",
     "rquote",
     "pylib-searchalgo",
-    "kingsoftcloud-sdk-python"
+    "kingsoftcloud-sdk-python",
+    "pylib-datastruct",
+    "pylib-streams",
+    "pylib-dictutils",
+    "pylib-summarize",
+    "jdcat",
+    "maleo-mcu"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pylib-streams",
+  "version": "0.1.0",
+  "summary": "Chainable functional API for list processing (map/filter/reduce). Great for data pipelines. Perfect for AI agents and LLM applications.",
+  "author": "pylib-streams",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_streams-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:42:08.296473",
+  "package_url": "https://pypi.org/project/pylib-streams/"
+}
