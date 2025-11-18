@@ -1,11 +1,11 @@
 {
   "name": "pynamicalsys",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "summary": "A Python toolkit for the analysis of dynamical systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pynamicalsys-1.4.8.tar.gz",
-  "download_time": "2025-11-17T21:40:24.091542",
+  "download_filename": "pynamicalsys-1.4.9.tar.gz",
+  "download_time": "2025-11-18T11:40:12.651037",
   "package_url": "https://pypi.org/project/pynamicalsys/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "limpid",
+  "version": "0.4.2",
+  "summary": "A package for fitting positron annihilation Doppler broadening depth profiles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "limpid-0.4.2.tar.gz",
+  "download_time": "2025-11-18T11:40:22.020051",
+  "package_url": "https://pypi.org/project/limpid/"
+}

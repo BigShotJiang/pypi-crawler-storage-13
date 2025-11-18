@@ -1,11 +1,11 @@
 {
   "name": "danegovpl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Api for getting data from dane.gov.pl",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "danegovpl-0.0.1.tar.gz",
-  "download_time": "2025-11-17T20:25:53.251684",
+  "download_filename": "danegovpl-0.0.2.tar.gz",
+  "download_time": "2025-11-18T11:40:17.326759",
   "package_url": "https://pypi.org/project/danegovpl/"
 }

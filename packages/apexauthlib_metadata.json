@@ -1,0 +1,11 @@
+{
+  "name": "apexauthlib",
+  "version": "0.1.10",
+  "summary": "Apex authorization library for services",
+  "author": "Apex Dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apexauthlib-0.1.10.tar.gz",
+  "download_time": "2025-11-18T11:40:13.170934",
+  "package_url": "https://pypi.org/project/apexauthlib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-advance-payment",
+  "version": "18.0.1.2.0",
+  "summary": "Allow to add advance payments on purchase orders",
+  "author": "Forgeflow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_advance_payment-18.0.1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-18T11:40:26.760251",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-advance-payment/"
+}

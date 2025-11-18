@@ -1,0 +1,11 @@
+{
+  "name": "gh-pulse",
+  "version": "0.1.0",
+  "summary": "GitHub productivity CLI - analyze repos, generate badges, and automate README updates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gh_pulse-0.1.0.tar.gz",
+  "download_time": "2025-11-18T11:40:34.036637",
+  "package_url": "https://pypi.org/project/gh-pulse/"
+}

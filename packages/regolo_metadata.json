@@ -1,11 +1,11 @@
 {
   "name": "regolo",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "Simple client to interact with regolo.ai",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "regolo-1.9.0.tar.gz",
-  "download_time": "2025-11-18T10:28:07.554738",
+  "download_filename": "regolo-1.9.1.tar.gz",
+  "download_time": "2025-11-18T11:40:17.847288",
   "package_url": "https://pypi.org/project/regolo/"
 }

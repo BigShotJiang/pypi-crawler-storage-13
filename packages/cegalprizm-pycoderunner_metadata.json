@@ -1,0 +1,11 @@
+{
+  "name": "cegalprizm-pycoderunner",
+  "version": "1.4.0",
+  "summary": "Cegal Prizm PyCode Runner",
+  "author": "Cegal Prizm Team",
+  "license": null,
+  "home_page": "https://docs.prizm.cegal-geo.com/",
+  "download_filename": "cegalprizm_pycoderunner-1.4.0-py3-none-any.whl",
+  "download_time": "2025-11-18T11:40:02.125584",
+  "package_url": "https://pypi.org/project/cegalprizm-pycoderunner/"
+}
