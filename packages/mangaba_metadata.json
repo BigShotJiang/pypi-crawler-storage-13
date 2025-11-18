@@ -1,0 +1,11 @@
+{
+  "name": "mangaba",
+  "version": "1.0.2",
+  "summary": "Agente de IA inteligente e versátil com protocolos A2A (Agent-to-Agent) e MCP (Model Context Protocol)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mangaba-1.0.2.tar.gz",
+  "download_time": "2025-11-18T12:45:10.754688",
+  "package_url": "https://pypi.org/project/mangaba/"
+}

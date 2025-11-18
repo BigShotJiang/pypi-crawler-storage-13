@@ -1,0 +1,11 @@
+{
+  "name": "phoenixnebula-cli",
+  "version": "1.0.3",
+  "summary": "A feature-rich, customizable Unix shell with themes and job control",
+  "author": "Salih",
+  "license": "MIT",
+  "home_page": "https://github.com/SysTechSalihY/phoenixnebula",
+  "download_filename": "phoenixnebula_cli-1.0.3.tar.gz",
+  "download_time": "2025-11-18T12:45:53.577706",
+  "package_url": "https://pypi.org/project/phoenixnebula-cli/"
+}

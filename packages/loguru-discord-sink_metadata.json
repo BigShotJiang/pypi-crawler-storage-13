@@ -1,0 +1,11 @@
+{
+  "name": "loguru-discord-sink",
+  "version": "0.1.1",
+  "summary": "A Loguru sink that outputs logs to a Discord webhook.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loguru_discord_sink-0.1.1.tar.gz",
+  "download_time": "2025-11-18T12:45:15.937673",
+  "package_url": "https://pypi.org/project/loguru-discord-sink/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "acex",
+  "version": "3.0.6",
+  "summary": "ACE-X Backend - Core automation engine and API",
+  "author": "Johan Lahti",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "acex-3.0.6.tar.gz",
+  "download_time": "2025-11-18T12:45:51.506723",
+  "package_url": "https://pypi.org/project/acex/"
+}

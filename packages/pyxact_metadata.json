@@ -1,0 +1,11 @@
+{
+  "name": "pyxact",
+  "version": "0.1.5",
+  "summary": "C#-inspired utilities for Python",
+  "author": "cet",
+  "license": null,
+  "home_page": "https://github.com/cet-t/pyxact",
+  "download_filename": "pyxact-0.1.5.tar.gz",
+  "download_time": "2025-11-18T12:45:16.963255",
+  "package_url": "https://pypi.org/project/pyxact/"
+}

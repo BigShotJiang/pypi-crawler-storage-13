@@ -1,0 +1,11 @@
+{
+  "name": "smartkey-cli",
+  "version": "5.4.2891",
+  "summary": "Equinix Smartkey CLI",
+  "author": "Equinix",
+  "license": "Apache 2.0",
+  "home_page": "https://support.smartkey.io",
+  "download_filename": "smartkey_cli-5.4.2891-py3-none-any.whl",
+  "download_time": "2025-11-18T12:45:35.517549",
+  "package_url": "https://pypi.org/project/smartkey-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlgym-ollama-llm",
+  "version": "0.3.0",
+  "summary": "A custom MLGym Ollama wrapper for seamless interactions with LlamaIndex LLMs. This wrapper enables smooth interactions with the Ollama API by automatically including necessary HTTP headers.",
+  "author": "Stratus5",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlgym_ollama_llm-0.3.0.tar.gz",
+  "download_time": "2025-11-18T12:45:36.543597",
+  "package_url": "https://pypi.org/project/mlgym-ollama-llm/"
+}

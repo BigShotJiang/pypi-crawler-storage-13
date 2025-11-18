@@ -1,0 +1,11 @@
+{
+  "name": "podcastparser",
+  "version": "0.6.11",
+  "summary": "Simplified, fast RSS parser ",
+  "author": "Thomas Perl",
+  "license": "ISC License",
+  "home_page": "http://gpodder.org/podcastparser/",
+  "download_filename": "podcastparser-0.6.11.tar.gz",
+  "download_time": "2025-11-18T12:45:31.865655",
+  "package_url": "https://pypi.org/project/podcastparser/"
+}

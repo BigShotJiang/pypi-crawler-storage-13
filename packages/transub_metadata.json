@@ -1,0 +1,11 @@
+{
+  "name": "transub",
+  "version": "0.2.2",
+  "summary": "CLI tool to transcribe and translate subtitles from videos",
+  "author": "PiktCai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "transub-0.2.2.tar.gz",
+  "download_time": "2025-11-18T12:45:50.475316",
+  "package_url": "https://pypi.org/project/transub/"
+}

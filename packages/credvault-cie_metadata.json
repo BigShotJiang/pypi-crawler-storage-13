@@ -1,0 +1,11 @@
+{
+  "name": "credvault-cie",
+  "version": "1.0.1",
+  "summary": "CredVault Intelligence Engine (CIE) - CLI utilities for AI/ML operations",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "credvault_cie-1.0.1.tar.gz",
+  "download_time": "2025-11-18T12:45:31.354681",
+  "package_url": "https://pypi.org/project/credvault-cie/"
+}

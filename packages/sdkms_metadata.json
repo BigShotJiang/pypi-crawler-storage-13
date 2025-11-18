@@ -1,0 +1,11 @@
+{
+  "name": "sdkms",
+  "version": "5.4.2891",
+  "summary": "Fortanix SDKMS REST API",
+  "author": "Fortanix",
+  "license": "Apache 2.0",
+  "home_page": "https://support.fortanix.com",
+  "download_filename": "sdkms-5.4.2891-py2.py3-none-any.whl",
+  "download_time": "2025-11-18T12:45:38.119401",
+  "package_url": "https://pypi.org/project/sdkms/"
+}

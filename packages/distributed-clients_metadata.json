@@ -1,11 +1,11 @@
 {
   "name": "distributed-clients",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "distributed_clients-0.1.0-py3-none-any.whl",
-  "download_time": "2025-11-18T09:44:38.342262",
+  "download_filename": "distributed_clients-0.2.0.tar.gz",
+  "download_time": "2025-11-18T12:45:32.892984",
   "package_url": "https://pypi.org/project/distributed-clients/"
 }
