@@ -1,0 +1,11 @@
+{
+  "name": "dimensio",
+  "version": "0.2.2",
+  "summary": "Dimensio: A flexible configuration space compression library for Bayesian Optimization",
+  "author": "Lingching Tung",
+  "license": "MIT",
+  "home_page": "https://github.com/Elubrazione/dimensio",
+  "download_filename": "dimensio-0.2.2.tar.gz",
+  "download_time": "2025-11-18T15:26:02.735955",
+  "package_url": "https://pypi.org/project/dimensio/"
+}

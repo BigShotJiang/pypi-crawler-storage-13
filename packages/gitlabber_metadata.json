@@ -1,0 +1,11 @@
+{
+  "name": "gitlabber",
+  "version": "2.0.0",
+  "summary": "A Gitlab clone/pull utility for backing up or cloning Gitlab groups",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitlabber-2.0.0.tar.gz",
+  "download_time": "2025-11-18T15:25:33.004483",
+  "package_url": "https://pypi.org/project/gitlabber/"
+}

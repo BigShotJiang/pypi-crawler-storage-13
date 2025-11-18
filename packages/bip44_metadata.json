@@ -1,0 +1,11 @@
+{
+  "name": "bip44",
+  "version": "0.1.6",
+  "summary": "Simple Python bip44 implementation. Mnemonic + bip32.",
+  "author": "Weiliang Li",
+  "license": "MIT",
+  "home_page": "https://github.com/kigawas/python-bip44",
+  "download_filename": "bip44-0.1.6.tar.gz",
+  "download_time": "2025-11-18T15:25:55.466356",
+  "package_url": "https://pypi.org/project/bip44/"
+}

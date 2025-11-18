@@ -1,0 +1,11 @@
+{
+  "name": "GeoAlchemy2",
+  "version": "0.18.1",
+  "summary": "Using SQLAlchemy with Spatial Databases",
+  "author": "Eric Lemoine",
+  "license": "MIT",
+  "home_page": "https://geoalchemy-2.readthedocs.io/en/stable/",
+  "download_filename": "geoalchemy2-0.18.1.tar.gz",
+  "download_time": "2025-11-18T15:25:47.618020",
+  "package_url": "https://pypi.org/project/GeoAlchemy2/"
+}

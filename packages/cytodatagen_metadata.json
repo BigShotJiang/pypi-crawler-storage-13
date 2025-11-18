@@ -1,0 +1,11 @@
+{
+  "name": "cytodatagen",
+  "version": "1.0.5",
+  "summary": "Generate synthetic flow cytometry data",
+  "author": "Bjarne C. Hiller",
+  "license": "MIT",
+  "home_page": "https://github.com/bckrlab/cytodatagen",
+  "download_filename": "cytodatagen-1.0.5.tar.gz",
+  "download_time": "2025-11-18T15:25:28.335809",
+  "package_url": "https://pypi.org/project/cytodatagen/"
+}

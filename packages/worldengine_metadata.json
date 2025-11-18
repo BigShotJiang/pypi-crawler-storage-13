@@ -1,0 +1,11 @@
+{
+  "name": "worldengine",
+  "version": "0.20.0",
+  "summary": "World generator simulating plate tectonics, erosion, etc.",
+  "author": "Federico Tomassetti, Bret Curtis",
+  "license": "MIT License",
+  "home_page": "http://github.com/Mindwerks/worldengine",
+  "download_filename": "worldengine-0.20.0.tar.gz",
+  "download_time": "2025-11-18T15:25:55.982737",
+  "package_url": "https://pypi.org/project/worldengine/"
+}

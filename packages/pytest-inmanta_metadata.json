@@ -1,0 +1,11 @@
+{
+  "name": "pytest-inmanta",
+  "version": "4.0.0",
+  "summary": "A py.test plugin providing fixtures to simplify inmanta modules testing.",
+  "author": "Inmanta NV",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/inmanta/pytest-inmanta",
+  "download_filename": "pytest_inmanta-4.0.0.tar.gz",
+  "download_time": "2025-11-18T15:26:01.178783",
+  "package_url": "https://pypi.org/project/pytest-inmanta/"
+}

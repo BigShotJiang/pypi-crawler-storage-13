@@ -1,0 +1,11 @@
+{
+  "name": "pangea-authn-fastmcp",
+  "version": "0.3.2",
+  "summary": "Pangea AuthN integration for FastMCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pangea_authn_fastmcp-0.3.2.tar.gz",
+  "download_time": "2025-11-18T15:26:05.871794",
+  "package_url": "https://pypi.org/project/pangea-authn-fastmcp/"
+}

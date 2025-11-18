@@ -1,0 +1,11 @@
+{
+  "name": "Neuro-fPCA-fMRI",
+  "version": "0.0.4",
+  "summary": "Functional PCA on fMRI data to extract dominant temporal components.",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "neuro_fpca_fmri-0.0.4.tar.gz",
+  "download_time": "2025-11-18T15:25:25.161439",
+  "package_url": "https://pypi.org/project/Neuro-fPCA-fMRI/"
+}
