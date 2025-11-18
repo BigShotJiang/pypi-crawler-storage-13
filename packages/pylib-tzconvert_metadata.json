@@ -1,0 +1,11 @@
+{
+  "name": "pylib-tzconvert",
+  "version": "0.1.0",
+  "summary": "Time-zone conversions and aware datetimes. Timezone utilities.",
+  "author": "pylib-tzconvert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_tzconvert-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:25:02.040445",
+  "package_url": "https://pypi.org/project/pylib-tzconvert/"
+}

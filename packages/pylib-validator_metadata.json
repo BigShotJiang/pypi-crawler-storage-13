@@ -1,0 +1,11 @@
+{
+  "name": "pylib-validator",
+  "version": "0.1.0",
+  "summary": "Validate Python objects with schema definitions. Perfect for API validation.",
+  "author": "pylib-validator",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_validator-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:25:09.812343",
+  "package_url": "https://pypi.org/project/pylib-validator/"
+}

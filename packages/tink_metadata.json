@@ -1,0 +1,11 @@
+{
+  "name": "tink",
+  "version": "1.13.0",
+  "summary": "A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+  "author": "Tink Developers",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/tink-crypto/tink-py",
+  "download_filename": "tink-1.13.0.tar.gz",
+  "download_time": "2025-11-18T07:24:52.579562",
+  "package_url": "https://pypi.org/project/tink/"
+}

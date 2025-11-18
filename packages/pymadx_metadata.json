@@ -1,0 +1,11 @@
+{
+  "name": "pymadx",
+  "version": "3.1.0",
+  "summary": "Package for loading MADX output.",
+  "author": null,
+  "license": "pymadx Copyright (C) Royal Holloway, University of London 2024\n        \n        pymadx is free software: you can redistribute it and/or modify \n        it under the terms of the GNU General Public License as published \n        by the Free Software Foundation version 3 of the License.\n        \n        pymadx is distributed in the hope that it will be useful, but \n        WITHOUT ANY WARRANTY; without even the implied warranty of\n        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n        GNU General Public License for more details.\n        \n        You should have received a copy of the GNU General Public License\n        along with pymadx.  If not, see <http://www.gnu.org/licenses/>.\n        ",
+  "home_page": null,
+  "download_filename": "pymadx-3.1.0.tar.gz",
+  "download_time": "2025-11-18T07:24:52.058351",
+  "package_url": "https://pypi.org/project/pymadx/"
+}

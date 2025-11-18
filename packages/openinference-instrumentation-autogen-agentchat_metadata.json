@@ -1,0 +1,11 @@
+{
+  "name": "openinference-instrumentation-autogen-agentchat",
+  "version": "0.1.6",
+  "summary": "OpenInference Autogen-Agentchat Instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openinference_instrumentation_autogen_agentchat-0.1.6.tar.gz",
+  "download_time": "2025-11-18T07:24:29.281758",
+  "package_url": "https://pypi.org/project/openinference-instrumentation-autogen-agentchat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pylib-optimize",
+  "version": "0.1.0",
+  "summary": "Simple optimization solvers (gradient descent, LP). Machine learning utilities.",
+  "author": "pylib-optimize",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_optimize-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:25:07.747572",
+  "package_url": "https://pypi.org/project/pylib-optimize/"
+}

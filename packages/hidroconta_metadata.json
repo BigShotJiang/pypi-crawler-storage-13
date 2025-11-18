@@ -1,0 +1,11 @@
+{
+  "name": "hidroconta",
+  "version": "1.8.0",
+  "summary": "Facilitate access to Demeter REST interface endpoints, provided by Hidroconta S.A.U.",
+  "author": "JavierL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hidroconta-1.8.0.tar.gz",
+  "download_time": "2025-11-18T07:24:23.315028",
+  "package_url": "https://pypi.org/project/hidroconta/"
+}

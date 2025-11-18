@@ -1,0 +1,11 @@
+{
+  "name": "pylib-fetcher",
+  "version": "0.1.0",
+  "summary": "Async HTTP client with caching and metrics. Network utilities for AI agents. Perfect for AI agents and LLM applications.",
+  "author": "pylib-fetcher",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_fetcher-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:25:04.113600",
+  "package_url": "https://pypi.org/project/pylib-fetcher/"
+}

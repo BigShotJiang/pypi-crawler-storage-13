@@ -1,0 +1,11 @@
+{
+  "name": "pylib-daterange",
+  "version": "0.1.0",
+  "summary": "Generate date ranges, sequences, calendars. Date range utilities.",
+  "author": "pylib-daterange",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylib_daterange-0.1.0.tar.gz",
+  "download_time": "2025-11-18T07:25:02.558898",
+  "package_url": "https://pypi.org/project/pylib-daterange/"
+}

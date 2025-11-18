@@ -1,0 +1,11 @@
+{
+  "name": "adxp-cli",
+  "version": "0.1.18",
+  "summary": "AIX Platform CLI",
+  "author": "AIX Enterprise",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "adxp_cli-0.1.18.tar.gz",
+  "download_time": "2025-11-18T07:24:44.632869",
+  "package_url": "https://pypi.org/project/adxp-cli/"
+}

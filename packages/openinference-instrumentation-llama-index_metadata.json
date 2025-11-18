@@ -1,0 +1,11 @@
+{
+  "name": "openinference-instrumentation-llama-index",
+  "version": "4.3.9",
+  "summary": "OpenInference LlamaIndex Instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openinference_instrumentation_llama_index-4.3.9.tar.gz",
+  "download_time": "2025-11-18T07:24:28.761125",
+  "package_url": "https://pypi.org/project/openinference-instrumentation-llama-index/"
+}

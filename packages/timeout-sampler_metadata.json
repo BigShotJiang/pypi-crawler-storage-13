@@ -1,0 +1,11 @@
+{
+  "name": "timeout-sampler",
+  "version": "1.0.22",
+  "summary": "Timeout utility class to wait for any function output and interact with it in given time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timeout_sampler-1.0.22.tar.gz",
+  "download_time": "2025-11-18T07:24:49.873725",
+  "package_url": "https://pypi.org/project/timeout-sampler/"
+}
