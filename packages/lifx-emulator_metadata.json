@@ -1,11 +1,11 @@
 {
   "name": "lifx-emulator",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "LIFX Emulator for testing LIFX LAN protocol libraries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lifx_emulator-2.2.0.tar.gz",
-  "download_time": "2025-11-18T05:21:45.883355",
+  "download_filename": "lifx_emulator-2.2.1.tar.gz",
+  "download_time": "2025-11-18T05:43:27.310754",
   "package_url": "https://pypi.org/project/lifx-emulator/"
 }

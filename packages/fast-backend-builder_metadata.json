@@ -1,0 +1,11 @@
+{
+  "name": "fast-backend-builder",
+  "version": "0.1.3.37",
+  "summary": "FastAPI Builder with Tortoise ORM support",
+  "author": "Japhary Juma Hamisi",
+  "license": "Other/Proprietary License",
+  "home_page": "https://github.com/jay-ludanga/fast-api-builder",
+  "download_filename": "fast_backend_builder-0.1.3.37.tar.gz",
+  "download_time": "2025-11-18T05:43:35.646521",
+  "package_url": "https://pypi.org/project/fast-backend-builder/"
+}

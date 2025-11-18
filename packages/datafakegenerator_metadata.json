@@ -1,11 +1,11 @@
 {
   "name": "datafakegenerator",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "summary": "A powerful, flexible Python library for generating realistic fake data across 700+ data types with multi-format export capabilities.",
   "author": "Franz Monzales",
   "license": null,
   "home_page": "https://github.com/ikigamisama/DataFakeGenerator",
-  "download_filename": "datafakegenerator-1.0.5.tar.gz",
-  "download_time": "2025-11-18T05:21:26.326919",
+  "download_filename": "datafakegenerator-1.1.0.tar.gz",
+  "download_time": "2025-11-18T05:43:46.462854",
   "package_url": "https://pypi.org/project/datafakegenerator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "triton-augment",
+  "version": "0.2.0",
+  "summary": "GPU-accelerated image augmentation with kernel fusion using Triton",
+  "author": "yuhezhang-ai",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/yuhezhang-ai/triton-augment",
+  "download_filename": "triton_augment-0.2.0.tar.gz",
+  "download_time": "2025-11-18T05:43:41.830922",
+  "package_url": "https://pypi.org/project/triton-augment/"
+}

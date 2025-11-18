@@ -1,0 +1,11 @@
+{
+  "name": "zsx-pack",
+  "version": "1.0.8",
+  "summary": "自用包，主要是为了logger无法屏蔽第三方包日志而开发的",
+  "author": "zsx",
+  "license": "MIT",
+  "home_page": "https://github.com/ziyueguyi/zsx_pack",
+  "download_filename": "zsx_pack-1.0.8.tar.gz",
+  "download_time": "2025-11-18T05:43:23.214527",
+  "package_url": "https://pypi.org/project/zsx-pack/"
+}

@@ -1,11 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T05:21:58.424807
-- **Total Packages**: 71
-- **Total Size**: 45.22 MB
+- **Download Time**: 2025-11-18T05:44:01.206647
+- **Total Packages**: 84
+- **Total Size**: 27.14 MB
 
 ## Packages List
+- runrms
+- django-nativemojo
+- iflow-mcp_mcp-oi-wiki
+- tokamax
+- finesse-benchmark
+- mitchallen-coin
+- star-toffee
+- pyvguicom
+- azure-cli-core
+- azure-cli
+- zsx-pack
+- ij
+- chia-wallet-sdk
+- xfyunsdkspark
+- xfyunsdkocr
+- permissible
+- xfyunsdknlp
+- xfyunsdkface
+- lifx-emulator
+- runbooks
+- cdk-factory
+- xfyunsdkcore
+- raggify
+- dlght
+- hbat
+- uf
+- solana
+- arize-phoenix
+- fastrpc-py
+- HowdenPipeline
+- robhan-cdk-lib.aws-aps
+- datus-agent
+- google-genai
+- robhan-cdk-lib.aws-mwaa
+- fast-backend-builder
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.utils
+- smtpbench
+- geoparticle
+- abstract-utilities
+- pyCADD
+- notifyme-cli
+- langchain-dev-utils
+- playwright-stealth-plugin
+- managed-file-py
+- ifpa-api
+- triton-augment
+- upgini
+- livellm
+- iflow-mcp_notion-mcp-light
+- exchange-sdk
+- qqtools
+- kumacub
+- interpreter-command
+- venuspython
+- datafakegenerator
+- flagdataset
+- iflow-mcp_mem0-mcp
+- FourCIPP
 - MoleditPy-linux
 - MoleditPy
 - qtom
@@ -14,16 +73,11 @@
 - fiftyone-devicedetection-shared
 - fiftyone-devicedetection-cloud
 - env-suite
-- abstract-utilities
-- cdk-factory
-- datafakegenerator
 - tomwer
-- venuspython
 - ray-embedding
 - nulla
 - tidas-sdk
 - par-term-emu-tui-rust
-- ij
 - cloudmersive-documentai-api-client
 - scc-firewall-manager-sdk
 - SURE-tools
@@ -36,44 +90,3 @@
 - vectorwave
 - air-waiter
 - ui-tars
-- func-validator
-- brahe
-- mitchallen-coin
-- supervisely
-- svc-infra
-- autowaterqualitymodeler
-- fair-search-packages
-- RedenPy
-- ytp-dl
-- depgate
-- semantic-compiler-core
-- raggify
-- langmiddle
-- fickling
-- fastar
-- zipstrain
-- choosegpu
-- lifx-emulator
-- gati
-- par-term-emu-core-rust
-- harbor
-- easymaker
-- anyenv
-- claude-worktree
-- dlght
-- sphinx-tojupyter
-- provide-testkit
-- django-spire
-- sapiens-tokenizer
-- unkr
-- ops-tracing
-- ops-scenario
-- ops
-- cheap-settings
-- iamdata
-- seadanceai-transcript-sdk
-- kailash-dataflow
-- scientiflow-xtbsa
-- annel
-- pycobaltix
-- purposely
