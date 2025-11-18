@@ -1,11 +1,11 @@
 {
   "name": "auto-ensemble-benchmark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Benchmark automático de modelos ensemble com métricas, ranking e validação cruzada.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "auto_ensemble_benchmark-0.1.1.tar.gz",
-  "download_time": "2025-11-18T19:22:14.409146",
+  "download_filename": "auto_ensemble_benchmark-0.1.2.tar.gz",
+  "download_time": "2025-11-18T19:38:54.591263",
   "package_url": "https://pypi.org/project/auto-ensemble-benchmark/"
 }

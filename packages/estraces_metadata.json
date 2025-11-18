@@ -1,0 +1,11 @@
+{
+  "name": "estraces",
+  "version": "1.9.10",
+  "summary": "Traces and trace header set Python library for side-channel analysis.",
+  "author": "eshard",
+  "license": null,
+  "home_page": "https://gitlab.com/eshard/estraces",
+  "download_filename": "estraces-1.9.10.tar.gz",
+  "download_time": "2025-11-18T19:38:50.416603",
+  "package_url": "https://pypi.org/project/estraces/"
+}

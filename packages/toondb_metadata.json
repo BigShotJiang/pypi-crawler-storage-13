@@ -1,11 +1,11 @@
 {
   "name": "toondb",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Multi-database adapter library that converts query results to TOON format for efficient LLM usage",
   "author": "Ameya Khot",
   "license": "MIT",
   "home_page": "https://github.com/ameyakhot/toondb",
-  "download_filename": "toondb-0.1.6.tar.gz",
-  "download_time": "2025-11-18T19:22:29.397824",
+  "download_filename": "toondb-0.1.7.tar.gz",
+  "download_time": "2025-11-18T19:38:42.828733",
   "package_url": "https://pypi.org/project/toondb/"
 }

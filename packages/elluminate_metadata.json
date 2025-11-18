@@ -1,0 +1,11 @@
+{
+  "name": "elluminate",
+  "version": "0.6.11",
+  "summary": "The Official Elluminate SDK",
+  "author": "ellamind GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elluminate-0.6.11.tar.gz",
+  "download_time": "2025-11-18T19:39:06.289131",
+  "package_url": "https://pypi.org/project/elluminate/"
+}

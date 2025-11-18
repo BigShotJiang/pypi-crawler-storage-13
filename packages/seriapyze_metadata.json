@@ -1,0 +1,11 @@
+{
+  "name": "seriapyze",
+  "version": "0.1.1",
+  "summary": "JSON, YAML, TOML serialization/deserialization for dataclasses",
+  "author": "cet",
+  "license": null,
+  "home_page": "https://github.com/cet-t/seriapyze",
+  "download_filename": "seriapyze-0.1.1.tar.gz",
+  "download_time": "2025-11-18T19:38:45.028404",
+  "package_url": "https://pypi.org/project/seriapyze/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "speechbridge",
+  "version": "1.0.0",
+  "summary": "Modular framework for automated video translation with GPU support",
+  "author": "Andrey Kolpakov",
+  "license": null,
+  "home_page": "https://github.com/speech-bridge-lib/speechbridge",
+  "download_filename": "speechbridge-1.0.0.tar.gz",
+  "download_time": "2025-11-18T19:39:15.744369",
+  "package_url": "https://pypi.org/project/speechbridge/"
+}

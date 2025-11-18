@@ -1,0 +1,11 @@
+{
+  "name": "commerce-shopper-products",
+  "version": "0.1.1",
+  "summary": "The official Python library for the commerce-shopper-products API",
+  "author": "Commerce Shopper Products",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "commerce_shopper_products-0.1.1.tar.gz",
+  "download_time": "2025-11-18T19:39:01.056057",
+  "package_url": "https://pypi.org/project/commerce-shopper-products/"
+}

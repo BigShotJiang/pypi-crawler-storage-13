@@ -1,0 +1,11 @@
+{
+  "name": "schema-validator-oluv2",
+  "version": "0.0.1",
+  "summary": "A Python package defning and validating the structure of a schema",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schema_validator_oluv2-0.0.1.tar.gz",
+  "download_time": "2025-11-18T19:39:14.638804",
+  "package_url": "https://pypi.org/project/schema-validator-oluv2/"
+}

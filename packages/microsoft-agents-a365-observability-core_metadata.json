@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-agents-a365-observability-core",
+  "version": "0.1.0.dev30",
+  "summary": "Telemetry, tracing, and monitoring components for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microsoft_agents_a365_observability_core-0.1.0.dev30.tar.gz",
+  "download_time": "2025-11-18T19:39:13.598983",
+  "package_url": "https://pypi.org/project/microsoft-agents-a365-observability-core/"
+}

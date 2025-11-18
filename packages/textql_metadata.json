@@ -1,11 +1,11 @@
 {
   "name": "textql",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Python client library for TextQL",
   "author": "TextQL Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "textql-0.2.0.tar.gz",
-  "download_time": "2025-11-18T19:22:26.264538",
+  "download_filename": "textql-0.2.2.tar.gz",
+  "download_time": "2025-11-18T19:38:49.365550",
   "package_url": "https://pypi.org/project/textql/"
 }

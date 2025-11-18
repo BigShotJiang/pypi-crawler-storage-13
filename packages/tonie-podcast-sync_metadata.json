@@ -1,0 +1,11 @@
+{
+  "name": "tonie-podcast-sync",
+  "version": "3.3.0",
+  "summary": "allows synching podcast episodes to creative tonies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tonie_podcast_sync-3.3.0.tar.gz",
+  "download_time": "2025-11-18T19:38:44.509312",
+  "package_url": "https://pypi.org/project/tonie-podcast-sync/"
+}

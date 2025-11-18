@@ -1,11 +1,11 @@
 {
   "name": "pgptracker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Integration of soil metagenomic data for correlation of microbial markers with plant biochemical indicators",
   "author": "Vivian Mello",
   "license": null,
   "home_page": "https://github.com/kiuone/PGPTracker",
-  "download_filename": "pgptracker-0.1.1.tar.gz",
-  "download_time": "2025-11-18T03:04:28.128305",
+  "download_filename": "pgptracker-0.1.2.tar.gz",
+  "download_time": "2025-11-18T19:39:04.197038",
   "package_url": "https://pypi.org/project/pgptracker/"
 }
