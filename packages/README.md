@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T05:44:01.206647
-- **Total Packages**: 84
-- **Total Size**: 27.14 MB
+- **Download Time**: 2025-11-18T05:54:47.085000
+- **Total Packages**: 82
+- **Total Size**: 11.94 MB
 
 ## Packages List
+- lanscape
+- aiida-quantumespresso
+- rds-proxy-password-rotation
+- dfm-python
+- hbat
+- formant
+- tidas-sdk
+- xfyunsdkspeech
+- checkout-intents
+- abstract-utilities
+- func-validator
+- smlight-cc-flasher
+- weakincentives
+- nexus-ai-fs
+- pydoris-custom
 - runrms
 - django-nativemojo
 - iflow-mcp_mcp-oi-wiki
@@ -30,7 +45,6 @@
 - xfyunsdkcore
 - raggify
 - dlght
-- hbat
 - uf
 - solana
 - arize-phoenix
@@ -45,7 +59,6 @@
 - robhan-cdk-lib.utils
 - smtpbench
 - geoparticle
-- abstract-utilities
 - pyCADD
 - notifyme-cli
 - langchain-dev-utils
@@ -61,7 +74,6 @@
 - kumacub
 - interpreter-command
 - venuspython
-- datafakegenerator
 - flagdataset
 - iflow-mcp_mem0-mcp
 - FourCIPP
@@ -76,17 +88,3 @@
 - tomwer
 - ray-embedding
 - nulla
-- tidas-sdk
-- par-term-emu-tui-rust
-- cloudmersive-documentai-api-client
-- scc-firewall-manager-sdk
-- SURE-tools
-- phanterpwa
-- textstyle
-- tensar
-- payme-pkg
-- typespecs
-- zaban
-- vectorwave
-- air-waiter
-- ui-tars
