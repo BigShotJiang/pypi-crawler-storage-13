@@ -1,0 +1,11 @@
+{
+  "name": "bioio-ome-zarr",
+  "version": "3.1.0",
+  "summary": "A BioIO reader plugin for reading Zarr files in the OME format.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "bioio_ome_zarr-3.1.0.tar.gz",
+  "download_time": "2025-11-18T19:54:22.367930",
+  "package_url": "https://pypi.org/project/bioio-ome-zarr/"
+}

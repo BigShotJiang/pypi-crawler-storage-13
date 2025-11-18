@@ -1,0 +1,11 @@
+{
+  "name": "django-probes",
+  "version": "1.8.0",
+  "summary": "Make Django wait until database is ready. Probes for Docker and Kubernetes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_probes-1.8.0.tar.gz",
+  "download_time": "2025-11-18T19:54:41.800949",
+  "package_url": "https://pypi.org/project/django-probes/"
+}
