@@ -1,0 +1,11 @@
+{
+  "name": "zopyx.ssl-cert-check",
+  "version": "0.4.4",
+  "summary": "A tool to check SSL certificate expiration dates.",
+  "author": "Andreas Jung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zopyx_ssl_cert_check-0.4.4.tar.gz",
+  "download_time": "2025-11-18T06:56:51.384149",
+  "package_url": "https://pypi.org/project/zopyx.ssl-cert-check/"
+}

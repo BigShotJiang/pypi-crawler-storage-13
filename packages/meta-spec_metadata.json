@@ -1,0 +1,11 @@
+{
+  "name": "meta-spec",
+  "version": "0.9.0",
+  "summary": "Meta-specification framework for generating Spec-Driven X (SD-X) toolkits for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meta_spec-0.9.0.tar.gz",
+  "download_time": "2025-11-18T06:57:07.864094",
+  "package_url": "https://pypi.org/project/meta-spec/"
+}

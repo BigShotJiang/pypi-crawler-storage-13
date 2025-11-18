@@ -1,0 +1,11 @@
+{
+  "name": "ferreus-bbfmm",
+  "version": "0.1.0",
+  "summary": "Parallel black box fast multipole method (BBFMM) library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ferreus_bbfmm-0.1.0-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-18T06:56:54.022502",
+  "package_url": "https://pypi.org/project/ferreus-bbfmm/"
+}

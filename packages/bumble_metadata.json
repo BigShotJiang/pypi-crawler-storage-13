@@ -1,0 +1,11 @@
+{
+  "name": "bumble",
+  "version": "0.0.220",
+  "summary": "Bluetooth Stack for Apps, Emulation, Test and Experimentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bumble-0.0.220.tar.gz",
+  "download_time": "2025-11-18T06:57:02.643349",
+  "package_url": "https://pypi.org/project/bumble/"
+}

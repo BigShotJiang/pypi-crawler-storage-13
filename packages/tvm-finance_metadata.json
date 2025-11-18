@@ -1,0 +1,11 @@
+{
+  "name": "tvm-finance",
+  "version": "0.1.0",
+  "summary": "Extra time value of money helpers that complement numpy_financial for real estate and finance examples.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tvm_finance-0.1.0.tar.gz",
+  "download_time": "2025-11-18T06:56:55.101094",
+  "package_url": "https://pypi.org/project/tvm-finance/"
+}
