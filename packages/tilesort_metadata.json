@@ -1,0 +1,11 @@
+{
+  "name": "tilesort",
+  "version": "0.2.0",
+  "summary": "A sorting algorithm optimized for datasets with pre-sorted contiguous blocks (tiles)",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/evanjpw/tilesort",
+  "download_filename": "tilesort-0.2.0.tar.gz",
+  "download_time": "2025-11-18T04:46:52.223714",
+  "package_url": "https://pypi.org/project/tilesort/"
+}

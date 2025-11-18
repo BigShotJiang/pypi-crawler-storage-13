@@ -1,0 +1,11 @@
+{
+  "name": "brevit-py",
+  "version": "0.1.0",
+  "summary": "A high-performance Python library for semantically compressing and optimizing data before sending it to a Large Language Model (LLM).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brevit_py-0.1.0.tar.gz",
+  "download_time": "2025-11-18T04:46:52.746192",
+  "package_url": "https://pypi.org/project/brevit-py/"
+}

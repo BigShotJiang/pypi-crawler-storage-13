@@ -1,17 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-18T04:27:45.150601
-- **Total Packages**: 86
-- **Total Size**: 28.74 MB
+- **Download Time**: 2025-11-18T04:47:20.092860
+- **Total Packages**: 83
+- **Total Size**: 8.0 MB
 
 ## Packages List
+- render-engine-pg
+- stickers-downloader
+- seadanceai-transcript-sdk
+- dlght
+- scientiflow-xtbsa
+- iflow-mcp_mcp-wolfram-alpha
+- func-validator
+- dionysus
+- grid-cortex-client
+- raggify
+- payme-pkg
+- ray-embedding
+- zaban
+- datus-snowflake
+- datus-starrocks
+- datus-mysql
+- rpatoolkit
+- datus-sqlalchemy
+- pyThermoFlash
+- async-kernel
+- cdk-factory
+- odoo-addons-oca-web
+- semantic-compiler-core
+- odoo-addon-web-chatter-position
+- Pollcord
+- datafakegenerator
+- django_ulidx
+- oncapintada
+- radicalpy
+- meta-edc
+- tilesort
+- brevit-py
+- iflow-mcp_mcp-llms-txt
+- altair-upset
+- odoo-addons-oca-stock-logistics-workflow
+- tvi-solphit-discera-capability-code
+- nexustrader
+- keras-nlp-nightly
+- keras-hub-nightly
+- ivcap_ai_tool
+- qkmx
+- proctap-pipes
+- annel
+- dde-solve
+- baytos-claro
+- telebot-wizard
 - turboloader
 - megatron-fsdp
 - megatron-core
 - appm
 - odoo-addons-oca-stock-logistics-request
-- qkmx
 - richvalues
 - rustychickpeas
 - single_cell_metabolomics
@@ -24,9 +69,7 @@
 - jupytutor
 - bayesianflow-for-chem
 - jetbase
-- dlght
 - odoo-addon-sign-oca
-- tvi-solphit-discera-capability-code
 - odoo-addons-oca-server-ux
 - odoo-addon-filter-multi-user
 - django-htmx-okayjack
@@ -46,49 +89,3 @@
 - odoo-addon-base-user-role
 - python-omnilogic-local
 - tirex-mirror
-- cdktf-cdktf-provider-local
-- iflow-mcp_scrapegraph-mcp
-- xiaozhi-sdk
-- iflow-mcp_kagimcp
-- odoo-addons-oca-sale-workflow
-- flint-python
-- fapylib
-- sqlobjects
-- cdktf-cdktf-provider-helm
-- chromedriver-binary
-- tvi-solphit-discera-capability-weather
-- iflow-mcp_biomart-mcp
-- seven-cloudapp-frame
-- hippoformer
-- programgarden
-- pulumi-kubernetes
-- iflow-mcp_meilisearch-mcp
-- alibabacloud-pai-dlc20201203
-- meta-edc
-- odoo-addon-report-qweb-field-option
-- cdktf-cdktf-provider-github
-- symusic
-- fastmcp-app-launcher-test
-- SURE-tools
-- vector-vault
-- jupyterlab-todo-list
-- GameSentenceMiner
-- cfpylib
-- hip-data-tools
-- zhmiscellany
-- judgeval
-- syncline-mcp-server
-- tree-sitter-zsh
-- cache-dit
-- ctyun-cli
-- organize-stream
-- highlighter-sdk
-- cmesdata
-- odoo-addons-oca-project
-- payme-pkg
-- ncp-sdk
-- primitive
-- ivcap_service
-- starlet-setup
-- py-node-manager
-- nonebot-plugin-templates-draw

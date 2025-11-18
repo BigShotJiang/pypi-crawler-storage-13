@@ -1,0 +1,11 @@
+{
+  "name": "datus-starrocks",
+  "version": "0.1.0",
+  "summary": "StarRocks database adapter for Datus",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datus_starrocks-0.1.0.tar.gz",
+  "download_time": "2025-11-18T04:46:43.029961",
+  "package_url": "https://pypi.org/project/datus-starrocks/"
+}

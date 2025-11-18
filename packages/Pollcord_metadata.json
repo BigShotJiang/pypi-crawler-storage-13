@@ -1,0 +1,11 @@
+{
+  "name": "Pollcord",
+  "version": "0.1b1",
+  "summary": "Async Python wrapper for Discord's native polling API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pollcord-0.1b1.tar.gz",
+  "download_time": "2025-11-18T04:46:48.889099",
+  "package_url": "https://pypi.org/project/Pollcord/"
+}

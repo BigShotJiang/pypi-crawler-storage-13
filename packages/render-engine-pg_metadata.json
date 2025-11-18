@@ -1,0 +1,11 @@
+{
+  "name": "render-engine-pg",
+  "version": "2025.11.2",
+  "summary": "A PostgreSQL parser for the Render Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "render_engine_pg-2025.11.2.tar.gz",
+  "download_time": "2025-11-18T04:46:35.134388",
+  "package_url": "https://pypi.org/project/render-engine-pg/"
+}

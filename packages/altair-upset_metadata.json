@@ -1,0 +1,11 @@
+{
+  "name": "altair-upset",
+  "version": "0.5.0",
+  "summary": "Create interactive UpSet plots using Altair",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "altair_upset-0.5.0.tar.gz",
+  "download_time": "2025-11-18T04:46:53.793997",
+  "package_url": "https://pypi.org/project/altair-upset/"
+}
