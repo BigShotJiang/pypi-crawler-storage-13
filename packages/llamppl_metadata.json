@@ -1,0 +1,11 @@
+{
+  "name": "llamppl",
+  "version": "0.2.2",
+  "summary": "Probabilistic programming with Large Language Models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llamppl-0.2.2.tar.gz",
+  "download_time": "2025-11-18T20:27:02.647730",
+  "package_url": "https://pypi.org/project/llamppl/"
+}

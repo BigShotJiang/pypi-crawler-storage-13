@@ -1,0 +1,11 @@
+{
+  "name": "anntools-bio",
+  "version": "0.1.1",
+  "summary": "A CLI-driven AnnData toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anntools_bio-0.1.1.tar.gz",
+  "download_time": "2025-11-18T20:27:18.591355",
+  "package_url": "https://pypi.org/project/anntools-bio/"
+}

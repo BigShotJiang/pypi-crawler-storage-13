@@ -1,0 +1,11 @@
+{
+  "name": "brigid",
+  "version": "0.15.1",
+  "summary": "Static site generator.",
+  "author": "Aliaksei Yaletski (Tiendil)",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "brigid-0.15.1.tar.gz",
+  "download_time": "2025-11-18T20:27:03.668345",
+  "package_url": "https://pypi.org/project/brigid/"
+}

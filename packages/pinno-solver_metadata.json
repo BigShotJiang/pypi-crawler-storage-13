@@ -1,0 +1,11 @@
+{
+  "name": "pinno-solver",
+  "version": "0.1.1",
+  "summary": "Modular, interactive framework for Physics-Informed Neural Networks (PINNs)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pinno_solver-0.1.1.tar.gz",
+  "download_time": "2025-11-18T20:27:15.007117",
+  "package_url": "https://pypi.org/project/pinno-solver/"
+}

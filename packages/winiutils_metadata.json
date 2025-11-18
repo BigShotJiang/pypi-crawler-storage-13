@@ -1,0 +1,11 @@
+{
+  "name": "winiutils",
+  "version": "0.7.33",
+  "summary": "A package with many utility functions",
+  "author": "Winipedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winiutils-0.7.33.tar.gz",
+  "download_time": "2025-11-18T20:27:12.452533",
+  "package_url": "https://pypi.org/project/winiutils/"
+}
