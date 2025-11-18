@@ -1,0 +1,11 @@
+{
+  "name": "rosamllib",
+  "version": "0.5.10",
+  "summary": "A library for reading and processing medical imaging files like DICOM, RTDOSE, RTSTRUCT, etc.",
+  "author": null,
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "rosamllib-0.5.10-py3-none-any.whl",
+  "download_time": "2025-11-18T01:43:10.507581",
+  "package_url": "https://pypi.org/project/rosamllib/"
+}

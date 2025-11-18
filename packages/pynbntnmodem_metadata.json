@@ -1,0 +1,11 @@
+{
+  "name": "pynbntnmodem",
+  "version": "0.6.16",
+  "summary": "Library for interfacing to Narrowband Non-Terrestrial Network modems using AT commands.",
+  "author": "geoffbrucepayne",
+  "license": "Apache2.0",
+  "home_page": null,
+  "download_filename": "pynbntnmodem-0.6.16.tar.gz",
+  "download_time": "2025-11-18T01:43:28.021384",
+  "package_url": "https://pypi.org/project/pynbntnmodem/"
+}

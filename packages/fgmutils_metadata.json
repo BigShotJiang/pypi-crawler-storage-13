@@ -1,0 +1,11 @@
+{
+  "name": "fgmutils",
+  "version": "1.0.0",
+  "summary": "Forest Growth Model Utilities",
+  "author": "Ana Paula Simiqueli, Gilson Fernandes da Silva, Miqueias Fernandes, Wagner Amorim da Silva Altoe",
+  "license": "GPL-2",
+  "home_page": null,
+  "download_filename": "fgmutils-1.0.0.tar.gz",
+  "download_time": "2025-11-18T01:43:27.442442",
+  "package_url": "https://pypi.org/project/fgmutils/"
+}

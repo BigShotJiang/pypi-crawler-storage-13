@@ -1,0 +1,11 @@
+{
+  "name": "nebula-client",
+  "version": "0.1.11",
+  "summary": "Official Python SDK for Nebula API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nebula_client-0.1.11.tar.gz",
+  "download_time": "2025-11-18T01:43:57.276154",
+  "package_url": "https://pypi.org/project/nebula-client/"
+}

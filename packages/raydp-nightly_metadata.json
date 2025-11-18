@@ -1,0 +1,11 @@
+{
+  "name": "raydp-nightly",
+  "version": "2025.11.18.dev0",
+  "summary": "RayDP: Distributed Data Processing on Ray",
+  "author": "RayDP Developers",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/oap-project/raydp",
+  "download_filename": "raydp_nightly-2025.11.18.dev0-py3-none-any.whl",
+  "download_time": "2025-11-18T01:43:15.148720",
+  "package_url": "https://pypi.org/project/raydp-nightly/"
+}

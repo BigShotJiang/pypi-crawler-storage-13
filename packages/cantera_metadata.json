@@ -1,0 +1,11 @@
+{
+  "name": "cantera",
+  "version": "3.2.0",
+  "summary": "Cantera is an open-source suite of tools for problems involving chemical kinetics, thermodynamics, and transport processes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cantera-3.2.0.tar.gz",
+  "download_time": "2025-11-18T01:43:19.796761",
+  "package_url": "https://pypi.org/project/cantera/"
+}

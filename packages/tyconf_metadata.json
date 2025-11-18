@@ -1,11 +1,11 @@
 {
   "name": "tyconf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "TyConf - Type-safe Configuration Management for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tyconf-1.0.0.tar.gz",
-  "download_time": "2025-11-17T23:51:35.753087",
+  "download_filename": "tyconf-1.0.1.tar.gz",
+  "download_time": "2025-11-18T01:43:42.687901",
   "package_url": "https://pypi.org/project/tyconf/"
 }
