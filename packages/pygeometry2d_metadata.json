@@ -1,0 +1,11 @@
+{
+  "name": "pygeometry2d",
+  "version": "1.2.0",
+  "summary": "2D Geometry Library",
+  "author": "Leonardo Pires Batista",
+  "license": "MIT License",
+  "home_page": "https://github.com/leonardopbatista/pygeometry2d",
+  "download_filename": "pygeometry2d-1.2.0.tar.gz",
+  "download_time": "2025-11-18T21:52:34.741435",
+  "package_url": "https://pypi.org/project/pygeometry2d/"
+}

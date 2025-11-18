@@ -1,0 +1,11 @@
+{
+  "name": "artifact-torch",
+  "version": "0.1.4",
+  "summary": "Artifact-ML PyTorch integration: declarative builder toolkit for reusable deep learning workflows.",
+  "author": "Vasileios Ektor Papoulias",
+  "license": "MIT",
+  "home_page": "https://github.com/vasileios-ektor-papoulias/artifact-ml",
+  "download_filename": "artifact_torch-0.1.4.tar.gz",
+  "download_time": "2025-11-18T21:52:17.621688",
+  "package_url": "https://pypi.org/project/artifact-torch/"
+}

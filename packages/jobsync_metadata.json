@@ -1,0 +1,11 @@
+{
+  "name": "jobsync",
+  "version": "1.1.1",
+  "summary": "Simple Sync Manager",
+  "author": "bissli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jobsync-1.1.1.tar.gz",
+  "download_time": "2025-11-18T21:52:28.474968",
+  "package_url": "https://pypi.org/project/jobsync/"
+}

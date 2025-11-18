@@ -1,0 +1,11 @@
+{
+  "name": "redata",
+  "version": "0.6.0",
+  "summary": "Commons code used by ReDATA software",
+  "author": "Research Engagement (University of Arizona Libraries)",
+  "license": "MIT License",
+  "home_page": "https://github.com/UAL-RE/redata-commons/",
+  "download_filename": "redata-0.6.0.tar.gz",
+  "download_time": "2025-11-18T21:52:29.500924",
+  "package_url": "https://pypi.org/project/redata/"
+}

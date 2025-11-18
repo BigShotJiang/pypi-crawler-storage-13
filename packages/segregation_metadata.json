@@ -1,0 +1,11 @@
+{
+  "name": "segregation",
+  "version": "2.5.3",
+  "summary": "Analytics for spatial and non-spatial segregation in Python.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "segregation-2.5.3-py3-none-any.whl",
+  "download_time": "2025-11-18T21:52:19.174960",
+  "package_url": "https://pypi.org/project/segregation/"
+}
