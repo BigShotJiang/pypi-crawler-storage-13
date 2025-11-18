@@ -1,0 +1,11 @@
+{
+  "name": "sonicpure",
+  "version": "0.1.1",
+  "summary": "Audio noise reduction and enhancement library with multiple engines",
+  "author": "Mehmet Yerli",
+  "license": "MIT",
+  "home_page": "https://github.com/mytsx/sonicpure",
+  "download_filename": "sonicpure-0.1.1.tar.gz",
+  "download_time": "2025-11-18T13:49:33.873821",
+  "package_url": "https://pypi.org/project/sonicpure/"
+}

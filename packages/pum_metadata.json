@@ -1,11 +1,11 @@
 {
   "name": "pum",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Pum stands for \"Postgres Upgrades Manager\". It is a Database migration management tool very similar to flyway-db or Liquibase, based on metadata tables.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pum-1.2.0.tar.gz",
-  "download_time": "2025-11-18T09:25:31.152605",
+  "download_filename": "pum-1.2.1.tar.gz",
+  "download_time": "2025-11-18T13:50:01.874776",
   "package_url": "https://pypi.org/project/pum/"
 }

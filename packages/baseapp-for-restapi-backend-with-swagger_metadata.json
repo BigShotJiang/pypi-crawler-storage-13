@@ -1,0 +1,11 @@
+{
+  "name": "baseapp-for-restapi-backend-with-swagger",
+  "version": "0.5.43",
+  "summary": "Python package which provides a base application class for an app with a restapi backend that provides a swagger",
+  "author": "Robert Metcalf",
+  "license": "MIT",
+  "home_page": "https://github.com/rmetcalf9/baseapp_for_restapi_backend_with_swagger",
+  "download_filename": "baseapp_for_restapi_backend_with_swagger-0.5.43.tar.gz",
+  "download_time": "2025-11-18T13:49:39.111998",
+  "package_url": "https://pypi.org/project/baseapp-for-restapi-backend-with-swagger/"
+}

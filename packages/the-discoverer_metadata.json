@@ -1,0 +1,11 @@
+{
+  "name": "the-discoverer",
+  "version": "1.0.0",
+  "summary": "AI-powered database discovery and query agent",
+  "author": "Malek Khannoussi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "the_discoverer-1.0.0.tar.gz",
+  "download_time": "2025-11-18T13:49:57.883652",
+  "package_url": "https://pypi.org/project/the-discoverer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-catalog-books",
+  "version": "2.0.2",
+  "summary": "DjangoCMS Catalog of Books",
+  "author": "Zdeněk Böhm, CZ.NIC",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.nic.cz/djangocms-apps/djangocms-catalog-books",
+  "download_filename": "djangocms_catalog_books-2.0.2.tar.gz",
+  "download_time": "2025-11-18T13:49:41.457860",
+  "package_url": "https://pypi.org/project/djangocms-catalog-books/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "acedeploy",
+  "version": "2.4.287",
+  "summary": "Deployment framework for Snowflake DWH",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acedeploy-2.4.287.tar.gz",
+  "download_time": "2025-11-18T13:49:43.763741",
+  "package_url": "https://pypi.org/project/acedeploy/"
+}

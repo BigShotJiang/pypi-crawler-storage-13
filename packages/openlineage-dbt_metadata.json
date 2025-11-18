@@ -1,0 +1,11 @@
+{
+  "name": "openlineage-dbt",
+  "version": "1.40.1",
+  "summary": "OpenLineage integration with dbt",
+  "author": "OpenLineage",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openlineage_dbt-1.40.1-py3-none-any.whl",
+  "download_time": "2025-11-18T13:50:04.075538",
+  "package_url": "https://pypi.org/project/openlineage-dbt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "object-store-abstraction",
+  "version": "0.4.13",
+  "summary": "Python package which provides an abstract object store",
+  "author": "Robert Metcalf",
+  "license": "MIT",
+  "home_page": "https://github.com/rmetcalf9/object_store_abstraction",
+  "download_filename": "object_store_abstraction-0.4.13.tar.gz",
+  "download_time": "2025-11-18T13:49:44.909747",
+  "package_url": "https://pypi.org/project/object-store-abstraction/"
+}
