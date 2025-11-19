@@ -1,0 +1,11 @@
+{
+  "name": "narration",
+  "version": "0.2.21",
+  "summary": "Narration is a logging library starting a server receiving log records from other process.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "narration-0.2.21.tar.gz",
+  "download_time": "2025-11-19T04:28:10.944290",
+  "package_url": "https://pypi.org/project/narration/"
+}

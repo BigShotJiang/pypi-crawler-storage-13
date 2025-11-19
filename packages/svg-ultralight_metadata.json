@@ -1,11 +1,11 @@
 {
   "name": "svg-ultralight",
-  "version": "0.57.3",
+  "version": "0.59.0",
   "summary": "a sensible way to create svg files with Python",
   "author": "Shay Hill",
   "license": null,
   "home_page": null,
-  "download_filename": "svg_ultralight-0.57.3.tar.gz",
-  "download_time": "2025-11-18T03:52:27.364483",
+  "download_filename": "svg_ultralight-0.59.0.tar.gz",
+  "download_time": "2025-11-19T04:27:51.564384",
   "package_url": "https://pypi.org/project/svg-ultralight/"
 }

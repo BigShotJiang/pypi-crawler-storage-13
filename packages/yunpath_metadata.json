@@ -1,0 +1,11 @@
+{
+  "name": "yunpath",
+  "version": "0.1.1",
+  "summary": "Monkey patch cloudpathlib to fix issues or add features",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yunpath-0.1.1.tar.gz",
+  "download_time": "2025-11-19T04:27:48.849953",
+  "package_url": "https://pypi.org/project/yunpath/"
+}
