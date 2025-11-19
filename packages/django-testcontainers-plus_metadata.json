@@ -1,0 +1,11 @@
+{
+  "name": "django-testcontainers-plus",
+  "version": "0.1.1",
+  "summary": "A plug-and-play testcontainers integration for Django - supports databases, Redis, MinIO, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_testcontainers_plus-0.1.1.tar.gz",
+  "download_time": "2025-11-19T23:21:03.970177",
+  "package_url": "https://pypi.org/project/django-testcontainers-plus/"
+}

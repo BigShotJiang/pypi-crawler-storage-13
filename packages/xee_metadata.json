@@ -1,0 +1,11 @@
+{
+  "name": "xee",
+  "version": "0.0.23",
+  "summary": "A Google Earth Engine extension for Xarray.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xee-0.0.23.tar.gz",
+  "download_time": "2025-11-19T23:21:12.808372",
+  "package_url": "https://pypi.org/project/xee/"
+}

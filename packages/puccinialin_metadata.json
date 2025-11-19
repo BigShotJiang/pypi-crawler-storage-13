@@ -1,11 +1,11 @@
 {
   "name": "puccinialin",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Install rust into a temporary directory for boostrapping a rust-based build backend",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "puccinialin-0.1.7.tar.gz",
-  "download_time": "2025-11-19T22:43:13.973262",
+  "download_filename": "puccinialin-0.1.8.tar.gz",
+  "download_time": "2025-11-19T23:21:22.102127",
   "package_url": "https://pypi.org/project/puccinialin/"
 }

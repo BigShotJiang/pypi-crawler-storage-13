@@ -1,11 +1,11 @@
 {
   "name": "tetra-rp",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "summary": "A Python library for distributed inference and serving of machine learning models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tetra_rp-0.17.0.tar.gz",
-  "download_time": "2025-11-19T17:40:40.947826",
+  "download_filename": "tetra_rp-0.17.1.tar.gz",
+  "download_time": "2025-11-19T23:21:30.907581",
   "package_url": "https://pypi.org/project/tetra-rp/"
 }

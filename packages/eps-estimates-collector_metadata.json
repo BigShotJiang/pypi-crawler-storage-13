@@ -1,11 +1,11 @@
 {
   "name": "eps-estimates-collector",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Extract quarterly EPS estimates from FactSet Earnings Insight reports using OCR",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eps_estimates_collector-0.2.0.tar.gz",
-  "download_time": "2025-11-19T22:43:08.280642",
+  "download_filename": "eps_estimates_collector-0.2.3.tar.gz",
+  "download_time": "2025-11-19T23:20:54.624250",
   "package_url": "https://pypi.org/project/eps-estimates-collector/"
 }

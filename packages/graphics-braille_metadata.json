@@ -1,0 +1,11 @@
+{
+  "name": "graphics-braille",
+  "version": "0.2.1",
+  "summary": "Create Braille maps for simple Turtle program output",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphics_braille-0.2.1.tar.gz",
+  "download_time": "2025-11-19T23:21:11.766365",
+  "package_url": "https://pypi.org/project/graphics-braille/"
+}

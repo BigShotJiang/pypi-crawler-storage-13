@@ -1,0 +1,11 @@
+{
+  "name": "ort-python",
+  "version": "1.1.0",
+  "summary": "Object Record Table - a CSV like structured data format with native object and array support.",
+  "author": "BACKGWA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ort_python-1.1.0.tar.gz",
+  "download_time": "2025-11-19T23:20:56.686392",
+  "package_url": "https://pypi.org/project/ort-python/"
+}

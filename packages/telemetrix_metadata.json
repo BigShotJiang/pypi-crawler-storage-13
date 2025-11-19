@@ -1,0 +1,11 @@
+{
+  "name": "telemetrix",
+  "version": "1.46",
+  "summary": "Telemetrix Client",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "telemetrix-1.46.tar.gz",
+  "download_time": "2025-11-19T23:21:01.393313",
+  "package_url": "https://pypi.org/project/telemetrix/"
+}

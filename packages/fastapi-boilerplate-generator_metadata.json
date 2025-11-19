@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-boilerplate-generator",
+  "version": "0.2.2",
+  "summary": "AI-powered CLI tool that generates production-ready FastAPI projects with clean architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_boilerplate_generator-0.2.2.tar.gz",
+  "download_time": "2025-11-19T23:21:12.289472",
+  "package_url": "https://pypi.org/project/fastapi-boilerplate-generator/"
+}

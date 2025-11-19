@@ -1,0 +1,11 @@
+{
+  "name": "yescarpenter",
+  "version": "0.3.2",
+  "summary": "A library providing frequently used functions in data analysis for YESlab members and other researchers",
+  "author": "Shangcheng Zhao",
+  "license": null,
+  "home_page": "https://github.com/shangchengzhao/yescarpenter.git",
+  "download_filename": "yescarpenter-0.3.2.tar.gz",
+  "download_time": "2025-11-19T23:20:55.146684",
+  "package_url": "https://pypi.org/project/yescarpenter/"
+}

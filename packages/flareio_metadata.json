@@ -1,0 +1,11 @@
+{
+  "name": "flareio",
+  "version": "1.2.0",
+  "summary": "Python SDK for the flare.io API.",
+  "author": "Alexandre Viau",
+  "license": "MIT",
+  "home_page": "https://github.com/Flared/python-flareio",
+  "download_filename": "flareio-1.2.0.tar.gz",
+  "download_time": "2025-11-19T23:20:56.173821",
+  "package_url": "https://pypi.org/project/flareio/"
+}
