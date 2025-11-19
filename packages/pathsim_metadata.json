@@ -1,0 +1,11 @@
+{
+  "name": "pathsim",
+  "version": "0.13.0",
+  "summary": "A differentiable block based hybrid system simulation framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathsim-0.13.0.tar.gz",
+  "download_time": "2025-11-19T14:54:28.530889",
+  "package_url": "https://pypi.org/project/pathsim/"
+}

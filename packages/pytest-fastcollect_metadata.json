@@ -1,11 +1,11 @@
 {
   "name": "pytest-fastcollect",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A high-performance pytest plugin that replaces test collection with a Rust-based implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_fastcollect-0.5.1.tar.gz",
-  "download_time": "2025-11-19T13:55:54.571838",
+  "download_filename": "pytest_fastcollect-0.5.2.tar.gz",
+  "download_time": "2025-11-19T14:54:52.091913",
   "package_url": "https://pypi.org/project/pytest-fastcollect/"
 }

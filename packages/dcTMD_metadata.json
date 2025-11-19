@@ -1,0 +1,11 @@
+{
+  "name": "dcTMD",
+  "version": "0.4.0",
+  "summary": "Analyse targeted molecular dynamics data with dcTMD",
+  "author": "taenzel, dieJaegerIn, braniii, floWneffetS",
+  "license": "MIT License",
+  "home_page": "https://github.com/moldyn/dcTMD",
+  "download_filename": "dctmd-0.4.0.tar.gz",
+  "download_time": "2025-11-19T14:54:20.685821",
+  "package_url": "https://pypi.org/project/dcTMD/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tsdt",
+  "version": "0.1.0",
+  "summary": "A lightweight and fast utility for converting timestamps to datetime and back. Provides a simple CLI and a clean Python API for working with Unix time, ISO8601 strings, and human-readable formats.",
+  "author": "Oleg Patsay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsdt-0.1.0.tar.gz",
+  "download_time": "2025-11-19T14:54:50.479421",
+  "package_url": "https://pypi.org/project/tsdt/"
+}

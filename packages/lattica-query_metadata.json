@@ -1,0 +1,11 @@
+{
+  "name": "lattica-query",
+  "version": "1.1.0",
+  "summary": "Client package for running inference queries on the LatticaAI platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lattica_query-1.1.0-py3-none-any.whl",
+  "download_time": "2025-11-19T14:54:34.778545",
+  "package_url": "https://pypi.org/project/lattica-query/"
+}

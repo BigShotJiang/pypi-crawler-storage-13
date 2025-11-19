@@ -1,0 +1,11 @@
+{
+  "name": "envlog",
+  "version": "0.1.0",
+  "summary": "Rust RUST_LOG-style environment variable configuration for Python logging",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envlog-0.1.0.tar.gz",
+  "download_time": "2025-11-19T14:54:55.774622",
+  "package_url": "https://pypi.org/project/envlog/"
+}

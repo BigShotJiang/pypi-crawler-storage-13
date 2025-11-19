@@ -1,0 +1,11 @@
+{
+  "name": "zalfmas-fbp",
+  "version": "0.2.27",
+  "summary": "lib and tooling for Cap'n Proto-based FBP flows",
+  "author": "Michael Berg-Mohnicke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zalfmas_fbp-0.2.27.tar.gz",
+  "download_time": "2025-11-19T14:55:02.455750",
+  "package_url": "https://pypi.org/project/zalfmas-fbp/"
+}

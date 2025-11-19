@@ -1,0 +1,11 @@
+{
+  "name": "aiven-client",
+  "version": "4.11.0",
+  "summary": "Aiven.io client library / command-line client",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "aiven_client-4.11.0.tar.gz",
+  "download_time": "2025-11-19T14:54:17.601525",
+  "package_url": "https://pypi.org/project/aiven-client/"
+}
