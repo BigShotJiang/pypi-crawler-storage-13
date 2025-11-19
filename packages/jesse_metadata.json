@@ -1,0 +1,11 @@
+{
+  "name": "jesse",
+  "version": "1.12.0",
+  "summary": "A trading framework for cryptocurrencies",
+  "author": "Saleh Mir",
+  "license": null,
+  "home_page": "https://jesse.trade",
+  "download_filename": "jesse-1.12.0.tar.gz",
+  "download_time": "2025-11-19T13:34:28.518546",
+  "package_url": "https://pypi.org/project/jesse/"
+}
