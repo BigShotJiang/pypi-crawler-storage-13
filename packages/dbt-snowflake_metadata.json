@@ -1,0 +1,11 @@
+{
+  "name": "dbt-snowflake",
+  "version": "1.10.3",
+  "summary": "The Snowflake adapter plugin for dbt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_snowflake-1.10.3.tar.gz",
+  "download_time": "2025-11-19T15:24:27.226108",
+  "package_url": "https://pypi.org/project/dbt-snowflake/"
+}

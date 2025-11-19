@@ -1,0 +1,11 @@
+{
+  "name": "disco-data-logger",
+  "version": "0.1.2",
+  "summary": "Data logger for Disco simulations",
+  "author": "Michiel Jansen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "disco_data_logger-0.1.2.tar.gz",
+  "download_time": "2025-11-19T15:24:16.748053",
+  "package_url": "https://pypi.org/project/disco-data-logger/"
+}

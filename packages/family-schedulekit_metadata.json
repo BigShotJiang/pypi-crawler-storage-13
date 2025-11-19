@@ -1,0 +1,11 @@
+{
+  "name": "family-schedulekit",
+  "version": "1.2.0",
+  "summary": "AI-friendly schema + utilities for co-parenting / custody schedules (ISO week based).",
+  "author": "Weekend Superhero LLC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "family_schedulekit-1.2.0.tar.gz",
+  "download_time": "2025-11-19T15:24:25.097246",
+  "package_url": "https://pypi.org/project/family-schedulekit/"
+}

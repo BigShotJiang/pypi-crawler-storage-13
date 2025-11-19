@@ -1,0 +1,11 @@
+{
+  "name": "pds-epitome",
+  "version": "3.22.0",
+  "summary": "A small demonstration of the PDS Python repository template",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/nasa-pds-engineering-node/epitome",
+  "download_filename": "pds_epitome-3.22.0-py3-none-any.whl",
+  "download_time": "2025-11-19T15:24:51.430589",
+  "package_url": "https://pypi.org/project/pds-epitome/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "any-agent2agent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Toolkit for normalizing Agent Protocol (Agent2Agent) communication.",
   "author": "ralongit",
   "license": null,
   "home_page": null,
-  "download_filename": "any_agent2agent-0.0.1.tar.gz",
-  "download_time": "2025-11-19T13:34:11.688682",
+  "download_filename": "any_agent2agent-0.0.2.tar.gz",
+  "download_time": "2025-11-19T15:24:31.392125",
   "package_url": "https://pypi.org/project/any-agent2agent/"
 }

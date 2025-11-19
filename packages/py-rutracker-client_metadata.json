@@ -1,0 +1,11 @@
+{
+  "name": "py-rutracker-client",
+  "version": "0.2.0",
+  "summary": "Библиотека для работы с RuTracker API - поиск раздач и скачивание торрентов",
+  "author": "GvozdevAD",
+  "license": "MIT",
+  "home_page": "https://github.com/GvozdevAD/py_rutracker",
+  "download_filename": "py_rutracker_client-0.2.0.tar.gz",
+  "download_time": "2025-11-19T15:24:34.019862",
+  "package_url": "https://pypi.org/project/py-rutracker-client/"
+}

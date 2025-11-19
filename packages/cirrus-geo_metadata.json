@@ -1,0 +1,11 @@
+{
+  "name": "cirrus-geo",
+  "version": "1.2.0",
+  "summary": "AWS-native STAC-based processing pipeline",
+  "author": "Matthew Hanson (matthewhanson)",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "cirrus_geo-1.2.0.tar.gz",
+  "download_time": "2025-11-19T15:24:19.819600",
+  "package_url": "https://pypi.org/project/cirrus-geo/"
+}

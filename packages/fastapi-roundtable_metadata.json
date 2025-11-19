@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-roundtable",
+  "version": "0.1.0",
+  "summary": "Invisible bot protection for FastAPI applications using Roundtable.ai Proof-of-Human detection",
+  "author": "Leandro Lima",
+  "license": "MIT",
+  "home_page": "https://github.com/leandropls/fastapi-roundtable",
+  "download_filename": "fastapi_roundtable-0.1.0.tar.gz",
+  "download_time": "2025-11-19T15:24:38.166297",
+  "package_url": "https://pypi.org/project/fastapi-roundtable/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wcg",
+  "version": "0.1.0",
+  "summary": "Watch Commits for Git - Automated GitHub commit summarization with LLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wcg-0.1.0.tar.gz",
+  "download_time": "2025-11-19T15:24:40.808689",
+  "package_url": "https://pypi.org/project/wcg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kailash-kaizen",
+  "version": "0.6.9",
+  "summary": "Advanced AI agent framework built on Kailash SDK",
+  "author": "Kailash Team",
+  "license": "Apache-2.0 WITH Additional-Terms",
+  "home_page": "https://github.com/Integrum-Global/kailash_python_sdk",
+  "download_filename": "kailash_kaizen-0.6.9.tar.gz",
+  "download_time": "2025-11-19T15:24:42.404629",
+  "package_url": "https://pypi.org/project/kailash-kaizen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "saclay-format",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "python parser and usefull script related to the saclay format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "saclay_format-0.2.6.tar.gz",
-  "download_time": "2025-11-19T14:54:49.968472",
+  "download_filename": "saclay_format-0.2.8.tar.gz",
+  "download_time": "2025-11-19T15:24:35.088361",
   "package_url": "https://pypi.org/project/saclay-format/"
 }

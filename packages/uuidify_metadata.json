@@ -1,0 +1,11 @@
+{
+  "name": "uuidify",
+  "version": "0.1.0",
+  "summary": "Official Python client for the UUIDify API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uuidify-0.1.0.tar.gz",
+  "download_time": "2025-11-19T15:24:35.599827",
+  "package_url": "https://pypi.org/project/uuidify/"
+}

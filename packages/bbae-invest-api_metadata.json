@@ -1,0 +1,11 @@
+{
+  "name": "bbae-invest-api",
+  "version": "0.1.4",
+  "summary": "Unofficial BBAE Invest API written in Python Requests",
+  "author": "Oswaldo Romero",
+  "license": null,
+  "home_page": "https://github.com/ImNotOssy/BBAE_investing_API",
+  "download_filename": "bbae_invest_api-0.1.4.tar.gz",
+  "download_time": "2025-11-19T15:24:30.341169",
+  "package_url": "https://pypi.org/project/bbae-invest-api/"
+}
