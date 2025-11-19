@@ -1,17 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T06:58:18.501630
+- **Download Time**: 2025-11-19T07:26:41.063987
 - **Total Packages**: 86
-- **Total Size**: 31.87 MB
+- **Total Size**: 7.1 MB
 
 ## Packages List
-- playwright-stealth-plugin
-- alphascore
-- jettask
-- finter
-- apppy-env
-- apppy-logger
 - webimage
 - apppy-clients
 - literate_python
@@ -34,7 +28,9 @@
 - rxiv-maker
 - seedream-mcp
 - tap-readthedocs
+- dl-backtrace
 - medusa-security
+- playwright-stealth-plugin
 - c3d-parser
 - pyfemtet-opt-gui
 - pyqula
@@ -72,6 +68,7 @@
 - proxpi
 - decomposition-umap
 - tree-py-shiso
+- alphascore
 - nb-path
 - kaist-or-gym
 - fun-things
@@ -92,3 +89,6 @@
 - flamepy
 - fastapi-api-key
 - async-kernel
+- grobid-client-python
+- surface-construct
+- cccc-pair

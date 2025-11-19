@@ -1,11 +1,11 @@
 {
   "name": "llm-mcp-score",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A minimal MCP service for testing LLM understanding and invocation of MCP tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_mcp_score-0.1.1.tar.gz",
-  "download_time": "2025-11-19T06:58:15.946307",
+  "download_filename": "llm_mcp_score-0.1.2.tar.gz",
+  "download_time": "2025-11-19T07:26:35.795920",
   "package_url": "https://pypi.org/project/llm-mcp-score/"
 }

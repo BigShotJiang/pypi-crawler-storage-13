@@ -1,0 +1,11 @@
+{
+  "name": "dl-backtrace",
+  "version": "0.1.0",
+  "summary": "A python SDK for Deep Learning Backtrace",
+  "author": null,
+  "license": "Lexsi Labs Source Available License (LSAL) v1.0",
+  "home_page": "https://xai.arya.ai/docs/introduction",
+  "download_filename": "dl_backtrace-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-19T07:26:01.914018",
+  "package_url": "https://pypi.org/project/dl-backtrace/"
+}

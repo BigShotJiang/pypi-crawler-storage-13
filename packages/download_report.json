@@ -1,14 +1,8 @@
 {
-  "download_time": "2025-11-19T06:58:18.501630",
+  "download_time": "2025-11-19T07:26:41.063987",
   "total_packages_downloaded": 86,
-  "total_size_mb": 31.87,
+  "total_size_mb": 7.1,
   "packages": [
-    "playwright-stealth-plugin",
-    "alphascore",
-    "jettask",
-    "finter",
-    "apppy-env",
-    "apppy-logger",
     "webimage",
     "apppy-clients",
     "literate_python",
@@ -31,7 +25,9 @@
     "rxiv-maker",
     "seedream-mcp",
     "tap-readthedocs",
+    "dl-backtrace",
     "medusa-security",
+    "playwright-stealth-plugin",
     "c3d-parser",
     "pyfemtet-opt-gui",
     "pyqula",
@@ -69,6 +65,7 @@
     "proxpi",
     "decomposition-umap",
     "tree-py-shiso",
+    "alphascore",
     "nb-path",
     "kaist-or-gym",
     "fun-things",
@@ -88,6 +85,9 @@
     "dew-gwdata",
     "flamepy",
     "fastapi-api-key",
-    "async-kernel"
+    "async-kernel",
+    "grobid-client-python",
+    "surface-construct",
+    "cccc-pair"
   ]
 }
