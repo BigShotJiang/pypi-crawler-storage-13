@@ -1,11 +1,11 @@
 {
   "name": "keynet-core",
-  "version": "0.8.1",
+  "version": "0.8.4",
   "summary": "Core utilities and models for keynet packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keynet_core-0.8.1.tar.gz",
-  "download_time": "2025-11-19T10:26:11.121149",
+  "download_filename": "keynet_core-0.8.4.tar.gz",
+  "download_time": "2025-11-19T11:40:42.296500",
   "package_url": "https://pypi.org/project/keynet-core/"
 }

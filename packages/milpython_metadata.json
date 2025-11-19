@@ -1,0 +1,11 @@
+{
+  "name": "milpython",
+  "version": "0.6.0",
+  "summary": "Framework for building MILP optimizations for time series with gurobipy",
+  "author": "Hannes Hanse",
+  "license": "MIT",
+  "home_page": "https://github.com/hanneshanse/MilPython",
+  "download_filename": "milpython-0.6.0.tar.gz",
+  "download_time": "2025-11-19T11:40:50.752894",
+  "package_url": "https://pypi.org/project/milpython/"
+}

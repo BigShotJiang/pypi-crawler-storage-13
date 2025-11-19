@@ -1,0 +1,11 @@
+{
+  "name": "dscaper",
+  "version": "1.6.5",
+  "summary": "A library for soundscape synthesis and augmentation",
+  "author": "Justin Salamon, Duncan MacConnell, David Grünert",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/cyrta/dscaper",
+  "download_filename": "dscaper-1.6.5.tar.gz",
+  "download_time": "2025-11-19T11:40:44.946401",
+  "package_url": "https://pypi.org/project/dscaper/"
+}

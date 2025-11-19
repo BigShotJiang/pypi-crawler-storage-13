@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.lockingbehavior",
+  "version": "2.0.3",
+  "summary": "Locking integration for dexterity content objects.",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.app.lockingbehavior/",
+  "download_filename": "plone_app_lockingbehavior-2.0.3.tar.gz",
+  "download_time": "2025-11-19T11:40:35.359079",
+  "package_url": "https://pypi.org/project/plone.app.lockingbehavior/"
+}

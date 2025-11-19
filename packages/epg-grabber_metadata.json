@@ -1,0 +1,11 @@
+{
+  "name": "epg-grabber",
+  "version": "2.1.0",
+  "summary": "Czech TV EPG Grabber for XMLTV format with multi-source support",
+  "author": "Róbert Malovec",
+  "license": null,
+  "home_page": "https://github.com/robco/czech-tv-epg-grabber",
+  "download_filename": "epg_grabber-2.1.0.tar.gz",
+  "download_time": "2025-11-19T11:40:30.081795",
+  "package_url": "https://pypi.org/project/epg-grabber/"
+}

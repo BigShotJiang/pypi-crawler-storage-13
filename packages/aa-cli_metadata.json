@@ -1,11 +1,11 @@
 {
   "name": "aa-cli",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Automatic human-readable ID assignment for Asana tasks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aa_cli-0.1.0.tar.gz",
-  "download_time": "2025-11-19T11:20:15.610436",
+  "download_filename": "aa_cli-0.3.0.tar.gz",
+  "download_time": "2025-11-19T11:40:15.151122",
   "package_url": "https://pypi.org/project/aa-cli/"
 }

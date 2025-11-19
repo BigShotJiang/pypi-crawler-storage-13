@@ -1,0 +1,11 @@
+{
+  "name": "Products.ZPsycopgDA",
+  "version": "5.0",
+  "summary": "Zope database adapter for PostGreSQL",
+  "author": "Federico Di Gregorio",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/dataflake/Products.ZPsycopgDA",
+  "download_filename": "products_zpsycopgda-5.0.tar.gz",
+  "download_time": "2025-11-19T11:40:51.270019",
+  "package_url": "https://pypi.org/project/Products.ZPsycopgDA/"
+}

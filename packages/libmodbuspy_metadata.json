@@ -1,0 +1,11 @@
+{
+  "name": "libmodbuspy",
+  "version": "0.4.0",
+  "summary": "A Python implementation of Modbus TCP, RTU, and ASCII protocols",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libmodbuspy-0.4.0.tar.gz",
+  "download_time": "2025-11-19T11:40:46.503283",
+  "package_url": "https://pypi.org/project/libmodbuspy/"
+}

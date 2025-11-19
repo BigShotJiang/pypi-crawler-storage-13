@@ -1,11 +1,11 @@
 {
   "name": "siTOOgether",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "A security tool for CTF exercises",
   "author": "siTOOgether",
   "license": null,
-  "home_page": null,
-  "download_filename": "sitoogether-0.0.2.tar.gz",
-  "download_time": "2025-11-19T11:20:24.509117",
+  "home_page": "https://github.com/yourusername/siTOOgether",
+  "download_filename": "sitoogether-0.0.4.tar.gz",
+  "download_time": "2025-11-19T11:40:27.016355",
   "package_url": "https://pypi.org/project/siTOOgether/"
 }
