@@ -1,0 +1,11 @@
+{
+  "name": "agentworks",
+  "version": "0.1.2",
+  "summary": "AgentWorks SDK - Instrument and observe multi-agent AI systems",
+  "author": "AgentWorks Team",
+  "license": "MIT",
+  "home_page": "https://agentworks.dev",
+  "download_filename": "agentworks-0.1.2.tar.gz",
+  "download_time": "2025-11-19T03:04:54.183624",
+  "package_url": "https://pypi.org/project/agentworks/"
+}

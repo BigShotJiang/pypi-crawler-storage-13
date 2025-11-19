@@ -1,0 +1,11 @@
+{
+  "name": "oursprivacy-client",
+  "version": "1.1.0",
+  "summary": "The official Python library for the ours-privacy API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oursprivacy_client-1.1.0.tar.gz",
+  "download_time": "2025-11-19T03:04:51.063410",
+  "package_url": "https://pypi.org/project/oursprivacy-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiposematic",
-  "version": "0.1",
+  "version": "0.3",
   "summary": "Aiposematic: Scramble & Recover using image key + operation string , By: Fibo Metavinci",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiposematic-0.1.tar.gz",
-  "download_time": "2025-11-19T01:44:20.160944",
+  "download_filename": "aiposematic-0.3.tar.gz",
+  "download_time": "2025-11-19T03:04:37.906136",
   "package_url": "https://pypi.org/project/aiposematic/"
 }

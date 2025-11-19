@@ -1,11 +1,11 @@
 {
   "name": "triclick-doc-toolset",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Advanced document partitioning and processing toolset",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "triclick_doc_toolset-1.3.1.tar.gz",
-  "download_time": "2025-11-18T06:33:16.773850",
+  "download_filename": "triclick_doc_toolset-1.3.2.tar.gz",
+  "download_time": "2025-11-19T03:04:28.943797",
   "package_url": "https://pypi.org/project/triclick-doc-toolset/"
 }

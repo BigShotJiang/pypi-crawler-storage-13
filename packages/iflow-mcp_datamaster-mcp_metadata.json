@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_datamaster-mcp",
+  "version": "1.0.4",
+  "summary": "DataMaster MCP - AI-powered data analysis tool with MCP protocol support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_datamaster_mcp-1.0.4.tar.gz",
+  "download_time": "2025-11-19T03:04:21.024484",
+  "package_url": "https://pypi.org/project/iflow-mcp_datamaster-mcp/"
+}
