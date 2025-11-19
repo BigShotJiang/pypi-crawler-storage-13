@@ -1,11 +1,11 @@
 {
   "name": "pulumiverse-gandi",
-  "version": "2.0.0",
+  "version": "2.3.2",
   "summary": "A Pulumi package for creating and managing gandi cloud resources.",
   "author": null,
   "license": "Apache-2.0",
-  "home_page": "https://www.pulumi.com",
-  "download_filename": "pulumiverse_gandi-2.0.0.tar.gz",
-  "download_time": "2025-11-19T11:20:09.621098",
+  "home_page": null,
+  "download_filename": "pulumiverse_gandi-2.3.2.tar.gz",
+  "download_time": "2025-11-19T11:52:49.196705",
   "package_url": "https://pypi.org/project/pulumiverse-gandi/"
 }

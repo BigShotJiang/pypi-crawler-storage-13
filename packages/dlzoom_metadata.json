@@ -1,0 +1,11 @@
+{
+  "name": "dlzoom",
+  "version": "0.3.1",
+  "summary": "CLI tool to download Zoom cloud recordings and extract audio for transcription",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dlzoom-0.3.1.tar.gz",
+  "download_time": "2025-11-19T11:52:37.137326",
+  "package_url": "https://pypi.org/project/dlzoom/"
+}

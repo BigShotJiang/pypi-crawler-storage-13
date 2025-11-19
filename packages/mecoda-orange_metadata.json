@@ -1,0 +1,11 @@
+{
+  "name": "mecoda-orange",
+  "version": "2.6.7",
+  "summary": "Orange Data Minining Add-on containing MECODA widgets to analyse data from citizen science observatories",
+  "author": "Ana Alvarez, ICM-CSIC",
+  "license": "BSD",
+  "home_page": "https://github.com/eosc-cos4cloud/mecoda-orange",
+  "download_filename": "mecoda_orange-2.6.7.tar.gz",
+  "download_time": "2025-11-19T11:52:42.283762",
+  "package_url": "https://pypi.org/project/mecoda-orange/"
+}

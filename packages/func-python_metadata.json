@@ -1,0 +1,11 @@
+{
+  "name": "func-python",
+  "version": "0.7.0",
+  "summary": "Knative Functions Python Middleware",
+  "author": "The Knative Authors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "func_python-0.7.0.tar.gz",
+  "download_time": "2025-11-19T11:52:41.243645",
+  "package_url": "https://pypi.org/project/func-python/"
+}

@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T11:40:54.298644
-- **Total Packages**: 80
-- **Total Size**: 30.53 MB
+- **Download Time**: 2025-11-19T11:53:14.072791
+- **Total Packages**: 83
+- **Total Size**: 23.24 MB
 
 ## Packages List
+- bitepy
+- nixtla
+- dorothy-cci
+- stackit-authorization
+- code-spy
+- nexusai
+- openframe-criteria-set-protocol
+- cpr_sdk
+- supplynetpy
+- iatoolkit
+- keynet-train
+- keynet-core
+- ecodonut
+- osekit
+- dlzoom
+- rsylla
+- epyr-tools
+- rxlm
+- odoo-addon-mrp-multi-level
+- keynet-inference
+- agentdna
+- tline
+- func-python
+- import-linter
+- mecoda-orange
+- langgraph-agent-toolkit
+- remotivelabs-broker
+- dragon-ml-toolbox
+- odoo-addon-mrp-workcenter-dashboard
+- mongo-charms-single-kernel
+- django-app-manager
+- descope-pulumi
+- runagent
+- ocf-data-sampler
+- brighteyes-ffs
+- pulumiverse-gandi
+- odoo-addon-mrp-subcontracting-stock-owner-restriction
 - metripy
 - markdown-flow
 - odoo-addon-mrp-production-back-to-draft
@@ -52,37 +89,3 @@
 - openworm-ai
 - pyopenapi-gen
 - plone.app.lockingbehavior
-- dynamodelx
-- plone.app.event
-- firzah-user-agent
-- pytest-splunk-addon
-- plone.app.dexterity
-- torchft-nightly
-- scc-firewall-manager-sdk
-- hwloc-xml-parser
-- shotgrid-mcp-server
-- rhs-flashkit
-- keynet-inference
-- keynet-train
-- keynet-core
-- jsonschema-rs
-- django-app-manager
-- plone.app.iterate
-- nexusai
-- dscaper
-- pyokaertool
-- libmodbuspy
-- pulumiverse-vercel
-- nvidiautils
-- celeste-text-generation
-- celeste-ai
-- a2a-sdk
-- ndc-types
-- eegdash
-- milpython
-- Products.ZPsycopgDA
-- richqueue
-- py-etp-client
-- code-spy
-- biblemategui
-- cwm-cli
