@@ -1,0 +1,11 @@
+{
+  "name": "ocr-layout-formatter",
+  "version": "0.1.1",
+  "summary": "Convert OCR JSON to spatial text preserving document layout",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocr_layout_formatter-0.1.1.tar.gz",
+  "download_time": "2025-11-19T09:44:52.341774",
+  "package_url": "https://pypi.org/project/ocr-layout-formatter/"
+}

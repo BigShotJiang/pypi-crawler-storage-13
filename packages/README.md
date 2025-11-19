@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T09:26:37.078684
-- **Total Packages**: 97
-- **Total Size**: 55.34 MB
+- **Download Time**: 2025-11-19T09:45:41.308437
+- **Total Packages**: 90
+- **Total Size**: 16.23 MB
 
 ## Packages List
+- rich-color-ext
+- MoleditPy
+- MoleditPy-linux
+- scc-firewall-manager-sdk
+- pymobiledevice3
+- ocr-layout-formatter
+- aa-rattingtax
+- enhanced-s3-storage-provider
+- rTLE
+- charmlibs-interfaces-tls-certificates
+- pytest-mergify
+- ghga-event-schemas
+- lybic-guiagents
+- infra-screenshot
+- synthorus
+- CircDEAS
+- plone.i18n
+- smlight-cc-flasher
+- geodrive
+- pybmd
+- rb-commons
+- aixtools
+- bn-byneuron
+- bc-stark-sdk
+- balinese-nlp
+- iflow-mcp_mcp-server-iceberg
+- sysom-hang-analyzer
+- itkdb-gtk
+- seedream-mcp
+- blackholecalc
+- udata
+- noyan-dataset
+- exeplot
+- PairwiseNameComparator
+- sj-sync
+- mutmut
+- lunalib
+- fiuai-s3
+- medusa-security
+- PyDevMate
+- cwm-cli
+- plone.releaser
+- cost-katana
 - octobot-trading
 - zym-dataset-up
 - Contrai
@@ -13,7 +56,6 @@
 - plone.app.testing
 - picsellia-pipelines-cli
 - revng
-- lybic-guiagents
 - fango
 - pycommons
 - plone.namedfile
@@ -22,7 +64,6 @@
 - pg-sui
 - plexus-python-common
 - pyautomatic
-- CircDEAS
 - plone.app.multilingual
 - multitax
 - frogml
@@ -30,10 +71,8 @@
 - file1
 - py3status
 - smelt
-- udata
 - daytona_sdk
 - daytona
-- bn-byneuron
 - programgarden
 - bluechi
 - daytona_api_client_async
@@ -47,7 +86,6 @@
 - iatoolkit
 - plone.app.discussion
 - dq-validation
-- noyan-dataset
 - ChannelAttribution
 - sycommon-python-lib
 - cardo-python-utils
@@ -57,49 +95,4 @@
 - bofire
 - recce
 - plone.base
-- sysom-hang-analyzer
 - recce-cloud
-- text-fabric-factory
-- mini-rag
-- tdsbrondata
-- fontconfig-py
-- programgarden-finance
-- onedrive-personal-sdk
-- nexroo-cli
-- ratarmountcore
-- ameide-sdk
-- quantanium
-- orq-ai-sdk
-- flatflow
-- pdfdancer-client-python
-- quazydb
-- ExoIris
-- pyfirecrest
-- ixlab-sshui
-- osdu-perf
-- medvision-classification
-- ixlab-sshcli
-- plone.app.theming
-- qwak-core
-- locust
-- ixlab-sshcore
-- wakautosolver
-- ldc-lender-datalayer
-- tacotoolbox
-- microsoft-agents-storage-cosmos
-- microsoft-agents-storage-blob
-- microsoft-agents-hosting-teams
-- microsoft-agents-hosting-fastapi
-- microsoft-agents-hosting-core
-- microsoft-agents-hosting-aiohttp
-- microsoft-agents-copilotstudio-client
-- microsoft-agents-authentication-msal
-- microsoft-agents-activity
-- zabel-commons
-- binary-refinery
-- openubmc-bingo
-- lunalib
-- batch-router
-- fabric-lakehouse-mcp
-- autogluon
-- autogluon.timeseries

@@ -1,0 +1,11 @@
+{
+  "name": "rTLE",
+  "version": "0.1.0",
+  "summary": "Fetch TLE data for given NORAD IDs from public sources.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rtle-0.1.0.tar.gz",
+  "download_time": "2025-11-19T09:44:54.175300",
+  "package_url": "https://pypi.org/project/rTLE/"
+}

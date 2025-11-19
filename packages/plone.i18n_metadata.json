@@ -1,0 +1,11 @@
+{
+  "name": "plone.i18n",
+  "version": "5.1.1",
+  "summary": "Advanced i18n/l10n features",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.i18n",
+  "download_filename": "plone_i18n-5.1.1.tar.gz",
+  "download_time": "2025-11-19T09:44:58.814926",
+  "package_url": "https://pypi.org/project/plone.i18n/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PyDevMate",
+  "version": "0.0.2",
+  "summary": "A library of utilities for python.",
+  "author": "LounisBou",
+  "license": null,
+  "home_page": "https://github.com/lounisbou/PyDevMate",
+  "download_filename": "pydevmate-0.0.2.tar.gz",
+  "download_time": "2025-11-19T09:45:12.326503",
+  "package_url": "https://pypi.org/project/PyDevMate/"
+}

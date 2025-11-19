@@ -1,0 +1,11 @@
+{
+  "name": "plone.releaser",
+  "version": "3.0.0",
+  "summary": "Plone release management utilities",
+  "author": "Eric Steele",
+  "license": "GPL",
+  "home_page": "https://github.com/plone/plone.releaser",
+  "download_filename": "plone_releaser-3.0.0.tar.gz",
+  "download_time": "2025-11-19T09:45:13.477325",
+  "package_url": "https://pypi.org/project/plone.releaser/"
+}
