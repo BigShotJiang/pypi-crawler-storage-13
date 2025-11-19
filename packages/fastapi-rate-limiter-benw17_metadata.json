@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-rate-limiter-benw17",
+  "version": "0.1.0",
+  "summary": "A simple rate limiting library for FastAPI using in-memory or Redis storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_rate_limiter_benw17-0.1.0.tar.gz",
+  "download_time": "2025-11-19T23:52:58.675657",
+  "package_url": "https://pypi.org/project/fastapi-rate-limiter-benw17/"
+}

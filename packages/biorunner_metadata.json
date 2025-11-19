@@ -1,0 +1,11 @@
+{
+  "name": "biorunner",
+  "version": "0.1.0",
+  "summary": "BioRunner CLI - A command-line interface for BioGarden BioHub",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biorunner-0.1.0.tar.gz",
+  "download_time": "2025-11-19T23:52:50.426458",
+  "package_url": "https://pypi.org/project/biorunner/"
+}

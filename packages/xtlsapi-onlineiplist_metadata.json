@@ -1,11 +1,11 @@
 {
   "name": "xtlsapi-onlineiplist",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "Fork of the xtlsapi library with support for the new Xray-Core API function - GetStatsOnlineIpList",
   "author": "klirii",
   "license": null,
-  "home_page": "https://github.com/hiddify/xtlsapi/",
-  "download_filename": "xtlsapi_onlineiplist-3.3.0.tar.gz",
-  "download_time": "2025-11-18T22:43:26.017565",
+  "home_page": "https://github.com/klirii/xtlsapi/tree/xtlsapi-onlineiplist",
+  "download_filename": "xtlsapi_onlineiplist-3.3.1.tar.gz",
+  "download_time": "2025-11-19T23:52:54.584349",
   "package_url": "https://pypi.org/project/xtlsapi-onlineiplist/"
 }

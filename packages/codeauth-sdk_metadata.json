@@ -1,0 +1,11 @@
+{
+  "name": "codeauth-sdk",
+  "version": "1.0.0",
+  "summary": "Official SDK for CodeAuth",
+  "author": "CodeAuth",
+  "license": "APACHE 2.0",
+  "home_page": "https://codeauth.com",
+  "download_filename": "codeauth_sdk-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-19T23:52:55.607909",
+  "package_url": "https://pypi.org/project/codeauth-sdk/"
+}

@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T23:41:03.569883
-- **Total Packages**: 81
-- **Total Size**: 25.48 MB
+- **Download Time**: 2025-11-19T23:53:31.148755
+- **Total Packages**: 85
+- **Total Size**: 10.67 MB
 
 ## Packages List
+- speedyshortpy
+- ogc-na
+- subnoto-api-client
+- jsonpath-sleuth
+- whereproc
+- goosh
+- langswarm
+- biorunner
+- tomso
+- oceanpy
+- QuizGenerator
+- csha-ai-agent
+- lisaanalysistools-cuda12x
+- lisaanalysistools-cuda11x
+- lisaanalysistools
+- xtlsapi-onlineiplist
+- kuaijs-ios
+- codeauth-sdk
+- mush-wikis-scraper
+- tina4-python
+- smartharvest-plan-ghsai
+- fennec-ml
+- fastapi-rate-limiter-benw17
+- circuitydatabase
 - launchdarkly-server-sdk
 - particle-tracking-manager
 - terrakio-admin-api
@@ -39,7 +63,6 @@
 - iban-validation-polars
 - dbt-colibri
 - casquery
-- smartharvest-plan-ghsai
 - hivebox
 - synqed
 - gwcs
@@ -68,22 +91,3 @@
 - reversi42
 - verifiers
 - telemetrix
-- eth-portfolio-temp
-- enahopy
-- django-testcontainers-plus
-- ubo-app-raw-bindings
-- ubo-app-assistant
-- ubo-app
-- polymcp
-- fhdaisy
-- epwpy-basic
-- cogames
-- langswarm
-- pyapiq
-- nominal-api-protos
-- nominal-api
-- pyavrocd
-- token-counter-cli
-- graphics-braille
-- fastapi-boilerplate-generator
-- xee

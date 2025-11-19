@@ -1,0 +1,11 @@
+{
+  "name": "tomso",
+  "version": "0.2.2",
+  "summary": "Tools for Models of Stars and their Oscillations",
+  "author": "Warrick Ball",
+  "license": "MIT",
+  "home_page": "https://github.com/warrickball/tomso",
+  "download_filename": "tomso-0.2.2.tar.gz",
+  "download_time": "2025-11-19T23:52:50.937286",
+  "package_url": "https://pypi.org/project/tomso/"
+}
