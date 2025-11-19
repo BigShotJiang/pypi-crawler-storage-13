@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-guardduty",
-  "version": "1.40.75",
-  "summary": "Type annotations for boto3 GuardDuty 1.40.75 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.41.0",
+  "summary": "Type annotations for boto3 GuardDuty 1.41.0 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_guardduty-1.40.75.tar.gz",
-  "download_time": "2025-11-17T22:20:42.439019",
+  "download_filename": "mypy_boto3_guardduty-1.41.0.tar.gz",
+  "download_time": "2025-11-19T20:53:02.551212",
   "package_url": "https://pypi.org/project/mypy-boto3-guardduty/"
 }

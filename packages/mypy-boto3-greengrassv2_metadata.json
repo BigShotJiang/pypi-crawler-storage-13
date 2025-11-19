@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-greengrassv2",
+  "version": "1.41.0",
+  "summary": "Type annotations for boto3 GreengrassV2 1.41.0 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_greengrassv2-1.41.0.tar.gz",
+  "download_time": "2025-11-19T20:53:05.274487",
+  "package_url": "https://pypi.org/project/mypy-boto3-greengrassv2/"
+}
