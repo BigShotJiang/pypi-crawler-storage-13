@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-aact",
+  "version": "0.4.0",
+  "summary": "MCP server for AACT clinical trials database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_aact-0.4.0.tar.gz",
+  "download_time": "2025-11-19T07:41:51.711576",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-aact/"
+}

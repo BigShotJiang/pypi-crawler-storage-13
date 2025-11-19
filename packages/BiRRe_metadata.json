@@ -1,0 +1,11 @@
+{
+  "name": "BiRRe",
+  "version": "4.0.0",
+  "summary": "Model Context Protocol server for BitSight security ratings",
+  "author": "boecht",
+  "license": null,
+  "home_page": null,
+  "download_filename": "birre-4.0.0.tar.gz",
+  "download_time": "2025-11-19T07:41:41.355594",
+  "package_url": "https://pypi.org/project/BiRRe/"
+}

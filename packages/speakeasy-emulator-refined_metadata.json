@@ -1,0 +1,11 @@
+{
+  "name": "speakeasy-emulator-refined",
+  "version": "1.6.1b0.post3",
+  "summary": "Speakeasy malware emulation framework",
+  "author": "Andrew Davis",
+  "license": null,
+  "home_page": "https://github.com/binref/speakeasy",
+  "download_filename": "speakeasy_emulator_refined-1.6.1b0.post3.tar.gz",
+  "download_time": "2025-11-19T07:41:40.842043",
+  "package_url": "https://pypi.org/project/speakeasy-emulator-refined/"
+}
