@@ -1,11 +1,11 @@
 {
   "name": "zentreesol",
-  "version": "1.0.1",
-  "summary": "Simple Tree and AVL logic for competitive programming",
+  "version": "2.1.0",
+  "summary": "Generalized Tree and AVL logic toolbox for competitive programming",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zentreesol-1.0.1.tar.gz",
-  "download_time": "2025-11-19T18:33:49.641451",
+  "download_filename": "zentreesol-2.1.0.tar.gz",
+  "download_time": "2025-11-19T18:54:59.428517",
   "package_url": "https://pypi.org/project/zentreesol/"
 }

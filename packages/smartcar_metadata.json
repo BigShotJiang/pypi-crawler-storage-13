@@ -1,11 +1,11 @@
 {
   "name": "smartcar",
-  "version": "6.19.0",
+  "version": "6.19.1",
   "summary": "Smartcar Python SDK",
   "author": "Smartcar",
   "license": "MIT",
   "home_page": "https://github.com/smartcar/python-sdk",
-  "download_filename": "smartcar-6.19.0.tar.gz",
-  "download_time": "2025-11-18T17:20:53.193171",
+  "download_filename": "smartcar-6.19.1.tar.gz",
+  "download_time": "2025-11-19T18:54:57.857413",
   "package_url": "https://pypi.org/project/smartcar/"
 }

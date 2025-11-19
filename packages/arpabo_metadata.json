@@ -1,11 +1,11 @@
 {
   "name": "arpabo",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Build ARPA format statistical language models with multiple smoothing methods",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arpabo-0.1.1.tar.gz",
-  "download_time": "2025-11-18T19:22:26.779393",
+  "download_filename": "arpabo-0.2.0.tar.gz",
+  "download_time": "2025-11-19T18:54:54.741168",
   "package_url": "https://pypi.org/project/arpabo/"
 }

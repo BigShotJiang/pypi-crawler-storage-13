@@ -1,11 +1,11 @@
 {
   "name": "hawk-sdk",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hawk_sdk-0.0.15.tar.gz",
-  "download_time": "2025-11-19T01:44:08.976127",
+  "download_filename": "hawk_sdk-0.0.17.tar.gz",
+  "download_time": "2025-11-19T18:54:51.597003",
   "package_url": "https://pypi.org/project/hawk-sdk/"
 }

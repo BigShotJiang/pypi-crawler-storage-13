@@ -1,0 +1,11 @@
+{
+  "name": "Products.MIMETools",
+  "version": "5.0",
+  "summary": "MIMETools provides the ``dtml-mime`` tag for DocumentTemplate.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Products.MIMETools",
+  "download_filename": "products_mimetools-5.0.tar.gz",
+  "download_time": "2025-11-19T18:54:50.007670",
+  "package_url": "https://pypi.org/project/Products.MIMETools/"
+}

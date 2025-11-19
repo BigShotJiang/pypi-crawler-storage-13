@@ -1,0 +1,11 @@
+{
+  "name": "tksheet",
+  "version": "7.5.19",
+  "summary": "Tkinter table / sheet and treeview widget",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tksheet-7.5.19.tar.gz",
+  "download_time": "2025-11-19T18:55:04.221533",
+  "package_url": "https://pypi.org/project/tksheet/"
+}

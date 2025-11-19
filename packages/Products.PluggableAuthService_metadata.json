@@ -1,0 +1,11 @@
+{
+  "name": "Products.PluggableAuthService",
+  "version": "4.1",
+  "summary": "Pluggable Zope authentication / authorization framework",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1 (http://www.zope.org/Resources/License/ZPL-2.1)",
+  "home_page": "https://productspluggableauthservice.readthedocs.io",
+  "download_filename": "products_pluggableauthservice-4.1.tar.gz",
+  "download_time": "2025-11-19T18:54:58.382259",
+  "package_url": "https://pypi.org/project/Products.PluggableAuthService/"
+}

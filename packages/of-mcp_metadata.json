@@ -1,0 +1,11 @@
+{
+  "name": "of-mcp",
+  "version": "0.1.0",
+  "summary": "CLI for managing MCP Gateway workspaces, backends, and agents",
+  "author": "OrangeFennec Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/orangefennec/mcp-gateway",
+  "download_filename": "of_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-19T18:54:48.445318",
+  "package_url": "https://pypi.org/project/of-mcp/"
+}

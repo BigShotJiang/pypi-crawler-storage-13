@@ -1,0 +1,11 @@
+{
+  "name": "bluer-academy",
+  "version": "5.179.1",
+  "summary": "📐 an academy for practical AI in Iran.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-academy",
+  "download_filename": "bluer_academy-5.179.1.tar.gz",
+  "download_time": "2025-11-19T18:54:53.699534",
+  "package_url": "https://pypi.org/project/bluer-academy/"
+}

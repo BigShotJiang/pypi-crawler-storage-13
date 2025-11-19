@@ -1,0 +1,11 @@
+{
+  "name": "scrapegraph-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for ScapeGraph API integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapegraph_mcp-1.0.1.tar.gz",
+  "download_time": "2025-11-19T18:55:06.305024",
+  "package_url": "https://pypi.org/project/scrapegraph-mcp/"
+}
