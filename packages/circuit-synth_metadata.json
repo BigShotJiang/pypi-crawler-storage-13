@@ -1,0 +1,11 @@
+{
+  "name": "circuit-synth",
+  "version": "0.11.6",
+  "summary": "Pythonic circuit design for production-ready KiCad projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "circuit_synth-0.11.6.tar.gz",
+  "download_time": "2025-11-19T05:55:07.267916",
+  "package_url": "https://pypi.org/project/circuit-synth/"
+}

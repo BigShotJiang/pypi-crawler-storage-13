@@ -1,14 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T05:44:32.373074
+- **Download Time**: 2025-11-19T05:55:44.893377
 - **Total Packages**: 85
-- **Total Size**: 22.39 MB
+- **Total Size**: 2.21 MB
 
 ## Packages List
+- llmpeg
+- newsdataapi
+- fablelab
+- media-fetching
+- media-similarity
+- filonov
+- media-tagging
+- mem0-tcvectordb
+- panelbeater
+- joserfc
+- meta-spec
+- structured-prompt
+- dragohan-grimoire
+- deptry-auto
+- circuit-synth
+- polycrud
+- liora
+- fxmacrodata
+- pan123
+- python-omnilogic-local
+- nonebot-plugin-paocha
+- robhan-cdk-lib.aws-aps
+- HL-MakePIP
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-mwaa
+- universal-silabs-flasher
+- robhan-cdk-lib.utils
+- treesak
 - nonebot-plugin-bilifan
 - hitoshura25-mcp-server-generator
-- deptry-auto
 - pulumi-aws-apigateway
 - weightipy
 - screenshot-cleaner
@@ -22,7 +49,6 @@
 - singer-sdk
 - hexdoc-hexthings
 - wyn360-cli
-- panelbeater
 - iflow-mcp-mcpdoc-server
 - qubitclient
 - resgen-python
@@ -38,7 +64,6 @@
 - pipecat-ai
 - iflow-mcp_reader-mcp-server
 - cfn-check
-- treesak
 - jdl-sdk
 - dragon-ml-toolbox
 - aiinbx
@@ -50,7 +75,6 @@
 - iflow-mcp_journaling-mcp
 - iflow-mcp_sonos-mcp-server
 - robokop-orion
-- nonebot-plugin-paocha
 - cdk-factory
 - hitoshura25-gemini-workflow-bridge
 - tencent-wedata-feature-engineering-dev
@@ -67,27 +91,3 @@
 - query-optimizer
 - iss-yapi-mcp
 - water-column-sonar-processing
-- clihelperjk
-- korea-weather-api
-- lobster-ai
-- competency-api
-- colorful-print
-- biosteam
-- thermosteam
-- playgent
-- dictionaries-addons-framework
-- unlock-processpool-win
-- opencaselist
-- mercuto-client
-- librasa
-- mirjalolspeed
-- fnschool
-- fapylib
-- guacenc-py
-- iflow-mcp_mcp-server-perplexity
-- cybotrade-datasource
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- iamdata
