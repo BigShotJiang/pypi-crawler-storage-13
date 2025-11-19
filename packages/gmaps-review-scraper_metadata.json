@@ -1,0 +1,11 @@
+{
+  "name": "gmaps-review-scraper",
+  "version": "0.1.0",
+  "summary": "A high-performance Python scraper for Google Maps reviews with browser impersonation (curl_cffi) and proxy support",
+  "author": "SamuraiSam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gmaps_review_scraper-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-19T13:55:32.535039",
+  "package_url": "https://pypi.org/project/gmaps-review-scraper/"
+}

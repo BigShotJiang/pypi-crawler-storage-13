@@ -1,0 +1,11 @@
+{
+  "name": "scalekit-sdk-python",
+  "version": "2.4.13",
+  "summary": "Scalekit official Python SDK",
+  "author": "Team Scalekit",
+  "license": "MIT",
+  "home_page": "https://github.com/scalekit-inc/scalekit-sdk-python",
+  "download_filename": "scalekit_sdk_python-2.4.13.tar.gz",
+  "download_time": "2025-11-19T13:55:33.563052",
+  "package_url": "https://pypi.org/project/scalekit-sdk-python/"
+}

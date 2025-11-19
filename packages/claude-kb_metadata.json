@@ -1,0 +1,11 @@
+{
+  "name": "claude-kb",
+  "version": "0.1.1",
+  "summary": "Universal knowledge base with Qdrant for Claude Code integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_kb-0.1.1.tar.gz",
+  "download_time": "2025-11-19T13:55:51.408871",
+  "package_url": "https://pypi.org/project/claude-kb/"
+}
