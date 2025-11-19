@@ -1,11 +1,11 @@
 {
   "name": "AWSArchitectureBase",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "Buzzerboy Architecture Standard for Buzzerboy Based Architectures",
   "author": "Buzzerboy Inc",
   "license": null,
   "home_page": "https://www.buzzerboy.com/",
-  "download_filename": "awsarchitecturebase-0.18.0.tar.gz",
-  "download_time": "2025-11-19T17:40:41.492439",
+  "download_filename": "awsarchitecturebase-0.19.0.tar.gz",
+  "download_time": "2025-11-19T19:19:17.915454",
   "package_url": "https://pypi.org/project/AWSArchitectureBase/"
 }

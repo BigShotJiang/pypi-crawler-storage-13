@@ -1,11 +1,11 @@
 {
   "name": "odai-downloader",
-  "version": "1.0.0",
-  "summary": "Instagram Reels downloader by Odai",
+  "version": "1.0.1",
+  "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odai_downloader-1.0.0.tar.gz",
-  "download_time": "2025-11-19T18:55:03.168483",
+  "download_filename": "odai_downloader-1.0.1.tar.gz",
+  "download_time": "2025-11-19T19:19:12.177673",
   "package_url": "https://pypi.org/project/odai-downloader/"
 }

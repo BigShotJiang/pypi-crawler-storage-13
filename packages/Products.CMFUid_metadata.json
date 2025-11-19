@@ -1,0 +1,11 @@
+{
+  "name": "Products.CMFUid",
+  "version": "5.0",
+  "summary": "Uid product for the Zope Content Management Framework",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Products.CMFUid",
+  "download_filename": "products_cmfuid-5.0.tar.gz",
+  "download_time": "2025-11-19T19:19:08.033732",
+  "package_url": "https://pypi.org/project/Products.CMFUid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xga",
+  "version": "0.6.2",
+  "summary": "Python package to easily generate and analyse X-ray astronomy data products, ideal for investigating large samples.",
+  "author": "David J Turner",
+  "license": null,
+  "home_page": "http://github.com/DavidT3/XGA",
+  "download_filename": "xga-0.6.2.tar.gz",
+  "download_time": "2025-11-19T19:19:18.431594",
+  "package_url": "https://pypi.org/project/xga/"
+}
