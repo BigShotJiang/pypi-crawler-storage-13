@@ -1,11 +1,11 @@
 {
   "name": "gui-utilities",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Librería de utilidades gráficas en PyQt6",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gui_utilities-1.6.1.tar.gz",
-  "download_time": "2025-11-19T19:19:00.318041",
+  "download_filename": "gui_utilities-1.6.2.tar.gz",
+  "download_time": "2025-11-19T19:39:33.115464",
   "package_url": "https://pypi.org/project/gui-utilities/"
 }
