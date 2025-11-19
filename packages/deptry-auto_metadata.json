@@ -1,11 +1,11 @@
 {
   "name": "deptry-auto",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Automatically add missing dependencies found by deptry using uv.",
   "author": "Matthew Muller",
   "license": null,
   "home_page": null,
-  "download_filename": "deptry_auto-0.2.5.tar.gz",
-  "download_time": "2025-11-19T04:27:28.464190",
+  "download_filename": "deptry_auto-0.2.7.tar.gz",
+  "download_time": "2025-11-19T04:47:08.264208",
   "package_url": "https://pypi.org/project/deptry-auto/"
 }

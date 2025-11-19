@@ -1,0 +1,11 @@
+{
+  "name": "shipper-shippy",
+  "version": "2.43.0",
+  "summary": "Client-side tool to interface with shipper",
+  "author": "Eric Park",
+  "license": null,
+  "home_page": "https://github.com/shipperstack/shipper/tree/master/shippy",
+  "download_filename": "shipper_shippy-2.43.0.tar.gz",
+  "download_time": "2025-11-19T04:47:06.557477",
+  "package_url": "https://pypi.org/project/shipper-shippy/"
+}

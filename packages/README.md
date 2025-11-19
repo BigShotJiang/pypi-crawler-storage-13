@@ -1,30 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T04:28:11.954195
-- **Total Packages**: 90
-- **Total Size**: 43.27 MB
+- **Download Time**: 2025-11-19T04:47:50.247531
+- **Total Packages**: 83
+- **Total Size**: 16.28 MB
 
 ## Packages List
+- hbat
+- cfn-check
+- qcrypto
+- resgen-python
+- groundx
+- shipper-shippy
+- metamist
+- mightyzap-17lf
+- deptry-auto
+- drjson
+- pyThermoFlash
+- cite-agent
+- featrixsphere
+- CharmFeatures
+- llm-registry
+- ayechat
+- vellum-workflow-server
+- Functions-d
+- bosa-server-plugins-binary
+- librasa
+- spicy-snow
+- matplotlab
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- kaist-or-gym
+- textql
+- HiveClient
+- odoo-addon-web-widget-product-label-section-and-note-full-label
+- SHICTHRSConfigLoader
+- odoo-addons-oca-web
+- adxp-sdk
+- mitchallen-coin
+- vnag
+- odoo-addon-web-save-discard-button
+- xbbg
+- cisco-ai-mcp-scanner
+- liora
+- turboloader
+- oagi
+- oagi-core
+- gw-agn-watcher
+- vellum-ai
+- greenstream-config
+- pypomes-messaging
+- densecall
+- zscaler-sdk-python
 - gaussian-splatting
 - vectorvein
 - eventdbx
-- mitchallen-coin
 - keras-nlp-nightly
 - keras-hub-nightly
-- kang
 - megatron-core
 - megatron-fsdp
 - iflow-mcp_mcp_pdf_forms
-- kaist-or-gym
 - tap-stackexchange
-- ayechat
-- deptry-auto
 - flagdataset
-- hbat
 - based-utils
 - saw-client
-- turboloader
 - vector-vault
 - fern-fai-sdk
 - aiiware-cli
@@ -37,7 +76,6 @@
 - singer-sdk
 - odoo-addon-res-company-mastodon-link
 - odoo-addon-res-company-gitlab-link
-- densecall
 - argparse-utils-tddschn
 - statsig-python-core
 - snowflake-connector-python-nightly
@@ -48,51 +86,6 @@
 - sigenergy2mqtt
 - agently
 - spells-mtg
-- nonebot-plugin-paocha
 - interface-region-imaging-spectrograph
 - corellm
 - jixia
-- aiauto-client
-- anyenv
-- iflow-mcp_mcp-smart-customer-support
-- iflow-mcp_whatsapp-mcp-server
-- textql
-- yunpath
-- singlem
-- odoo-addons-oca-sale-workflow
-- chromedriver-binary
-- mysingle
-- svg-ultralight
-- levistone
-- karellen-llvm-toolchain-tools
-- tencentcloud-sdk-python-wedata
-- tencentcloud-sdk-python-waf
-- karellen-llvm-lldb
-- iflow-mcp_dicom-mcp
-- tencentcloud-sdk-python-vpc
-- csle-attack-profiler
-- gym-csle-cyborg
-- gym-csle-apt-game
-- csle-tolerance
-- cmesdata
-- csle-cluster
-- JaxARC
-- tencentcloud-sdk-python-trtc
-- csle-cli
-- csle-rest-api
-- csle-agents
-- gym-csle-intrusion-response-game
-- tencentcloud-sdk-python-teo
-- gym-csle-stopping-game
-- csle-system-identification
-- toontools
-- bantam
-- csle-defender
-- csle-attacker
-- tencentcloud-sdk-python-svp
-- csle-common
-- csle-collector
-- csle-ryu
-- csle-base
-- pypomes-jwt
-- narration

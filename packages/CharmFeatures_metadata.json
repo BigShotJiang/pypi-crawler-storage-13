@@ -1,0 +1,11 @@
+{
+  "name": "CharmFeatures",
+  "version": "1.2.0",
+  "summary": "An image feature extraction library for python based on WND-CHARM",
+  "author": "Ilya Goldberg, Nikita Orlov, Josiah Johnston, Lior Shamir, Chris Coletta",
+  "license": "LGPLv2",
+  "home_page": "https://gitlab.com/iggman/charm-features",
+  "download_filename": "charmfeatures-1.2.0.tar.gz",
+  "download_time": "2025-11-19T04:47:11.143759",
+  "package_url": "https://pypi.org/project/CharmFeatures/"
+}

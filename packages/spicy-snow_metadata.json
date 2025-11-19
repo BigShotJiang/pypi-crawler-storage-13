@@ -1,11 +1,11 @@
 {
   "name": "spicy-snow",
-  "version": "0.3.1",
+  "version": "0.3.4",
   "summary": "Snow Depth Retrievals from Sentinel-1 Backscatter.",
   "author": "Zach Hoppinen",
   "license": "MIT",
   "home_page": "https://github.com/SnowEx/spicy-snow",
-  "download_filename": "spicy_snow-0.3.1.tar.gz",
-  "download_time": "2025-11-19T03:52:12.092012",
+  "download_filename": "spicy_snow-0.3.4.tar.gz",
+  "download_time": "2025-11-19T04:47:15.683240",
   "package_url": "https://pypi.org/project/spicy-snow/"
 }
