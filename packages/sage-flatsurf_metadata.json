@@ -1,0 +1,11 @@
+{
+  "name": "sage-flatsurf",
+  "version": "0.8.0",
+  "summary": "Flat surfaces in SageMath",
+  "author": "Vincent Delecroix, W. Patrick Hooper, Julian Rüth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sage_flatsurf-0.8.0.tar.gz",
+  "download_time": "2025-11-19T14:22:30.407318",
+  "package_url": "https://pypi.org/project/sage-flatsurf/"
+}

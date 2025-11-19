@@ -1,11 +1,11 @@
 {
   "name": "ptlibs",
-  "version": "1.0.57",
+  "version": "1.0.58",
   "summary": "Support library for penterepTools",
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptlibs-1.0.57.tar.gz",
-  "download_time": "2025-11-17T22:42:37.625456",
+  "download_filename": "ptlibs-1.0.58.tar.gz",
+  "download_time": "2025-11-19T14:22:59.554715",
   "package_url": "https://pypi.org/project/ptlibs/"
 }

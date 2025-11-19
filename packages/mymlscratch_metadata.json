@@ -1,0 +1,11 @@
+{
+  "name": "mymlscratch",
+  "version": "0.1.0",
+  "summary": "A library that returns ML algorithm source code implemented from scratch",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mymlscratch",
+  "download_filename": "mymlscratch-0.1.0.tar.gz",
+  "download_time": "2025-11-19T14:23:01.093251",
+  "package_url": "https://pypi.org/project/mymlscratch/"
+}

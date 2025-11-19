@@ -1,0 +1,11 @@
+{
+  "name": "xerparser",
+  "version": "0.13.9",
+  "summary": "Parse a P6 .xer file to a Python object.",
+  "author": "Jesse",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/jjCode01/xerparser",
+  "download_filename": "xerparser-0.13.9.tar.gz",
+  "download_time": "2025-11-19T14:22:45.829091",
+  "package_url": "https://pypi.org/project/xerparser/"
+}

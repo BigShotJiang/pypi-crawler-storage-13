@@ -1,0 +1,11 @@
+{
+  "name": "langchain",
+  "version": "1.0.8",
+  "summary": "Building applications with LLMs through composability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain-1.0.8.tar.gz",
+  "download_time": "2025-11-19T14:22:50.727283",
+  "package_url": "https://pypi.org/project/langchain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tui-writer",
+  "version": "0.1.0",
+  "summary": "A TUI that you run to transcribe and edit text. It's like a companion that dictates for you, engaging in a dialogue to collaboratively update a block of text rather than performing a direct transcription.",
+  "author": "Mario Michelli",
+  "license": null,
+  "home_page": "https://github.com/Swiftner/tui_writer",
+  "download_filename": "tui_writer-0.1.0.tar.gz",
+  "download_time": "2025-11-19T14:23:07.843012",
+  "package_url": "https://pypi.org/project/tui-writer/"
+}

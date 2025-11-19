@@ -1,0 +1,11 @@
+{
+  "name": "bluesky-tiled-plugins",
+  "version": "2.0.0rc3",
+  "summary": "Integrations for using Tiled with Bluesky",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bluesky_tiled_plugins-2.0.0rc3.tar.gz",
+  "download_time": "2025-11-19T14:22:29.342864",
+  "package_url": "https://pypi.org/project/bluesky-tiled-plugins/"
+}

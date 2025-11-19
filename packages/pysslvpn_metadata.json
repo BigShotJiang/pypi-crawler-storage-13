@@ -1,0 +1,11 @@
+{
+  "name": "pysslvpn",
+  "version": "1.0.1",
+  "summary": "A pure Python SSL VPN client implementation",
+  "author": "PySslvpn Developer",
+  "license": null,
+  "home_page": "https://github.com/proyy/PySslvpn",
+  "download_filename": "pysslvpn-1.0.1.tar.gz",
+  "download_time": "2025-11-19T14:23:02.652506",
+  "package_url": "https://pypi.org/project/pysslvpn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ipyvue-flatsurf",
+  "version": "0.6.4",
+  "summary": "Visualizations for Translations Surfaces in Jupyter Notebooks and JupyterLab",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipyvue_flatsurf-0.6.4.tar.gz",
+  "download_time": "2025-11-19T14:22:58.529374",
+  "package_url": "https://pypi.org/project/ipyvue-flatsurf/"
+}
