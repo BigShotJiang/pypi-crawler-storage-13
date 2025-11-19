@@ -1,0 +1,11 @@
+{
+  "name": "dbgear",
+  "version": "0.32.3",
+  "summary": "Database management tools for initial data management",
+  "author": "tamuto",
+  "license": "MIT",
+  "home_page": "https://github.com/tamuto/dbgear",
+  "download_filename": "dbgear-0.32.3.tar.gz",
+  "download_time": "2025-11-19T22:43:21.760845",
+  "package_url": "https://pypi.org/project/dbgear/"
+}

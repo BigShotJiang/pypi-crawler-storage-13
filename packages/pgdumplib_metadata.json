@@ -1,0 +1,11 @@
+{
+  "name": "pgdumplib",
+  "version": "4.0.0",
+  "summary": "Python3 library for working with pg_dump files",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "pgdumplib-4.0.0.tar.gz",
+  "download_time": "2025-11-19T22:43:25.460588",
+  "package_url": "https://pypi.org/project/pgdumplib/"
+}
