@@ -1,0 +1,11 @@
+{
+  "name": "circlepy",
+  "version": "0.3.6",
+  "summary": "Circle.so API made easy with async support for efficient Python integration.",
+  "author": "Waleed Salah Aldin",
+  "license": "MIT",
+  "home_page": "https://github.com/atomimus/CirclePy",
+  "download_filename": "circlepy-0.3.6.tar.gz",
+  "download_time": "2025-11-19T08:30:33.308630",
+  "package_url": "https://pypi.org/project/circlepy/"
+}

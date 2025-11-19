@@ -1,11 +1,11 @@
 {
   "name": "medusa-security",
-  "version": "0.11.6",
+  "version": "0.11.8",
   "summary": "Multi-language security scanner with 40+ specialized analyzers for all platforms",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "medusa_security-0.11.6.tar.gz",
-  "download_time": "2025-11-19T07:52:45.392698",
+  "download_filename": "medusa_security-0.11.8.tar.gz",
+  "download_time": "2025-11-19T08:30:15.434435",
   "package_url": "https://pypi.org/project/medusa-security/"
 }

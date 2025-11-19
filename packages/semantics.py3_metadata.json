@@ -1,11 +1,11 @@
 {
   "name": "semantics.py3",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Semantics namespace for Python3",
   "author": null,
   "license": "Copyright (c) 2025 Ody Z. All rights reserved.\n        \n        This work is licensed under the terms of the MIT license.\n        For a copy, see <https://opensource.org/licenses/MIT>.",
   "home_page": null,
-  "download_filename": "semantics_py3-0.3.4.tar.gz",
-  "download_time": "2025-11-19T07:52:58.007257",
+  "download_filename": "semantics_py3-0.3.5.tar.gz",
+  "download_time": "2025-11-19T08:30:20.760852",
   "package_url": "https://pypi.org/project/semantics.py3/"
 }

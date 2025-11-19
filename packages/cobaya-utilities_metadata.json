@@ -1,0 +1,11 @@
+{
+  "name": "cobaya-utilities",
+  "version": "0.3.5",
+  "summary": "A set of functions to deal with MCMC output from cobaya",
+  "author": "Xavier Garrido",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cobaya_utilities-0.3.5.tar.gz",
+  "download_time": "2025-11-19T08:30:37.971671",
+  "package_url": "https://pypi.org/project/cobaya-utilities/"
+}

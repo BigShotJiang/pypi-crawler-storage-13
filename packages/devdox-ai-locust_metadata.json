@@ -1,0 +1,11 @@
+{
+  "name": "devdox-ai-locust",
+  "version": "0.1.9",
+  "summary": "AI-powered Locust load test generator from API documentation",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "devdox_ai_locust-0.1.9.tar.gz",
+  "download_time": "2025-11-19T08:30:28.188148",
+  "package_url": "https://pypi.org/project/devdox-ai-locust/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cachine",
+  "version": "0.1.0",
+  "summary": "A powerful sync/async caching library for Python with tag-based invalidation and Redis backend.",
+  "author": "haonguyen",
+  "license": "MIT",
+  "home_page": "https://github.com/haonguyen1915/cachine",
+  "download_filename": "cachine-0.1.0.tar.gz",
+  "download_time": "2025-11-19T08:30:40.039816",
+  "package_url": "https://pypi.org/project/cachine/"
+}

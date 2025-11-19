@@ -1,0 +1,11 @@
+{
+  "name": "pyoptmc",
+  "version": "0.14.2",
+  "summary": "A package for pricing OTC options using a vectorized Monte Carlo method.",
+  "author": "Yu Lu",
+  "license": "Free for non-commercial use",
+  "home_page": null,
+  "download_filename": "pyoptmc-0.14.2.tar.gz",
+  "download_time": "2025-11-19T08:30:19.151555",
+  "package_url": "https://pypi.org/project/pyoptmc/"
+}
