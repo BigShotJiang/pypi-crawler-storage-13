@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-tea-util",
+  "version": "0.3.14",
+  "summary": "The tea-util module of alibabaCloud Python SDK.",
+  "author": "Alibaba Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/tea-util/tree/master/python",
+  "download_filename": "alibabacloud_tea_util-0.3.14.tar.gz",
+  "download_time": "2025-11-19T06:33:52.300692",
+  "package_url": "https://pypi.org/project/alibabacloud-tea-util/"
+}

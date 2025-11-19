@@ -1,11 +1,11 @@
 {
   "name": "opencaselist",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Python client for opencaselist.com API",
   "author": "Henry Beveridge",
   "license": null,
   "home_page": null,
-  "download_filename": "opencaselist-0.1.5.tar.gz",
-  "download_time": "2025-11-19T05:22:49.325721",
+  "download_filename": "opencaselist-0.2.0.tar.gz",
+  "download_time": "2025-11-19T06:33:23.700475",
   "package_url": "https://pypi.org/project/opencaselist/"
 }

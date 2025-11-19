@@ -1,11 +1,11 @@
 {
   "name": "pan123",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "非官方的123云盘Python包",
   "author": "SodaCodeSave&lixuehua",
   "license": null,
   "home_page": "https://github.com/SodaCodeSave/Pan123",
-  "download_filename": "pan123-1.0.1.tar.gz",
-  "download_time": "2025-11-19T05:55:09.344531",
+  "download_filename": "pan123-1.0.2.tar.gz",
+  "download_time": "2025-11-19T06:33:16.216657",
   "package_url": "https://pypi.org/project/pan123/"
 }

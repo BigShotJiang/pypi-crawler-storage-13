@@ -1,0 +1,11 @@
+{
+  "name": "pygha",
+  "version": "0.1.0",
+  "summary": "A Python-native CI/CD framework for defining, testing, and transpiling pipelines.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygha-0.1.0.tar.gz",
+  "download_time": "2025-11-19T06:33:43.773518",
+  "package_url": "https://pypi.org/project/pygha/"
+}

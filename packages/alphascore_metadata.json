@@ -1,0 +1,11 @@
+{
+  "name": "alphascore",
+  "version": "1.0.0",
+  "summary": "Data Quality Scoring engine",
+  "author": "Shivam Mishra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alphascore-1.0.0.tar.gz",
+  "download_time": "2025-11-19T06:33:53.922684",
+  "package_url": "https://pypi.org/project/alphascore/"
+}

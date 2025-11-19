@@ -1,0 +1,11 @@
+{
+  "name": "autonomize-model-sdk",
+  "version": "1.1.73",
+  "summary": "SDK for creating and managing machine learning pipelines.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "autonomize_model_sdk-1.1.73.tar.gz",
+  "download_time": "2025-11-19T06:33:21.545650",
+  "package_url": "https://pypi.org/project/autonomize-model-sdk/"
+}

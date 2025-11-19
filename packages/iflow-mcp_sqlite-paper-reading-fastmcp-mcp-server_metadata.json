@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_sqlite-paper-reading-fastmcp-mcp-server",
+  "version": "0.1.0",
+  "summary": "A flexible system for managing various types of sources (papers, books, webpages, etc.) and integrating them with knowledge graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_sqlite_paper_reading_fastmcp_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-11-19T06:33:29.276724",
+  "package_url": "https://pypi.org/project/iflow-mcp_sqlite-paper-reading-fastmcp-mcp-server/"
+}
