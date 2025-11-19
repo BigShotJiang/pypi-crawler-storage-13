@@ -1,0 +1,11 @@
+{
+  "name": "perexchange",
+  "version": "1.0.0",
+  "summary": "Library for fetching Peruvian exchange rates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "perexchange-1.0.0.tar.gz",
+  "download_time": "2025-11-19T06:58:11.655873",
+  "package_url": "https://pypi.org/project/perexchange/"
+}

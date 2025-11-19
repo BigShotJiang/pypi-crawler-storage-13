@@ -1,0 +1,11 @@
+{
+  "name": "classic-falcon-integration",
+  "version": "1.0.2",
+  "summary": "Provides integrations of classic libs with Falcon web framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "classic_falcon_integration-1.0.2.tar.gz",
+  "download_time": "2025-11-19T06:57:56.156251",
+  "package_url": "https://pypi.org/project/classic-falcon-integration/"
+}

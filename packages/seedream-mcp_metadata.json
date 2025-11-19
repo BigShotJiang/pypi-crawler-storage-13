@@ -1,0 +1,11 @@
+{
+  "name": "seedream-mcp",
+  "version": "1.0.0",
+  "summary": "基于火山引擎Seedream 4.0 API的MCP工具，支持AI图像生成功能",
+  "author": "Seedream MCP Team",
+  "license": null,
+  "home_page": "https://github.com/tengmmvp/seedream-mcp",
+  "download_filename": "seedream_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-19T06:57:46.322547",
+  "package_url": "https://pypi.org/project/seedream-mcp/"
+}

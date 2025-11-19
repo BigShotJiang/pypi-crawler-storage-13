@@ -1,0 +1,11 @@
+{
+  "name": "scrape2md",
+  "version": "0.1.0",
+  "summary": "Scrape websites and convert them to clean markdown format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrape2md-0.1.0.tar.gz",
+  "download_time": "2025-11-19T06:58:03.427652",
+  "package_url": "https://pypi.org/project/scrape2md/"
+}

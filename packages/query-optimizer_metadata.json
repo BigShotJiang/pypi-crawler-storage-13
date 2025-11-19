@@ -1,11 +1,11 @@
 {
   "name": "query-optimizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Universal SQL query optimizer to analyze, optimize, and monitor slow queries.",
   "author": "El Mehdi Makroumi",
   "license": "MIT",
   "home_page": "https://github.com/makroumi/query-optimizer",
-  "download_filename": "query_optimizer-0.1.1.tar.gz",
-  "download_time": "2025-11-19T05:22:41.492845",
+  "download_filename": "query_optimizer-0.1.2.tar.gz",
+  "download_time": "2025-11-19T06:58:05.488790",
   "package_url": "https://pypi.org/project/query-optimizer/"
 }

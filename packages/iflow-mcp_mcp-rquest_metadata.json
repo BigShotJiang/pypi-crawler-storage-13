@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-rquest",
+  "version": "0.1.13",
+  "summary": "A Model Context Protocol (MCP) server providing advanced HTTP request capabilities with realistic browser emulation for Claude and other LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_rquest-0.1.13.tar.gz",
+  "download_time": "2025-11-19T06:58:02.917821",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-rquest/"
+}
