@@ -1,11 +1,11 @@
 {
   "name": "aa-proxy-reg",
-  "version": "0.23",
+  "version": "0.27",
   "summary": "Register user IP address in proxy for Alliance Auth",
   "author": "Aleksey Misyagin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aa_proxy_reg-0.23-py3-none-any.whl",
-  "download_time": "2025-11-19T07:52:58.519017",
+  "download_filename": "aa_proxy_reg-0.27-py3-none-any.whl",
+  "download_time": "2025-11-19T19:52:35.908677",
   "package_url": "https://pypi.org/project/aa-proxy-reg/"
 }

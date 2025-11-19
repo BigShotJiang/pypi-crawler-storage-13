@@ -1,11 +1,11 @@
 {
   "name": "autoresume",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Crash-safe ML model runner that automatically resumes unfinished models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autoresume-0.1.2.tar.gz",
-  "download_time": "2025-11-19T19:39:37.819033",
+  "download_filename": "autoresume-0.1.3.tar.gz",
+  "download_time": "2025-11-19T19:52:18.863736",
   "package_url": "https://pypi.org/project/autoresume/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pypact",
+  "version": "1.3.8",
+  "summary": "The package for reading and manipulating the fispact output text file.",
+  "author": "UKAEA, Thomas Stainer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypact-1.3.8.tar.gz",
+  "download_time": "2025-11-19T19:52:22.966846",
+  "package_url": "https://pypi.org/project/pypact/"
+}

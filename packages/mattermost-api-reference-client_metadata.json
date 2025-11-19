@@ -1,0 +1,11 @@
+{
+  "name": "mattermost-api-reference-client",
+  "version": "4.1.1.post0",
+  "summary": "A client library for accessing Mattermost API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mattermost_api_reference_client-4.1.1.post0.tar.gz",
+  "download_time": "2025-11-19T19:52:21.939738",
+  "package_url": "https://pypi.org/project/mattermost-api-reference-client/"
+}

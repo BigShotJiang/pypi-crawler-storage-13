@@ -1,11 +1,11 @@
 {
   "name": "tea-tree",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Rich + Typer powered tree viewer that summarizes directories when they get busy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tea_tree-0.1.4.tar.gz",
-  "download_time": "2025-11-19T18:55:12.082749",
+  "download_filename": "tea_tree-0.1.5.tar.gz",
+  "download_time": "2025-11-19T19:52:27.073801",
   "package_url": "https://pypi.org/project/tea-tree/"
 }

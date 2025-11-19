@@ -1,0 +1,11 @@
+{
+  "name": "pyversion-info",
+  "version": "1.2.5",
+  "summary": "Get information about released & unreleased CPython and PyPy versions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyversion_info-1.2.5.tar.gz",
+  "download_time": "2025-11-19T19:52:21.426322",
+  "package_url": "https://pypi.org/project/pyversion-info/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-vie",
+  "version": "0.2.4",
+  "summary": "Vie grammar for tree-sitter",
+  "author": "nickshiro, skewb1k",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_vie-0.2.4.tar.gz",
+  "download_time": "2025-11-19T19:52:47.727269",
+  "package_url": "https://pypi.org/project/tree-sitter-vie/"
+}

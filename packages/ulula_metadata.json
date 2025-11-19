@@ -1,0 +1,11 @@
+{
+  "name": "ulula",
+  "version": "1.0.2",
+  "summary": "A lightweight 2D hydro solver",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ulula-1.0.2.tar.gz",
+  "download_time": "2025-11-19T19:52:31.176325",
+  "package_url": "https://pypi.org/project/ulula/"
+}
