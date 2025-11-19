@@ -1,0 +1,11 @@
+{
+  "name": "plone.contentrules",
+  "version": "3.0.2",
+  "summary": "Plone ContentRules Engine",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.contentrules",
+  "download_filename": "plone_contentrules-3.0.2.tar.gz",
+  "download_time": "2025-11-19T20:23:04.193869",
+  "package_url": "https://pypi.org/project/plone.contentrules/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plone.cachepurging",
+  "version": "3.0.3",
+  "summary": "Cache purging support for Zope 2 applications",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.cachepurging",
+  "download_filename": "plone_cachepurging-3.0.3.tar.gz",
+  "download_time": "2025-11-19T20:23:23.858303",
+  "package_url": "https://pypi.org/project/plone.cachepurging/"
+}

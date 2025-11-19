@@ -1,0 +1,11 @@
+{
+  "name": "plone.behavior",
+  "version": "2.0.3",
+  "summary": "Infrastructure for maintaining a registry of available behaviors",
+  "author": "Martin Aspeli",
+  "license": "BSD",
+  "home_page": "https://github.com/plone/plone.behavior",
+  "download_filename": "plone_behavior-2.0.3.tar.gz",
+  "download_time": "2025-11-19T20:23:26.155988",
+  "package_url": "https://pypi.org/project/plone.behavior/"
+}

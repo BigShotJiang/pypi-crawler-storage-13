@@ -1,0 +1,11 @@
+{
+  "name": "plone.dexterity",
+  "version": "3.0.8",
+  "summary": "Framework for content types as filesystem code and TTW (Zope/CMF/Plone)",
+  "author": "Martin Aspeli",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.dexterity",
+  "download_filename": "plone_dexterity-3.0.8.tar.gz",
+  "download_time": "2025-11-19T20:22:43.281672",
+  "package_url": "https://pypi.org/project/plone.dexterity/"
+}

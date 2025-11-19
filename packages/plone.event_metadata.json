@@ -1,0 +1,11 @@
+{
+  "name": "plone.event",
+  "version": "2.0.3",
+  "summary": "Event and calendaring related tools not bound to Plone",
+  "author": "Plone Foundation",
+  "license": "GPL",
+  "home_page": "https://github.com/plone/plone.event",
+  "download_filename": "plone_event-2.0.3.tar.gz",
+  "download_time": "2025-11-19T20:22:39.977378",
+  "package_url": "https://pypi.org/project/plone.event/"
+}

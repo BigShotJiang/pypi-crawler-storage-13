@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.relationfield",
+  "version": "4.0.3",
+  "summary": "Plone support for z3c.relationfield",
+  "author": "Alec Mitchell",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/plone.app.relationfield",
+  "download_filename": "plone_app_relationfield-4.0.3.tar.gz",
+  "download_time": "2025-11-19T20:23:29.336552",
+  "package_url": "https://pypi.org/project/plone.app.relationfield/"
+}
