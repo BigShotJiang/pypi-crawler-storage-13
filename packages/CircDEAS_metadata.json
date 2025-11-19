@@ -1,11 +1,11 @@
 {
   "name": "CircDEAS",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "CircDEAS differential PSI calculation tool.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "circdeas-1.0.0.tar.gz",
-  "download_time": "2025-11-19T07:41:32.958514",
+  "download_filename": "circdeas-1.0.2.tar.gz",
+  "download_time": "2025-11-19T09:25:54.785151",
   "package_url": "https://pypi.org/project/CircDEAS/"
 }

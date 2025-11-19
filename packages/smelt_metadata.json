@@ -1,0 +1,11 @@
+{
+  "name": "smelt",
+  "version": "0.3.0",
+  "summary": "Binary orchestrator for Python packages",
+  "author": "Baptiste Pestourie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smelt-0.3.0.tar.gz",
+  "download_time": "2025-11-19T09:25:58.389531",
+  "package_url": "https://pypi.org/project/smelt/"
+}

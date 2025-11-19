@@ -1,0 +1,11 @@
+{
+  "name": "ixlab-sshcore",
+  "version": "1.0.0",
+  "summary": "Core SSH config/tagging engine shared by sshcli and sshui.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ixlab_sshcore-1.0.0.tar.gz",
+  "download_time": "2025-11-19T09:26:26.287892",
+  "package_url": "https://pypi.org/project/ixlab-sshcore/"
+}

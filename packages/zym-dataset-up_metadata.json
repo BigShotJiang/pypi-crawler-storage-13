@@ -1,0 +1,11 @@
+{
+  "name": "zym-dataset-up",
+  "version": "0.23.0",
+  "summary": "Dataset Uploader SDK",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/***/dataset-up",
+  "download_filename": "zym_dataset_up-0.23.0-py3-none-any.whl",
+  "download_time": "2025-11-19T09:25:47.040462",
+  "package_url": "https://pypi.org/project/zym-dataset-up/"
+}

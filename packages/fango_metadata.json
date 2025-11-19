@@ -1,0 +1,11 @@
+{
+  "name": "fango",
+  "version": "0.0.35",
+  "summary": "Metaframework for web with combined FastAPI and Django",
+  "author": "Egor Gamazin",
+  "license": "MIT",
+  "home_page": "https://github.com/egorgam/fango",
+  "download_filename": "fango-0.0.35.tar.gz",
+  "download_time": "2025-11-19T09:25:50.623309",
+  "package_url": "https://pypi.org/project/fango/"
+}

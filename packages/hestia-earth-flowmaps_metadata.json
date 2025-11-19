@@ -1,0 +1,11 @@
+{
+  "name": "hestia-earth-flowmaps",
+  "version": "0.1.2",
+  "summary": "HESTIA's flowmaps for converters",
+  "author": "HESTIA Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/hestia-earth/hestia-convert-flowmaps",
+  "download_filename": "hestia_earth_flowmaps-0.1.2.tar.gz",
+  "download_time": "2025-11-19T09:25:52.165173",
+  "package_url": "https://pypi.org/project/hestia-earth-flowmaps/"
+}

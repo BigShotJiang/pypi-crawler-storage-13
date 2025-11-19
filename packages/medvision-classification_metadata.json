@@ -1,0 +1,11 @@
+{
+  "name": "medvision-classification",
+  "version": "0.2.9",
+  "summary": "A comprehensive PyTorch Lightning framework for medical image classification with support for 2D/3D images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "medvision_classification-0.2.9.tar.gz",
+  "download_time": "2025-11-19T09:26:23.710510",
+  "package_url": "https://pypi.org/project/medvision-classification/"
+}

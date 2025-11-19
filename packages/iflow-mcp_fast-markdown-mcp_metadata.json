@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_fast-markdown-mcp",
+  "version": "0.1.0",
+  "summary": "Fast MCP server for markdown content management with automatic file monitoring",
+  "author": "CyberAGI Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_fast_markdown_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-19T09:25:56.846612",
+  "package_url": "https://pypi.org/project/iflow-mcp_fast-markdown-mcp/"
+}
