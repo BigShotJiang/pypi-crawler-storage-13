@@ -1,0 +1,11 @@
+{
+  "name": "robotcode",
+  "version": "2.0.2",
+  "summary": "Command line interface for RobotCode",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotcode-2.0.2.tar.gz",
+  "download_time": "2025-11-19T21:52:34.207795",
+  "package_url": "https://pypi.org/project/robotcode/"
+}

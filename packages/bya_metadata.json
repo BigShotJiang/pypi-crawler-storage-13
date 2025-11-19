@@ -1,0 +1,11 @@
+{
+  "name": "bya",
+  "version": "0.1.4",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bya-0.1.4.tar.gz",
+  "download_time": "2025-11-19T21:52:48.128741",
+  "package_url": "https://pypi.org/project/bya/"
+}

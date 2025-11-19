@@ -1,0 +1,11 @@
+{
+  "name": "hefty",
+  "version": "0.0.1",
+  "summary": "Some (relatively) lightweight short-term energy forecasting tools for solar, wind, and load.",
+  "author": "Will Hobbs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hefty-0.0.1.tar.gz",
+  "download_time": "2025-11-19T21:53:00.301373",
+  "package_url": "https://pypi.org/project/hefty/"
+}
