@@ -1,11 +1,11 @@
 {
   "name": "visualastro",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "Astro data analysis and plotting package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "visualastro-0.0.9.tar.gz",
-  "download_time": "2025-11-19T16:58:30.625273",
+  "download_filename": "visualastro-0.1.0.tar.gz",
+  "download_time": "2025-11-19T17:40:51.811196",
   "package_url": "https://pypi.org/project/visualastro/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Procaptcha",
+  "version": "1.0.0",
+  "summary": "A captcha generator with distortion, noise, and security features",
+  "author": "maksalmaz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "procaptcha-1.0.0.tar.gz",
+  "download_time": "2025-11-19T17:40:51.251570",
+  "package_url": "https://pypi.org/project/Procaptcha/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "image2image-io",
+  "version": "0.2.1",
+  "summary": "Image readers and writers for image2image.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "image2image_io-0.2.1.tar.gz",
+  "download_time": "2025-11-19T17:40:37.105022",
+  "package_url": "https://pypi.org/project/image2image-io/"
+}

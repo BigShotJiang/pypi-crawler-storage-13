@@ -1,0 +1,11 @@
+{
+  "name": "pyfrdas2",
+  "version": "0.10",
+  "summary": "Generate DAS2 for the french tax administration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfrdas2-0.10.tar.gz",
+  "download_time": "2025-11-19T17:40:36.466707",
+  "package_url": "https://pypi.org/project/pyfrdas2/"
+}

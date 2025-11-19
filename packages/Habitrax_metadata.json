@@ -1,0 +1,11 @@
+{
+  "name": "Habitrax",
+  "version": "0.2.1",
+  "summary": "A terminal-based productivity and life-tracking system.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "habitrax-0.2.1.tar.gz",
+  "download_time": "2025-11-19T17:40:52.875686",
+  "package_url": "https://pypi.org/project/Habitrax/"
+}
