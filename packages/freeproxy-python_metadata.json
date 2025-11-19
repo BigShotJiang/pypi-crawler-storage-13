@@ -1,0 +1,11 @@
+{
+  "name": "freeproxy-python",
+  "version": "1.0.1",
+  "summary": "Python client for the FreeProxy API",
+  "author": "gfpcom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "freeproxy_python-1.0.1.tar.gz",
+  "download_time": "2025-11-19T03:52:23.227662",
+  "package_url": "https://pypi.org/project/freeproxy-python/"
+}

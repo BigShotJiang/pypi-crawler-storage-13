@@ -1,0 +1,11 @@
+{
+  "name": "hawc-client",
+  "version": "2025.1",
+  "summary": "A client for the Health Assessment Workspace Collaborative (HAWC).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hawc_client-2025.1.tar.gz",
+  "download_time": "2025-11-19T03:52:37.729974",
+  "package_url": "https://pypi.org/project/hawc-client/"
+}

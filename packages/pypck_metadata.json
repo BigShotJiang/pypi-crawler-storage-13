@@ -1,11 +1,11 @@
 {
   "name": "pypck",
-  "version": "0.9.3",
+  "version": "0.9.5",
   "summary": "LCN-PCK library",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/alengwenus/pypck",
-  "download_filename": "pypck-0.9.3.tar.gz",
-  "download_time": "2025-11-18T09:44:58.897424",
+  "download_filename": "pypck-0.9.5.tar.gz",
+  "download_time": "2025-11-19T03:52:21.639917",
   "package_url": "https://pypi.org/project/pypck/"
 }

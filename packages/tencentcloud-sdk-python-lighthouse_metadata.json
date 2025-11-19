@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-lighthouse",
+  "version": "3.0.1490",
+  "summary": "Tencent Cloud Lighthouse SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_lighthouse-3.0.1490.tar.gz",
+  "download_time": "2025-11-19T03:52:01.069261",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-lighthouse/"
+}

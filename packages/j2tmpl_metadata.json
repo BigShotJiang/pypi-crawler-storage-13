@@ -1,0 +1,11 @@
+{
+  "name": "j2tmpl",
+  "version": "0.1.0",
+  "summary": "Jinja2 templating based on environment variables.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "j2tmpl-0.1.0.tar.gz",
+  "download_time": "2025-11-19T03:52:37.208985",
+  "package_url": "https://pypi.org/project/j2tmpl/"
+}
