@@ -1,0 +1,11 @@
+{
+  "name": "vizy",
+  "version": "1.1.0",
+  "summary": "Tiny tensor visualiser: vz.plot(t) / vz.save(t)",
+  "author": "Anıl Zeybek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vizy-1.1.0.tar.gz",
+  "download_time": "2025-11-19T22:55:07.787037",
+  "package_url": "https://pypi.org/project/vizy/"
+}

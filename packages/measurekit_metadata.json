@@ -1,11 +1,11 @@
 {
   "name": "measurekit",
-  "version": "0.0.1.dev0",
+  "version": "0.0.2.dev0",
   "summary": "A Python package for handling measurement units and conversions",
   "author": "Irvin Torres",
   "license": null,
   "home_page": "https://github.com/irvinrx1996/measurekit",
-  "download_filename": "measurekit-0.0.1.dev0.tar.gz",
-  "download_time": "2025-11-19T20:40:30.173119",
+  "download_filename": "measurekit-0.0.2.dev0.tar.gz",
+  "download_time": "2025-11-19T22:55:02.441133",
   "package_url": "https://pypi.org/project/measurekit/"
 }
