@@ -1,0 +1,11 @@
+{
+  "name": "scarf",
+  "version": "0.32.3",
+  "summary": "Scarf: A scalable tool for single-cell omics data analysis",
+  "author": "Parashar Dhapola",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/parashardhapola/scarf",
+  "download_filename": "scarf-0.32.3.tar.gz",
+  "download_time": "2025-11-19T16:32:30.005819",
+  "package_url": "https://pypi.org/project/scarf/"
+}

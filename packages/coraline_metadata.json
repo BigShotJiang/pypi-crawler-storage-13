@@ -1,0 +1,11 @@
+{
+  "name": "coraline",
+  "version": "1.4.0",
+  "summary": "Use Pydantic Models to handle AWS DynamoDB tables",
+  "author": "Chris Maillefaud",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coraline-1.4.0.tar.gz",
+  "download_time": "2025-11-19T16:32:32.157061",
+  "package_url": "https://pypi.org/project/coraline/"
+}

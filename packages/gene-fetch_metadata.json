@@ -1,0 +1,11 @@
+{
+  "name": "gene-fetch",
+  "version": "1.0.19",
+  "summary": "Gene Fetch: High-throughput NCBI Sequence Retrieval Tool",
+  "author": "D. Parsons",
+  "license": "MIT",
+  "home_page": "https://github.com/bge-barcoding/gene_fetch",
+  "download_filename": "gene_fetch-1.0.19.tar.gz",
+  "download_time": "2025-11-19T16:32:23.372715",
+  "package_url": "https://pypi.org/project/gene-fetch/"
+}

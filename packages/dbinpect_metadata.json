@@ -1,0 +1,11 @@
+{
+  "name": "dbinpect",
+  "version": "0.2.1",
+  "summary": "Outil d'inspection et d'analyse de bases de données",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbinpect-0.2.1.tar.gz",
+  "download_time": "2025-11-19T16:32:56.124038",
+  "package_url": "https://pypi.org/project/dbinpect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "froeling-connect",
+  "version": "0.2.0",
+  "summary": "A python wrapper for the Fröling-Connect API",
+  "author": "Layf",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "froeling_connect-0.2.0.tar.gz",
+  "download_time": "2025-11-19T16:33:09.047895",
+  "package_url": "https://pypi.org/project/froeling-connect/"
+}

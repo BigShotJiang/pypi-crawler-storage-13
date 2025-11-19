@@ -1,11 +1,11 @@
 {
   "name": "ntia-conformance-checker",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "summary": "Check SPDX SBOM for NTIA minimum elements and CISA baseline attributes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ntia_conformance_checker-4.1.1.tar.gz",
-  "download_time": "2025-11-18T14:46:41.550930",
+  "download_filename": "ntia_conformance_checker-4.1.2.tar.gz",
+  "download_time": "2025-11-19T16:32:51.131720",
   "package_url": "https://pypi.org/project/ntia-conformance-checker/"
 }

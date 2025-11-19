@@ -1,0 +1,11 @@
+{
+  "name": "stela",
+  "version": "8.1.2",
+  "summary": "Organize your project settings and secrets with ease",
+  "author": "Chris Maillefaud",
+  "license": "MIT",
+  "home_page": "https://github.com/megalus/stela",
+  "download_filename": "stela-8.1.2.tar.gz",
+  "download_time": "2025-11-19T16:32:40.702079",
+  "package_url": "https://pypi.org/project/stela/"
+}

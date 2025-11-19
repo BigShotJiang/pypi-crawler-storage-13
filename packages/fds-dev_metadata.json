@@ -1,11 +1,11 @@
 {
   "name": "fds-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A blazingly fast, structure-aware linter for your documentation, with built-in translation for non-native English speakers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fds_dev-0.0.1.tar.gz",
-  "download_time": "2025-11-19T14:54:32.730089",
+  "download_filename": "fds_dev-0.0.2.tar.gz",
+  "download_time": "2025-11-19T16:33:03.061216",
   "package_url": "https://pypi.org/project/fds-dev/"
 }

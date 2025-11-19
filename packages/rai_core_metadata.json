@@ -1,0 +1,11 @@
+{
+  "name": "rai_core",
+  "version": "2.5.8",
+  "summary": "Core functionality for RAI framework",
+  "author": "Maciej Majek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rai_core-2.5.8.tar.gz",
+  "download_time": "2025-11-19T16:32:37.365233",
+  "package_url": "https://pypi.org/project/rai_core/"
+}

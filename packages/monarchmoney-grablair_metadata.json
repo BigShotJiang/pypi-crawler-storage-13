@@ -1,0 +1,11 @@
+{
+  "name": "monarchmoney-grablair",
+  "version": "0.1.17",
+  "summary": "Monarch Money API for Python",
+  "author": "grablair",
+  "license": "MIT",
+  "home_page": "https://github.com/hammem/monarchmoney-grablair",
+  "download_filename": "monarchmoney_grablair-0.1.17.tar.gz",
+  "download_time": "2025-11-19T16:32:28.936509",
+  "package_url": "https://pypi.org/project/monarchmoney-grablair/"
+}

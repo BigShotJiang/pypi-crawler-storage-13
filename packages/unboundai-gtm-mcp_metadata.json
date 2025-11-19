@@ -1,11 +1,11 @@
 {
   "name": "unboundai-gtm-mcp",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "MCP server for Google Tag Manager",
   "author": "Paolo Bietolini",
   "license": "MIT",
   "home_page": "https://github.com/tijevlam/gtm-mcp",
-  "download_filename": "unboundai_gtm_mcp-0.0.3.tar.gz",
-  "download_time": "2025-11-19T15:57:01.411243",
+  "download_filename": "unboundai_gtm_mcp-0.0.5.tar.gz",
+  "download_time": "2025-11-19T16:33:04.676130",
   "package_url": "https://pypi.org/project/unboundai-gtm-mcp/"
 }

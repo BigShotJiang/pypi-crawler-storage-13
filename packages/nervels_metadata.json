@@ -1,11 +1,11 @@
 {
   "name": "nervels",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "NerveLS — a fast and extensible NLS (Nerve Logo Syntax) parser and compiler ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nervels-1.0.3-py3-none-any.whl",
-  "download_time": "2025-11-18T17:20:58.416699",
+  "download_filename": "nervels-1.0.5-py3-none-any.whl",
+  "download_time": "2025-11-19T16:32:35.739616",
   "package_url": "https://pypi.org/project/nervels/"
 }
