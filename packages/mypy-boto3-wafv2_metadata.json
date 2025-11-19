@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-wafv2",
-  "version": "1.40.76",
-  "summary": "Type annotations for boto3 WAFV2 1.40.76 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.41.0",
+  "summary": "Type annotations for boto3 WAFV2 1.41.0 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_wafv2-1.40.76.tar.gz",
-  "download_time": "2025-11-18T21:52:31.100548",
+  "download_filename": "mypy_boto3_wafv2-1.41.0.tar.gz",
+  "download_time": "2025-11-19T21:18:13.322783",
   "package_url": "https://pypi.org/project/mypy-boto3-wafv2/"
 }

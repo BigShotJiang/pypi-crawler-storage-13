@@ -1,0 +1,11 @@
+{
+  "name": "evo-blockmodels",
+  "version": "0.1.0",
+  "summary": "Python SDK for using the Seequent Evo Geoscience Block Model API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_blockmodels-0.1.0.tar.gz",
+  "download_time": "2025-11-19T21:17:54.337902",
+  "package_url": "https://pypi.org/project/evo-blockmodels/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hippius",
-  "version": "0.2.70",
+  "version": "0.2.72",
   "summary": "Python SDK and CLI for Hippius blockchain storage",
   "author": "Dubs",
   "license": null,
   "home_page": "https://github.com/thenervelab/hippius-sdk",
-  "download_filename": "hippius-0.2.70.tar.gz",
-  "download_time": "2025-11-18T16:55:49.623112",
+  "download_filename": "hippius-0.2.72.tar.gz",
+  "download_time": "2025-11-19T21:17:55.900324",
   "package_url": "https://pypi.org/project/hippius/"
 }

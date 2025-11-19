@@ -1,11 +1,11 @@
 {
   "name": "babicli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A simple extendable CLI tool.",
   "author": "BLACKBIRT007",
   "license": "Shadowlock",
   "home_page": "https://github.com/BLACKBIRT007/babicli",
-  "download_filename": "babicli-0.1.4.tar.gz",
-  "download_time": "2025-11-19T16:58:52.629401",
+  "download_filename": "babicli-0.1.5.tar.gz",
+  "download_time": "2025-11-19T21:17:46.912814",
   "package_url": "https://pypi.org/project/babicli/"
 }

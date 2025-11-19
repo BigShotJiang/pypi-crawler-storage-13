@@ -1,0 +1,11 @@
+{
+  "name": "ardage",
+  "version": "0.1.0",
+  "summary": "arXiv Dataset Generator - Download and convert academic papers to Markdown",
+  "author": "Harihar Prasad",
+  "license": "MIT",
+  "home_page": "https://github.com/HariharPrasadd/ardage",
+  "download_filename": "ardage-0.1.0.tar.gz",
+  "download_time": "2025-11-19T21:17:48.605498",
+  "package_url": "https://pypi.org/project/ardage/"
+}
