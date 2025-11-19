@@ -1,0 +1,11 @@
+{
+  "name": "flipperfs",
+  "version": "1.0.0",
+  "summary": "Flipper Zero filesystem operations via serial CLI",
+  "author": "Andre Miras",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flipperfs-1.0.0.tar.gz",
+  "download_time": "2025-11-19T18:34:25.643742",
+  "package_url": "https://pypi.org/project/flipperfs/"
+}

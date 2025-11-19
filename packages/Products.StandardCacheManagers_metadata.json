@@ -1,0 +1,11 @@
+{
+  "name": "Products.StandardCacheManagers",
+  "version": "6.1",
+  "summary": "Cache managers for Zope",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Products.StandardCacheManagers",
+  "download_filename": "products_standardcachemanagers-6.1.tar.gz",
+  "download_time": "2025-11-19T18:33:53.323851",
+  "package_url": "https://pypi.org/project/Products.StandardCacheManagers/"
+}

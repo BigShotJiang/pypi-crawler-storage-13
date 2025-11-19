@@ -1,0 +1,11 @@
+{
+  "name": "foxie-cli",
+  "version": "0.1.2",
+  "summary": "A smart AI-powered code scaffolding CLI for FastAPI applications. Generate production-ready CRUD features with authentication using Google Gemini AI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foxie_cli-0.1.2.tar.gz",
+  "download_time": "2025-11-19T18:33:43.133760",
+  "package_url": "https://pypi.org/project/foxie-cli/"
+}

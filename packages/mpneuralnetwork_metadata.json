@@ -1,11 +1,11 @@
 {
   "name": "mpneuralnetwork",
-  "version": "2025.1.0a6",
+  "version": "2025.1.0a7",
   "summary": "A small python library for neural networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpneuralnetwork-2025.1.0a6-py3-none-any.whl",
-  "download_time": "2025-11-18T22:55:17.093325",
+  "download_filename": "mpneuralnetwork-2025.1.0a7-py3-none-any.whl",
+  "download_time": "2025-11-19T18:34:30.314368",
   "package_url": "https://pypi.org/project/mpneuralnetwork/"
 }

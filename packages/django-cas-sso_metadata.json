@@ -1,0 +1,11 @@
+{
+  "name": "django-cas-sso",
+  "version": "1.2.9",
+  "summary": "Django Cas SSO Client (inherited from django-cas)",
+  "author": "di-dip-unistra",
+  "license": "MIT",
+  "home_page": "http://github.com/unistra/django-cas/",
+  "download_filename": "django_cas_sso-1.2.9.tar.gz",
+  "download_time": "2025-11-19T18:33:46.016971",
+  "package_url": "https://pypi.org/project/django-cas-sso/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Products.TemporaryFolder",
+  "version": "8.1",
+  "summary": "Zope temporary folder support.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Products.TemporaryFolder",
+  "download_filename": "products_temporaryfolder-8.1.tar.gz",
+  "download_time": "2025-11-19T18:33:55.373982",
+  "package_url": "https://pypi.org/project/Products.TemporaryFolder/"
+}

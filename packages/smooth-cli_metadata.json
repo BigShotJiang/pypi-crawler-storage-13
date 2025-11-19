@@ -1,0 +1,11 @@
+{
+  "name": "smooth-cli",
+  "version": "0.3.4",
+  "summary": "CLI utility for SD README Documentation Generator",
+  "author": "SmoothDev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smooth_cli-0.3.4.tar.gz",
+  "download_time": "2025-11-19T18:34:11.041105",
+  "package_url": "https://pypi.org/project/smooth-cli/"
+}

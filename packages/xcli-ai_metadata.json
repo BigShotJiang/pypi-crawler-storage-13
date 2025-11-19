@@ -1,0 +1,11 @@
+{
+  "name": "xcli-ai",
+  "version": "1.0.3",
+  "summary": "A CLI assistant powered by local AI (Msty Studio) or OpenAI",
+  "author": "Jon Caraveo",
+  "license": null,
+  "home_page": "https://github.com/caraveo/solai",
+  "download_filename": "xcli_ai-1.0.3.tar.gz",
+  "download_time": "2025-11-19T18:34:29.804278",
+  "package_url": "https://pypi.org/project/xcli-ai/"
+}

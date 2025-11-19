@@ -1,0 +1,11 @@
+{
+  "name": "allotropy",
+  "version": "0.1.111",
+  "summary": "Converts to ASM (Allotrope Simple Model) from various file formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allotropy-0.1.111.tar.gz",
+  "download_time": "2025-11-19T18:33:48.108262",
+  "package_url": "https://pypi.org/project/allotropy/"
+}

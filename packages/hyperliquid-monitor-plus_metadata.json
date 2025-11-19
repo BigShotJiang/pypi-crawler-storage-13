@@ -1,11 +1,11 @@
 {
   "name": "hyperliquid-monitor-plus",
-  "version": "2.0.0",
-  "summary": "Production-ready monitor for tracking whale wallet transactions on Hyperliquid DEX",
+  "version": "2.7.2",
+  "summary": "Production-ready monitor for tracking whale wallet transactions on Hyperliquid DEX with alerts, PnL tracking, position monitoring, strategy analysis, reporting, and notifications",
   "author": "Pezhman Hajipour",
   "license": null,
   "home_page": "https://github.com/Pezhman5252/hyperliquid-monitor-plus",
-  "download_filename": "hyperliquid_monitor_plus-2.0.0.tar.gz",
-  "download_time": "2025-11-18T20:26:35.411470",
+  "download_filename": "hyperliquid_monitor_plus-2.7.2.tar.gz",
+  "download_time": "2025-11-19T18:34:12.061591",
   "package_url": "https://pypi.org/project/hyperliquid-monitor-plus/"
 }
