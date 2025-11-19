@@ -1,0 +1,11 @@
+{
+  "name": "apidev-coop-cms",
+  "version": "1.6.14",
+  "summary": "Small CMS built around a tree navigation open to any django models",
+  "author": "Luc Jean",
+  "license": "BSD",
+  "home_page": "https://github.com/ljean/coop_cms/",
+  "download_filename": "apidev_coop_cms-1.6.14.tar.gz",
+  "download_time": "2025-11-19T22:22:04.968477",
+  "package_url": "https://pypi.org/project/apidev-coop-cms/"
+}

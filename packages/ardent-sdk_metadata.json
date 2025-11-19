@@ -1,0 +1,11 @@
+{
+  "name": "ardent-sdk",
+  "version": "0.8.0",
+  "summary": "Python SDK for Ardent AI - Simplify your data engineering tasks",
+  "author": "Ardent AI",
+  "license": null,
+  "home_page": "https://github.com/ArdentAILabs/ArdentAPI",
+  "download_filename": "ardent_sdk-0.8.0.tar.gz",
+  "download_time": "2025-11-19T22:21:46.389665",
+  "package_url": "https://pypi.org/project/ardent-sdk/"
+}

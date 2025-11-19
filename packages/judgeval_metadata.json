@@ -1,11 +1,11 @@
 {
   "name": "judgeval",
-  "version": "0.22.5",
+  "version": "0.22.6",
   "summary": "The open source post-building layer for Agent Behavior Monitoring.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "judgeval-0.22.5-py3-none-any.whl",
-  "download_time": "2025-11-18T06:56:50.363263",
+  "download_filename": "judgeval-0.22.6-py3-none-any.whl",
+  "download_time": "2025-11-19T22:22:02.349873",
   "package_url": "https://pypi.org/project/judgeval/"
 }

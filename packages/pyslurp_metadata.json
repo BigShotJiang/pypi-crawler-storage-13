@@ -1,0 +1,11 @@
+{
+  "name": "pyslurp",
+  "version": "0.2.2",
+  "summary": "Package to build spline neuralnetwork with syntax similar to GAM packages",
+  "author": "andrea maioli",
+  "license": null,
+  "home_page": "https://github.com/clarkmaio/slurp",
+  "download_filename": "pyslurp-0.2.2.tar.gz",
+  "download_time": "2025-11-19T22:21:52.562322",
+  "package_url": "https://pypi.org/project/pyslurp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "field-manager-python-client",
+  "version": "4.6.97",
+  "summary": "A client library for accessing Field Manager Data API",
+  "author": "Jiyang Ye",
+  "license": null,
+  "home_page": null,
+  "download_filename": "field_manager_python_client-4.6.97.tar.gz",
+  "download_time": "2025-11-19T22:21:58.749376",
+  "package_url": "https://pypi.org/project/field-manager-python-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "toon-converter",
+  "version": "0.1.0",
+  "summary": "Token-Oriented Object Notation - Compact JSON serialization for LLM prompts",
+  "author": "Nakul Chawla",
+  "license": "MIT",
+  "home_page": "https://github.com/nakul-chawla/toon-converter",
+  "download_filename": "toon_converter-0.1.0.tar.gz",
+  "download_time": "2025-11-19T22:21:51.004905",
+  "package_url": "https://pypi.org/project/toon-converter/"
+}

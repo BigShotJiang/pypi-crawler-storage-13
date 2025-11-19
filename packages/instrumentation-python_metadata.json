@@ -1,0 +1,11 @@
+{
+  "name": "instrumentation-python",
+  "version": "0.0.1",
+  "summary": "Placeholder package to prevent dependency confusion attacks",
+  "author": "Security Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instrumentation_python-0.0.1.tar.gz",
+  "download_time": "2025-11-19T22:21:59.269773",
+  "package_url": "https://pypi.org/project/instrumentation-python/"
+}

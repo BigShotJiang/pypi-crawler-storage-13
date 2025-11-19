@@ -1,0 +1,11 @@
+{
+  "name": "lrok",
+  "version": "0.3.2",
+  "summary": "Expose local services with readable tunnel names",
+  "author": "lum.tools",
+  "license": "MIT",
+  "home_page": "https://github.com/lum-tools/lrok",
+  "download_filename": "lrok-0.3.2.tar.gz",
+  "download_time": "2025-11-19T22:22:10.235863",
+  "package_url": "https://pypi.org/project/lrok/"
+}

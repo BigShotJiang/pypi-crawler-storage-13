@@ -1,0 +1,11 @@
+{
+  "name": "flynn-agent",
+  "version": "1.0.0",
+  "summary": "Asynchronous multi-agent AI system for intelligent task orchestration",
+  "author": "Flynn-Agent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flynn_agent-1.0.0.tar.gz",
+  "download_time": "2025-11-19T22:21:26.129690",
+  "package_url": "https://pypi.org/project/flynn-agent/"
+}

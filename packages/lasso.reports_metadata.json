@@ -1,0 +1,11 @@
+{
+  "name": "lasso.reports",
+  "version": "2.1.0",
+  "summary": "Reporting support for the Planetary Data System",
+  "author": "PDS",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/lasso-reports",
+  "download_filename": "lasso_reports-2.1.0-py3-none-any.whl",
+  "download_time": "2025-11-19T22:22:11.789957",
+  "package_url": "https://pypi.org/project/lasso.reports/"
+}
