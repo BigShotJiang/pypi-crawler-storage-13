@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-mcpdoc-server",
+  "version": "0.0.11",
+  "summary": "Server llms-txt documentation over MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcpdoc_server-0.0.11.tar.gz",
+  "download_time": "2025-11-19T05:43:54.205913",
+  "package_url": "https://pypi.org/project/iflow-mcp-mcpdoc-server/"
+}
