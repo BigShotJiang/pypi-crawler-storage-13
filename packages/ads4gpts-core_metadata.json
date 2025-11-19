@@ -1,0 +1,11 @@
+{
+  "name": "ads4gpts-core",
+  "version": "0.1.2",
+  "summary": "Python SDK for integrating Ads4GPTs advertising logic into conversational AI applications via LangGraph agents",
+  "author": "Ads4GPTs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ads4gpts_core-0.1.2.tar.gz",
+  "download_time": "2025-11-19T21:39:42.876906",
+  "package_url": "https://pypi.org/project/ads4gpts-core/"
+}

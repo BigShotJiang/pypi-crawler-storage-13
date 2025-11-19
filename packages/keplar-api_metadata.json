@@ -1,0 +1,11 @@
+{
+  "name": "keplar-api",
+  "version": "0.0.33",
+  "summary": "Fastify Template API",
+  "author": "OpenAPI Generator community",
+  "license": "LicenseRef-Proprietary",
+  "home_page": null,
+  "download_filename": "keplar_api-0.0.33.tar.gz",
+  "download_time": "2025-11-19T21:39:46.004317",
+  "package_url": "https://pypi.org/project/keplar-api/"
+}

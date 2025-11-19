@@ -1,11 +1,11 @@
 {
   "name": "hitoshura25-mcp-server-generator",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Generate dual-mode MCP servers with best practices",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hitoshura25_mcp_server_generator-0.7.0.tar.gz",
-  "download_time": "2025-11-19T19:19:07.010695",
+  "download_filename": "hitoshura25_mcp_server_generator-0.7.1.tar.gz",
+  "download_time": "2025-11-19T21:40:04.320426",
   "package_url": "https://pypi.org/project/hitoshura25-mcp-server-generator/"
 }

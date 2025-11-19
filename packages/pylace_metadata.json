@@ -1,0 +1,11 @@
+{
+  "name": "pylace",
+  "version": "0.9.0",
+  "summary": "A probabalistic programming ML tool for science",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pylace-0.9.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-19T21:39:54.908777",
+  "package_url": "https://pypi.org/project/pylace/"
+}

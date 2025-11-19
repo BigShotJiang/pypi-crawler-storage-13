@@ -1,0 +1,11 @@
+{
+  "name": "fierce3",
+  "version": "1.0.0",
+  "summary": "A DNS reconnaissance tool for locating non-contiguous IP space.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/meese-enterprises/fierce3",
+  "download_filename": "fierce3-1.0.0.tar.gz",
+  "download_time": "2025-11-19T21:39:50.180599",
+  "package_url": "https://pypi.org/project/fierce3/"
+}

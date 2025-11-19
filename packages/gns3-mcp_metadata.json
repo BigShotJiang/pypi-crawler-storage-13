@@ -1,11 +1,11 @@
 {
   "name": "gns3-mcp",
-  "version": "0.47.5",
+  "version": "0.47.6",
   "summary": "GNS3 lab automation MCP server with AI agent integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gns3_mcp-0.47.5.tar.gz",
-  "download_time": "2025-11-19T21:17:49.633032",
+  "download_filename": "gns3_mcp-0.47.6.tar.gz",
+  "download_time": "2025-11-19T21:39:50.694776",
   "package_url": "https://pypi.org/project/gns3-mcp/"
 }

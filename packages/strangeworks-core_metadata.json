@@ -1,11 +1,11 @@
 {
   "name": "strangeworks-core",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Strangeworks Core provides the infrastructure to interact with the platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "strangeworks_core-0.5.3.tar.gz",
-  "download_time": "2025-11-18T22:43:22.846612",
+  "download_filename": "strangeworks_core-0.5.4.tar.gz",
+  "download_time": "2025-11-19T21:39:45.475945",
   "package_url": "https://pypi.org/project/strangeworks-core/"
 }

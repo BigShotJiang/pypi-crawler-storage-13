@@ -1,0 +1,11 @@
+{
+  "name": "instawell",
+  "version": "0.3.0.dev3",
+  "summary": "Nice tools for plotting and analyzing thermal shift assay wells",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "instawell-0.3.0.dev3.tar.gz",
+  "download_time": "2025-11-19T21:40:04.861786",
+  "package_url": "https://pypi.org/project/instawell/"
+}

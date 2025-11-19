@@ -1,11 +1,11 @@
 {
   "name": "langchain-core",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Building applications with LLMs through composability",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_core-1.0.6.tar.gz",
-  "download_time": "2025-11-19T14:23:07.329203",
+  "download_filename": "langchain_core-1.0.7.tar.gz",
+  "download_time": "2025-11-19T21:40:03.806669",
   "package_url": "https://pypi.org/project/langchain-core/"
 }
