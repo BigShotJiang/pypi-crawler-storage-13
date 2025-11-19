@@ -1,0 +1,11 @@
+{
+  "name": "images-to-zarr",
+  "version": "0.3.5",
+  "summary": "Tiny Python module to bulk-convert large amounts of images into zarr files",
+  "author": null,
+  "license": "(GPL-3.0 OR MIT) License\n        \n        Copyright (c) 2025, Pablo Gómez",
+  "home_page": null,
+  "download_filename": "images_to_zarr-0.3.5.tar.gz",
+  "download_time": "2025-11-19T07:53:01.657683",
+  "package_url": "https://pypi.org/project/images-to-zarr/"
+}

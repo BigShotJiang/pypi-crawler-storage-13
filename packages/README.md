@@ -1,28 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T07:42:14.565247
-- **Total Packages**: 82
-- **Total Size**: 56.18 MB
+- **Download Time**: 2025-11-19T07:53:23.120627
+- **Total Packages**: 80
+- **Total Size**: 12.44 MB
 
 ## Packages List
+- defeatbeta-api
+- rankseg
+- ngenctl
+- pyfcach
+- slash-man
+- tabsim
+- rust-just
+- pyturso
+- medusa-security
+- contest-helper
+- apppy-env
+- apppy-logger
+- apppy-clients
+- apppy-db
+- PySrDaliGateway
+- apppy-aws
+- apppy-fs
+- hyperquant
+- apppy-sb
+- apppy-queues
+- apppy-app
+- apppy-generic
+- naixi-key-encryptor
+- gllm-inference-binary
+- apppy-auth
+- zhDateTime
+- well-log-toolkit
+- apppy-fastql
+- tencent-wedata-feature-engineering-dev
+- transmog
+- vibetuner
+- dash-vite-plugin
+- semantics.py3
+- aa-proxy-reg
+- feldera
+- androtools
+- django-admin-trap
+- asabot
+- bfgbidding
+- images-to-zarr
 - qubitclient
-- noyan-dataset
 - dolze-image-templates
 - deptry-auto
-- slash-man
-- ngenctl
 - CircDEAS
-- medusa-security
 - mcp-semclone
 - llacie
 - brainframe-sys-tools
-- naixi-key-encryptor-js
-- aa-proxy-reg
 - bach-sms-verify3
 - starco-dj-utils
 - qanswer_sdk
-- well-log-toolkit
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - langevin
@@ -53,38 +86,3 @@
 - pythagoras
 - sansio-tools
 - ai-compat
-- azure-openai-limits
-- insights-core
-- pdd-cli
-- MetaRpcMT5
-- MetaRpcMT4
-- ai-edge-litert-nightly
-- tccli-intl-en
-- depthai-nodes
-- devlake-mcp
-- ic-code
-- schiebung
-- meta-spec
-- pytest-api-framework-alpha
-- uvlink
-- STEP.py
-- iflow-mcp_mcp-server-openmetadata
-- chunk2milvus-hq
-- tritonparse
-- dragohan-grimoire
-- meltanolabs-tap-github
-- tg-signer
-- iflow-mcp_mcp-aktools
-- robotframework-excelsage
-- structured-prompt
-- cite-agent
-- gaussbio3d
-- feffery-antd-components
-- llm-mcp-score
-- yearn-treasury
-- fun-things
-- streamlit-nightly
-- consult7
-- superset-sup
-- nexios
-- ifpa-api
