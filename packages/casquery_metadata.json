@@ -1,0 +1,11 @@
+{
+  "name": "casquery",
+  "version": "0.2.1",
+  "summary": "Search Chemical Abstracts Service Registry Numbers (CASRNs) from the EPA Substance Registry Services (SRS) database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "casquery-0.2.1.tar.gz",
+  "download_time": "2025-11-19T23:40:36.904446",
+  "package_url": "https://pypi.org/project/casquery/"
+}

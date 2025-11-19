@@ -1,0 +1,11 @@
+{
+  "name": "gwcs",
+  "version": "0.26.0",
+  "summary": "Generalized World Coordinate System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwcs-0.26.0.tar.gz",
+  "download_time": "2025-11-19T23:40:39.076430",
+  "package_url": "https://pypi.org/project/gwcs/"
+}

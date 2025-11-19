@@ -1,0 +1,11 @@
+{
+  "name": "container-app-conf",
+  "version": "5.4.0",
+  "summary": "Convenient configuration of containerized applications",
+  "author": "Markus Ressel",
+  "license": "MIT",
+  "home_page": "https://github.com/markusressel/container-app-conf",
+  "download_filename": "container_app_conf-5.4.0.tar.gz",
+  "download_time": "2025-11-19T23:40:27.949572",
+  "package_url": "https://pypi.org/project/container-app-conf/"
+}

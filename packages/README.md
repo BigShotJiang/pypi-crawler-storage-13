@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T23:21:34.509585
-- **Total Packages**: 76
-- **Total Size**: 46.06 MB
+- **Download Time**: 2025-11-19T23:41:03.569883
+- **Total Packages**: 81
+- **Total Size**: 25.48 MB
 
 ## Packages List
+- launchdarkly-server-sdk
+- particle-tracking-manager
+- terrakio-admin-api
+- terrakio-api
+- terrakio-core
+- service-capacity-modeling
+- mcp-ticketer
+- svy
+- trinsic-api
+- solomonai-backend-client-sdk
+- lunalib
+- plato-sdk
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- container-app-conf
+- yt-dlp
+- mcp-checkpoint
+- deeprails
+- pagen
+- coola
+- rithm
+- langrepl
+- clickuphelper
+- js-api
+- freeiam
+- fluxion-engine
+- iban-validation-py
+- l2m
+- fastapi-plugin-notification
+- iban-validation-polars
+- dbt-colibri
+- casquery
+- smartharvest-plan-ghsai
+- hivebox
+- synqed
+- gwcs
+- msfabric-devops
+- agentdna
+- aion-torch
+- onehouse-cli
+- acdc_aws_etl_pipeline
+- vital
+- nnterp
+- gati
+- oineus
+- napco-ibridge
+- max-mojo-libs
 - turboloader
 - jacobs-jinja-too
 - baseten-performance-client
@@ -16,14 +64,10 @@
 - ort-python
 - fastcomments
 - gapless-crypto-clickhouse
-- synqed
 - mlx-cpu
 - reversi42
-- terrakio-admin-api
-- terrakio-api
 - verifiers
 - telemetrix
-- terrakio-core
 - eth-portfolio-temp
 - enahopy
 - django-testcontainers-plus
@@ -36,7 +80,6 @@
 - cogames
 - langswarm
 - pyapiq
-- solomonai-backend-client-sdk
 - nominal-api-protos
 - nominal-api
 - pyavrocd
@@ -44,41 +87,3 @@
 - graphics-braille
 - fastapi-boilerplate-generator
 - xee
-- agentdna
-- time-series-anomaly-detector
-- flwr-nightly
-- ezarr
-- langgraph-api
-- deepsights-api
-- opik-optimizer
-- ppef
-- ayechat
-- agent-cli
-- token-data
-- truss
-- vital
-- awslabs.aws-iac-mcp-server
-- puccinialin
-- fastapi-api-key
-- inference-sdk
-- inference-gpu
-- inference-cpu
-- inference-core
-- inference-cli
-- inference
-- ptinsearcher
-- hcam-obsutils
-- megatron-core
-- langrepl
-- megatron-fsdp
-- mcp-proxy-adapter
-- onehouse-cli
-- uraster
-- pydynamodb
-- tetra-rp
-- runpod
-- robot-birdbrain
-- pytmc
-- moose-lib
-- pymobiledevice3
-- pyaxm
