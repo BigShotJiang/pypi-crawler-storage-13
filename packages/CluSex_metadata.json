@@ -1,0 +1,11 @@
+{
+  "name": "CluSex",
+  "version": "2.5.6",
+  "summary": "Sextractor on Cluster Galaxies",
+  "author": "Christopher Añorve, Omar López-Cruz",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/canorve/CluSex",
+  "download_filename": "clusex-2.5.6.tar.gz",
+  "download_time": "2025-11-19T01:44:43.217329",
+  "package_url": "https://pypi.org/project/CluSex/"
+}

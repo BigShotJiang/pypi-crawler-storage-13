@@ -1,0 +1,11 @@
+{
+  "name": "PyEmailerAJM",
+  "version": "1.9.2.1",
+  "summary": "Allows for automating sending Email with the Outlook Desktop client. Future releases will add more client support",
+  "author": "Amcsparron",
+  "license": "MIT License",
+  "home_page": "https://github.com/amcsparron2793-Water/PyEmailer",
+  "download_filename": "pyemailerajm-1.9.2.1.tar.gz",
+  "download_time": "2025-11-19T01:44:53.087696",
+  "package_url": "https://pypi.org/project/PyEmailerAJM/"
+}

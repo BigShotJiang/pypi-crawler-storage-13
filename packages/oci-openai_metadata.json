@@ -1,0 +1,11 @@
+{
+  "name": "oci-openai",
+  "version": "1.0.0",
+  "summary": "OCI authentication and authorization utilities for OpenAI python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oci_openai-1.0.0.tar.gz",
+  "download_time": "2025-11-19T01:44:40.596306",
+  "package_url": "https://pypi.org/project/oci-openai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vcrpy-bincon",
+  "version": "0.3.0",
+  "summary": "Convert binary Python VCR cassette responses to human-readable strings.",
+  "author": "Justintime50",
+  "license": "MIT",
+  "home_page": "http://github.com/Justintime50/vcrpy-bincon",
+  "download_filename": "vcrpy_bincon-0.3.0.tar.gz",
+  "download_time": "2025-11-19T01:44:49.422907",
+  "package_url": "https://pypi.org/project/vcrpy-bincon/"
+}

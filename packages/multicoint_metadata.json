@@ -1,0 +1,11 @@
+{
+  "name": "multicoint",
+  "version": "1.0.0",
+  "summary": "Multicointegration analysis for I(1) and I(2) time series",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multicoint-1.0.0.tar.gz",
+  "download_time": "2025-11-19T01:44:37.405092",
+  "package_url": "https://pypi.org/project/multicoint/"
+}

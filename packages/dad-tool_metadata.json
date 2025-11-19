@@ -1,0 +1,11 @@
+{
+  "name": "dad-tool",
+  "version": "3.0.0",
+  "summary": "Dummy Address Data (DAD) - Real addresses from all around the world.",
+  "author": "Justintime50",
+  "license": "MIT",
+  "home_page": "http://github.com/Justintime50/dad-python",
+  "download_filename": "dad_tool-3.0.0.tar.gz",
+  "download_time": "2025-11-19T01:44:48.379534",
+  "package_url": "https://pypi.org/project/dad-tool/"
+}

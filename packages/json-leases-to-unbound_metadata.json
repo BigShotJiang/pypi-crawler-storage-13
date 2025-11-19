@@ -1,0 +1,11 @@
+{
+  "name": "json-leases-to-unbound",
+  "version": "0.0.1",
+  "summary": "Monitor JSON lease files and sync them to Unbound DNS server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_leases_to_unbound-0.0.1.tar.gz",
+  "download_time": "2025-11-19T01:44:31.587036",
+  "package_url": "https://pypi.org/project/json-leases-to-unbound/"
+}

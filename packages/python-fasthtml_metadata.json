@@ -1,0 +1,11 @@
+{
+  "name": "python-fasthtml",
+  "version": "0.12.35",
+  "summary": "The fastest way to create an HTML app",
+  "author": "Jeremy Howard and contributors",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fasthtml",
+  "download_filename": "python_fasthtml-0.12.35.tar.gz",
+  "download_time": "2025-11-19T01:44:54.120680",
+  "package_url": "https://pypi.org/project/python-fasthtml/"
+}
