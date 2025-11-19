@@ -1,0 +1,11 @@
+{
+  "name": "translate-shell",
+  "version": "0.0.59",
+  "summary": "Translate text by google, bing, youdaozhiyun, haici, stardict, openai, large language model of local machine, etc at same time from CLI, GUI (GNU/Linux, Android, macOS and Windows), REPL, python, shell and vim.",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "translate_shell-0.0.59.tar.gz",
+  "download_time": "2025-11-19T10:47:25.368252",
+  "package_url": "https://pypi.org/project/translate-shell/"
+}

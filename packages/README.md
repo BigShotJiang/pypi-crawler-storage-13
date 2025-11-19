@@ -1,20 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-19T10:26:33.648417
-- **Total Packages**: 87
-- **Total Size**: 40.47 MB
+- **Download Time**: 2025-11-19T10:47:57.833401
+- **Total Packages**: 89
+- **Total Size**: 31.04 MB
 
 ## Packages List
+- agilab
+- nvidia-nat-phoenix
+- nvidia-nat-crewai
+- odoo-module-un-install-equitania
+- nvidia-nat-all
+- fasthorizon
+- nvidia-nat-test
+- BoschRpaMagicBox
+- freshdesk-mcp-support
+- openalgo
+- itachi-tomasevic-2025
+- MetaRpcMT5
+- MetaRpcMT4
+- aipyapp
+- nvidia-nat
+- tbp-nightly
+- tombi
+- nvidia-nat-zep-cloud
+- nvidia-nat-agno
+- rubix.agent.dna
+- anchorfix
+- ssb-libtest5
+- ssb-libtest8
+- nvidia-nat-strands
+- ssb-libtest7
+- moexalgo
+- nvidia-nat-ingestion
+- ssb-libtest3
+- nvidia-nat-mysql
+- ssb-libtest4
+- makeprov
+- nvidia-nat-vanna
+- nvidia-nat-mcp
+- translate-shell
+- passagemath-rankwidth
+- passagemath-plot
+- locaria-integrated-testing
+- passagemath-planarity
+- passagemath-objects
+- passagemath-homfly
+- nvidia-nat-ragaai
+- cognite-toolkit
+- passagemath-graphs
+- tai-sql
+- passagemath-glpk
+- cribl-control-plane
+- nvidia-nat-profiling
+- cordatus-jtop-service
+- passagemath-cmr
+- passagemath-cliquer
+- passagemath-cddlib
+- nvidia-nat-adk
 - passagemath-categories
 - nvidia-nat-s3
 - longport
 - nixos-compose
-- fasthorizon
 - css-ciphers
 - nvidia-nat-weave
 - aiqtoolkit-crewai
-- aipyapp
 - aiqtoolkit-weave
 - aiqtoolkit-test
 - pytorch-lightning-enterprise
@@ -38,58 +88,10 @@
 - plone.app.contentmenu
 - aidev-agent
 - ai-edge-torch-nightly
-- cordatus-jtop-service
 - hypernodes
 - opik-optimizer
-- BoschRpaMagicBox
 - qlibx
 - mitchallen-coin
 - cdk-eks-cluster-module
 - trd-utils
 - welearn-database
-- pydanja
-- keynet-inference
-- keynet-train
-- keynet-core
-- plone.app.contentlisting
-- rubix.agent.dna
-- bluer-sbc
-- plone.alterego
-- gibr
-- serialdevicelib
-- bleuio
-- xparse-pipeline
-- jettask
-- qtextraplot
-- anchorfix
-- flerity-core
-- odoo-addon-ai-oca-bridge-chatter
-- odoo-addon-ai-oca-bridge
-- qtextra
-- m2s
-- psd-covariance
-- glycowork
-- skypilot-nightly
-- tof
-- enhanced-s3-storage-provider
-- snmpsim
-- laboneq
-- CircDEAS
-- glancewatch
-- celus-nibbler
-- codegen-cli
-- odoo-addon-account-dashboard-banner
-- writer
-- azure-mgmt-netapp
-- alubia
-- sql-error-categorizer
-- qodo
-- mlgame3d
-- plone.app.uuid
-- well-log-toolkit
-- agentmail
-- sigmund
-- neuracore
-- ai-sandboxes
-- sysom-hang-analyzer
-- amrita
