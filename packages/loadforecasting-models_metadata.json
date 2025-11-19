@@ -1,0 +1,11 @@
+{
+  "name": "loadforecasting-models",
+  "version": "0.2.7",
+  "summary": "Package, containing multiple state-of-the-art forecasting models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loadforecasting_models-0.2.7.tar.gz",
+  "download_time": "2025-11-19T08:53:30.831447",
+  "package_url": "https://pypi.org/project/loadforecasting-models/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tastyerrors",
+  "version": "2025.0.2",
+  "summary": "An awesome library for  40+ additional useful Python exceptions",
+  "author": "Arjun Singh",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "tastyerrors-2025.0.2-py3-none-any.whl",
+  "download_time": "2025-11-19T08:53:18.935566",
+  "package_url": "https://pypi.org/project/tastyerrors/"
+}

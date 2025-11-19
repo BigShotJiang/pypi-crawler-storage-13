@@ -1,0 +1,11 @@
+{
+  "name": "ecospy",
+  "version": "0.7.0",
+  "summary": "A simple, fast and easy to use co-simulation engine.",
+  "author": "Lars Ivar Hatledal",
+  "license": "MIT",
+  "home_page": "https://github.com/Ecos-platform/ecos",
+  "download_filename": "ecospy-0.7.0.tar.gz",
+  "download_time": "2025-11-19T08:53:41.675655",
+  "package_url": "https://pypi.org/project/ecospy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiiware-cli",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "AI-powered terminal assistant with HTTP/WebSocket API: Natural language commands for git commits, code generation, translation, content writing, shell automation, and analysis. Choose your AI model per request (Claude, GPT-4, Gemini, Moonshot Kimi, DeepSeek). Includes model intelligence & analytics, cost optimization, 25+ content prompts, MCP server management, and IDE integrations (VSCode, Chrome extension).",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aiiware_cli-0.9.3.tar.gz",
-  "download_time": "2025-11-19T04:27:32.913782",
+  "download_filename": "aiiware_cli-0.9.4.tar.gz",
+  "download_time": "2025-11-19T08:53:28.206453",
   "package_url": "https://pypi.org/project/aiiware-cli/"
 }

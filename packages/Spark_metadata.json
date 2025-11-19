@@ -1,0 +1,11 @@
+{
+  "name": "Spark",
+  "version": "0.3.2",
+  "summary": "Spark AI Development Kit",
+  "author": "Wensheng Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/wensheng/spark",
+  "download_filename": "spark-0.3.2.tar.gz",
+  "download_time": "2025-11-19T08:53:34.944157",
+  "package_url": "https://pypi.org/project/Spark/"
+}

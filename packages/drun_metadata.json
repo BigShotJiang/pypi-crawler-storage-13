@@ -1,0 +1,11 @@
+{
+  "name": "drun",
+  "version": "3.6.7",
+  "summary": "Minimal HTTP API test runner (MVP)",
+  "author": "Drun Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drun-3.6.7.tar.gz",
+  "download_time": "2025-11-19T08:53:42.188311",
+  "package_url": "https://pypi.org/project/drun/"
+}
