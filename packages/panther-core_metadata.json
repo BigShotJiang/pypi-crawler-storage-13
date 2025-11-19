@@ -1,0 +1,11 @@
+{
+  "name": "panther-core",
+  "version": "0.16.0",
+  "summary": "Panther core library",
+  "author": "Panther Labs Inc",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/panther-labs/panther_core",
+  "download_filename": "panther_core-0.16.0.tar.gz",
+  "download_time": "2025-11-19T16:58:32.760600",
+  "package_url": "https://pypi.org/project/panther-core/"
+}

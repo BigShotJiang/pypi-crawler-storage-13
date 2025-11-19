@@ -1,0 +1,11 @@
+{
+  "name": "atomicds",
+  "version": "0.5.0",
+  "summary": "API client for Atomscale.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "atomicds-0.5.0.tar.gz",
+  "download_time": "2025-11-19T16:58:26.839450",
+  "package_url": "https://pypi.org/project/atomicds/"
+}

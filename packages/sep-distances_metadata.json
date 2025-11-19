@@ -1,11 +1,11 @@
 {
   "name": "sep-distances",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "An implementation of separation distances and s/c-metrics for causal graphs as introduced in the paper 'Separation-based distance metrics for causal graphs'.",
   "author": "Jonas Wahl",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/JonasChoice/sep_distances",
-  "download_filename": "sep_distances-1.0.1.tar.gz",
-  "download_time": "2025-11-18T11:40:30.919406",
+  "download_filename": "sep_distances-1.0.2.tar.gz",
+  "download_time": "2025-11-19T16:58:24.613864",
   "package_url": "https://pypi.org/project/sep-distances/"
 }

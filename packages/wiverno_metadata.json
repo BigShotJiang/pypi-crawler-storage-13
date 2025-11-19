@@ -1,0 +1,11 @@
+{
+  "name": "wiverno",
+  "version": "1.0.0",
+  "summary": "A lightweight WSGI framework for building fast and flexible Python web applications",
+  "author": "Sayrrexe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wiverno-1.0.0.tar.gz",
+  "download_time": "2025-11-19T16:58:22.486550",
+  "package_url": "https://pypi.org/project/wiverno/"
+}

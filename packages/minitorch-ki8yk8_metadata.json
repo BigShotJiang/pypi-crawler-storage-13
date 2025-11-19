@@ -1,11 +1,11 @@
 {
   "name": "minitorch-ki8yk8",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Implementing minimal Pytorch for Learning",
   "author": "KI8YK8",
   "license": null,
   "home_page": null,
-  "download_filename": "minitorch_ki8yk8-1.0.0.tar.gz",
-  "download_time": "2025-11-19T15:24:28.763804",
+  "download_filename": "minitorch_ki8yk8-1.0.3.tar.gz",
+  "download_time": "2025-11-19T16:58:32.240424",
   "package_url": "https://pypi.org/project/minitorch-ki8yk8/"
 }

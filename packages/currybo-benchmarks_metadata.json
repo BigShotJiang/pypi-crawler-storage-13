@@ -1,0 +1,11 @@
+{
+  "name": "currybo-benchmarks",
+  "version": "0.1",
+  "summary": "Benchmarking CurryBO for chemical reaction optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "currybo_benchmarks-0.1.tar.gz",
+  "download_time": "2025-11-19T16:58:43.772038",
+  "package_url": "https://pypi.org/project/currybo-benchmarks/"
+}

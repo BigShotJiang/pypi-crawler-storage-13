@@ -1,0 +1,11 @@
+{
+  "name": "ridehail",
+  "version": "2025.11.19.1",
+  "summary": "Simulations of ridehail traffic and trips",
+  "author": "Tom Slee",
+  "license": null,
+  "home_page": "https://github.com/tomslee/ridehail-animation",
+  "download_filename": "ridehail-2025.11.19.1-py3-none-any.whl",
+  "download_time": "2025-11-19T16:58:38.497621",
+  "package_url": "https://pypi.org/project/ridehail/"
+}
