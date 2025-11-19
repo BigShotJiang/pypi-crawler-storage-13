@@ -1,11 +1,11 @@
 {
   "name": "vibego",
-  "version": "1.1.19",
+  "version": "1.1.21",
   "summary": "vibego CLI：用于初始化与管理 Telegram Master Bot 的工具",
   "author": "Hypha",
   "license": null,
   "home_page": null,
-  "download_filename": "vibego-1.1.19.tar.gz",
-  "download_time": "2025-11-19T13:55:39.847505",
+  "download_filename": "vibego-1.1.21.tar.gz",
+  "download_time": "2025-11-19T15:45:38.885806",
   "package_url": "https://pypi.org/project/vibego/"
 }

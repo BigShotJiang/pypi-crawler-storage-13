@@ -1,0 +1,11 @@
+{
+  "name": "virus-simulation",
+  "version": "1.2.1",
+  "summary": "Virus simulation",
+  "author": "Anvarys",
+  "license": null,
+  "home_page": null,
+  "download_filename": "virus_simulation-1.2.1.tar.gz",
+  "download_time": "2025-11-19T15:45:18.538100",
+  "package_url": "https://pypi.org/project/virus-simulation/"
+}

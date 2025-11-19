@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-pliakh",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "MCP server package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_pliakh-0.1.7.tar.gz",
-  "download_time": "2025-11-19T14:22:28.110181",
+  "download_filename": "mcp_server_pliakh-0.1.8.tar.gz",
+  "download_time": "2025-11-19T15:45:28.170170",
   "package_url": "https://pypi.org/project/mcp-server-pliakh/"
 }

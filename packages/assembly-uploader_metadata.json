@@ -1,0 +1,11 @@
+{
+  "name": "assembly-uploader",
+  "version": "1.3.5",
+  "summary": "Python scripts to upload primary metagenome and metatranscriptome assemblies to ENA on a per-study basis. This script generates xmls to register a new study and create manifests necessary for submission with webin-cli.",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "assembly_uploader-1.3.5.tar.gz",
+  "download_time": "2025-11-19T15:45:14.613365",
+  "package_url": "https://pypi.org/project/assembly-uploader/"
+}
