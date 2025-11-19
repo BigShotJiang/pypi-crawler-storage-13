@@ -1,0 +1,11 @@
+{
+  "name": "psf-analysis-CFIM",
+  "version": "1.7.9",
+  "summary": "A continuation of napari_psf_analysis, developed for CFIM - KU",
+  "author": "Markus L. Bille",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/MaxusTheOne/napari-psf-analysis-CFIM-edition",
+  "download_filename": "psf_analysis_cfim-1.7.9.tar.gz",
+  "download_time": "2025-11-19T11:20:21.933105",
+  "package_url": "https://pypi.org/project/psf-analysis-CFIM/"
+}

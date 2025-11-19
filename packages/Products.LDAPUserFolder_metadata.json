@@ -1,0 +1,11 @@
+{
+  "name": "Products.LDAPUserFolder",
+  "version": "6.0",
+  "summary": "A LDAP-enabled Zope user folder",
+  "author": "Jens Vagelpohl and contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/dataflake/Products.LDAPUserFolder",
+  "download_filename": "products_ldapuserfolder-6.0.tar.gz",
+  "download_time": "2025-11-19T11:20:40.670568",
+  "package_url": "https://pypi.org/project/Products.LDAPUserFolder/"
+}

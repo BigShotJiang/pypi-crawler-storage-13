@@ -1,0 +1,11 @@
+{
+  "name": "Products.LDAPMultiPlugins",
+  "version": "6.0",
+  "summary": "LDAP-backed plugins for the Zope PluggableAuthService",
+  "author": "Jens Vagelpohl and contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/dataflake/Products.LDAPMultiPlugins",
+  "download_filename": "products_ldapmultiplugins-6.0.tar.gz",
+  "download_time": "2025-11-19T11:20:46.903090",
+  "package_url": "https://pypi.org/project/Products.LDAPMultiPlugins/"
+}

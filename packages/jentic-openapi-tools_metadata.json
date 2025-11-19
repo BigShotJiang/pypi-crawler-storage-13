@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-tools",
-  "version": "1.0.0a20",
+  "version": "1.0.0a21",
   "summary": "Workspace root for Jentic OpenAPI Tools",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jentic_openapi_tools-1.0.0a20.tar.gz",
-  "download_time": "2025-11-18T14:46:26.546979",
+  "download_filename": "jentic_openapi_tools-1.0.0a21.tar.gz",
+  "download_time": "2025-11-19T11:20:35.411824",
   "package_url": "https://pypi.org/project/jentic-openapi-tools/"
 }

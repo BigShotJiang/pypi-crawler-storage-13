@@ -1,0 +1,11 @@
+{
+  "name": "boxsdk",
+  "version": "10.0.1",
+  "summary": "Official Box Python SDK",
+  "author": "Box",
+  "license": "Apache-2.0, http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://github.com/box/box-python-sdk.git",
+  "download_filename": "boxsdk-10.0.1.tar.gz",
+  "download_time": "2025-11-19T11:20:45.869306",
+  "package_url": "https://pypi.org/project/boxsdk/"
+}

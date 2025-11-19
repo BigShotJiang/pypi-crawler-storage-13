@@ -1,0 +1,11 @@
+{
+  "name": "protein-quest",
+  "version": "1.0.0",
+  "summary": "Search/retrieve/filter proteins and protein structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "protein_quest-1.0.0.tar.gz",
+  "download_time": "2025-11-19T11:20:21.420230",
+  "package_url": "https://pypi.org/project/protein-quest/"
+}

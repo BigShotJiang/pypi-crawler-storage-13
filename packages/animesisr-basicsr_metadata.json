@@ -1,0 +1,11 @@
+{
+  "name": "animesisr-basicsr",
+  "version": "1.0.1",
+  "summary": "Open Source Image and Video Super-Resolution Toolbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "animesisr_basicsr-1.0.1.tar.gz",
+  "download_time": "2025-11-19T11:20:48.509742",
+  "package_url": "https://pypi.org/project/animesisr-basicsr/"
+}

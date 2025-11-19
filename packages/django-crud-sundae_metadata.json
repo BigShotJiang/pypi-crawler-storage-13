@@ -1,0 +1,11 @@
+{
+  "name": "django-crud-sundae",
+  "version": "0.1.0",
+  "summary": "A useful view class for creating CRUD views in Django (With Tailwind & HTMX & extensible plugin system)",
+  "author": "Leon Harris",
+  "license": null,
+  "home_page": "https://github.com/leonh/django-crud-sundae",
+  "download_filename": "django_crud_sundae-0.1.0.tar.gz",
+  "download_time": "2025-11-19T11:20:15.097442",
+  "package_url": "https://pypi.org/project/django-crud-sundae/"
+}

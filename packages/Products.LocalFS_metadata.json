@@ -1,0 +1,11 @@
+{
+  "name": "Products.LocalFS",
+  "version": "4.0",
+  "summary": "The Local File System product",
+  "author": "Jonothan Farr and contributors",
+  "license": "BSD License",
+  "home_page": "https://github.com/dataflake/Products.LocalFS",
+  "download_filename": "products_localfs-4.0.tar.gz",
+  "download_time": "2025-11-19T11:20:11.870345",
+  "package_url": "https://pypi.org/project/Products.LocalFS/"
+}

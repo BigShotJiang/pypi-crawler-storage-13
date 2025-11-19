@@ -1,0 +1,11 @@
+{
+  "name": "energyml-utils",
+  "version": "1.9.2",
+  "summary": "Energyml helper",
+  "author": "Valentin Gauthier",
+  "license": "Apache-2.0",
+  "home_page": "http://www.geosiris.com",
+  "download_filename": "energyml_utils-1.9.2.tar.gz",
+  "download_time": "2025-11-19T11:20:42.437302",
+  "package_url": "https://pypi.org/project/energyml-utils/"
+}

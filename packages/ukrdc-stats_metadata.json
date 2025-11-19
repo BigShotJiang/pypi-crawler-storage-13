@@ -1,0 +1,11 @@
+{
+  "name": "ukrdc-stats",
+  "version": "2.13.1",
+  "summary": "A package to produce stats from the ukrdc database to be displayed on the dashboard",
+  "author": "Philip Main",
+  "license": "MIT",
+  "home_page": "https://github.com/renalreg/dashboard-stats",
+  "download_filename": "ukrdc_stats-2.13.1.tar.gz",
+  "download_time": "2025-11-19T11:20:20.878936",
+  "package_url": "https://pypi.org/project/ukrdc-stats/"
+}

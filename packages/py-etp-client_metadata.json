@@ -1,0 +1,11 @@
+{
+  "name": "py-etp-client",
+  "version": "1.1.1",
+  "summary": "A python client to interact with the ETP server in with a websocket connection",
+  "author": "Valentin Gauthier",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "py_etp_client-1.1.1.tar.gz",
+  "download_time": "2025-11-19T11:20:04.225101",
+  "package_url": "https://pypi.org/project/py-etp-client/"
+}
