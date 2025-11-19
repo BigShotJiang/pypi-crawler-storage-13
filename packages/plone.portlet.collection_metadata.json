@@ -1,0 +1,11 @@
+{
+  "name": "plone.portlet.collection",
+  "version": "4.0.5",
+  "summary": "A portlet that fetches results from a collection",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.portlet.collection/",
+  "download_filename": "plone_portlet_collection-4.0.5.tar.gz",
+  "download_time": "2025-11-19T20:40:57.650190",
+  "package_url": "https://pypi.org/project/plone.portlet.collection/"
+}

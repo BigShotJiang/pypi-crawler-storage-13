@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-extension-ducklake",
+  "version": "1.4.2",
+  "summary": "Duckdb ducklake extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckdb_extension_ducklake-1.4.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-19T20:40:40.621671",
+  "package_url": "https://pypi.org/project/duckdb-extension-ducklake/"
+}

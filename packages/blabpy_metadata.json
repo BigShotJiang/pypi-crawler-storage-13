@@ -1,11 +1,11 @@
 {
   "name": "blabpy",
-  "version": "0.38.0",
+  "version": "0.38.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blabpy-0.38.0.tar.gz",
-  "download_time": "2025-11-18T17:21:19.164255",
+  "download_filename": "blabpy-0.38.1.tar.gz",
+  "download_time": "2025-11-19T20:40:29.068541",
   "package_url": "https://pypi.org/project/blabpy/"
 }

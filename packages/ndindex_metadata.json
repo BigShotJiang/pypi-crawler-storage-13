@@ -1,0 +1,11 @@
+{
+  "name": "ndindex",
+  "version": "1.10.1",
+  "summary": "A Python library for manipulating indices of ndarrays.",
+  "author": "Quansight Labs",
+  "license": "MIT",
+  "home_page": "https://quansight-labs.github.io/ndindex/",
+  "download_filename": "ndindex-1.10.1.tar.gz",
+  "download_time": "2025-11-19T20:40:26.969958",
+  "package_url": "https://pypi.org/project/ndindex/"
+}

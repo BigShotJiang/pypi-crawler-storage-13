@@ -1,0 +1,11 @@
+{
+  "name": "nx-yaml",
+  "version": "0.3.0",
+  "summary": "nx_yaml is a general purpose YAML implementation as hypergraphs using nx_hif. It provides native semantics for higher-order applications such as Hypergraph Analysis, Quantum Computing, Geometric Deep Learning and Monoidal Computing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nx_yaml-0.3.0.tar.gz",
+  "download_time": "2025-11-19T20:41:00.883124",
+  "package_url": "https://pypi.org/project/nx-yaml/"
+}

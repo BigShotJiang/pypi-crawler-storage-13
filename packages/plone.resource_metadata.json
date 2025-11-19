@@ -1,0 +1,11 @@
+{
+  "name": "plone.resource",
+  "version": "3.0.3",
+  "summary": "Static files for Plone",
+  "author": "David Glick, Plone Foundation",
+  "license": "GPL version 2 or later",
+  "home_page": "https://pypi.org/project/plone.resource",
+  "download_filename": "plone_resource-3.0.3.tar.gz",
+  "download_time": "2025-11-19T20:40:44.321579",
+  "package_url": "https://pypi.org/project/plone.resource/"
+}
