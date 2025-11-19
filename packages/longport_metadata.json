@@ -1,0 +1,11 @@
+{
+  "name": "longport",
+  "version": "3.0.18",
+  "summary": "A Python library for LongPort Open API",
+  "author": null,
+  "license": null,
+  "home_page": "https://open.longportapp.com/en/",
+  "download_filename": "longport-3.0.18-cp310-cp310-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-11-19T10:25:48.719798",
+  "package_url": "https://pypi.org/project/longport/"
+}

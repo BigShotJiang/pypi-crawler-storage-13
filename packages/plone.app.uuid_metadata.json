@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.uuid",
+  "version": "2.2.4",
+  "summary": "Plone integration for the basic plone.uuid package",
+  "author": "Martin Aspeli",
+  "license": "GPL",
+  "home_page": "http://plone.org",
+  "download_filename": "plone_app_uuid-2.2.4.tar.gz",
+  "download_time": "2025-11-19T10:26:29.469692",
+  "package_url": "https://pypi.org/project/plone.app.uuid/"
+}

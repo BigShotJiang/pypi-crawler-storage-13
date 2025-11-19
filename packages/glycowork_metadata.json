@@ -1,0 +1,11 @@
+{
+  "name": "glycowork",
+  "version": "1.7.0",
+  "summary": "Package for processing and analyzing glycans",
+  "author": "Daniel Bojar",
+  "license": null,
+  "home_page": "https://github.com/BojarLab/glycowork",
+  "download_filename": "glycowork-1.7.0.tar.gz",
+  "download_time": "2025-11-19T10:26:20.571748",
+  "package_url": "https://pypi.org/project/glycowork/"
+}

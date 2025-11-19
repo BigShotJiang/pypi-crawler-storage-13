@@ -1,11 +1,11 @@
 {
   "name": "enhanced-s3-storage-provider",
-  "version": "1.6.97",
+  "version": "1.6.99",
   "summary": "A storage provider which can fetch and store media in Amazon S3.",
   "author": "matrix.org team and contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/elyesbenamor/synapse-s3-storage-provider.git",
-  "download_filename": "enhanced_s3_storage_provider-1.6.97.tar.gz",
-  "download_time": "2025-11-19T09:44:53.569705",
+  "download_filename": "enhanced_s3_storage_provider-1.6.99.tar.gz",
+  "download_time": "2025-11-19T10:26:22.171102",
   "package_url": "https://pypi.org/project/enhanced-s3-storage-provider/"
 }

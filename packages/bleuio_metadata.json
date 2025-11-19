@@ -1,0 +1,11 @@
+{
+  "name": "bleuio",
+  "version": "1.7.2",
+  "summary": "Library for using the bleuio dongle.",
+  "author": "Smart Sensor Devices",
+  "license": "MIT",
+  "home_page": "https://smart-sensor-devices-ab.github.io/ssd005-manual/",
+  "download_filename": "bleuio-1.7.2-py3-none-any.whl",
+  "download_time": "2025-11-19T10:26:14.791924",
+  "package_url": "https://pypi.org/project/bleuio/"
+}
