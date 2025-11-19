@@ -1,11 +1,11 @@
 {
   "name": "djangocms-aldryn-forms",
-  "version": "8.5.1",
+  "version": "8.6.0",
   "summary": "Create forms and embed them on CMS pages.",
   "author": "Divio AG",
   "license": "BSD",
   "home_page": "https://github.com/CZ-NIC/djangocms-aldryn-forms",
-  "download_filename": "djangocms_aldryn_forms-8.5.1.tar.gz",
-  "download_time": "2025-11-19T13:34:19.533416",
+  "download_filename": "djangocms_aldryn_forms-8.6.0.tar.gz",
+  "download_time": "2025-11-19T17:24:51.347586",
   "package_url": "https://pypi.org/project/djangocms-aldryn-forms/"
 }

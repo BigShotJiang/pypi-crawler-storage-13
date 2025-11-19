@@ -1,0 +1,11 @@
+{
+  "name": "OpenTariff",
+  "version": "1.2.0",
+  "summary": "An open-source tariff schema definition",
+  "author": "Future Energy Associates",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentariff-1.2.0.tar.gz",
+  "download_time": "2025-11-19T17:25:00.210324",
+  "package_url": "https://pypi.org/project/OpenTariff/"
+}

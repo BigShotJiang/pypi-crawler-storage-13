@@ -1,11 +1,11 @@
 {
   "name": "alyios-windows",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Windows-specific utilities: console UI, input capture/simulation, file dialogs, clipboard, screen capture, pixel detection, notifications, audio control, and automation",
   "author": "Alyios",
   "license": "MIT",
   "home_page": "https://github.com/Alyios/alyios-windows",
-  "download_filename": "alyios_windows-0.3.0.tar.gz",
-  "download_time": "2025-11-19T16:32:44.007274",
+  "download_filename": "alyios_windows-0.5.0.tar.gz",
+  "download_time": "2025-11-19T17:25:07.054171",
   "package_url": "https://pypi.org/project/alyios-windows/"
 }

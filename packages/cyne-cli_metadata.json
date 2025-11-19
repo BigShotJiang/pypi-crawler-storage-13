@@ -1,11 +1,11 @@
 {
   "name": "cyne-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A powerful ReAct Python Assistant with AI capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cyne_cli-1.0.1.tar.gz",
-  "download_time": "2025-11-19T16:58:33.280358",
+  "download_filename": "cyne_cli-1.0.2.tar.gz",
+  "download_time": "2025-11-19T17:24:59.690843",
   "package_url": "https://pypi.org/project/cyne-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vcon-zip",
+  "version": "1.0.0",
+  "summary": "Python implementation of the vCon Zip Bundle format",
+  "author": "vCon Zip Implementation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vcon_zip-1.0.0.tar.gz",
+  "download_time": "2025-11-19T17:24:49.740716",
+  "package_url": "https://pypi.org/project/vcon-zip/"
+}

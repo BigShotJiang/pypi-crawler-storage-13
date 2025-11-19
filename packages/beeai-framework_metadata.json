@@ -1,11 +1,11 @@
 {
   "name": "beeai-framework",
-  "version": "0.1.67",
+  "version": "0.1.68",
   "summary": null,
   "author": "IBM Corp.",
   "license": "Apache-2.0",
   "home_page": "https://framework.beeai.dev/",
-  "download_filename": "beeai_framework-0.1.67.tar.gz",
-  "download_time": "2025-11-18T17:21:08.257652",
+  "download_filename": "beeai_framework-0.1.68.tar.gz",
+  "download_time": "2025-11-19T17:24:44.999204",
   "package_url": "https://pypi.org/project/beeai-framework/"
 }

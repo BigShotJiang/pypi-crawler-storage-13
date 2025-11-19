@@ -1,0 +1,11 @@
+{
+  "name": "regdown",
+  "version": "1.1",
+  "summary": "Markdown extension for interactive regulations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regdown-1.1.tar.gz",
+  "download_time": "2025-11-19T17:24:40.299367",
+  "package_url": "https://pypi.org/project/regdown/"
+}

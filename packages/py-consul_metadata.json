@@ -1,0 +1,11 @@
+{
+  "name": "py-consul",
+  "version": "1.6.1",
+  "summary": "Python client for Consul (http://www.consul.io/)",
+  "author": "Criteo",
+  "license": "MIT",
+  "home_page": "https://github.com/criteo-forks/py-consul",
+  "download_filename": "py_consul-1.6.1.tar.gz",
+  "download_time": "2025-11-19T17:25:09.680522",
+  "package_url": "https://pypi.org/project/py-consul/"
+}

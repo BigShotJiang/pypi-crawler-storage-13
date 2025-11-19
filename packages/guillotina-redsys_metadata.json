@@ -1,0 +1,11 @@
+{
+  "name": "guillotina-redsys",
+  "version": "1.0.0",
+  "summary": "Redsys support for guillotina",
+  "author": "Nil Bacardit Vinyals",
+  "license": "GPL version 3",
+  "home_page": "https://github.com/guillotinaweb/guillotina_redsys",
+  "download_filename": "guillotina_redsys-1.0.0.tar.gz",
+  "download_time": "2025-11-19T17:25:22.286062",
+  "package_url": "https://pypi.org/project/guillotina-redsys/"
+}
