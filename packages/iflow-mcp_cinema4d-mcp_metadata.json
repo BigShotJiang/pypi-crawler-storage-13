@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cinema4d-mcp",
+  "version": "0.1.2",
+  "summary": "Cinema 4D MCP Server for Claude Desktop with MoGraph support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_cinema4d_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-19T09:55:47.467388",
+  "package_url": "https://pypi.org/project/iflow-mcp_cinema4d-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scikit-network",
+  "version": "0.33.5",
+  "summary": "Graph algorithms",
+  "author": "Scikit-network team",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "scikit_network-0.33.5.tar.gz",
+  "download_time": "2025-11-19T09:56:00.541728",
+  "package_url": "https://pypi.org/project/scikit-network/"
+}

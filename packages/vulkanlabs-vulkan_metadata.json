@@ -1,11 +1,11 @@
 {
   "name": "vulkanlabs-vulkan",
-  "version": "0.1.0.dev20251118192214",
+  "version": "0.1.0.dev20251119095008",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vulkanlabs_vulkan-0.1.0.dev20251118192214.tar.gz",
-  "download_time": "2025-11-18T19:39:18.374480",
+  "download_filename": "vulkanlabs_vulkan-0.1.0.dev20251119095008.tar.gz",
+  "download_time": "2025-11-19T09:55:46.884359",
   "package_url": "https://pypi.org/project/vulkanlabs-vulkan/"
 }

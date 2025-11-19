@@ -1,0 +1,11 @@
+{
+  "name": "arborparser",
+  "version": "0.1.6",
+  "summary": "ArborParser is a Python library that parses structured text with hierarchical headings into tree representations, enabling customizable pattern recognition and multi-format exports for outlines, reports, and technical documents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arborparser-0.1.6.tar.gz",
+  "download_time": "2025-11-19T09:55:44.041442",
+  "package_url": "https://pypi.org/project/arborparser/"
+}

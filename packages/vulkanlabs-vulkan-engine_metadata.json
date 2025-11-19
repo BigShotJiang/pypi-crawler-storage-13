@@ -1,11 +1,11 @@
 {
   "name": "vulkanlabs-vulkan-engine",
-  "version": "0.1.0.dev20251118192214",
+  "version": "0.1.0.dev20251119095008",
   "summary": "Vulkan core engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vulkanlabs_vulkan_engine-0.1.0.dev20251118192214.tar.gz",
-  "download_time": "2025-11-18T19:39:17.851897",
+  "download_filename": "vulkanlabs_vulkan_engine-0.1.0.dev20251119095008.tar.gz",
+  "download_time": "2025-11-19T09:55:45.763966",
   "package_url": "https://pypi.org/project/vulkanlabs-vulkan-engine/"
 }

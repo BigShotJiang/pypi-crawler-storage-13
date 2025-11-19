@@ -1,0 +1,11 @@
+{
+  "name": "api4jenkins",
+  "version": "2.1.0",
+  "summary": "Jenkins Python Client",
+  "author": "Joe Lee",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/joelee2012/api4jenkins",
+  "download_filename": "api4jenkins-2.1.0.tar.gz",
+  "download_time": "2025-11-19T09:56:13.656403",
+  "package_url": "https://pypi.org/project/api4jenkins/"
+}

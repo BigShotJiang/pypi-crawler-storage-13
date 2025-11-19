@@ -1,0 +1,11 @@
+{
+  "name": "quantum-attack-simulator",
+  "version": "1.0.2",
+  "summary": "A Python library for simulating BB84 protocol security and attacks.",
+  "author": "Koray Danisma",
+  "license": null,
+  "home_page": "https://github.com/koraydns/quantum-attack-simulator",
+  "download_filename": "quantum_attack_simulator-1.0.2.tar.gz",
+  "download_time": "2025-11-19T09:56:12.360824",
+  "package_url": "https://pypi.org/project/quantum-attack-simulator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlgame3d-envs",
+  "version": "0.2.0",
+  "summary": "Unity Machine Learning Agents Interface",
+  "author": "PAIA-Tech",
+  "license": null,
+  "home_page": "https://github.com/PAIA-Playful-AI-Arena/mlgame3d-envs",
+  "download_filename": "mlgame3d_envs-0.2.0.tar.gz",
+  "download_time": "2025-11-19T09:55:34.473089",
+  "package_url": "https://pypi.org/project/mlgame3d-envs/"
+}

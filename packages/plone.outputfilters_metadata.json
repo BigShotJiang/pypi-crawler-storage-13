@@ -1,0 +1,11 @@
+{
+  "name": "plone.outputfilters",
+  "version": "5.0.5",
+  "summary": "Transformations applied to HTML in Plone text fields as they are rendered",
+  "author": "David Glick, Plone Foundation",
+  "license": "GPL",
+  "home_page": "http://github.com/plone/plone.outputfilters",
+  "download_filename": "plone_outputfilters-5.0.5.tar.gz",
+  "download_time": "2025-11-19T09:56:09.585799",
+  "package_url": "https://pypi.org/project/plone.outputfilters/"
+}
