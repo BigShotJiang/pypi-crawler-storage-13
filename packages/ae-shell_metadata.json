@@ -1,0 +1,11 @@
+{
+  "name": "ae-shell",
+  "version": "0.3.8",
+  "summary": "ae namespace module portion shell: shell execution and environment helpers",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_shell",
+  "download_filename": "ae_shell-0.3.8.tar.gz",
+  "download_time": "2025-11-19T15:57:18.747848",
+  "package_url": "https://pypi.org/project/ae-shell/"
+}

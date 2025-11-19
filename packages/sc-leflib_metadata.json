@@ -1,0 +1,11 @@
+{
+  "name": "sc-leflib",
+  "version": "0.5.0",
+  "summary": "LEF parser for SiliconCompiler",
+  "author": "ZeroASIC",
+  "license": "Apache License 2.0",
+  "home_page": "https://siliconcompiler.com",
+  "download_filename": "sc_leflib-0.5.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-11-19T15:56:58.556173",
+  "package_url": "https://pypi.org/project/sc-leflib/"
+}

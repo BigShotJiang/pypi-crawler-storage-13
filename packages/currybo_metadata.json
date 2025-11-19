@@ -1,0 +1,11 @@
+{
+  "name": "currybo",
+  "version": "0.1.0",
+  "summary": "Bayesian Optimization for general parameters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "currybo-0.1.0.tar.gz",
+  "download_time": "2025-11-19T15:56:50.246102",
+  "package_url": "https://pypi.org/project/currybo/"
+}

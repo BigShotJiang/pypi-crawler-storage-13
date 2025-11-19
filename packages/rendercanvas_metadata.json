@@ -1,0 +1,11 @@
+{
+  "name": "rendercanvas",
+  "version": "2.4.2",
+  "summary": "One canvas API, multiple backends",
+  "author": "Almar Klein, Korijn van Golen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rendercanvas-2.4.2.tar.gz",
+  "download_time": "2025-11-19T15:57:35.445254",
+  "package_url": "https://pypi.org/project/rendercanvas/"
+}
