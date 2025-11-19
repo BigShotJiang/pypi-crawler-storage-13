@@ -1,11 +1,11 @@
 {
   "name": "dns-benchmark-tool",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "Benchmark DNS resolvers across domains and record types with analytics and reports (CSV, Excel, PDF, JSON).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dns_benchmark_tool-0.2.9.tar.gz",
-  "download_time": "2025-11-17T18:55:09.077370",
+  "download_filename": "dns_benchmark_tool-0.3.0-py3-none-any.whl",
+  "download_time": "2025-11-19T12:46:36.536986",
   "package_url": "https://pypi.org/project/dns-benchmark-tool/"
 }

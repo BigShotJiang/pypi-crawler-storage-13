@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-import-simple-pdf",
+  "version": "16.0.1.0.0.10",
+  "summary": "Import simple PDF vendor bills",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo_addon_account_invoice_import_simple_pdf-16.0.1.0.0.10-py3-none-any.whl",
+  "download_time": "2025-11-19T12:46:58.367139",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-import-simple-pdf/"
+}

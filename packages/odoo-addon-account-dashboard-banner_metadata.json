@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-account-dashboard-banner",
-  "version": "18.0.1.1.0.6",
+  "version": "18.0.1.2.0",
   "summary": "Add a configurable banner on the accounting dashboard",
   "author": "Akretion,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/account-financial-tools",
-  "download_filename": "odoo_addon_account_dashboard_banner-18.0.1.1.0.6-py3-none-any.whl",
-  "download_time": "2025-11-19T10:26:25.839972",
+  "download_filename": "odoo_addon_account_dashboard_banner-18.0.1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-19T12:47:19.687079",
   "package_url": "https://pypi.org/project/odoo-addon-account-dashboard-banner/"
 }

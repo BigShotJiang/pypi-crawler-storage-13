@@ -1,0 +1,11 @@
+{
+  "name": "exactpy",
+  "version": "0.0.23",
+  "summary": "Modern Python interface to the exact online API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exactpy-0.0.23.tar.gz",
+  "download_time": "2025-11-19T12:47:00.454847",
+  "package_url": "https://pypi.org/project/exactpy/"
+}

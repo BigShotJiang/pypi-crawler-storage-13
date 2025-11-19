@@ -1,0 +1,11 @@
+{
+  "name": "comptox-python",
+  "version": "0.6.0",
+  "summary": "A Python interface for the EPA CompTox Dashboard Chemical API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "comptox_python-0.6.0.tar.gz",
+  "download_time": "2025-11-19T12:46:53.176798",
+  "package_url": "https://pypi.org/project/comptox-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "amor-eos",
+  "version": "3.0.6",
+  "summary": "EOS reflectometry reduction for AMOR instrument",
+  "author": "Jochen Stahn - Paul Scherrer Institut",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amor_eos-3.0.6.tar.gz",
+  "download_time": "2025-11-19T12:47:06.132633",
+  "package_url": "https://pypi.org/project/amor-eos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tline",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Timeliner 🌟 - AI's diary. Track AI agent work with markdown log",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "tline-0.1.9-py3-none-any.whl",
-  "download_time": "2025-11-19T11:52:40.732751",
+  "download_filename": "tline-0.1.10-py3-none-any.whl",
+  "download_time": "2025-11-19T12:47:19.172850",
   "package_url": "https://pypi.org/project/tline/"
 }

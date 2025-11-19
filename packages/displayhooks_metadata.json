@@ -1,0 +1,11 @@
+{
+  "name": "displayhooks",
+  "version": "0.0.5",
+  "summary": "Extend the capabilities of the standard displayhook in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "displayhooks-0.0.5.tar.gz",
+  "download_time": "2025-11-19T12:46:57.322870",
+  "package_url": "https://pypi.org/project/displayhooks/"
+}
