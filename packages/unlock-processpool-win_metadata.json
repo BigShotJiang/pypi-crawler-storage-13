@@ -1,0 +1,11 @@
+{
+  "name": "unlock-processpool-win",
+  "version": "2.3.0",
+  "summary": "Unlock Windows process limit for ProcessPoolExecutor and joblib (61->2046 workers)",
+  "author": "Half open flowers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/JackLFH/unlock-processpool",
+  "download_filename": "unlock_processpool_win-2.3.0.tar.gz",
+  "download_time": "2025-11-19T05:22:48.807613",
+  "package_url": "https://pypi.org/project/unlock-processpool-win/"
+}

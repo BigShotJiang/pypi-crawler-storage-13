@@ -1,0 +1,11 @@
+{
+  "name": "clihelperjk",
+  "version": "1.0.0",
+  "summary": "CLI interactivo para administrar Microsoft Office 2016/2019/2021",
+  "author": "Juan Kraudy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clihelperjk-1.0.0.tar.gz",
+  "download_time": "2025-11-19T05:22:43.568665",
+  "package_url": "https://pypi.org/project/clihelperjk/"
+}

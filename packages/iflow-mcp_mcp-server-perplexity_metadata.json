@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-perplexity",
+  "version": "0.1.4",
+  "summary": "MCP Server for the Perplexity API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_perplexity-0.1.4.tar.gz",
+  "download_time": "2025-11-19T05:22:52.984487",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-perplexity/"
+}

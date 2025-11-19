@@ -1,0 +1,11 @@
+{
+  "name": "cybotrade-datasource",
+  "version": "0.1.9",
+  "summary": "Python SDK to interact with Cybotrade Datasource API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cybotrade_datasource-0.1.9-cp312-cp312-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-11-19T05:22:53.554562",
+  "package_url": "https://pypi.org/project/cybotrade-datasource/"
+}

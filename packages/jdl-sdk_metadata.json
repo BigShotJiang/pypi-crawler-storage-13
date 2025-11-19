@@ -1,0 +1,11 @@
+{
+  "name": "jdl-sdk",
+  "version": "0.0.2",
+  "summary": "Jingdong Logistic Python SDK",
+  "author": "blackcat",
+  "license": "GNU",
+  "home_page": "https://github.com/jellyfrank/jd-sdk",
+  "download_filename": "jdl_sdk-0.0.2.tar.gz",
+  "download_time": "2025-11-19T05:22:26.724159",
+  "package_url": "https://pypi.org/project/jdl-sdk/"
+}
