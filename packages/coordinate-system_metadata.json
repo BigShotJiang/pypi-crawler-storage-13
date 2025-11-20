@@ -1,0 +1,11 @@
+{
+  "name": "coordinate-system",
+  "version": "4.0.2",
+  "summary": "High-performance 3D coordinate system library with right-handed conventions, Intrinsic Gradient Operator method for curvature computation, achieving machine-precision accuracy",
+  "author": "PanGuoJun",
+  "license": "MIT",
+  "home_page": "https://github.com/panguojun/Coordinate-System",
+  "download_filename": "coordinate_system-4.0.2.tar.gz",
+  "download_time": "2025-11-20T06:33:35.063995",
+  "package_url": "https://pypi.org/project/coordinate-system/"
+}

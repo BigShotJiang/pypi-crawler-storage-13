@@ -1,0 +1,11 @@
+{
+  "name": "tpl-cli",
+  "version": "0.1.0",
+  "summary": "A CLI that composes single-file Cookiecutter templates via Git",
+  "author": "tpl Maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tpl_cli-0.1.0.tar.gz",
+  "download_time": "2025-11-20T06:33:26.857129",
+  "package_url": "https://pypi.org/project/tpl-cli/"
+}

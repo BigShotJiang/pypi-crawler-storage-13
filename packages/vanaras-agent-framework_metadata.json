@@ -1,0 +1,11 @@
+{
+  "name": "vanaras-agent-framework",
+  "version": "0.1.0",
+  "summary": "A lightweight, local-first agent framework for programmatic code execution and orchestration.",
+  "author": "Vanaras AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vanaras_agent_framework-0.1.0.tar.gz",
+  "download_time": "2025-11-20T06:34:12.922309",
+  "package_url": "https://pypi.org/project/vanaras-agent-framework/"
+}

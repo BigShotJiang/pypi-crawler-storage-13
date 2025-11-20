@@ -1,0 +1,11 @@
+{
+  "name": "ameide-sdk-python",
+  "version": "2.10.1",
+  "summary": "Official AMEIDE Python SDK",
+  "author": "AMEIDE Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ameide_sdk_python-2.10.1.tar.gz",
+  "download_time": "2025-11-20T06:34:05.761420",
+  "package_url": "https://pypi.org/project/ameide-sdk-python/"
+}

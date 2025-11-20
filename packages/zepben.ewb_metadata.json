@@ -1,0 +1,11 @@
+{
+  "name": "zepben.ewb",
+  "version": "1.0.4",
+  "summary": "Python SDK for interacting with the Energy Workbench platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zepben_ewb-1.0.4.tar.gz",
+  "download_time": "2025-11-20T06:34:14.021374",
+  "package_url": "https://pypi.org/project/zepben.ewb/"
+}
