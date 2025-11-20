@@ -1,11 +1,11 @@
 {
   "name": "timesat-cli",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Python-based command line interface for TIMESAT",
   "author": "Zhanzhang Cai",
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "timesat_cli-1.2.3.tar.gz",
-  "download_time": "2025-11-20T15:45:51.278545",
+  "download_filename": "timesat_cli-1.2.4.tar.gz",
+  "download_time": "2025-11-20T19:40:03.546948",
   "package_url": "https://pypi.org/project/timesat-cli/"
 }

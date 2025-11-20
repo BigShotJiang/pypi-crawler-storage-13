@@ -1,0 +1,11 @@
+{
+  "name": "pypicoboot",
+  "version": "1.0",
+  "summary": "Pico Boot for Python",
+  "author": "Pol Henarejos",
+  "license": "AGPL",
+  "home_page": "https://github.com/polhenarejos/pypicoboot",
+  "download_filename": "pypicoboot-1.0.tar.gz",
+  "download_time": "2025-11-20T19:40:11.953463",
+  "package_url": "https://pypi.org/project/pypicoboot/"
+}

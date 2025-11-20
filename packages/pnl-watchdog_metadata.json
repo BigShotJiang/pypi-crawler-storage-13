@@ -1,0 +1,11 @@
+{
+  "name": "pnl-watchdog",
+  "version": "0.1.0",
+  "summary": "A safety tool for algo-traders to detect silent broker failures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pnl_watchdog-0.1.0.tar.gz",
+  "download_time": "2025-11-20T19:40:03.023935",
+  "package_url": "https://pypi.org/project/pnl-watchdog/"
+}

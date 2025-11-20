@@ -1,11 +1,11 @@
 {
   "name": "lehmer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "This is a minimal, vectorised and batchable library for computing Lehmer codes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lehmer-0.1.0.tar.gz",
-  "download_time": "2025-11-20T19:22:53.907984",
+  "download_filename": "lehmer-0.1.2.tar.gz",
+  "download_time": "2025-11-20T19:40:27.191005",
   "package_url": "https://pypi.org/project/lehmer/"
 }

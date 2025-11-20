@@ -1,11 +1,11 @@
 {
   "name": "citadel-simulator",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "CITADEL Critical Infrastructure Simulator",
   "author": "CITADEL Project",
   "license": null,
   "home_page": null,
-  "download_filename": "citadel_simulator-1.0.4.tar.gz",
-  "download_time": "2025-11-20T16:12:01.496457",
+  "download_filename": "citadel_simulator-1.0.5.tar.gz",
+  "download_time": "2025-11-20T19:40:27.713027",
   "package_url": "https://pypi.org/project/citadel-simulator/"
 }
