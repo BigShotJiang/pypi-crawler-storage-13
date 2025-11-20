@@ -1,0 +1,11 @@
+{
+  "name": "oes-protobuf",
+  "version": "0.0.56",
+  "summary": "Protocol buffer definitions for OES's OpenDSO™. Includes OpenFMB Version 2.2 Proto Buffs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oes_protobuf-0.0.56.tar.gz",
+  "download_time": "2025-11-20T21:39:00.031264",
+  "package_url": "https://pypi.org/project/oes-protobuf/"
+}

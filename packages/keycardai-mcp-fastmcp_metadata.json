@@ -1,11 +1,11 @@
 {
   "name": "keycardai-mcp-fastmcp",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "FastMCP integration for Keycard OAuth client with automated token exchange and authentication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keycardai_mcp_fastmcp-0.17.0.tar.gz",
-  "download_time": "2025-11-17T20:41:56.159140",
+  "download_filename": "keycardai_mcp_fastmcp-0.18.0.tar.gz",
+  "download_time": "2025-11-20T21:39:10.005215",
   "package_url": "https://pypi.org/project/keycardai-mcp-fastmcp/"
 }

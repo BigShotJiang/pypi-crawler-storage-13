@@ -1,0 +1,11 @@
+{
+  "name": "pdfautonup",
+  "version": "1.13.0",
+  "summary": "Convert PDF files to 'n-up' PDF files, guessing the output layout.",
+  "author": "Louis Paternault",
+  "license": "AGPLv3 or any later version",
+  "home_page": "http://framagit.org/spalax/pdfautonup",
+  "download_filename": "pdfautonup-1.13.0.tar.gz",
+  "download_time": "2025-11-20T21:39:02.121132",
+  "package_url": "https://pypi.org/project/pdfautonup/"
+}

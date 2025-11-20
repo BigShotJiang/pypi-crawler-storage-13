@@ -1,0 +1,11 @@
+{
+  "name": "convertorio-sdk",
+  "version": "1.2.0",
+  "summary": "Official Convertorio SDK for Python - Convert images easily with a simple API",
+  "author": "Convertorio",
+  "license": "MIT",
+  "home_page": "https://github.com/SedeSoft/convertorio-sdk",
+  "download_filename": "convertorio_sdk-1.2.0.tar.gz",
+  "download_time": "2025-11-20T21:39:18.892233",
+  "package_url": "https://pypi.org/project/convertorio-sdk/"
+}

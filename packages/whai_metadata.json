@@ -1,11 +1,11 @@
 {
   "name": "whai",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "summary": "A lightweight, Python-based CLI tool that integrates LLMs directly into your terminal",
   "author": "whai Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "whai-0.8.5.tar.gz",
-  "download_time": "2025-11-20T20:26:40.960663",
+  "download_filename": "whai-0.8.6.tar.gz",
+  "download_time": "2025-11-20T21:39:06.339206",
   "package_url": "https://pypi.org/project/whai/"
 }

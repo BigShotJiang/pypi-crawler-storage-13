@@ -1,0 +1,11 @@
+{
+  "name": "bytez",
+  "version": "2.0.5",
+  "summary": "Python API client for Bytez service",
+  "author": "Bytez",
+  "license": null,
+  "home_page": "https://github.com/bytez-com/docs",
+  "download_filename": "bytez-2.0.5.tar.gz",
+  "download_time": "2025-11-20T21:38:57.406479",
+  "package_url": "https://pypi.org/project/bytez/"
+}

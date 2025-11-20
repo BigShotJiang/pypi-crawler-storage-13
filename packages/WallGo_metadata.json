@@ -1,0 +1,11 @@
+{
+  "name": "WallGo",
+  "version": "1.1.1",
+  "summary": "A package for computing the bubble wall speed in cosmological phase transitions.",
+  "author": null,
+  "license": "GPL v3.0",
+  "home_page": null,
+  "download_filename": "wallgo-1.1.1.tar.gz",
+  "download_time": "2025-11-20T21:39:02.649497",
+  "package_url": "https://pypi.org/project/WallGo/"
+}

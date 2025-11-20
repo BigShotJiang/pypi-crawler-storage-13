@@ -1,11 +1,11 @@
 {
   "name": "cgse-gui",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "summary": "GUI components for CGSE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cgse_gui-0.17.0.tar.gz",
-  "download_time": "2025-11-20T10:47:22.389416",
+  "download_filename": "cgse_gui-0.17.1.tar.gz",
+  "download_time": "2025-11-20T21:39:22.036095",
   "package_url": "https://pypi.org/project/cgse-gui/"
 }
