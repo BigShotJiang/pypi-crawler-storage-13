@@ -1,0 +1,11 @@
+{
+  "name": "python-script-runner",
+  "version": "7.2.0",
+  "summary": "Production-grade Python script execution engine with comprehensive monitoring, alerting, analytics, and enterprise integrations",
+  "author": "Python Script Runner Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/jomardyan/Python-Script-Runner",
+  "download_filename": "python_script_runner-7.2.0.tar.gz",
+  "download_time": "2025-11-20T16:11:42.428414",
+  "package_url": "https://pypi.org/project/python-script-runner/"
+}

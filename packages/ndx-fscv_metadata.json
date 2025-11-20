@@ -1,0 +1,11 @@
+{
+  "name": "ndx-fscv",
+  "version": "0.1.0",
+  "summary": "This NWB extension defines data types for Fast-Scan Cyclic Voltammetry (FSCV), a neurochemical recording technique used to study dopamine and other neuromodulator dynamics. It supports storing the applied triangular ramp waveform and the measured electrochemical current.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndx_fscv-0.1.0.tar.gz",
+  "download_time": "2025-11-20T16:11:56.357279",
+  "package_url": "https://pypi.org/project/ndx-fscv/"
+}

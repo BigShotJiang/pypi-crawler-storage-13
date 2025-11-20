@@ -1,0 +1,11 @@
+{
+  "name": "sfcalculator-torch",
+  "version": "0.3.0",
+  "summary": "A differentiable pipeline connecting molecule models and scattering data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sfcalculator_torch-0.3.0.tar.gz",
+  "download_time": "2025-11-20T16:12:03.108690",
+  "package_url": "https://pypi.org/project/sfcalculator-torch/"
+}

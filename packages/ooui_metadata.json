@@ -1,0 +1,11 @@
+{
+  "name": "ooui",
+  "version": "0.20.0",
+  "summary": "Open Object User Interface",
+  "author": "GISCE",
+  "license": "MIT",
+  "home_page": "https://github.com/gisce/python-ooui",
+  "download_filename": "ooui-0.20.0.tar.gz",
+  "download_time": "2025-11-20T16:11:50.712862",
+  "package_url": "https://pypi.org/project/ooui/"
+}

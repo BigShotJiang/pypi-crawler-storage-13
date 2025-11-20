@@ -1,0 +1,11 @@
+{
+  "name": "auragyt-sdk",
+  "version": "1.0.0",
+  "summary": "AuraGyt Python SDK for biometric authentication and identity verification",
+  "author": "AuraGyt",
+  "license": "MIT",
+  "home_page": "https://github.com/auragyt/auragyt-app",
+  "download_filename": "auragyt_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-20T16:11:38.286567",
+  "package_url": "https://pypi.org/project/auragyt-sdk/"
+}

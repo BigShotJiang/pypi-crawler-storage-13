@@ -1,0 +1,11 @@
+{
+  "name": "mne-features",
+  "version": "0.3.1",
+  "summary": "MNE-Features software for extracting features from multivariate time series",
+  "author": null,
+  "license": "BSD (3-clause)",
+  "home_page": null,
+  "download_filename": "mne_features-0.3.1.tar.gz",
+  "download_time": "2025-11-20T16:11:44.991764",
+  "package_url": "https://pypi.org/project/mne-features/"
+}

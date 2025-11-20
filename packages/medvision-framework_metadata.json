@@ -1,0 +1,11 @@
+{
+  "name": "medvision-framework",
+  "version": "0.1.0",
+  "summary": "Sistema Multimodal Inteligente para Análise Automatizada de Exames de Imagem com Interface Conversacional",
+  "author": "João Pedro",
+  "license": "MIT",
+  "home_page": "https://github.com/joaopedro/medvision-framework",
+  "download_filename": "medvision_framework-0.1.0.tar.gz",
+  "download_time": "2025-11-20T16:11:54.305810",
+  "package_url": "https://pypi.org/project/medvision-framework/"
+}
