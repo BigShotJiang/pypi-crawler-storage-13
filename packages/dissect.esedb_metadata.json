@@ -1,0 +1,11 @@
+{
+  "name": "dissect.esedb",
+  "version": "3.17",
+  "summary": "A Dissect module implementing a parser for Microsofts Extensible Storage Engine Database (ESEDB), used for example in Active Directory, Exchange and Windows Update",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dissect_esedb-3.17.tar.gz",
+  "download_time": "2025-11-20T12:45:20.239158",
+  "package_url": "https://pypi.org/project/dissect.esedb/"
+}

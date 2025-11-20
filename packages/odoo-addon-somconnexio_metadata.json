@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-somconnexio",
+  "version": "16.0.1.0.23",
+  "summary": "Customizations for Som Connexió ERP.",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_somconnexio-16.0.1.0.23.tar.gz",
+  "download_time": "2025-11-20T12:45:23.875747",
+  "package_url": "https://pypi.org/project/odoo-addon-somconnexio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ZeroModel",
+  "version": "1.0.9",
+  "summary": "ZeroModel: Data-centric AI with visual policy maps",
+  "author": "Ernan Hughes",
+  "license": null,
+  "home_page": "https://github.com/ernanhughes/zeromodel",
+  "download_filename": "zeromodel-1.0.9.tar.gz",
+  "download_time": "2025-11-20T12:45:40.013255",
+  "package_url": "https://pypi.org/project/ZeroModel/"
+}

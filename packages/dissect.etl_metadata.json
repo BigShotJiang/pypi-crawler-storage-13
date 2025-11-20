@@ -1,0 +1,11 @@
+{
+  "name": "dissect.etl",
+  "version": "3.14",
+  "summary": "A Dissect module implementing a parser for Event Trace Log (ETL) files, used by the Windows operating system to log kernel events",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_etl-3.14.tar.gz",
+  "download_time": "2025-11-20T12:45:06.036270",
+  "package_url": "https://pypi.org/project/dissect.etl/"
+}

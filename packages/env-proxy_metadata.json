@@ -1,0 +1,11 @@
+{
+  "name": "env-proxy",
+  "version": "1.2.0",
+  "summary": "Creates a class used to query environmental variables with typehinting a conversion to basic Python types.",
+  "author": "Tomas Votava",
+  "license": "MIT",
+  "home_page": "https://github.com/tomasvotava/env-proxy",
+  "download_filename": "env_proxy-1.2.0.tar.gz",
+  "download_time": "2025-11-20T12:45:49.938598",
+  "package_url": "https://pypi.org/project/env-proxy/"
+}

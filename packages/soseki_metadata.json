@@ -1,11 +1,11 @@
 {
   "name": "soseki",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A Flask-based web application framework with user management and job scheduling",
   "author": "Michał Świtała",
   "license": "MIT",
   "home_page": "https://soseki.io",
-  "download_filename": "soseki-0.9.0.tar.gz",
-  "download_time": "2025-11-20T10:47:42.413166",
+  "download_filename": "soseki-0.9.1.tar.gz",
+  "download_time": "2025-11-20T12:45:31.122881",
   "package_url": "https://pypi.org/project/soseki/"
 }

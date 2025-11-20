@@ -1,11 +1,11 @@
 {
   "name": "cmd-ai",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Another ChatGTP project in commandline of linux",
   "author": "jaromrax",
   "license": "GPL2",
   "home_page": "http://gitlab.com/me/cmd_ai",
-  "download_filename": "cmd_ai-0.7.1.tar.gz",
-  "download_time": "2025-11-19T19:18:58.778589",
+  "download_filename": "cmd_ai-0.7.2.tar.gz",
+  "download_time": "2025-11-20T12:45:41.561464",
   "package_url": "https://pypi.org/project/cmd-ai/"
 }

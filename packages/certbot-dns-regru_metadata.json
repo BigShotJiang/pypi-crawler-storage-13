@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-regru",
+  "version": "1.1.0",
+  "summary": "Reg.ru DNS authenticator plugin for Certbot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot_dns_regru-1.1.0.tar.gz",
+  "download_time": "2025-11-20T12:45:35.813990",
+  "package_url": "https://pypi.org/project/certbot-dns-regru/"
+}

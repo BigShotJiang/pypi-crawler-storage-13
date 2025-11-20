@@ -1,0 +1,11 @@
+{
+  "name": "dissect.fat",
+  "version": "3.13",
+  "summary": "A Dissect module implementing parsers for the FAT and exFAT file systems, commonly used on flash memory based storage devices and UEFI partitions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_fat-3.13.tar.gz",
+  "download_time": "2025-11-20T12:45:07.630927",
+  "package_url": "https://pypi.org/project/dissect.fat/"
+}

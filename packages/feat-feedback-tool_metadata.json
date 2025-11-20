@@ -1,0 +1,11 @@
+{
+  "name": "feat-feedback-tool",
+  "version": "1.2.0",
+  "summary": "Create fast feedback based on prewritten sentences combined with personalised messages.",
+  "author": "AnneliesVlaar",
+  "license": "CC-BY-NC-SA-2.5",
+  "home_page": "https://github.com/AnneliesVlaar/Feat",
+  "download_filename": "feat_feedback_tool-1.2.0.tar.gz",
+  "download_time": "2025-11-20T12:45:27.513540",
+  "package_url": "https://pypi.org/project/feat-feedback-tool/"
+}

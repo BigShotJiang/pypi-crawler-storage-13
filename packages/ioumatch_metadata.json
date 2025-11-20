@@ -1,0 +1,11 @@
+{
+  "name": "ioumatch",
+  "version": "0.1.1",
+  "summary": "Compute IoU matrices and one-to-one matching for segmentation evaluation",
+  "author": "Alexis Yehadji",
+  "license": "MIT",
+  "home_page": "https://github.com/al-alec/ioumatch",
+  "download_filename": "ioumatch-0.1.1.tar.gz",
+  "download_time": "2025-11-20T12:45:24.912849",
+  "package_url": "https://pypi.org/project/ioumatch/"
+}

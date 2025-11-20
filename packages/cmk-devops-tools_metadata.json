@@ -1,0 +1,11 @@
+{
+  "name": "cmk-devops-tools",
+  "version": "1.0.0",
+  "summary": "Checkmk DevOps tools",
+  "author": "Jonas Scharpf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmk_devops_tools-1.0.0.tar.gz",
+  "download_time": "2025-11-20T12:45:53.092314",
+  "package_url": "https://pypi.org/project/cmk-devops-tools/"
+}
