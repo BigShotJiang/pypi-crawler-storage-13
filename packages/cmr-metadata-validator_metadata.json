@@ -1,0 +1,11 @@
+{
+  "name": "cmr-metadata-validator",
+  "version": "0.1.0",
+  "summary": "CMR Metadata Validation scripts for NASA Earth Science collections",
+  "author": "Ed Olivares",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmr_metadata_validator-0.1.0.tar.gz",
+  "download_time": "2025-11-20T01:43:13.332493",
+  "package_url": "https://pypi.org/project/cmr-metadata-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rapidgeo",
+  "version": "0.2.3",
+  "summary": "Fast geographic and planar distance calculations with Python bindings",
+  "author": "gaker",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/gaker/rapidgeo",
+  "download_filename": "rapidgeo-0.2.3.tar.gz",
+  "download_time": "2025-11-20T01:43:02.699117",
+  "package_url": "https://pypi.org/project/rapidgeo/"
+}

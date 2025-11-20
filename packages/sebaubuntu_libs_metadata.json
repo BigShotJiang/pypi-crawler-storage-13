@@ -1,0 +1,11 @@
+{
+  "name": "sebaubuntu_libs",
+  "version": "1.6.1",
+  "summary": "SebaUbuntu's shared libs",
+  "author": "Sebastiano Barezzi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sebaubuntu-python/sebaubuntu_libs",
+  "download_filename": "sebaubuntu_libs-1.6.1.tar.gz",
+  "download_time": "2025-11-20T01:42:59.576493",
+  "package_url": "https://pypi.org/project/sebaubuntu_libs/"
+}
