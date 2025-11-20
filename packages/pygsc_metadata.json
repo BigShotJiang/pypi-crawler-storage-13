@@ -1,0 +1,11 @@
+{
+  "name": "pygsc",
+  "version": "0.9",
+  "summary": "Run command-line demos from a script.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygsc-0.9.tar.gz",
+  "download_time": "2025-11-20T11:39:55.479846",
+  "package_url": "https://pypi.org/project/pygsc/"
+}

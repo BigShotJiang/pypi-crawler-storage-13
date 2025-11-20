@@ -1,11 +1,11 @@
 {
   "name": "peptest",
-  "version": "1.2.0",
-  "summary": "Sizin paket təsviri",
+  "version": "1.2.1",
+  "summary": "Avtomatik quraşdırılan və işə salınan test paketi",
   "author": "siitoogether",
   "license": null,
-  "home_page": null,
-  "download_filename": "peptest-1.2.0.tar.gz",
-  "download_time": "2025-11-20T11:23:05.492118",
+  "home_page": "https://github.com/username/peptest",
+  "download_filename": "peptest-1.2.1.tar.gz",
+  "download_time": "2025-11-20T11:40:11.689804",
   "package_url": "https://pypi.org/project/peptest/"
 }

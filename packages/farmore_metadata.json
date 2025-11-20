@@ -1,11 +1,11 @@
 {
   "name": "farmore",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Mirror every repo you own — in one command",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "farmore-0.3.1.tar.gz",
-  "download_time": "2025-11-18T15:46:51.263374",
+  "download_filename": "farmore-0.3.2.tar.gz",
+  "download_time": "2025-11-20T11:39:59.645506",
   "package_url": "https://pypi.org/project/farmore/"
 }

@@ -1,14 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T11:23:42.738402
-- **Total Packages**: 90
-- **Total Size**: 27.71 MB
+- **Download Time**: 2025-11-20T11:40:36.588427
+- **Total Packages**: 85
+- **Total Size**: 14.9 MB
 
 ## Packages List
+- junshan-kit
+- pase
+- minimal-measurement-time
+- flaw2flow
+- diffmind
+- fense-logger
+- pydantic-config-generator
+- lichess-board
+- pygsc
+- fastapi-cloud-cli
+- test-to-speech-vcb
+- well-log-toolkit
+- vizion
+- smle
+- MetaRpcMT5
+- MetaRpcMT4
+- farmore
+- civilpy
+- locust
+- togetherai-haystack
+- aa-markettracker-plugin
+- infra-core
+- py-jsonl
+- aletheia-probe
+- dissect.apfs
+- click-extended
+- datafast
+- openrewrite
+- dissect.btrfs
+- koyo
+- torchx-nightly
+- kitech-repository
+- optillm
+- unboundai-gtm-mcp
+- pyautomatic
+- booktest
+- florestbotfunctions
+- neuro-config-client
+- peptest
+- inductiva
+- torchft-nightly
+- foxie-cli
+- jupyter-jsc-custom
+- changepacks
+- yt-dlp-termux-gui
+- odoo-addon-pricelist-price-base-custom
+- airbyte-source-sftp-bulk
+- openmeter
+- orq-ai-sdk
+- lbt-dragonfly
+- writer
+- polymcp
 - bclearer-core
 - odoo-addon-sale-product-multi-add
-- pase
 - odoo-addon-sale-delivery-state
 - gwrefpy
 - docker-tidy
@@ -24,13 +75,11 @@
 - ansible-doctor
 - prometheus-pve-sd
 - odoo-addon-document-quick-access-folder-auto-classification
-- peptest
 - tf-keras-nightly
 - tina4-python
 - git-batch
 - earthkit-transforms
 - oq-riskmanager
-- flaw2flow
 - fabricks
 - dsf-mobility
 - dahitiapi
@@ -42,57 +91,3 @@
 - netboxlabs-diode-sdk
 - ogc-cite-runner
 - alibabacloud-aliding20230426
-- honeybee-radiance-postprocess
-- anzar-assessment
-- ipyaladin
-- pywebtask
-- smrpgpatchbuilder
-- minimal-measurement-time
-- arthur-client
-- utest-auto-core
-- donkit-vectorstore-loader
-- dsl-mcp
-- strato-dns-api
-- aiohomematic-test-support
-- unicex
-- aiohomematic
-- version-get
-- agently
-- ugbio-srsnv
-- ugbio-single-cell
-- ugbio-ppmseq
-- retail-order-utils
-- ugbio-omics
-- ugbio-mrd
-- ugbio-methylation
-- ugbio-freec
-- ugbio-filtering
-- ugbio-featuremap
-- ugbio-core
-- ugbio-comparison
-- ugbio-cnv
-- ugbio-cloud-utils
-- leaf-framework
-- spotiflow
-- yaw-sweep-sg-cali
-- syndat
-- never-jscore
-- dara-core
-- dara-components
-- create-dara-app
-- cycode
-- kitech-repository
-- notte-sdk
-- notte-mcp
-- notte-llm
-- notte-integrations
-- notte-eval
-- notte-core
-- notte-browser
-- notte-agent
-- notte
-- vllama
-- openframe-criteria-set-protocol
-- embar
-- traia-iatp
-- jiratui

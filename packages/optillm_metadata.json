@@ -1,11 +1,11 @@
 {
   "name": "optillm",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "An optimizing inference proxy for LLMs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optillm-0.3.8.tar.gz",
-  "download_time": "2025-11-20T03:51:24.667493",
+  "download_filename": "optillm-0.3.9.tar.gz",
+  "download_time": "2025-11-20T11:40:08.044213",
   "package_url": "https://pypi.org/project/optillm/"
 }
