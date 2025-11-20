@@ -1,0 +1,11 @@
+{
+  "name": "phy-std-base-toknzer",
+  "version": "0.1.6",
+  "summary": "Base tokenizer for phy project extracted from python 3.14 builtin tokenize module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phy_std_base_toknzer-0.1.6.tar.gz",
+  "download_time": "2025-11-20T05:25:08.435358",
+  "package_url": "https://pypi.org/project/phy-std-base-toknzer/"
+}

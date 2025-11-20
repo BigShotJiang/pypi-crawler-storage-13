@@ -1,0 +1,11 @@
+{
+  "name": "pipzap",
+  "version": "0.4.0",
+  "summary": "Dependency optimization and pruning made simple",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipzap-0.4.0.tar.gz",
+  "download_time": "2025-11-20T05:25:07.898335",
+  "package_url": "https://pypi.org/project/pipzap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cutehap",
+  "version": "1.0.0",
+  "summary": "Haplotype-resolved genomic structural variation detection with cuteHap",
+  "author": "Shuqi Cao",
+  "license": "MIT",
+  "home_page": "https://github.com/Meltpinkg/cuteHap",
+  "download_filename": "cutehap-1.0.0.tar.gz",
+  "download_time": "2025-11-20T05:24:53.086826",
+  "package_url": "https://pypi.org/project/cutehap/"
+}

@@ -1,13 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T04:57:45.547300
-- **Total Packages**: 83
-- **Total Size**: 35.72 MB
+- **Download Time**: 2025-11-20T05:25:41.328992
+- **Total Packages**: 85
+- **Total Size**: 11.52 MB
 
 ## Packages List
-- pyeztrace
+- infra-core
+- ibkr-mcp
+- inoyb
+- cutehap
+- srx-lib-llm
+- acb
+- tsmasterapi
 - pywiim
+- agent-synapse
+- dojo-sdk-client
+- acdc_aws_etl_pipeline
+- pulumi-xyz
+- shinzo
+- in-dbt-spark
+- fluxloop-cli
+- voicegain-speech
+- anyenv
+- bill-fetch-mcp-server
+- horillasetup
+- quant-glow
+- mi-maica
+- flekspy
+- mawo-core
+- myfuncbank-alex
+- linregressor
+- hoernchen
+- hdim-opt
+- pipzap
+- phy-std-base-toknzer
+- hitoshura25-mcp-server-generator
+- pyeztrace
 - fractal-agents
 - hitoshura25-gemini-workflow-bridge
 - pylibmql
@@ -20,7 +49,6 @@
 - sora-sdk-rpi
 - django-testcontainers-plus
 - cng
-- ibkr-mcp
 - cmy
 - ddtrace
 - cmu
@@ -55,7 +83,6 @@
 - xparse-pipeline
 - simple-agentcore-runtime-patterns
 - openi
-- srx-lib-llm
 - mcp-terminal-emulator
 - tamar-model-client
 - Functions-d
@@ -64,28 +91,3 @@
 - lpjguess-runner
 - twilio
 - svy
-- bill-fetch-mcp-server
-- genlist-butler
-- cirro_api_client
-- aiq-platform-api
-- cytimes
-- dojo-sdk-client
-- poster-generator
-- meta-edc
-- cdk-factory
-- langsmith-tool-server
-- odoo-addon-web-form-banner
-- devanagari17-py
-- ollama-gui
-- fastclash
-- keras-nlp-nightly
-- keras-hub-nightly
-- booklab
-- arxiv-ai-agent
-- plato-sdk
-- langsmith
-- imgenx
-- pyenvector
-- PyPDFForm
-- easy-utils-dev
-- quli-quiz

@@ -1,11 +1,11 @@
 {
   "name": "agent-synapse",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Kubernetes-like orchestration system for AI agents",
   "author": "Yakshith Kommineni",
   "license": null,
   "home_page": "https://github.com/YakshithK/synapse",
-  "download_filename": "agent_synapse-0.2.0.tar.gz",
-  "download_time": "2025-11-18T06:32:41.253389",
+  "download_filename": "agent_synapse-0.2.1.tar.gz",
+  "download_time": "2025-11-20T05:24:56.482032",
   "package_url": "https://pypi.org/project/agent-synapse/"
 }
