@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-agno",
+  "version": "0.48.1",
+  "summary": "OpenTelemetry Agno instrumentation",
+  "author": "Gal Kleinman",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-agno",
+  "download_filename": "opentelemetry_instrumentation_agno-0.48.1.tar.gz",
+  "download_time": "2025-11-20T13:54:18.836629",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-agno/"
+}

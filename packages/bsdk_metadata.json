@@ -1,11 +1,11 @@
 {
   "name": "bsdk",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "summary": "Easy to copy package",
   "author": "Unknown",
   "license": null,
   "home_page": null,
-  "download_filename": "bsdk-0.2.2.tar.gz",
-  "download_time": "2025-11-18T17:55:00.535779",
+  "download_filename": "bsdk-1.0.0.tar.gz",
+  "download_time": "2025-11-20T13:54:46.546917",
   "package_url": "https://pypi.org/project/bsdk/"
 }

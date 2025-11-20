@@ -1,0 +1,11 @@
+{
+  "name": "pylxd",
+  "version": "2.3.7",
+  "summary": "python library for LXD",
+  "author": "Paul Hummer and others (see CONTRIBUTORS.rst)",
+  "license": null,
+  "home_page": "https://ubuntu.com/lxd",
+  "download_filename": "pylxd-2.3.7.tar.gz",
+  "download_time": "2025-11-20T13:54:40.842171",
+  "package_url": "https://pypi.org/project/pylxd/"
+}

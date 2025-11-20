@@ -1,0 +1,11 @@
+{
+  "name": "mercury-python",
+  "version": "2.11.1",
+  "summary": "Python interface into mercury's network protocol fingerprinting and analysis functionality",
+  "author": "Blake Anderson",
+  "license": null,
+  "home_page": "https://github.com/cisco/mercury-python/",
+  "download_filename": "mercury_python-2.11.1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-11-20T13:54:19.361759",
+  "package_url": "https://pypi.org/project/mercury-python/"
+}

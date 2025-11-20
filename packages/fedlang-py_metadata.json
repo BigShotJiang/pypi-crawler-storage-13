@@ -1,0 +1,11 @@
+{
+  "name": "fedlang-py",
+  "version": "0.0.1",
+  "summary": "A Federated Learning Framework for Erlang-Python Integration",
+  "author": "Jose Corcuera",
+  "license": null,
+  "home_page": "https://github.com/jlcorcuera/fedlang-py",
+  "download_filename": "fedlang_py-0.0.1.tar.gz",
+  "download_time": "2025-11-20T13:54:00.761872",
+  "package_url": "https://pypi.org/project/fedlang-py/"
+}

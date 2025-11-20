@@ -1,0 +1,11 @@
+{
+  "name": "sea-serpent",
+  "version": "0.4.3",
+  "summary": "Dataframe-like wrapper for SeaTable API.",
+  "author": "Philipp Schlegel",
+  "license": "GNU GPL V3",
+  "home_page": "https://github.com/schlegelp/sea-serpent",
+  "download_filename": "sea_serpent-0.4.3.tar.gz",
+  "download_time": "2025-11-20T13:54:25.754459",
+  "package_url": "https://pypi.org/project/sea-serpent/"
+}

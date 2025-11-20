@@ -1,0 +1,11 @@
+{
+  "name": "acdcserver",
+  "version": "2.4.5.1",
+  "summary": null,
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/dmwm/WMCore",
+  "download_filename": "acdcserver-2.4.5.1.tar.gz",
+  "download_time": "2025-11-20T13:54:10.821914",
+  "package_url": "https://pypi.org/project/acdcserver/"
+}

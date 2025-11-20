@@ -1,0 +1,11 @@
+{
+  "name": "quantumsdk",
+  "version": "0.2.1",
+  "summary": "Quantum Elements API SDK",
+  "author": "Senior Volodymyr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantumsdk-0.2.1.tar.gz",
+  "download_time": "2025-11-20T13:54:14.540031",
+  "package_url": "https://pypi.org/project/quantumsdk/"
+}

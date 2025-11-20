@@ -1,0 +1,11 @@
+{
+  "name": "GPXTweaker",
+  "version": "1.19.3",
+  "summary": "A script in Python 3 to visualize, in 2D and 3D, and edit GPX tracks",
+  "author": "PCigales",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/PCigales/GPXTweaker",
+  "download_filename": "gpxtweaker-1.19.3.tar.gz",
+  "download_time": "2025-11-20T13:54:17.814955",
+  "package_url": "https://pypi.org/project/GPXTweaker/"
+}
