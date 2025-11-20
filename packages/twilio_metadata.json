@@ -1,0 +1,11 @@
+{
+  "name": "twilio",
+  "version": "9.8.7",
+  "summary": "Twilio API client and TwiML generator",
+  "author": "Twilio",
+  "license": "MIT",
+  "home_page": "https://github.com/twilio/twilio-python/",
+  "download_filename": "twilio-9.8.7.tar.gz",
+  "download_time": "2025-11-20T04:57:30.559892",
+  "package_url": "https://pypi.org/project/twilio/"
+}

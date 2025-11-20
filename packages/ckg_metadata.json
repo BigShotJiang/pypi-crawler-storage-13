@@ -1,0 +1,11 @@
+{
+  "name": "ckg",
+  "version": "0.1.7",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ckg-0.1.7.tar.gz",
+  "download_time": "2025-11-20T04:57:18.018083",
+  "package_url": "https://pypi.org/project/ckg/"
+}

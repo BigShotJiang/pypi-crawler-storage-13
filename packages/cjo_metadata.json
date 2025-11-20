@@ -1,0 +1,11 @@
+{
+  "name": "cjo",
+  "version": "0.1.8",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cjo-0.1.8.tar.gz",
+  "download_time": "2025-11-20T04:57:21.654055",
+  "package_url": "https://pypi.org/project/cjo/"
+}

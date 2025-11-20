@@ -1,11 +1,11 @@
 {
   "name": "hitoshura25-gemini-workflow-bridge",
-  "version": "0.6.1",
+  "version": "0.7.1",
   "summary": "MCP server that bridges Claude Code to Gemini CLI for workflow tasks like codebase analysis, specification creation, and code review",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hitoshura25_gemini_workflow_bridge-0.6.1.tar.gz",
-  "download_time": "2025-11-19T05:22:35.197151",
+  "download_filename": "hitoshura25_gemini_workflow_bridge-0.7.1.tar.gz",
+  "download_time": "2025-11-20T04:57:00.174457",
   "package_url": "https://pypi.org/project/hitoshura25-gemini-workflow-bridge/"
 }

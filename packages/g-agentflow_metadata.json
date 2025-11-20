@@ -1,11 +1,11 @@
 {
   "name": "g-agentflow",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Real-time visualization and cost tracking for AI Agents",
   "author": "Muhammad Ammar",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "g_agentflow-0.1.4.tar.gz",
-  "download_time": "2025-11-20T04:26:21.159501",
+  "download_filename": "g_agentflow-0.1.5.tar.gz",
+  "download_time": "2025-11-20T04:57:11.225591",
   "package_url": "https://pypi.org/project/g-agentflow/"
 }

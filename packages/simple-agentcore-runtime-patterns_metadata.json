@@ -1,0 +1,11 @@
+{
+  "name": "simple-agentcore-runtime-patterns",
+  "version": "0.0.1",
+  "summary": "AWS CDK construct library for deploying Bedrock AgentCore Runtime",
+  "author": "@ivorycirrus<ivorycirrus@gmail.com>",
+  "license": "MIT-0",
+  "home_page": "https://github.com/ivorycirrus/simple-agentcore-construct.git",
+  "download_filename": "simple_agentcore_runtime_patterns-0.0.1.tar.gz",
+  "download_time": "2025-11-20T04:57:24.264187",
+  "package_url": "https://pypi.org/project/simple-agentcore-runtime-patterns/"
+}

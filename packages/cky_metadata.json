@@ -1,0 +1,11 @@
+{
+  "name": "cky",
+  "version": "0.1.5",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cky-0.1.5.tar.gz",
+  "download_time": "2025-11-20T04:57:12.273220",
+  "package_url": "https://pypi.org/project/cky/"
+}
