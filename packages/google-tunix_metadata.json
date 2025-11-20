@@ -1,0 +1,11 @@
+{
+  "name": "google-tunix",
+  "version": "0.1.4",
+  "summary": "A lightweight JAX-native LLM post-training framework.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "google_tunix-0.1.4.tar.gz",
+  "download_time": "2025-11-20T05:44:28.760786",
+  "package_url": "https://pypi.org/project/google-tunix/"
+}

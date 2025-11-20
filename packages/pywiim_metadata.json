@@ -1,11 +1,11 @@
 {
   "name": "pywiim",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "summary": "Python library for WiiM/LinkPlay device communication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pywiim-2.0.6.tar.gz",
-  "download_time": "2025-11-20T05:24:55.917114",
+  "download_filename": "pywiim-2.0.7.tar.gz",
+  "download_time": "2025-11-20T05:43:58.659653",
   "package_url": "https://pypi.org/project/pywiim/"
 }

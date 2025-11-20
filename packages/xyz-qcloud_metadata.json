@@ -1,11 +1,11 @@
 {
   "name": "xyz-qcloud",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "qcloud utils",
   "author": "XYZSaas",
   "license": "MIT",
   "home_page": "https://github.com/szuprefix/py-xyz-qcloud",
-  "download_filename": "xyz_qcloud-0.2.2-py3-none-any.whl",
-  "download_time": "2025-11-19T18:55:13.669733",
+  "download_filename": "xyz_qcloud-0.2.3-py3-none-any.whl",
+  "download_time": "2025-11-20T05:44:21.897469",
   "package_url": "https://pypi.org/project/xyz-qcloud/"
 }

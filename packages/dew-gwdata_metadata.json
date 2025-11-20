@@ -1,11 +1,11 @@
 {
   "name": "dew-gwdata",
-  "version": "0.104",
+  "version": "0.105",
   "summary": "Python module for accessing groundwater data internally at DEW",
   "author": "Kent Inverarity",
   "license": null,
   "home_page": "http://github.com/dew-waterscience/dew_gwdata",
-  "download_filename": "dew_gwdata-0.104.tar.gz",
-  "download_time": "2025-11-19T06:58:16.471104",
+  "download_filename": "dew_gwdata-0.105.tar.gz",
+  "download_time": "2025-11-20T05:44:08.371962",
   "package_url": "https://pypi.org/project/dew-gwdata/"
 }

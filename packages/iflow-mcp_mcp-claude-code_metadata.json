@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-claude-code",
+  "version": "0.5.1",
+  "summary": "MCP implementation of Claude Code capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_claude_code-0.5.1.tar.gz",
+  "download_time": "2025-11-20T05:44:06.717946",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-claude-code/"
+}

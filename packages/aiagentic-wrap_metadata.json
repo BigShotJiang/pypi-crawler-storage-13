@@ -1,11 +1,11 @@
 {
   "name": "aiagentic-wrap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A lightweight and extensible agent framework for LLM-powered automation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiagentic_wrap-0.1.0.tar.gz",
-  "download_time": "2025-11-19T19:52:09.605205",
+  "download_filename": "aiagentic_wrap-0.1.1.tar.gz",
+  "download_time": "2025-11-20T05:44:22.986803",
   "package_url": "https://pypi.org/project/aiagentic-wrap/"
 }
