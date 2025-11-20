@@ -1,0 +1,11 @@
+{
+  "name": "vulnreach",
+  "version": "1.0.2",
+  "summary": "Smart Vulnerability Reachability Analyzer - Beyond version checking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vulnreach-1.0.2.tar.gz",
+  "download_time": "2025-11-20T17:25:30.537173",
+  "package_url": "https://pypi.org/project/vulnreach/"
+}

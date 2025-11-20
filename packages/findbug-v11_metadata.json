@@ -1,0 +1,11 @@
+{
+  "name": "findbug-v11",
+  "version": "1.1.0",
+  "summary": "An intelligent Python code bug detection tool",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "findbug_v11-1.1.0.tar.gz",
+  "download_time": "2025-11-20T17:25:19.098435",
+  "package_url": "https://pypi.org/project/findbug-v11/"
+}

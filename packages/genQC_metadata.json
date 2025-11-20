@@ -1,0 +1,11 @@
+{
+  "name": "genQC",
+  "version": "0.2.4",
+  "summary": "Generative quantum circuits",
+  "author": "Florian Fuerrutter",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/FlorianFuerrutter/genQC",
+  "download_filename": "genqc-0.2.4.tar.gz",
+  "download_time": "2025-11-20T17:25:43.575040",
+  "package_url": "https://pypi.org/project/genQC/"
+}

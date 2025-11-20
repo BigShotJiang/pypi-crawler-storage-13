@@ -1,0 +1,11 @@
+{
+  "name": "dfpeek",
+  "version": "0.1.9",
+  "summary": "Peek into a dataframe from the command line",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "dfpeek-0.1.9.tar.gz",
+  "download_time": "2025-11-20T17:25:31.047221",
+  "package_url": "https://pypi.org/project/dfpeek/"
+}

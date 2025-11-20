@@ -1,11 +1,11 @@
 {
   "name": "yt-dlp-termux-gui",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "Simple yet useful Termux GUI for yt-dlp.",
   "author": "tochi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yt_dlp_termux_gui-1.2.5.tar.gz",
-  "download_time": "2025-11-20T16:59:58.958911",
+  "download_filename": "yt_dlp_termux_gui-1.2.6.tar.gz",
+  "download_time": "2025-11-20T17:25:15.947564",
   "package_url": "https://pypi.org/project/yt-dlp-termux-gui/"
 }

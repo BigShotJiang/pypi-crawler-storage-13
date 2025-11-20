@@ -1,0 +1,11 @@
+{
+  "name": "ideal-ukpostcode",
+  "version": "1.0.3",
+  "summary": "package supports validating and formatting postcodes for the UK",
+  "author": "AMAR DESAI",
+  "license": "MIT license",
+  "home_page": "https://github.com/myselfdesai/ideal_ukpostcode",
+  "download_filename": "ideal_ukpostcode-1.0.3.tar.gz",
+  "download_time": "2025-11-20T17:25:28.454233",
+  "package_url": "https://pypi.org/project/ideal-ukpostcode/"
+}
