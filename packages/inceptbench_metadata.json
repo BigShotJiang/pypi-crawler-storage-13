@@ -1,11 +1,11 @@
 {
   "name": "inceptbench",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Comprehensive benchmark and evaluation framework for educational AI question generation",
   "author": "Trilogy Team",
   "license": "Proprietary - Copyright Trilogy Education Services",
   "home_page": "https://github.com/incept-ai/inceptbench",
-  "download_filename": "inceptbench-1.5.3.tar.gz",
-  "download_time": "2025-11-19T12:46:51.114549",
+  "download_filename": "inceptbench-1.5.4.tar.gz",
+  "download_time": "2025-11-20T13:23:12.644866",
   "package_url": "https://pypi.org/project/inceptbench/"
 }

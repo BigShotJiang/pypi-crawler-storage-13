@@ -1,11 +1,11 @@
 {
   "name": "bybit-bulk-downloader",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Python library to efficiently and concurrently download historical data files from Bybit. Supports all asset types (spot, USDT-M, COIN-M, options) and all data frequencies.",
   "author": "aoki-h-jp",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bybit_bulk_downloader-1.2.1.tar.gz",
-  "download_time": "2025-11-20T12:45:42.081491",
+  "download_filename": "bybit_bulk_downloader-1.2.2.tar.gz",
+  "download_time": "2025-11-20T13:22:51.324933",
   "package_url": "https://pypi.org/project/bybit-bulk-downloader/"
 }

@@ -1,54 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T12:45:53.593200
-- **Total Packages**: 94
-- **Total Size**: 57.3 MB
+- **Download Time**: 2025-11-20T13:23:24.160074
+- **Total Packages**: 91
+- **Total Size**: 5.01 MB
 
 ## Packages List
-- dissect.ffs
-- igbpyutils
-- dissect.cstruct
-- cpz-ai
-- dissect.ole
-- dissect.etl
-- dissect.cim
-- dissect.executable
-- dissect.fat
-- dissect.evidence
-- dissect.cramfs
-- dissect.btrfs
-- dissect.eventlog
-- dissect.archive
-- dissect.clfs
-- MetaRpcMT5
-- arxivit
-- MetaRpcMT4
-- vntyper
-- any-agent
-- itkdb-gtk
-- siibra
-- somename-logger
-- alibabacloud-dm20151123
-- legit-api-client
-- stegawave
-- peptest2
-- octoprint-factor-plugin
-- ert
-- absfuyu
-- dissect.esedb
-- fortuna-logger
-- gmodstore-py
-- clone-subdir
-- pubsublib
 - PyRays
 - dissect.sql
 - odoo-addon-somconnexio
 - volue-insight-timeseries
+- cpz-ai
 - ioumatch
 - plaxisproxy-excavation
 - abs-auth-rbac-core
 - unrealircd-rpc-py
+- peptest2
 - airalogy
 - feat-feedback-tool
 - modern-di-faststream
@@ -60,6 +27,7 @@
 - soseki
 - trustedmcp
 - airobo
+- octoprint-factor-plugin
 - pytest-tui-runner
 - cloudnetpy-qc
 - unique_internal_search
@@ -92,6 +60,7 @@
 - superposition-provider
 - superposition-bindings
 - analogic-framework
+- clone-subdir
 - MailDuylato
 - env-proxy
 - jupyterhub-credit-service
@@ -100,3 +69,31 @@
 - evol-aiq
 - regula
 - cmk-devops-tools
+- skilleter-thingy
+- odoo-addon-partner-tier-validation
+- alethiotx-artemis
+- psd-covariance
+- kbkit
+- creatorsarea-py
+- upgini
+- vectis
+- yt-dlp-termux-gui
+- netlist-db
+- defermi
+- inceptbench
+- taf
+- odoo-addon-sale-order-line-product-attribute-values
+- django-project-base
+- unique_toolkit
+- morecantile
+- flosseq
+- conicio
+- fyle-accounting-mappings
+- w2t-bkin
+- molcraft
+- hf-mirror-downloader
+- delfin-complat
+- donkit-ragops-ce
+- aiotrenergy
+- vault-check
+- codeius

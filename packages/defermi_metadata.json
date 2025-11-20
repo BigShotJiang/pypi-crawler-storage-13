@@ -1,0 +1,11 @@
+{
+  "name": "defermi",
+  "version": "1.3.0",
+  "summary": "Compute and analyse point-defect equilibria.",
+  "author": "Lorenzo Villa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "defermi-1.3.0.tar.gz",
+  "download_time": "2025-11-20T13:23:12.006031",
+  "package_url": "https://pypi.org/project/defermi/"
+}

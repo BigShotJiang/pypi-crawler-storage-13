@@ -1,0 +1,11 @@
+{
+  "name": "creatorsarea-py",
+  "version": "0.1.0",
+  "summary": "Python client library for the CreatorsArea.fr job marketplace API",
+  "author": "Sycatle",
+  "license": null,
+  "home_page": "https://github.com/Sycatle/creatorsarea-py",
+  "download_filename": "creatorsarea_py-0.1.0.tar.gz",
+  "download_time": "2025-11-20T13:23:08.741844",
+  "package_url": "https://pypi.org/project/creatorsarea-py/"
+}
