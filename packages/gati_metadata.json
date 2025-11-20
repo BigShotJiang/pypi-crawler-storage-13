@@ -1,11 +1,11 @@
 {
   "name": "gati",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Local-first observability for AI agents. Track LLM calls, tool usage, and agent state.",
   "author": "Vedant Vyas",
   "license": "MIT",
   "home_page": "https://github.com/vedantvyas9/gati",
-  "download_filename": "gati-0.0.1.tar.gz",
-  "download_time": "2025-11-19T23:40:43.822598",
+  "download_filename": "gati-0.0.2.tar.gz",
+  "download_time": "2025-11-20T03:51:15.995975",
   "package_url": "https://pypi.org/project/gati/"
 }

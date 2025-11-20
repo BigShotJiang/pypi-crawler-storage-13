@@ -1,0 +1,11 @@
+{
+  "name": "glm-vision-mcp",
+  "version": "1.0.0",
+  "summary": "基于智谱AI GLM-4V多模态大模型的MCP服务器，提供专业的视觉分析能力",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glm_vision_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-20T03:51:13.888530",
+  "package_url": "https://pypi.org/project/glm-vision-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flexivddk",
+  "version": "1.3.0",
+  "summary": "Flexiv Data Distribution Kit (DDK)",
+  "author": "Flexiv Ltd.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flexivddk-1.3.0-cp310-cp310-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-11-20T03:50:58.650186",
+  "package_url": "https://pypi.org/project/flexivddk/"
+}

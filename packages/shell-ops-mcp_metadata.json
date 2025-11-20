@@ -1,0 +1,11 @@
+{
+  "name": "shell-ops-mcp",
+  "version": "0.1.0",
+  "summary": "Shell Operations MCP Server - 系统运维操作工具集，提供系统监控、进程管理、网络诊断、日志分析等能力",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shell_ops_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-20T03:51:06.019001",
+  "package_url": "https://pypi.org/project/shell-ops-mcp/"
+}

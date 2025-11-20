@@ -1,11 +1,11 @@
 {
   "name": "innerloop",
-  "version": "0.0.0.dev26",
+  "version": "0.0.0.dev28",
   "summary": "LLM in a loop with tools, MCP, sessions, and structured outputs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "innerloop-0.0.0.dev26.tar.gz",
-  "download_time": "2025-11-19T12:46:43.821519",
+  "download_filename": "innerloop-0.0.0.dev28.tar.gz",
+  "download_time": "2025-11-20T03:51:31.385721",
   "package_url": "https://pypi.org/project/innerloop/"
 }
