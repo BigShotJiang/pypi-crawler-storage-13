@@ -1,0 +1,11 @@
+{
+  "name": "TyphoonTest",
+  "version": "1.35.2",
+  "summary": "Typhoon Testing Utilities",
+  "author": "Typhoon HIL, Inc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typhoontest-1.35.2-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-11-20T15:45:58.549772",
+  "package_url": "https://pypi.org/project/TyphoonTest/"
+}

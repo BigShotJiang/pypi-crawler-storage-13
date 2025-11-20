@@ -1,0 +1,11 @@
+{
+  "name": "polyants",
+  "version": "0.13a0",
+  "summary": "POLYHUB system helpers",
+  "author": "pymancer",
+  "license": "MPL-2.0",
+  "home_page": "https://gitlab.com/ru-r5/polyants",
+  "download_filename": "polyants-0.13a0.tar.gz",
+  "download_time": "2025-11-20T15:45:48.675702",
+  "package_url": "https://pypi.org/project/polyants/"
+}

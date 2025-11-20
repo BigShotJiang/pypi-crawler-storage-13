@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-jsonlib",
+  "version": "1.0.0",
+  "summary": "robotframework-jsonlib is a Robot Framework test library for manipulating JSON Object. You can manipulate your JSON object using JSONPath",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robotframework_jsonlib-1.0.0.tar.gz",
+  "download_time": "2025-11-20T15:45:56.479615",
+  "package_url": "https://pypi.org/project/robotframework-jsonlib/"
+}

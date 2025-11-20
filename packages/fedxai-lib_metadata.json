@@ -1,0 +1,11 @@
+{
+  "name": "fedxai-lib",
+  "version": "1.0.2",
+  "summary": "A library of Fed-XAI algorithms",
+  "author": "AI research team",
+  "license": null,
+  "home_page": "https://github.com/jlcorcuera/fedxai-lib",
+  "download_filename": "fedxai_lib-1.0.2.tar.gz",
+  "download_time": "2025-11-20T15:45:59.569016",
+  "package_url": "https://pypi.org/project/fedxai-lib/"
+}

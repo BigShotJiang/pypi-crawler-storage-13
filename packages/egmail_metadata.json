@@ -1,0 +1,11 @@
+{
+  "name": "egmail",
+  "version": "1.0.0",
+  "summary": "A super-simple Gmail sending library",
+  "author": "EGALEX5",
+  "license": "MIT",
+  "home_page": "https://github.com/EGALEX5/egmail",
+  "download_filename": "egmail-1.0.0.tar.gz",
+  "download_time": "2025-11-20T15:45:50.765500",
+  "package_url": "https://pypi.org/project/egmail/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ldcoolp-figshare",
+  "version": "0.4.0",
+  "summary": "Python tool using the Figshare API for data curation",
+  "author": "Research Engagement (University of Arizona Libraries)",
+  "license": "MIT License",
+  "home_page": "https://github.com/UAL-RE/ldcoolp-figshare/",
+  "download_filename": "ldcoolp_figshare-0.4.0.tar.gz",
+  "download_time": "2025-11-20T15:45:45.593060",
+  "package_url": "https://pypi.org/project/ldcoolp-figshare/"
+}

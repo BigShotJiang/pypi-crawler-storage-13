@@ -1,0 +1,11 @@
+{
+  "name": "teneva",
+  "version": "0.14.11",
+  "summary": "Compact implementation of basic operations in the tensor-train (TT) format, including TT-SVD, TT-ALS, TT-ANOVA, TT-CROSS, TT-truncate for approximation of multidimensional arrays and multivariate functions",
+  "author": "Andrei Chertkov",
+  "license": "MIT",
+  "home_page": "https://github.com/AndreiChertkov/teneva",
+  "download_filename": "teneva-0.14.11.tar.gz",
+  "download_time": "2025-11-20T15:45:39.333261",
+  "package_url": "https://pypi.org/project/teneva/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "atlasui",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "User Interface for MongoDB Atlas - Web UI and CLI tool",
   "author": "Joe Drumgoole",
   "license": null,
   "home_page": null,
-  "download_filename": "atlasui-0.1.4.tar.gz",
-  "download_time": "2025-11-20T15:25:14.759178",
+  "download_filename": "atlasui-0.1.5.tar.gz",
+  "download_time": "2025-11-20T15:45:31.018310",
   "package_url": "https://pypi.org/project/atlasui/"
 }

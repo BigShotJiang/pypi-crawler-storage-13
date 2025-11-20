@@ -1,0 +1,11 @@
+{
+  "name": "nb-cron",
+  "version": "0.4.5",
+  "summary": "Manage your crontab from the Jupyter Notebook",
+  "author": "alexanghh",
+  "license": null,
+  "home_page": "https://github.com/alexanghh/nb_cron",
+  "download_filename": "nb_cron-0.4.5.tar.gz",
+  "download_time": "2025-11-20T15:46:07.361998",
+  "package_url": "https://pypi.org/project/nb-cron/"
+}

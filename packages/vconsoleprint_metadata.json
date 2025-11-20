@@ -1,0 +1,11 @@
+{
+  "name": "vconsoleprint",
+  "version": "1.0.0",
+  "summary": "Colored console.log-style printing for Python",
+  "author": "Vansh Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vconsoleprint-1.0.0.tar.gz",
+  "download_time": "2025-11-20T15:45:23.691874",
+  "package_url": "https://pypi.org/project/vconsoleprint/"
+}
