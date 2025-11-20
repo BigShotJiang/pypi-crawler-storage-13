@@ -1,0 +1,11 @@
+{
+  "name": "jinja2-jsonschema",
+  "version": "0.4.0",
+  "summary": "JSON/YAML schema validation within Jinja2 templates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jinja2_jsonschema-0.4.0.tar.gz",
+  "download_time": "2025-11-20T20:54:55.509903",
+  "package_url": "https://pypi.org/project/jinja2-jsonschema/"
+}

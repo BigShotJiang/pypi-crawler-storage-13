@@ -1,0 +1,11 @@
+{
+  "name": "pygimli",
+  "version": "1.5.5.post1",
+  "summary": "Geophysical Inversion and Modelling Library",
+  "author": "Carsten Rücker, Thomas Günther, Florian Wagner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygimli-1.5.5.post1-py3-none-any.whl",
+  "download_time": "2025-11-20T20:54:58.766298",
+  "package_url": "https://pypi.org/project/pygimli/"
+}

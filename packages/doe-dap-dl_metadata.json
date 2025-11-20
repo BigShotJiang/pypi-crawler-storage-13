@@ -1,0 +1,11 @@
+{
+  "name": "doe-dap-dl",
+  "version": "0.6.0",
+  "summary": "Packages for Jupyter Notebook users to interact with data from A2e, Livewire, and the SPP data platform.",
+  "author": "DAP-Platform",
+  "license": "MIT",
+  "home_page": "https://github.com/DAP-platform/dap-py",
+  "download_filename": "doe_dap_dl-0.6.0.tar.gz",
+  "download_time": "2025-11-20T20:55:29.469001",
+  "package_url": "https://pypi.org/project/doe-dap-dl/"
+}

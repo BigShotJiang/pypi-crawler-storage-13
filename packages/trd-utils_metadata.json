@@ -1,11 +1,11 @@
 {
   "name": "trd-utils",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "summary": "Common Basic Utils for Python3. By ALiwoto.",
   "author": "ALiwoto",
   "license": null,
   "home_page": null,
-  "download_filename": "trd_utils-0.0.50.tar.gz",
-  "download_time": "2025-11-19T21:39:43.904589",
+  "download_filename": "trd_utils-0.0.51.tar.gz",
+  "download_time": "2025-11-20T20:55:17.920619",
   "package_url": "https://pypi.org/project/trd-utils/"
 }

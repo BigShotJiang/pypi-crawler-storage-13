@@ -1,0 +1,11 @@
+{
+  "name": "apluggy",
+  "version": "1.1.2",
+  "summary": "A wrapper of \"pluggy\" to support asyncio and context managers",
+  "author": "Tai Sakuma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apluggy-1.1.2.tar.gz",
+  "download_time": "2025-11-20T20:55:11.609254",
+  "package_url": "https://pypi.org/project/apluggy/"
+}
