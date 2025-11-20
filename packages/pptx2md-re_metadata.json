@@ -1,0 +1,11 @@
+{
+  "name": "pptx2md-re",
+  "version": "0.1a0.post1",
+  "summary": "Suite of tools to convert PowerPoint Presentstions (.pptx) to other formats (.json, .md, .pptxt)",
+  "author": "sigilpunk",
+  "license": "MIT",
+  "home_page": "https://github.com/sigilpunk/pptx2md",
+  "download_filename": "pptx2md_re-0.1a0.post1.tar.gz",
+  "download_time": "2025-11-20T15:08:22.859602",
+  "package_url": "https://pypi.org/project/pptx2md-re/"
+}

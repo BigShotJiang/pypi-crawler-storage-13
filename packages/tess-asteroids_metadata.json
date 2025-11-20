@@ -1,0 +1,11 @@
+{
+  "name": "tess-asteroids",
+  "version": "1.4.2",
+  "summary": "Create TPFs and LCs for solar system asteroids observed by NASA's TESS mission.",
+  "author": "Amy Tuson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tess_asteroids-1.4.2.tar.gz",
+  "download_time": "2025-11-20T15:07:57.976161",
+  "package_url": "https://pypi.org/project/tess-asteroids/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "printfxpy",
+  "version": "1.2.1",
+  "summary": "A simple and colorful text printing library for Python",
+  "author": "kaedeek",
+  "license": "MIT",
+  "home_page": "https://github.com/kaedeek/printfxpy",
+  "download_filename": "printfxpy-1.2.1.tar.gz",
+  "download_time": "2025-11-20T15:08:05.541841",
+  "package_url": "https://pypi.org/project/printfxpy/"
+}

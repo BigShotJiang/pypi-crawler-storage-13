@@ -1,0 +1,11 @@
+{
+  "name": "tropea-clustering",
+  "version": "2.1.2",
+  "summary": "Code for unsupervised clustering of time-correlated data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tropea_clustering-2.1.2-py3-none-any.whl",
+  "download_time": "2025-11-20T15:08:29.136575",
+  "package_url": "https://pypi.org/project/tropea-clustering/"
+}

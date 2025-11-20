@@ -1,0 +1,11 @@
+{
+  "name": "sm-aicli",
+  "version": "2.6.8",
+  "summary": "Command-line interface for a number of AI models",
+  "author": "Sergei Mironov",
+  "license": null,
+  "home_page": "https://github.com/sergei-mironov/aicli",
+  "download_filename": "sm_aicli-2.6.8.tar.gz",
+  "download_time": "2025-11-20T15:08:24.970264",
+  "package_url": "https://pypi.org/project/sm-aicli/"
+}

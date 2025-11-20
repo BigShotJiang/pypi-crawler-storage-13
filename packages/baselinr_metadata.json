@@ -1,0 +1,11 @@
+{
+  "name": "baselinr",
+  "version": "0.1.2",
+  "summary": "Modern data profiling and drift detection framework",
+  "author": "Baselinr Contributors",
+  "license": "Business Source License 1.1",
+  "home_page": "https://github.com/baselinrhq/baselinr",
+  "download_filename": "baselinr-0.1.2.tar.gz",
+  "download_time": "2025-11-20T15:08:13.877101",
+  "package_url": "https://pypi.org/project/baselinr/"
+}

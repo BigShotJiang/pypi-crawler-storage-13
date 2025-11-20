@@ -1,0 +1,11 @@
+{
+  "name": "datadog-checks-dev",
+  "version": "35.3.1",
+  "summary": "The Datadog Checks Developer Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datadog_checks_dev-35.3.1-py2.py3-none-any.whl",
+  "download_time": "2025-11-20T15:07:56.330192",
+  "package_url": "https://pypi.org/project/datadog-checks-dev/"
+}

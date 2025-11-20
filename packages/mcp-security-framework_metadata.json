@@ -1,0 +1,11 @@
+{
+  "name": "mcp-security-framework",
+  "version": "1.5.1",
+  "summary": "Universal security framework for microservices with SSL/TLS, authentication, authorization, and rate limiting. Added UnknownRoleError exception for certificate role validation. Added to_string() method for CertificateRole serialization. Enhanced error handling with detailed exception information. Comprehensive test coverage with 1052+ tests including UnknownRoleError tests. All tests use real certificates. Requires cryptography>=42.0.0 for certificate operations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_security_framework-1.5.1.tar.gz",
+  "download_time": "2025-11-20T15:07:49.667742",
+  "package_url": "https://pypi.org/project/mcp-security-framework/"
+}

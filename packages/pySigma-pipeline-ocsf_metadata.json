@@ -1,0 +1,11 @@
+{
+  "name": "pySigma-pipeline-ocsf",
+  "version": "0.1.1",
+  "summary": "pySigma OCSF pipeline",
+  "author": "Hendrik Baecker",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysigma_pipeline_ocsf-0.1.1.tar.gz",
+  "download_time": "2025-11-20T15:07:50.248890",
+  "package_url": "https://pypi.org/project/pySigma-pipeline-ocsf/"
+}

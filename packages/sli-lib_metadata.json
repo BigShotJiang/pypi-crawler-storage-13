@@ -1,0 +1,11 @@
+{
+  "name": "sli-lib",
+  "version": "0.1.3",
+  "summary": "Python api for the sli-lib Rust library",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://gitlab.com/sli-lib/SLI",
+  "download_filename": "sli_lib-0.1.3.tar.gz",
+  "download_time": "2025-11-20T15:08:08.665072",
+  "package_url": "https://pypi.org/project/sli-lib/"
+}

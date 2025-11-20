@@ -1,0 +1,11 @@
+{
+  "name": "interop",
+  "version": "1.7.0",
+  "summary": "The Illumina InterOp libraries are a set of common routines used for reading InterOp metric files.",
+  "author": null,
+  "license": "GPL",
+  "home_page": "https://github.com/Illumina/interop",
+  "download_filename": "interop-1.7.0-cp27-cp27m-manylinux1_x86_64.whl",
+  "download_time": "2025-11-20T15:08:22.348206",
+  "package_url": "https://pypi.org/project/interop/"
+}
