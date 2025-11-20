@@ -1,19 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T23:41:45.653744
-- **Total Packages**: 81
-- **Total Size**: 28.14 MB
+- **Download Time**: 2025-11-20T23:53:29.590570
+- **Total Packages**: 80
+- **Total Size**: 1.66 MB
 
 ## Packages List
+- umepr
+- Tawala
+- groundx
+- rheopy
+- aicommitter
+- veclite
+- sirio
+- scythe-ttp
+- scrall
+- smartharvest-plan-ghsai
+- instrumentaipdfsplitter
+- kubiya-control-plane-api
+- cfn-check
+- tremolo
+- datacommons-mcp
+- langgraph-api
+- syncline-mcp-server
+- ethyca-fides
+- unrealircd-rpc-py
+- ragmint
+- doldol-alarm
 - umep
 - mcp-proxy-adapter
+- quack-test
 - tunacode-cli
 - nvpl-blas
 - nvpl-scalapack
 - cscql2
 - matrice-inference
-- scythe-ttp
 - databroker
 - synthorus
 - langgraph-runtime-inmem
@@ -26,7 +47,6 @@
 - nv-ingest-client
 - nv-ingest-api
 - VkBotHelper
-- doldol-alarm
 - ecrt
 - mermake
 - knowledge-stack
@@ -35,7 +55,6 @@
 - nvpl-tensor
 - nvpl-sparse
 - nvpl
-- aicommitter
 - stripe
 - blast-ct
 - pulumi-xyz
@@ -44,11 +63,9 @@
 - BalethonFix
 - lean-lsp-mcp
 - BoxUtils
-- datacommons-mcp
 - admem
 - matrice-common
 - pulumi-provider-boilerplate
-- veclite
 - langchain-cerebras
 - ecdev
 - conson-xp
@@ -69,21 +86,3 @@
 - aenet-gpr
 - cogames
 - PyActiveStock
-- great-expectations
-- aiinbx
-- clinicedc
-- lsdb
-- Dynamojo
-- paya
-- files-com
-- pori-python
-- secator
-- pyxora
-- eval-protocol
-- groundx
-- fin-infra
-- mcp-ticketer
-- premium-bond-checker
-- biblemategui
-- pybaseballstats
-- vizy

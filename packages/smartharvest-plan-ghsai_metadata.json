@@ -1,11 +1,11 @@
 {
   "name": "smartharvest-plan-ghsai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Care plan generation utilities for crop plantings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smartharvest_plan_ghsai-0.1.1.tar.gz",
-  "download_time": "2025-11-19T23:52:57.146084",
+  "download_filename": "smartharvest_plan_ghsai-0.1.2.tar.gz",
+  "download_time": "2025-11-20T23:52:50.348985",
   "package_url": "https://pypi.org/project/smartharvest-plan-ghsai/"
 }
