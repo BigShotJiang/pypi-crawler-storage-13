@@ -1,53 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T07:42:35.603487
-- **Total Packages**: 87
-- **Total Size**: 22.19 MB
+- **Download Time**: 2025-11-20T07:54:00.339812
+- **Total Packages**: 90
+- **Total Size**: 1.69 MB
 
 ## Packages List
-- vibego
-- geosun-logger
-- clarity-cli
-- powerblog-toolkit
-- arkit
-- wxautox4
-- MetaRpcMT5
-- MetaRpcMT4
-- medusa-security
-- opik
-- mkdocs-decision-records
-- endee
-- ccmd
-- feldera
-- cyberwave
-- django-email-learning
-- csv2json-mcp
-- infra-core
-- qbittorrent-api
-- odoo-addon-account-payment-sale
-- prompts-mcp
-- datamarket
-- qubership-git-system-follower
-- pyopenapi-gen
-- fluxloop-cli
-- rediacc
-- eyes-playwright
-- eyes-robotframework
-- sentencex
-- eyes-images
-- eyes-selenium
-- eyes-common
-- django-tag-me
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- mtmiifc
-- hafnia
-- django-logger-extra
-- odoo-addon-contract
-- cmem-plugin-sort
-- sifts
-- pulumi-vault
 - minicem
 - playwright-stealth-plugin
 - tala
@@ -69,6 +27,7 @@
 - vllama
 - goobits-tts
 - pulumi-tls
+- csv2json-mcp
 - dvt-core
 - pulumi-venafi
 - goobits-ttt
@@ -93,3 +52,47 @@
 - mapchete
 - pulumi-splunk
 - unifyai
+- mtmiifc
+- sqla-async-orm-queries
+- sugar-mcp
+- phenotypic
+- gl-connector-cli
+- iflow-mcp_doubao-mcp-server
+- edu-rdm-integration
+- pulumi-sdwan
+- pulumi-scm
+- geosun-lidar-data-base
+- pulumi-slack
+- androtools
+- nmaipy
+- utg-base
+- pulumi-azure
+- iflow-mcp_flights-mcp
+- nextrec
+- pulumi-signalfx
+- iflow-mcp_MCPWeChatOfficialAccounts
+- maimai-py
+- celescope-mobiu
+- pulumi-rancher2
+- miss-beemar
+- raito
+- medusa-security
+- kolzchut-ragbot
+- sentencex
+- tree-sitter-matlab
+- openmeter
+- gibr
+- gscrib
+- endee
+- pulumi-postgresql
+- megatron-core
+- megatron-fsdp
+- pulumi-rabbitmq
+- pulumi-pagerduty
+- robusta-api
+- pulumi-okta
+- goedels-poetry
+- realtimex-pyautogui-server
+- pulumi-aws-native
+- fapylib
+- chython
