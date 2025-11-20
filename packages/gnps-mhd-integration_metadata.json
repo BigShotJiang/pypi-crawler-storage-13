@@ -1,11 +1,11 @@
 {
   "name": "gnps-mhd-integration",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "GNPS = Metabolomics Hub Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gnps_mhd_integration-0.0.10.tar.gz",
-  "download_time": "2025-11-19T21:39:43.389439",
+  "download_filename": "gnps_mhd_integration-0.0.11.tar.gz",
+  "download_time": "2025-11-20T10:47:40.222923",
   "package_url": "https://pypi.org/project/gnps-mhd-integration/"
 }

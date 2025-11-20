@@ -1,0 +1,11 @@
+{
+  "name": "unitelabs-cdk",
+  "version": "0.4.0",
+  "summary": "A framework to develop UniteLabs connectors based on the SiLA 2 standard specification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unitelabs_cdk-0.4.0.tar.gz",
+  "download_time": "2025-11-20T10:47:08.913376",
+  "package_url": "https://pypi.org/project/unitelabs-cdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ipsuite",
+  "version": "0.2.8",
+  "summary": "A suite of tools for machine learned interatomic potentials.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipsuite-0.2.8.tar.gz",
+  "download_time": "2025-11-20T10:47:31.684131",
+  "package_url": "https://pypi.org/project/ipsuite/"
+}

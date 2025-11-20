@@ -1,11 +1,11 @@
 {
   "name": "connectivity-agent",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "An AI agent that diagnoses network connectivity issues using OpenAI's Responses API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "connectivity_agent-0.1.1.tar.gz",
-  "download_time": "2025-11-18T23:52:32.117763",
+  "download_filename": "connectivity_agent-0.1.4.tar.gz",
+  "download_time": "2025-11-20T10:47:01.414818",
   "package_url": "https://pypi.org/project/connectivity-agent/"
 }

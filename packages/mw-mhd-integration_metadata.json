@@ -1,11 +1,11 @@
 {
   "name": "mw-mhd-integration",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Metabolomics Workbench - Metabolomics Hub Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mw_mhd_integration-0.0.14.tar.gz",
-  "download_time": "2025-11-19T21:39:48.129330",
+  "download_filename": "mw_mhd_integration-0.0.15.tar.gz",
+  "download_time": "2025-11-20T10:47:35.959366",
   "package_url": "https://pypi.org/project/mw-mhd-integration/"
 }
