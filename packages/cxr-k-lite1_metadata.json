@@ -1,0 +1,11 @@
+{
+  "name": "cxr-k-lite1",
+  "version": "0.1.0",
+  "summary": "CXR-K-Lite1 Model - High-throughput 3-plane fusion model",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "cxr_k_lite1-0.1.0.tar.gz",
+  "download_time": "2025-11-20T10:26:22.897325",
+  "package_url": "https://pypi.org/project/cxr-k-lite1/"
+}

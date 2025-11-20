@@ -1,0 +1,11 @@
+{
+  "name": "fense-logger",
+  "version": "2.0.0",
+  "summary": "Fense custom logger to log in opensearch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fense_logger-2.0.0.tar.gz",
+  "download_time": "2025-11-20T10:26:18.222219",
+  "package_url": "https://pypi.org/project/fense-logger/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "streamshape",
+  "version": "0.1.1",
+  "summary": "A unified LLM response parser with streaming support for multiple providers",
+  "author": "Saikethan",
+  "license": "MIT",
+  "home_page": "https://github.com/saikethan27/StreamShape",
+  "download_filename": "streamshape-0.1.1.tar.gz",
+  "download_time": "2025-11-20T10:26:39.857920",
+  "package_url": "https://pypi.org/project/streamshape/"
+}

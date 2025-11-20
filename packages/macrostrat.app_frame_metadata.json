@@ -1,11 +1,11 @@
 {
   "name": "macrostrat.app_frame",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "A control script framework for containerized applications.",
   "author": "Daven Quinn",
   "license": null,
   "home_page": null,
-  "download_filename": "macrostrat_app_frame-2.2.2.tar.gz",
-  "download_time": "2025-11-20T09:57:21.932521",
+  "download_filename": "macrostrat_app_frame-2.2.3.tar.gz",
+  "download_time": "2025-11-20T10:26:55.103536",
   "package_url": "https://pypi.org/project/macrostrat.app_frame/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mysingle",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Common utilities and configurations for MySingle Platform microservices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mysingle-1.5.0-py3-none-any.whl",
-  "download_time": "2025-11-20T09:57:25.526725",
+  "download_filename": "mysingle-1.5.1-py3-none-any.whl",
+  "download_time": "2025-11-20T10:26:59.025041",
   "package_url": "https://pypi.org/project/mysingle/"
 }

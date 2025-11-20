@@ -1,0 +1,11 @@
+{
+  "name": "epicstore-api-additions",
+  "version": "0.2.6",
+  "summary": "An API wrapper for Epic Games Store with additional features (fork of epicstore_api)",
+  "author": "fcorz",
+  "license": "MIT",
+  "home_page": "https://github.com/fcorz/epicstore_api_additions",
+  "download_filename": "epicstore_api_additions-0.2.6.tar.gz",
+  "download_time": "2025-11-20T10:26:19.976641",
+  "package_url": "https://pypi.org/project/epicstore-api-additions/"
+}

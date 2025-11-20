@@ -1,0 +1,11 @@
+{
+  "name": "uatu",
+  "version": "0.1.7",
+  "summary": "The Watcher - An agentic system troubleshooting tool powered by Claude",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uatu-0.1.7.tar.gz",
+  "download_time": "2025-11-20T10:26:34.537432",
+  "package_url": "https://pypi.org/project/uatu/"
+}
