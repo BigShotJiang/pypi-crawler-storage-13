@@ -1,0 +1,11 @@
+{
+  "name": "slowql",
+  "version": "1.0.0",
+  "summary": "Cinematic static SQL analyzer with cyberpunk CLI",
+  "author": "El Mehdi Makroumi",
+  "license": null,
+  "home_page": "https://github.com/makroumi/slowql",
+  "download_filename": "slowql-1.0.0.tar.gz",
+  "download_time": "2025-11-20T16:32:15.732468",
+  "package_url": "https://pypi.org/project/slowql/"
+}

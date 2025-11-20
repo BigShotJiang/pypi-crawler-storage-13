@@ -1,0 +1,11 @@
+{
+  "name": "gtalk",
+  "version": "1.0.9",
+  "summary": "Interactive terminal interface for Google AI Mode - get AI-powered answers, code examples, and explanations directly in your command line",
+  "author": "Md. Sazzad Hissain Khan",
+  "license": "MIT",
+  "home_page": "https://github.com/hissain/gtalk",
+  "download_filename": "gtalk-1.0.9.tar.gz",
+  "download_time": "2025-11-20T16:32:11.091786",
+  "package_url": "https://pypi.org/project/gtalk/"
+}

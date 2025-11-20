@@ -1,11 +1,11 @@
 {
   "name": "morphseg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A multilingual package for segmenting text into morphemes using supervised deep learning.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "morphseg-0.1.1.tar.gz",
-  "download_time": "2025-11-20T15:45:47.132945",
+  "download_filename": "morphseg-0.1.2.tar.gz",
+  "download_time": "2025-11-20T16:32:18.859977",
   "package_url": "https://pypi.org/project/morphseg/"
 }

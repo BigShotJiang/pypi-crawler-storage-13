@@ -1,11 +1,11 @@
 {
   "name": "smooth-text-animation",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "Beautiful and smooth text animations for terminal output",
-  "author": "traitimtrongvag",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/traitimtrongvag/smooth-text-animation",
-  "download_filename": "smooth_text_animation-0.1.0.tar.gz",
-  "download_time": "2025-11-20T16:12:05.809133",
+  "home_page": null,
+  "download_filename": "smooth_text_animation-0.1.0.post1.tar.gz",
+  "download_time": "2025-11-20T16:32:33.931123",
   "package_url": "https://pypi.org/project/smooth-text-animation/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flaw2flow",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "flaw2flow is a Python module made to validate data in Python",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "flaw2flow-1.0.12.tar.gz",
-  "download_time": "2025-11-20T11:52:56.751286",
+  "download_filename": "flaw2flow-1.0.13.tar.gz",
+  "download_time": "2025-11-20T16:32:03.329930",
   "package_url": "https://pypi.org/project/flaw2flow/"
 }
