@@ -1,0 +1,11 @@
+{
+  "name": "Products.PythonScripts",
+  "version": "5.2",
+  "summary": "Provides support for restricted execution of Python scripts in Zope.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Products.PythonScripts",
+  "download_filename": "products_pythonscripts-5.2.tar.gz",
+  "download_time": "2025-11-20T05:55:57.180076",
+  "package_url": "https://pypi.org/project/Products.PythonScripts/"
+}

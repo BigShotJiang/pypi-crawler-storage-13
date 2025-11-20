@@ -1,0 +1,11 @@
+{
+  "name": "Products.ZMySQLDA",
+  "version": "6.2",
+  "summary": "MySQL Zope adapter.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://zmysqlda.readthedocs.io",
+  "download_filename": "products_zmysqlda-6.2.tar.gz",
+  "download_time": "2025-11-20T05:55:48.913886",
+  "package_url": "https://pypi.org/project/Products.ZMySQLDA/"
+}
