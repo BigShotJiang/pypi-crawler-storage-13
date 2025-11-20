@@ -1,11 +1,11 @@
 {
   "name": "fetchcraft-openapi-server",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "OpenAPI-based server for Fetchcraft",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fetchcraft_openapi_server-0.4.0.tar.gz",
-  "download_time": "2025-11-20T19:53:00.749501",
+  "download_filename": "fetchcraft_openapi_server-0.4.1-py3-none-any.whl",
+  "download_time": "2025-11-20T21:52:47.614258",
   "package_url": "https://pypi.org/project/fetchcraft-openapi-server/"
 }

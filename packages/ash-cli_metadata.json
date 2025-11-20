@@ -1,0 +1,11 @@
+{
+  "name": "ash-cli",
+  "version": "2.1.0",
+  "summary": "Aisha CLI: An interactive AI chat assistant with customizable features.",
+  "author": "Raunak",
+  "license": null,
+  "home_page": "https://github.com/hacxworld/ash-cli",
+  "download_filename": "ash_cli-2.1.0.tar.gz",
+  "download_time": "2025-11-20T21:52:53.909161",
+  "package_url": "https://pypi.org/project/ash-cli/"
+}

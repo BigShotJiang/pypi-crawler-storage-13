@@ -1,0 +1,11 @@
+{
+  "name": "miraveja-di",
+  "version": "0.1.0",
+  "summary": "Lightweight type-hint based Dependency Injection container with auto-wiring for Python",
+  "author": "Jomar Júnior de Souza Pereira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miraveja_di-0.1.0.tar.gz",
+  "download_time": "2025-11-20T21:52:55.986813",
+  "package_url": "https://pypi.org/project/miraveja-di/"
+}

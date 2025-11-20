@@ -1,0 +1,11 @@
+{
+  "name": "jinja2-fragments",
+  "version": "1.11.0",
+  "summary": "Render Jinja2 template block as HTML page fragments on Python web frameworks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jinja2_fragments-1.11.0.tar.gz",
+  "download_time": "2025-11-20T21:53:10.726061",
+  "package_url": "https://pypi.org/project/jinja2-fragments/"
+}

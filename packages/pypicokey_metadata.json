@@ -1,0 +1,11 @@
+{
+  "name": "pypicokey",
+  "version": "1.1",
+  "summary": "PicoKey for Python",
+  "author": "Pol Henarejos",
+  "license": "AGPL",
+  "home_page": "https://github.com/polhenarejos/pypicokey",
+  "download_filename": "pypicokey-1.1.tar.gz",
+  "download_time": "2025-11-20T21:52:41.248849",
+  "package_url": "https://pypi.org/project/pypicokey/"
+}
