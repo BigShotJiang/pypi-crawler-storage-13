@@ -1,0 +1,11 @@
+{
+  "name": "bintexttools",
+  "version": "0.2.0",
+  "summary": "Tools for Binary and Text data conversion",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bintexttools-0.2.0.tar.gz",
+  "download_time": "2025-11-20T14:43:59.075230",
+  "package_url": "https://pypi.org/project/bintexttools/"
+}

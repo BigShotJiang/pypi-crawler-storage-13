@@ -1,0 +1,11 @@
+{
+  "name": "structlog-throttling",
+  "version": "1.2.2",
+  "summary": "Log throttling utilities for structlog.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "structlog_throttling-1.2.2.tar.gz",
+  "download_time": "2025-11-20T14:44:04.848151",
+  "package_url": "https://pypi.org/project/structlog-throttling/"
+}

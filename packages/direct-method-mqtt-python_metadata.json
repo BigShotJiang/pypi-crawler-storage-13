@@ -1,0 +1,11 @@
+{
+  "name": "direct-method-mqtt-python",
+  "version": "1.0.0",
+  "summary": "MQTT client implementation for Python - part of Direct Method Library",
+  "author": "Direct Method Library Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ivayloivanov7/direct-method-library",
+  "download_filename": "direct_method_mqtt_python-1.0.0.tar.gz",
+  "download_time": "2025-11-20T14:44:12.703450",
+  "package_url": "https://pypi.org/project/direct-method-mqtt-python/"
+}

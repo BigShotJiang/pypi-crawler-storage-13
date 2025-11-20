@@ -1,0 +1,11 @@
+{
+  "name": "mdvcontainment",
+  "version": "0.1.2",
+  "summary": "Containment analysis for (periodic) point clouds.",
+  "author": "BMH Bruininks",
+  "license": null,
+  "home_page": "https://github.com/BartBruininks/mdvcontainment",
+  "download_filename": "mdvcontainment-0.1.2.tar.gz",
+  "download_time": "2025-11-20T14:44:04.327044",
+  "package_url": "https://pypi.org/project/mdvcontainment/"
+}

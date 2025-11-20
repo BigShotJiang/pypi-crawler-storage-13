@@ -1,0 +1,11 @@
+{
+  "name": "cybersignal",
+  "version": "0.1.0",
+  "summary": "A unique cyber-risk CLI that detects human + technical risk signals.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cybersignal-0.1.0.tar.gz",
+  "download_time": "2025-11-20T14:44:24.241106",
+  "package_url": "https://pypi.org/project/cybersignal/"
+}

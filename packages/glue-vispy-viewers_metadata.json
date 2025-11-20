@@ -1,0 +1,11 @@
+{
+  "name": "glue-vispy-viewers",
+  "version": "1.3.0",
+  "summary": "Vispy-based viewers for Glue",
+  "author": "Thomas Robitaille, Penny Qian, and Maxwell Tsai",
+  "license": null,
+  "home_page": "https://github.com/glue-viz/glue-3d-viewer",
+  "download_filename": "glue_vispy_viewers-1.3.0.tar.gz",
+  "download_time": "2025-11-20T14:44:08.017814",
+  "package_url": "https://pypi.org/project/glue-vispy-viewers/"
+}

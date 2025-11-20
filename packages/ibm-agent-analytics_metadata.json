@@ -1,0 +1,11 @@
+{
+  "name": "ibm-agent-analytics",
+  "version": "0.6.1",
+  "summary": "Agent Analytics observability SDK package",
+  "author": "Muhammad Kanaan",
+  "license": "International License Agreement for Non-Warranted Programs",
+  "home_page": "https://github.ibm.com/agent-analytics/sdk",
+  "download_filename": "ibm_agent_analytics-0.6.1-py3-none-any.whl",
+  "download_time": "2025-11-20T14:44:09.061040",
+  "package_url": "https://pypi.org/project/ibm-agent-analytics/"
+}

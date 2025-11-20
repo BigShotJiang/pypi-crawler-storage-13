@@ -1,0 +1,11 @@
+{
+  "name": "rostaing-mcp",
+  "version": "0.1.1",
+  "summary": "A universal Model Content Protocol (MCP) for Pandas and Polars DataFrames, designed to be used as a tool by Large Language Models (LLMs).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rostaing_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-20T14:44:07.498167",
+  "package_url": "https://pypi.org/project/rostaing-mcp/"
+}
