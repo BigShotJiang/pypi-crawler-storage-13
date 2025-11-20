@@ -1,0 +1,11 @@
+{
+  "name": "atomic-agents",
+  "version": "2.2.2",
+  "summary": "A versatile framework for creating and managing intelligent agents.",
+  "author": "Kenny Vaneetvelde",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atomic_agents-2.2.2.tar.gz",
+  "download_time": "2025-11-20T17:54:57.683101",
+  "package_url": "https://pypi.org/project/atomic-agents/"
+}

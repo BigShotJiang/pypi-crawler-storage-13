@@ -1,11 +1,11 @@
 {
   "name": "conduit-forge",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Python library to model, project and analyse piping and pumping systems",
   "author": "Igor Wilis Mauerberg Barbosa",
   "license": null,
   "home_page": "https://github.com/Fugueth/Conduit_Forge",
-  "download_filename": "conduit_forge-0.0.13.tar.gz",
-  "download_time": "2025-11-20T17:00:26.661722",
+  "download_filename": "conduit_forge-0.0.14.tar.gz",
+  "download_time": "2025-11-20T17:55:00.466950",
   "package_url": "https://pypi.org/project/conduit-forge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cyrtranslit",
+  "version": "1.2.0",
+  "summary": "Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin script and vice versa. Supports transliteration for Belarusian, Bulgarian, Greek, Montenegrin, Macedonian, Mongolian, Russian, Serbian, Tajik, and Ukrainian.",
+  "author": "Georges Labrèche, Open Data Kosovo",
+  "license": "MIT",
+  "home_page": "https://github.com/opendatakosovo/cyrillic-transliteration",
+  "download_filename": "cyrtranslit-1.2.0.tar.gz",
+  "download_time": "2025-11-20T17:54:34.842609",
+  "package_url": "https://pypi.org/project/cyrtranslit/"
+}

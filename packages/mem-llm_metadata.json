@@ -1,0 +1,11 @@
+{
+  "name": "mem-llm",
+  "version": "2.1.5",
+  "summary": "Privacy-first, memory-enabled AI assistant with multi-backend LLM support (Ollama, LM Studio), vector search, response metrics, and quality analytics - 100% local and production-ready",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mem_llm-2.1.5.tar.gz",
+  "download_time": "2025-11-20T17:54:13.629129",
+  "package_url": "https://pypi.org/project/mem-llm/"
+}

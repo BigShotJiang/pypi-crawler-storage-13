@@ -1,0 +1,11 @@
+{
+  "name": "xgboost-cpu",
+  "version": "3.1.2",
+  "summary": "XGBoost Python Package",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xgboost_cpu-3.1.2-py3-none-win_amd64.whl",
+  "download_time": "2025-11-20T17:54:16.209414",
+  "package_url": "https://pypi.org/project/xgboost-cpu/"
+}

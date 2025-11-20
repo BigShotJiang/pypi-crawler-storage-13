@@ -1,11 +1,11 @@
 {
   "name": "pgfast",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Lightweight PostgreSQL migration and testing toolkit for FastAPI with raw SQL, dependency management, and isolated test databases",
   "author": "Marius Räsener",
   "license": null,
   "home_page": null,
-  "download_filename": "pgfast-0.2.0.tar.gz",
-  "download_time": "2025-11-19T21:39:53.270198",
+  "download_filename": "pgfast-0.3.0.tar.gz",
+  "download_time": "2025-11-20T17:54:48.927656",
   "package_url": "https://pypi.org/project/pgfast/"
 }
