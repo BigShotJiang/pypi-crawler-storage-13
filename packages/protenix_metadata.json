@@ -1,0 +1,11 @@
+{
+  "name": "protenix",
+  "version": "0.7.2",
+  "summary": "A trainable PyTorch reproduction of AlphaFold 3.",
+  "author": "Bytedance Inc.",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/bytedance/Protenix",
+  "download_filename": "protenix-0.7.2.tar.gz",
+  "download_time": "2025-11-20T09:57:24.507829",
+  "package_url": "https://pypi.org/project/protenix/"
+}

@@ -1,12 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T09:46:29.454984
-- **Total Packages**: 93
-- **Total Size**: 30.4 MB
+- **Download Time**: 2025-11-20T09:57:56.646961
+- **Total Packages**: 87
+- **Total Size**: 5.99 MB
 
 ## Packages List
+- wbcompliance
+- phytorchx
+- wbaccounting
+- kitech-repository
+- bizyengine
+- naixi-key-encryptor
 - everycure-datasets
+- passway-cli
+- ai4ce-helpers
+- agentdna
+- pupil-labs-neon-usb
+- ibkr-mcp
+- ash-model
+- medical-named-entity-recognition
+- modelslab_py
+- jfjoch-client
+- h4-hello
+- veadk-python
+- tewi-transmission
+- hcube
+- cloud-governance
+- iflow-mcp_stk-mcp
+- clarity-cli
+- macrostrat.app_frame
+- automatic-station
+- ogc-na
+- fractal-server
+- protenix
+- samrenderer
+- mysingle
+- writer
+- apikey-gateway
+- pyresumable
+- dutVulnScanner
+- game-ai-client
+- GeoBank
+- wordlift-client
 - pygametool-rui
 - notte-sdk
 - notte-mcp
@@ -15,7 +51,6 @@
 - notte-eval
 - notte-core
 - notte-browser
-- ai4ce-helpers
 - notte-agent
 - notte
 - dnv-onecompute
@@ -43,11 +78,8 @@
 - ispider
 - talentsavvy-improveteam
 - emmi
-- passway-cli
-- pupil-labs-neon-usb
 - packing-packages
 - specfact-cli
-- agentdna
 - gooddata-api-client
 - gooddata-flight-server
 - gooddata-sdk
@@ -61,41 +93,3 @@
 - odoo-addon-base-location-nuts
 - odoo-addon-base-country-state-translatable
 - dataspace-sdk
-- cognite-toolkit
-- fastapi-boilerplate-generator
-- ao3statscraper
-- lsst-pipe-base
-- lsst-utils
-- robosystems-client
-- pyswap
-- lsst-resources
-- jupyter-jsc-custom
-- unique-swot
-- lsst-pex-config
-- reticulum
-- lsst-rucio-register
-- macrostrat.app_frame
-- gsnetact
-- pyobvector
-- pylebai
-- rs-server-staging
-- rs-server-prip
-- rs-server-frontend
-- rs-server-common
-- lsst-ctrl-mpexec
-- rs-server-catalog
-- rs-server-cadip
-- rs-server-adgs
-- lsst-felis
-- pygeneral
-- ilo
-- lsst-ctrl-bps-panda
-- lsst-ctrl-bps
-- lsst-ctrl-bps-htcondor
-- kamihi
-- wiliot-testers
-- bclib
-- backend.ai-test
-- backend.ai-storage-proxy
-- backend.ai-plugin
-- backend.ai-manager

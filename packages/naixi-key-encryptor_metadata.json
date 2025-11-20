@@ -1,11 +1,11 @@
 {
   "name": "naixi-key-encryptor",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Python bindings for the naixi key encryptor",
   "author": "naixi",
   "license": null,
   "home_page": null,
-  "download_filename": "naixi_key_encryptor-0.1.1-cp313-cp313-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-19T08:53:13.797155",
+  "download_filename": "naixi_key_encryptor-0.1.4.tar.gz",
+  "download_time": "2025-11-20T09:57:11.768397",
   "package_url": "https://pypi.org/project/naixi-key-encryptor/"
 }
