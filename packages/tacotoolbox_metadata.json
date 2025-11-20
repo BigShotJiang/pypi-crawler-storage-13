@@ -1,11 +1,11 @@
 {
   "name": "tacotoolbox",
-  "version": "0.16.7",
+  "version": "0.16.8",
   "summary": "We make tacos 🔨",
   "author": "Cesar Aybar",
   "license": null,
   "home_page": "https://github.com/taco-toolbox/tacotoolbox",
-  "download_filename": "tacotoolbox-0.16.7.tar.gz",
-  "download_time": "2025-11-19T09:26:27.827254",
+  "download_filename": "tacotoolbox-0.16.8.tar.gz",
+  "download_time": "2025-11-20T22:21:27.848185",
   "package_url": "https://pypi.org/project/tacotoolbox/"
 }

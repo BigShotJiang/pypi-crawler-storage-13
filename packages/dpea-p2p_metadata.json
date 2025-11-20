@@ -1,0 +1,11 @@
+{
+  "name": "dpea-p2p",
+  "version": "0.0.1",
+  "summary": "A module implementing a peer-to-peer communication protocol over TCP/IP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dpea_p2p-0.0.1.tar.gz",
+  "download_time": "2025-11-20T22:21:23.097297",
+  "package_url": "https://pypi.org/project/dpea-p2p/"
+}

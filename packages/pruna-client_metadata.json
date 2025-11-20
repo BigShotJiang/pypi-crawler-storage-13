@@ -1,11 +1,11 @@
 {
   "name": "pruna-client",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Official Pruna API client for synchronous and asynchronous image generation and editing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pruna_client-0.0.6.tar.gz",
-  "download_time": "2025-11-20T16:12:14.897017",
+  "download_filename": "pruna_client-0.0.7.tar.gz",
+  "download_time": "2025-11-20T22:21:14.369408",
   "package_url": "https://pypi.org/project/pruna-client/"
 }

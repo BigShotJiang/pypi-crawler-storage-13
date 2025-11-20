@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-sse",
+  "version": "0.0.24",
+  "summary": "Real-time Server-Sent Events (SSE) and HTMX integration library for FastHTML with cross-tab synchronization support.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-sse",
+  "download_filename": "cjm_fasthtml_sse-0.0.24.tar.gz",
+  "download_time": "2025-11-20T22:21:25.193104",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-sse/"
+}

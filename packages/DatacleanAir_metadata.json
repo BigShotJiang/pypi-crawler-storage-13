@@ -1,11 +1,11 @@
 {
   "name": "DatacleanAir",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "summary": "Data cleaning tools for air quality analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datacleanair-0.1.3.tar.gz",
-  "download_time": "2025-11-20T21:52:42.864730",
+  "download_filename": "datacleanair-0.2.1.tar.gz",
+  "download_time": "2025-11-20T22:21:18.565555",
   "package_url": "https://pypi.org/project/DatacleanAir/"
 }

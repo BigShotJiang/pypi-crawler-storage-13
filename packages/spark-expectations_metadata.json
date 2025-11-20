@@ -1,0 +1,11 @@
+{
+  "name": "spark-expectations",
+  "version": "2.7.3",
+  "summary": "This project helps us to run Data Quality Rules in flight while spark job is being run",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_expectations-2.7.3.tar.gz",
+  "download_time": "2025-11-20T22:21:38.388470",
+  "package_url": "https://pypi.org/project/spark-expectations/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wakautosolver",
-  "version": "2025.11.1",
+  "version": "2025.11.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wakautosolver-2025.11.1-py3-none-any.whl",
-  "download_time": "2025-11-19T09:26:26.801993",
+  "download_filename": "wakautosolver-2025.11.2-py3-none-any.whl",
+  "download_time": "2025-11-20T22:21:26.779616",
   "package_url": "https://pypi.org/project/wakautosolver/"
 }

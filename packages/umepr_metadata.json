@@ -1,11 +1,11 @@
 {
   "name": "umepr",
-  "version": "0.0.1b42",
+  "version": "0.0.1b43",
   "summary": "rust implementation of urban multi-scale environmental predictor",
   "author": "UMEP Developers",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "umepr-0.0.1b42.tar.gz",
-  "download_time": "2025-11-20T21:52:39.687920",
+  "download_filename": "umepr-0.0.1b43.tar.gz",
+  "download_time": "2025-11-20T22:21:07.460173",
   "package_url": "https://pypi.org/project/umepr/"
 }

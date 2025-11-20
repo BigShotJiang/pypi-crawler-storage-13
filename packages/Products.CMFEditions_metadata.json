@@ -1,0 +1,11 @@
+{
+  "name": "Products.CMFEditions",
+  "version": "4.0.6",
+  "summary": "Versioning for Plone",
+  "author": "CMFEditions contributors",
+  "license": "GPL",
+  "home_page": "https://pypi.org/project/Products.CMFEditions",
+  "download_filename": "products_cmfeditions-4.0.6.tar.gz",
+  "download_time": "2025-11-20T22:21:33.666044",
+  "package_url": "https://pypi.org/project/Products.CMFEditions/"
+}

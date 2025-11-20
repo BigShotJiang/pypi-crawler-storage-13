@@ -1,11 +1,11 @@
 {
   "name": "mcp2skill",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Generate Claude Code skills from mcp2rest servers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp2skill-0.1.8.tar.gz",
-  "download_time": "2025-11-20T21:38:45.299391",
+  "download_filename": "mcp2skill-0.1.9.tar.gz",
+  "download_time": "2025-11-20T22:21:38.909027",
   "package_url": "https://pypi.org/project/mcp2skill/"
 }

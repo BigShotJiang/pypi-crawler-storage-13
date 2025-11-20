@@ -1,0 +1,11 @@
+{
+  "name": "latentsense-sdk",
+  "version": "1.0.0",
+  "summary": "The Python SDK for LatentSense Inc services. www.latentsense.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "latentsense_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-20T22:21:03.644067",
+  "package_url": "https://pypi.org/project/latentsense-sdk/"
+}

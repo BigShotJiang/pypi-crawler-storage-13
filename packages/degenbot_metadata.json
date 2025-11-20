@@ -1,0 +1,11 @@
+{
+  "name": "degenbot",
+  "version": "0.5.0",
+  "summary": "Python classes to aid rapid development of Uniswap (V2, V3, V4), Curve V1, and Solidly V2 arbitrage bots on EVM-compatible blockchains",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "degenbot-0.5.0.tar.gz",
+  "download_time": "2025-11-20T22:21:19.702311",
+  "package_url": "https://pypi.org/project/degenbot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Products.CMFDynamicViewFTI",
+  "version": "7.0.3",
+  "summary": "CMFDynamicViewFTI is a product for dynamic views in CMF.",
+  "author": "Plone Foundation",
+  "license": "ZPL",
+  "home_page": "https://pypi.org/project/Products.CMFDynamicViewFTI",
+  "download_filename": "products_cmfdynamicviewfti-7.0.3.tar.gz",
+  "download_time": "2025-11-20T22:21:34.714972",
+  "package_url": "https://pypi.org/project/Products.CMFDynamicViewFTI/"
+}

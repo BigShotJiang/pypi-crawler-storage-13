@@ -1,11 +1,11 @@
 {
   "name": "cocotbext-apb",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "apb modules for cocotb",
   "author": "Dave Keeshan",
   "license": "MIT",
   "home_page": "https://github.com/daxzio/cocotbext-apb",
-  "download_filename": "cocotbext_apb-0.8.0.tar.gz",
-  "download_time": "2025-11-20T21:38:56.885055",
+  "download_filename": "cocotbext_apb-0.8.1.tar.gz",
+  "download_time": "2025-11-20T22:21:22.577065",
   "package_url": "https://pypi.org/project/cocotbext-apb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Products.statusmessages",
+  "version": "5.0.7",
+  "summary": "statusmessages provides an easy way of handling internationalized status messages managed via an BrowserRequest adapter storing status messages in client-side cookies.",
+  "author": "Hanno Schlichting",
+  "license": "BSD",
+  "home_page": "https://pypi.org/project/Products.statusmessages",
+  "download_filename": "products_statusmessages-5.0.7.tar.gz",
+  "download_time": "2025-11-20T22:21:23.617165",
+  "package_url": "https://pypi.org/project/Products.statusmessages/"
+}
