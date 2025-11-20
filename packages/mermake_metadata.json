@@ -1,11 +1,11 @@
 {
   "name": "mermake",
-  "version": "0.0.73",
+  "version": "0.0.74",
   "summary": "Code to process merfish data",
   "author": "Katelyn McNair",
   "license": null,
   "home_page": "https://github.com/deprekate/mermake",
-  "download_filename": "mermake-0.0.73.tar.gz",
-  "download_time": "2025-11-19T01:44:45.286001",
+  "download_filename": "mermake-0.0.74.tar.gz",
+  "download_time": "2025-11-20T23:41:13.342534",
   "package_url": "https://pypi.org/project/mermake/"
 }

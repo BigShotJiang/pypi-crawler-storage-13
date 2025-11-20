@@ -1,0 +1,11 @@
+{
+  "name": "dataframe-textual",
+  "version": "1.5.0",
+  "summary": "Interactive terminal viewer/editor for tabular data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataframe_textual-1.5.0.tar.gz",
+  "download_time": "2025-11-20T23:41:09.165598",
+  "package_url": "https://pypi.org/project/dataframe-textual/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BoxUtils",
+  "version": "0.1.11",
+  "summary": "A utility package for performing Box file and folder operations with a service account",
+  "author": "Kelvin O. Lim",
+  "license": null,
+  "home_page": "https://github.com/kelvinlim/BoxUtils",
+  "download_filename": "boxutils-0.1.11.tar.gz",
+  "download_time": "2025-11-20T23:41:21.323647",
+  "package_url": "https://pypi.org/project/BoxUtils/"
+}

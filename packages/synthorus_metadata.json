@@ -1,11 +1,11 @@
 {
   "name": "synthorus",
-  "version": "0.0.0a10",
+  "version": "0.0.0a11",
   "summary": "A Python package for synthetic data generation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synthorus-0.0.0a10-py3-none-any.whl",
-  "download_time": "2025-11-19T21:52:57.984130",
+  "download_filename": "synthorus-0.0.0a11-py3-none-any.whl",
+  "download_time": "2025-11-20T23:41:06.040161",
   "package_url": "https://pypi.org/project/synthorus/"
 }

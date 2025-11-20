@@ -1,0 +1,11 @@
+{
+  "name": "ecrt",
+  "version": "0.0.6",
+  "summary": "eC Runtime Library",
+  "author": "Jérôme Jacovella-St-Louis, Ecere Corporation",
+  "license": "BSD-3-Clause",
+  "home_page": "https://ec-lang.org",
+  "download_filename": "ecrt-0.0.6.tar.gz",
+  "download_time": "2025-11-20T23:41:12.819156",
+  "package_url": "https://pypi.org/project/ecrt/"
+}

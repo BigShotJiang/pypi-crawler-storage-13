@@ -1,11 +1,11 @@
 {
   "name": "blast-ct",
-  "version": "5.0.1",
+  "version": "5.0.3",
   "summary": "Automatic segmentation of Traumatic Brain Injury (TBI) in Head CT",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blast_ct-5.0.1.tar.gz",
-  "download_time": "2025-11-20T23:23:02.327714",
+  "download_filename": "blast_ct-5.0.3.tar.gz",
+  "download_time": "2025-11-20T23:41:18.076784",
   "package_url": "https://pypi.org/project/blast-ct/"
 }

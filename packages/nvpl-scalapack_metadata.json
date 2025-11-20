@@ -1,0 +1,11 @@
+{
+  "name": "nvpl-scalapack",
+  "version": "0.2.3",
+  "summary": "NVPL ScaLAPACK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvpl_scalapack-0.2.3-py3-none-manylinux_2_26_aarch64.whl",
+  "download_time": "2025-11-20T23:41:03.409977",
+  "package_url": "https://pypi.org/project/nvpl-scalapack/"
+}
