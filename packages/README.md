@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T19:40:39.053677
-- **Total Packages**: 88
-- **Total Size**: 12.05 MB
+- **Download Time**: 2025-11-20T19:53:31.767981
+- **Total Packages**: 92
+- **Total Size**: 14.6 MB
 
 ## Packages List
+- pydantic-mini
+- pvw-cli
+- ol-jupyter-authoring
+- czy
+- comfyui-workflow-templates-core
+- comfyui-workflow-templates
+- pulumi-random
+- dlt-mcp
+- czx
+- czw
+- tabstack
+- benchmark-runner
+- czu
+- griptape-nodes
+- czs
+- czr
+- czq
+- czp
+- czn
+- czm
+- czk
+- czj
+- awslabs.amazon-bedrock-agentcore-mcp-server
+- awslabs.cloudwatch-applicationsignals-mcp-server
+- awslabs.ecs-mcp-server
+- mcp-fuzzer
+- pyrig
+- ni.datastore
+- virtueai
+- tokamax
+- energysystemmodels
+- fetchcraft-parsing-docling
+- pyopenapi-gen
+- fetchcraft-openapi-server
+- fetchcraft-openai-server
+- fetchcraft-mcp-server
+- fetchcraft-hybrid-search
+- fetchcraft-gradio-chatbot
+- fetchcraft-core
+- vizproo
+- fetchcraft-admin
+- ncompass
+- nati-log
+- datview
+- odoo-addon-base-user-role
+- pyxora
+- czh
+- rediacc
+- abxrcli
+- knowledge-stack
+- uplang
+- czg
+- enapter
+- cze
+- CurseForgePy
+- czc
 - cza
 - aioairtable
 - tcvpigpiv
@@ -21,7 +77,6 @@
 - experl-core
 - cyn
 - duneai-auto
-- pyxora
 - cyj
 - python-jack-knife
 - megatron-core
@@ -32,7 +87,6 @@
 - pywiim
 - pnl-watchdog
 - timesat-cli
-- knowledge-stack
 - ament-ruff
 - cflabs-serverless
 - rohkun
@@ -44,53 +98,3 @@
 - pycarlo
 - flow-compute
 - context-async-sqlalchemy
-- libinephany
-- paramorph
-- jupyterhub-credit-service
-- pypicoboot
-- vizproo
-- metaheuristic-designer
-- infraweave
-- moltres
-- antares-client
-- medusa-security
-- finanfut-sdk
-- prefect-dbt
-- powerfx
-- ufal.udpipe
-- docpull
-- strands-agents-sops
-- pytemporal
-- matrice-inference
-- toonify
-- castleguard-sdk
-- asfeslib
-- pypicofido
-- gdsfactory
-- dlai-grader
-- xqzhqdodft
-- plot3d
-- mcp-terminal-emulator
-- inter-service-sdk
-- vogel-model-trainer
-- kleinkram
-- lehmer
-- citadel-simulator
-- pyconvexity
-- chaiverse
-- str-mut-signatures
-- univi
-- flyteplugins-pytorch
-- flyteplugins-spark
-- flyteplugins-openai
-- flyte
-- flyteplugins-dask
-- flyteplugins-connectors
-- flyteplugins-ray
-- impact
-- files-com
-- dyff-client
-- clarifai-grpc
-- ursa-ai
-- gribberish
-- aiorunner
