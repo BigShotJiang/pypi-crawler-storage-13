@@ -1,11 +1,11 @@
 {
   "name": "sqlthought",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "summary": "A modular agentic reasoning engine for structured data, including NLQ-to-SQL transformations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlthought-0.0.3.tar.gz",
-  "download_time": "2025-11-20T16:32:19.377430",
+  "download_filename": "sqlthought-1.0.0.tar.gz",
+  "download_time": "2025-11-20T16:59:50.899799",
   "package_url": "https://pypi.org/project/sqlthought/"
 }

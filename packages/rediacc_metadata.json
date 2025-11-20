@@ -1,11 +1,11 @@
 {
   "name": "rediacc",
-  "version": "0.2.51",
+  "version": "0.2.53",
   "summary": "Infrastructure protection platform with 100-second recovery. Instant cloning, time-travel recovery, and 99.99% storage reduction for disaster prevention.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rediacc-0.2.51.tar.gz",
-  "download_time": "2025-11-20T16:11:55.846281",
+  "download_filename": "rediacc-0.2.53.tar.gz",
+  "download_time": "2025-11-20T17:00:01.636316",
   "package_url": "https://pypi.org/project/rediacc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xdeps",
+  "version": "0.10.10",
+  "summary": "Data dependency manager",
+  "author": "Riccardo De Maria",
+  "license": "Apache 2.0",
+  "home_page": "https://xsuite.readthedocs.io/",
+  "download_filename": "xdeps-0.10.10.tar.gz",
+  "download_time": "2025-11-20T17:00:25.001599",
+  "package_url": "https://pypi.org/project/xdeps/"
+}

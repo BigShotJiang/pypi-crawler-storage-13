@@ -1,11 +1,11 @@
 {
   "name": "synqed",
-  "version": "1.0.93",
+  "version": "1.1.4",
   "summary": "Synqed - A wrapper around A2A for simplified multi-agent systems interaction and communication",
   "author": "Synq Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "synqed-1.0.93.tar.gz",
-  "download_time": "2025-11-20T16:32:30.820763",
+  "download_filename": "synqed-1.1.4.tar.gz",
+  "download_time": "2025-11-20T16:59:49.248720",
   "package_url": "https://pypi.org/project/synqed/"
 }
