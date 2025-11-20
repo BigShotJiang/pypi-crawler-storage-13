@@ -1,0 +1,11 @@
+{
+  "name": "prop-cli",
+  "version": "1.0.2",
+  "summary": "A command-line tool to solve proportions using the rule of three",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prop_cli-1.0.2.tar.gz",
+  "download_time": "2025-11-20T14:23:46.667732",
+  "package_url": "https://pypi.org/project/prop-cli/"
+}

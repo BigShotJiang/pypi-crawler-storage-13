@@ -1,0 +1,11 @@
+{
+  "name": "fizgrid",
+  "version": "1.11.0",
+  "summary": "Simulate grid based environments.",
+  "author": "Connor Makowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fizgrid-1.11.0.tar.gz",
+  "download_time": "2025-11-20T14:23:41.426241",
+  "package_url": "https://pypi.org/project/fizgrid/"
+}

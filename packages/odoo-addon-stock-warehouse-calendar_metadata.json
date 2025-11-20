@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-warehouse-calendar",
+  "version": "19.0.1.0.0.2",
+  "summary": "Adds a calendar to the Warehouse",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_warehouse_calendar-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-20T14:23:37.758647",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-warehouse-calendar/"
+}
