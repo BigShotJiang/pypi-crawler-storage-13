@@ -1,0 +1,11 @@
+{
+  "name": "qvecopt-provider",
+  "version": "0.2.2",
+  "summary": "QVecOpt Provider 是一个用于集成 Qiskit 与 QVecOpt 后端的 Python 包",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qvecopt_provider-0.2.2.tar.gz",
+  "download_time": "2025-11-20T06:58:12.939924",
+  "package_url": "https://pypi.org/project/qvecopt-provider/"
+}

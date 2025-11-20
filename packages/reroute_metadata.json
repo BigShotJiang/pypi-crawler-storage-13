@@ -1,0 +1,11 @@
+{
+  "name": "reroute",
+  "version": "0.1.0",
+  "summary": "File-based routing for Python backend frameworks (FastAPI, Flask)",
+  "author": "C B Sajan",
+  "license": null,
+  "home_page": "https://github.com/cbsajan/reroute",
+  "download_filename": "reroute-0.1.0.tar.gz",
+  "download_time": "2025-11-20T06:58:18.367714",
+  "package_url": "https://pypi.org/project/reroute/"
+}

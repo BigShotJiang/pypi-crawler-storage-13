@@ -1,0 +1,11 @@
+{
+  "name": "langchain-litellm",
+  "version": "0.3.1",
+  "summary": "An integration package connecting Litellm and LangChain",
+  "author": "Akshay Dongare",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain/blob/master/docs/docs/integrations/chat/litellm.ipynb",
+  "download_filename": "langchain_litellm-0.3.1.tar.gz",
+  "download_time": "2025-11-20T06:58:07.289544",
+  "package_url": "https://pypi.org/project/langchain-litellm/"
+}

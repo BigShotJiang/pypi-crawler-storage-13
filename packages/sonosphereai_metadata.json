@@ -1,11 +1,11 @@
 {
   "name": "sonosphereai",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "AI-powered music generation engine for lyrics, vocals, and instrumentation.",
   "author": "Mojahed Ghadban",
   "license": null,
   "home_page": "https://github.com/moghadban/SonosphereAI",
-  "download_filename": "sonosphereai-1.1.0.tar.gz",
-  "download_time": "2025-11-20T06:34:04.172079",
+  "download_filename": "sonosphereai-1.1.1.tar.gz",
+  "download_time": "2025-11-20T06:58:07.800475",
   "package_url": "https://pypi.org/project/sonosphereai/"
 }
