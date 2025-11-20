@@ -1,11 +1,11 @@
 {
   "name": "starlark-pyo3",
-  "version": "2025.2.4",
+  "version": "2025.2.5",
   "summary": "Wraps starlark-rust into Python",
   "author": null,
   "license": null,
   "home_page": "https://github.com/inducer/starlark-pyo3",
-  "download_filename": "starlark_pyo3-2025.2.4.tar.gz",
-  "download_time": "2025-11-20T17:00:26.072783",
+  "download_filename": "starlark_pyo3-2025.2.5.tar.gz",
+  "download_time": "2025-11-20T18:59:31.870969",
   "package_url": "https://pypi.org/project/starlark-pyo3/"
 }

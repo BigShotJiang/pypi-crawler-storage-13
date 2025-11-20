@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-myst-build-proxy",
+  "version": "0.5.1",
+  "summary": "Jupyter extension to proxy MyST build server",
+  "author": "Ryan Lovett",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jupyter_myst_build_proxy-0.5.1.tar.gz",
+  "download_time": "2025-11-20T18:59:09.096001",
+  "package_url": "https://pypi.org/project/jupyter-myst-build-proxy/"
+}

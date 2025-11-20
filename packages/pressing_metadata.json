@@ -1,11 +1,11 @@
 {
   "name": "pressing",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A cross-platform automation module for pressing, releasing, and clicking keys, checking pixels, hotkeys, and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pressing-0.2.0.tar.gz",
-  "download_time": "2025-11-20T17:54:44.061362",
+  "download_filename": "pressing-0.2.1.tar.gz",
+  "download_time": "2025-11-20T18:59:10.625274",
   "package_url": "https://pypi.org/project/pressing/"
 }

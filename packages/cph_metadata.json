@@ -1,0 +1,11 @@
+{
+  "name": "cph",
+  "version": "0.1.7",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cph-0.1.7.tar.gz",
+  "download_time": "2025-11-20T18:59:12.158682",
+  "package_url": "https://pypi.org/project/cph/"
+}

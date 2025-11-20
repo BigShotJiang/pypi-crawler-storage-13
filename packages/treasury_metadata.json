@@ -1,0 +1,11 @@
+{
+  "name": "treasury",
+  "version": "1.2",
+  "summary": "treasury",
+  "author": "dev",
+  "license": "BSD",
+  "home_page": "https://bitbucket.org/dbuy/treasury",
+  "download_filename": "treasury-1.2.tar.gz",
+  "download_time": "2025-11-20T18:59:01.940724",
+  "package_url": "https://pypi.org/project/treasury/"
+}

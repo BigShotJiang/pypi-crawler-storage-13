@@ -1,11 +1,11 @@
 {
   "name": "knowledge-stack",
-  "version": "0.1.4",
+  "version": "0.2.2",
   "summary": "public-api",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "knowledge_stack-0.1.4.tar.gz",
-  "download_time": "2025-11-20T16:32:04.355990",
+  "download_filename": "knowledge_stack-0.2.2.tar.gz",
+  "download_time": "2025-11-20T18:59:08.077120",
   "package_url": "https://pypi.org/project/knowledge-stack/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dev-tools-loader",
-  "version": "0.1.0rc1",
+  "version": "0.1.0rc3",
   "summary": "Development tools loader",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dev_tools_loader-0.1.0rc1.tar.gz",
-  "download_time": "2025-11-17T21:40:29.433004",
+  "download_filename": "dev_tools_loader-0.1.0rc3.tar.gz",
+  "download_time": "2025-11-20T18:59:16.850341",
   "package_url": "https://pypi.org/project/dev-tools-loader/"
 }

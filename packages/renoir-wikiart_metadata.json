@@ -1,0 +1,11 @@
+{
+  "name": "renoir-wikiart",
+  "version": "3.0.3",
+  "summary": "A pedagogical tool for analyzing artist-specific works from WikiArt with computational color theory capabilities",
+  "author": "Michail Semoglou",
+  "license": "MIT",
+  "home_page": "https://github.com/MichailSemoglou/renoir",
+  "download_filename": "renoir_wikiart-3.0.3.tar.gz",
+  "download_time": "2025-11-20T18:59:03.473591",
+  "package_url": "https://pypi.org/project/renoir-wikiart/"
+}
