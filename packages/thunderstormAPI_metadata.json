@@ -1,0 +1,11 @@
+{
+  "name": "thunderstormAPI",
+  "version": "0.2.0",
+  "summary": "THOR Thunderstorm Service API Client",
+  "author": "Florian Roth",
+  "license": null,
+  "home_page": "https://github.com/NextronSystems/thunderstormAPI",
+  "download_filename": "thunderstormapi-0.2.0.tar.gz",
+  "download_time": "2025-11-20T22:42:08.560517",
+  "package_url": "https://pypi.org/project/thunderstormAPI/"
+}

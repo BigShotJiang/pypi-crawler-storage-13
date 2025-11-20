@@ -1,0 +1,11 @@
+{
+  "name": "modular",
+  "version": "25.7.0",
+  "summary": "A suite of AI libraries and tools that accelerates model serving and provides programmability all the way to the GPU kernels",
+  "author": "Modular Inc",
+  "license": "LicenseRef-MAX-Platform-Software-License",
+  "home_page": "https://modular.com",
+  "download_filename": "modular-25.7.0-py3-none-any.whl",
+  "download_time": "2025-11-20T22:42:31.952426",
+  "package_url": "https://pypi.org/project/modular/"
+}

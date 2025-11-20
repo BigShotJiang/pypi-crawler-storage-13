@@ -1,0 +1,11 @@
+{
+  "name": "dbmeta",
+  "version": "1.0.0",
+  "summary": "A pure-Python mini SQL + Python query engine using folder-based  metadeta of a batch job combines to a single table",
+  "author": "Himanshu Singh",
+  "license": "MIT",
+  "home_page": "https://github.com/himanshuclub88/dbmeta",
+  "download_filename": "dbmeta-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-20T22:42:23.545362",
+  "package_url": "https://pypi.org/project/dbmeta/"
+}

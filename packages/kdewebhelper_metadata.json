@@ -1,0 +1,11 @@
+{
+  "name": "kdewebhelper",
+  "version": "1.5.0",
+  "summary": "KDE Web Helper is a tool to assist with web development in the KDE environment.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kdewebhelper-1.5.0.tar.gz",
+  "download_time": "2025-11-20T22:42:03.293195",
+  "package_url": "https://pypi.org/project/kdewebhelper/"
+}

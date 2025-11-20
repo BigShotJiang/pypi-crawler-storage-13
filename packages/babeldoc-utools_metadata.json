@@ -1,11 +1,11 @@
 {
   "name": "babeldoc-utools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "BabelDOC fork with enhanced UI integration support (adds --log-progress)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "babeldoc_utools-0.1.0-py3-none-any.whl",
-  "download_time": "2025-11-20T16:11:39.337966",
+  "download_filename": "babeldoc_utools-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-20T22:42:14.409635",
   "package_url": "https://pypi.org/project/babeldoc-utools/"
 }

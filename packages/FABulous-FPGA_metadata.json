@@ -1,0 +1,11 @@
+{
+  "name": "FABulous-FPGA",
+  "version": "2.0.0b3",
+  "summary": "FABulous FPGA Fabric generator",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fabulous_fpga-2.0.0b3.tar.gz",
+  "download_time": "2025-11-20T22:42:18.212017",
+  "package_url": "https://pypi.org/project/FABulous-FPGA/"
+}
