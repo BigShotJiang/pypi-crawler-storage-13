@@ -1,0 +1,11 @@
+{
+  "name": "termtypr",
+  "version": "0.4.1",
+  "summary": "A Python CLI application for practicing and improving typing speed",
+  "author": "Stefano Mazzoleni",
+  "license": null,
+  "home_page": null,
+  "download_filename": "termtypr-0.4.1.tar.gz",
+  "download_time": "2025-11-20T15:25:28.817702",
+  "package_url": "https://pypi.org/project/termtypr/"
+}

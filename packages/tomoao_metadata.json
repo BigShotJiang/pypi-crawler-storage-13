@@ -1,0 +1,11 @@
+{
+  "name": "tomoao",
+  "version": "0.0.7",
+  "summary": "Python package with atmospheric tomography generic functions and tools",
+  "author": "SpaceODT",
+  "license": "MIT",
+  "home_page": "https://github.com/SpaceODT/tomoAO",
+  "download_filename": "tomoao-0.0.7.tar.gz",
+  "download_time": "2025-11-20T15:25:59.140492",
+  "package_url": "https://pypi.org/project/tomoao/"
+}

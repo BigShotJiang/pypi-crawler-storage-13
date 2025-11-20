@@ -1,0 +1,11 @@
+{
+  "name": "coveo-testing-extras",
+  "version": "3.0.2",
+  "summary": "Dependency-hungry testing helpers",
+  "author": "Jonathan Piché",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/coveooss/coveo-python-oss/tree/main/coveo-testing-extras",
+  "download_filename": "coveo_testing_extras-3.0.2.tar.gz",
+  "download_time": "2025-11-20T15:25:39.023299",
+  "package_url": "https://pypi.org/project/coveo-testing-extras/"
+}
