@@ -1,11 +1,11 @@
 {
   "name": "digixt-realtime-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python SDK for DigiXT Real-Time Data Delivery Infrastructure",
   "author": "DigiXT",
   "license": null,
   "home_page": "https://github.com/digixt/digixt-centrifugo",
-  "download_filename": "digixt_realtime_sdk-1.0.0.tar.gz",
-  "download_time": "2025-11-20T07:26:14.789887",
+  "download_filename": "digixt_realtime_sdk-1.0.1.tar.gz",
+  "download_time": "2025-11-20T09:30:16.615122",
   "package_url": "https://pypi.org/project/digixt-realtime-sdk/"
 }

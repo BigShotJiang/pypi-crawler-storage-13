@@ -1,0 +1,11 @@
+{
+  "name": "tinytoolslib",
+  "version": "0.5.1",
+  "summary": "Set of tools for use with tinycontrol devices like LK2.X, LK3.X, LK4.X or tcPDU.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinytoolslib-0.5.1.tar.gz",
+  "download_time": "2025-11-20T09:30:10.183017",
+  "package_url": "https://pypi.org/project/tinytoolslib/"
+}

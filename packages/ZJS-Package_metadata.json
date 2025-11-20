@@ -1,0 +1,11 @@
+{
+  "name": "ZJS-Package",
+  "version": "1.1.1",
+  "summary": "ZJS Python 工具包",
+  "author": "Jinshuo Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/MarchZJS/ZJS_Package_Source_Code",
+  "download_filename": "zjs_package-1.1.1.tar.gz",
+  "download_time": "2025-11-20T09:30:03.535328",
+  "package_url": "https://pypi.org/project/ZJS-Package/"
+}

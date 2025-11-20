@@ -1,0 +1,11 @@
+{
+  "name": "linktetrado",
+  "version": "1.0.0",
+  "summary": "Detect multimeric motifs.",
+  "author": "Michal Zurkowski",
+  "license": null,
+  "home_page": "https://github.com/michal-zurkowski/linktetrado",
+  "download_filename": "linktetrado-1.0.0.tar.gz",
+  "download_time": "2025-11-20T09:30:19.948705",
+  "package_url": "https://pypi.org/project/linktetrado/"
+}

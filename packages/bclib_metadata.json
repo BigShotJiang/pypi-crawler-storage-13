@@ -1,0 +1,11 @@
+{
+  "name": "bclib",
+  "version": "3.37.1",
+  "summary": "Python base gateway for communicate with basiscore webserver",
+  "author": "Manzoomeh Negaran",
+  "license": null,
+  "home_page": "https://github.com/Manzoomeh/BasisCore.Server.Edge/wiki",
+  "download_filename": "bclib-3.37.1.tar.gz",
+  "download_time": "2025-11-20T09:29:37.830647",
+  "package_url": "https://pypi.org/project/bclib/"
+}
