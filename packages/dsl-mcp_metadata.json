@@ -1,0 +1,11 @@
+{
+  "name": "dsl-mcp",
+  "version": "0.0.3",
+  "summary": "Give your coding agent access to your Figma data. Implement designs in any framework in one-shot.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dsl_mcp-0.0.3.tar.gz",
+  "download_time": "2025-11-20T11:23:19.413326",
+  "package_url": "https://pypi.org/project/dsl-mcp/"
+}

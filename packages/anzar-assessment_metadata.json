@@ -1,11 +1,11 @@
 {
   "name": "anzar-assessment",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "summary": "AnZAR is a grading assistant",
   "author": "AnZar Development Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "anzar_assessment-2.1.4.tar.gz",
-  "download_time": "2025-11-19T14:22:39.918131",
+  "download_filename": "anzar_assessment-2.1.5.tar.gz",
+  "download_time": "2025-11-20T11:23:15.306774",
   "package_url": "https://pypi.org/project/anzar-assessment/"
 }

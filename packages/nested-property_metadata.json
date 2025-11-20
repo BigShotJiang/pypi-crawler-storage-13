@@ -1,0 +1,11 @@
+{
+  "name": "nested-property",
+  "version": "1.1.5",
+  "summary": "A python based library inspired by nested-property module in javascript",
+  "author": "Giles Tetteh",
+  "license": null,
+  "home_page": "https://github.com/giesekow/nested-property",
+  "download_filename": "nested_property-1.1.5.tar.gz",
+  "download_time": "2025-11-20T11:23:00.389266",
+  "package_url": "https://pypi.org/project/nested-property/"
+}

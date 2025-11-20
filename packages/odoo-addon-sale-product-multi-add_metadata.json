@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-product-multi-add",
+  "version": "18.0.1.0.0.2",
+  "summary": "Sale Product Multi Add",
+  "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_product_multi_add-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-20T11:22:56.069776",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-product-multi-add/"
+}

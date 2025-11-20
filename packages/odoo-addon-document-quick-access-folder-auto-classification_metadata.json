@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-document-quick-access-folder-auto-classification",
-  "version": "16.0.1.0.2",
+  "version": "18.0.1.0.0.4",
   "summary": "Auto classification of Documents after reading a QR",
   "author": "Creu Blanca,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/server-ux",
-  "download_filename": "odoo_addon_document_quick_access_folder_auto_classification-16.0.1.0.2-py3-none-any.whl",
-  "download_time": "2025-11-20T10:26:35.122206",
+  "download_filename": "odoo_addon_document_quick_access_folder_auto_classification-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-20T11:23:04.981840",
   "package_url": "https://pypi.org/project/odoo-addon-document-quick-access-folder-auto-classification/"
 }

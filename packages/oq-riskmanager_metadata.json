@@ -1,11 +1,11 @@
 {
   "name": "oq-riskmanager",
-  "version": "0.1.16",
+  "version": "0.1.19",
   "summary": "Hedge arbitrage risk management (对冲套利策略风控模块)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oq_riskmanager-0.1.16.tar.gz",
-  "download_time": "2025-11-20T10:47:30.596403",
+  "download_filename": "oq_riskmanager-0.1.19.tar.gz",
+  "download_time": "2025-11-20T11:23:08.086237",
   "package_url": "https://pypi.org/project/oq-riskmanager/"
 }
