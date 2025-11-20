@@ -1,0 +1,11 @@
+{
+  "name": "pynoply",
+  "version": "0.1.0a0",
+  "summary": "A GPU-accelerated NetCDF viewer and editor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynoply-0.1.0a0.tar.gz",
+  "download_time": "2025-11-20T20:44:41.660825",
+  "package_url": "https://pypi.org/project/pynoply/"
+}

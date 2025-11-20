@@ -1,11 +1,11 @@
 {
   "name": "hex-maze-neuro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A Python toolkit for generating, visualizing, and analyzing hex maze configurations and optimal barrier change sequences for the hex maze task developed by the Berke Lab at UCSF.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_maze_neuro-1.0.1.tar.gz",
-  "download_time": "2025-11-18T07:24:26.164726",
+  "download_filename": "hex_maze_neuro-1.0.2.tar.gz",
+  "download_time": "2025-11-20T20:44:42.259306",
   "package_url": "https://pypi.org/project/hex-maze-neuro/"
 }

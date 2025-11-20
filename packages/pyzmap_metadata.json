@@ -1,0 +1,11 @@
+{
+  "name": "pyzmap",
+  "version": "0.1.4",
+  "summary": "Python SDK for the ZMap network scanner",
+  "author": "Atilla",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyzmap-0.1.4.tar.gz",
+  "download_time": "2025-11-20T20:44:29.865253",
+  "package_url": "https://pypi.org/project/pyzmap/"
+}

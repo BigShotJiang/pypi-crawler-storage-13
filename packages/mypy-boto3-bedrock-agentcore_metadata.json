@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-bedrock-agentcore",
+  "version": "1.41.1",
+  "summary": "Type annotations for boto3 BedrockAgentCore 1.41.1 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_bedrock_agentcore-1.41.1.tar.gz",
+  "download_time": "2025-11-20T20:44:14.606648",
+  "package_url": "https://pypi.org/project/mypy-boto3-bedrock-agentcore/"
+}

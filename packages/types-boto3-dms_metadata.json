@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-dms",
-  "version": "1.40.75",
-  "summary": "Type annotations for boto3 DatabaseMigrationService 1.40.75 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.41.1",
+  "summary": "Type annotations for boto3 DatabaseMigrationService 1.41.1 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_boto3_dms-1.40.75.tar.gz",
-  "download_time": "2025-11-17T22:20:54.507549",
+  "download_filename": "types_boto3_dms-1.41.1.tar.gz",
+  "download_time": "2025-11-20T20:44:20.825643",
   "package_url": "https://pypi.org/project/types-boto3-dms/"
 }

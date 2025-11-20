@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-glue",
-  "version": "1.41.0",
-  "summary": "Type annotations for boto3 Glue 1.41.0 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.41.1",
+  "summary": "Type annotations for boto3 Glue 1.41.1 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_glue-1.41.0-py3-none-any.whl",
-  "download_time": "2025-11-19T20:53:08.565627",
+  "download_filename": "mypy_boto3_glue-1.41.1.tar.gz",
+  "download_time": "2025-11-20T20:43:54.494013",
   "package_url": "https://pypi.org/project/mypy-boto3-glue/"
 }
