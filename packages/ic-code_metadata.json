@@ -1,11 +1,11 @@
 {
   "name": "ic-code",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Infrastructure CLI tool for managing AWS, Azure, GCP, OCI, NCP, CloudFlare, SSH, and more",
   "author": "SangYun Kim",
   "license": null,
   "home_page": "https://github.com/dgr009/ic",
-  "download_filename": "ic_code-1.2.4.tar.gz",
-  "download_time": "2025-11-19T07:41:59.498509",
+  "download_filename": "ic_code-1.2.5.tar.gz",
+  "download_time": "2025-11-20T07:26:15.324568",
   "package_url": "https://pypi.org/project/ic-code/"
 }

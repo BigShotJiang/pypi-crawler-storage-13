@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_MCPWeChatOfficialAccounts",
+  "version": "1.0.0",
+  "summary": "MCP微信公众号爬虫 - 基于FastMCP框架的微信公众号文章爬虫系统",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcpwechatofficialaccounts-1.0.0.tar.gz",
+  "download_time": "2025-11-20T07:26:27.055831",
+  "package_url": "https://pypi.org/project/iflow-mcp_MCPWeChatOfficialAccounts/"
+}

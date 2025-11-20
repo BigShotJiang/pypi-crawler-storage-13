@@ -1,0 +1,11 @@
+{
+  "name": "goobits-ttt",
+  "version": "1.0.3",
+  "summary": "A powerful AI assistant for your terminal",
+  "author": "TTT CLI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "goobits_ttt-1.0.3.tar.gz",
+  "download_time": "2025-11-20T07:26:05.306794",
+  "package_url": "https://pypi.org/project/goobits-ttt/"
+}

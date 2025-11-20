@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_doubao-mcp-server",
+  "version": "0.0.7",
+  "summary": "主要实现的是火山引擎的提供的豆包文生图、文生视频、图生视频MCP-Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_doubao_mcp_server-0.0.7.tar.gz",
+  "download_time": "2025-11-20T07:26:20.026422",
+  "package_url": "https://pypi.org/project/iflow-mcp_doubao-mcp-server/"
+}

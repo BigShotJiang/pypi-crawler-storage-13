@@ -1,0 +1,11 @@
+{
+  "name": "goobits-stt",
+  "version": "1.0.0",
+  "summary": "GOOBITS STT - Pure speech-to-text engine with multiple operation modes",
+  "author": "GOOBITS Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "goobits_stt-1.0.0.tar.gz",
+  "download_time": "2025-11-20T07:26:00.090826",
+  "package_url": "https://pypi.org/project/goobits-stt/"
+}

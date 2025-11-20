@@ -1,11 +1,11 @@
 {
   "name": "mns-scheduler",
-  "version": "1.4.3.3",
+  "version": "1.4.3.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mns_scheduler-1.4.3.3.tar.gz",
-  "download_time": "2025-11-18T07:52:58.301710",
+  "download_filename": "mns_scheduler-1.4.3.6.tar.gz",
+  "download_time": "2025-11-20T07:26:13.766365",
   "package_url": "https://pypi.org/project/mns-scheduler/"
 }

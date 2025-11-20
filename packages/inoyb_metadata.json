@@ -1,11 +1,11 @@
 {
   "name": "inoyb",
-  "version": "1.1.25",
+  "version": "1.1.26",
   "summary": "极其友好的地理空间AI模型服务框架 - Docker化部署，支持Gradio界面",
   "author": "DiChen",
   "license": "MIT",
   "home_page": "https://github.com/ldichen/It-is-none-of-your-business",
-  "download_filename": "inoyb-1.1.25.tar.gz",
-  "download_time": "2025-11-20T06:57:49.660000",
+  "download_filename": "inoyb-1.1.26.tar.gz",
+  "download_time": "2025-11-20T07:25:58.516265",
   "package_url": "https://pypi.org/project/inoyb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "celescope-mobiu",
+  "version": "1.4.0",
+  "summary": "MobiuSCOPE Analysis Pipelines",
+  "author": "zhouyiqi",
+  "license": null,
+  "home_page": "https://github.com/singleron-RD/celescope-mobiu",
+  "download_filename": "celescope_mobiu-1.4.0.tar.gz",
+  "download_time": "2025-11-20T07:26:28.125046",
+  "package_url": "https://pypi.org/project/celescope-mobiu/"
+}

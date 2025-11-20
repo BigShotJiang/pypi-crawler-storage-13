@@ -1,0 +1,11 @@
+{
+  "name": "goobits-tts",
+  "version": "1.1.4",
+  "summary": "Command-line text-to-speech tool with multiple providers, voice cloning, and smart auto-selection",
+  "author": "TTS CLI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "goobits_tts-1.1.4.tar.gz",
+  "download_time": "2025-11-20T07:26:02.654940",
+  "package_url": "https://pypi.org/project/goobits-tts/"
+}

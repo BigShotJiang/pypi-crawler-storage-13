@@ -1,11 +1,11 @@
 {
   "name": "rustychickpeas",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "High-performance in-memory graph API with RoaringBitmaps, Python bindings via PyO3",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/freeeve/rustychickpeas",
-  "download_filename": "rustychickpeas-0.4.0.tar.gz",
-  "download_time": "2025-11-19T07:41:50.690517",
+  "download_filename": "rustychickpeas-0.4.1.tar.gz",
+  "download_time": "2025-11-20T07:26:14.278942",
   "package_url": "https://pypi.org/project/rustychickpeas/"
 }
