@@ -1,0 +1,11 @@
+{
+  "name": "ifc5d",
+  "version": "0.8.4",
+  "summary": "IFC 5D costing library for quantity take-off and schedule production",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ifc5d-0.8.4-py3-none-any.whl",
+  "download_time": "2025-11-20T09:45:50.914084",
+  "package_url": "https://pypi.org/project/ifc5d/"
+}

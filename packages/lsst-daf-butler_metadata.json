@@ -1,0 +1,11 @@
+{
+  "name": "lsst-daf-butler",
+  "version": "29.2025.4700",
+  "summary": "An abstraction layer for reading and writing astronomical data to datastores.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_daf_butler-29.2025.4700.tar.gz",
+  "download_time": "2025-11-20T09:45:54.755090",
+  "package_url": "https://pypi.org/project/lsst-daf-butler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-country-state-translatable",
+  "version": "19.0.1.0.0.2",
+  "summary": "Translate Country States",
+  "author": "initOS GmbH, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_base_country_state_translatable-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-20T09:46:06.876326",
+  "package_url": "https://pypi.org/project/odoo-addon-base-country-state-translatable/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "z8r",
+  "version": "1.0.0",
+  "summary": "کتابخانه حرفه‌ای Python برای ارسال ایمیل فقط از طریق سرور z8r.ir",
+  "author": "Amirabas",
+  "license": null,
+  "home_page": "https://github.com/abasjy/z8r",
+  "download_filename": "z8r-1.0.0.tar.gz",
+  "download_time": "2025-11-20T09:45:45.929195",
+  "package_url": "https://pypi.org/project/z8r/"
+}
