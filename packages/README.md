@@ -1,32 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T11:40:36.588427
-- **Total Packages**: 85
-- **Total Size**: 14.9 MB
+- **Download Time**: 2025-11-20T11:53:33.020535
+- **Total Packages**: 83
+- **Total Size**: 16.15 MB
 
 ## Packages List
+- gais
+- leap-model-parser
+- contextinator
+- berryql
+- pywebtask
+- opik
+- fsleyes-widgets
+- ruythcore
+- panda-server
+- sql-error-categorizer
+- VKPyKit
+- lifx-async
+- unique_toolkit
+- psd-covariance
+- pgql
+- crabdeposit
+- minimax-coding-plan-mcp
+- flaw2flow
+- leadguru-jobs
+- rwkv-ops
+- neura-library
+- glaemscribe
+- phonexia-grpc
+- djangocms-aldryn-forms
+- pyqt-code-editor
+- tg-signer
+- pandas-plots
+- fense-logger
+- flerity-core
+- opensesame-extension-sigmund
+- mtphandler
+- test-to-speech-vcb
+- wmill-pg
+- wmill
+- windmill-api
+- locust
+- slack-clacks
+- odoo-addon-sale-force-invoiced-quantity
+- aa-markettracker-plugin
+- pulseflow
+- deeplatent
+- yt-dlp-termux-gui
+- writer
+- cdasws
+- vizion
 - junshan-kit
 - pase
 - minimal-measurement-time
-- flaw2flow
 - diffmind
-- fense-logger
 - pydantic-config-generator
 - lichess-board
 - pygsc
 - fastapi-cloud-cli
-- test-to-speech-vcb
 - well-log-toolkit
-- vizion
 - smle
 - MetaRpcMT5
 - MetaRpcMT4
 - farmore
 - civilpy
-- locust
 - togetherai-haystack
-- aa-markettracker-plugin
 - infra-core
 - py-jsonl
 - aletheia-probe
@@ -50,44 +89,3 @@
 - foxie-cli
 - jupyter-jsc-custom
 - changepacks
-- yt-dlp-termux-gui
-- odoo-addon-pricelist-price-base-custom
-- airbyte-source-sftp-bulk
-- openmeter
-- orq-ai-sdk
-- lbt-dragonfly
-- writer
-- polymcp
-- bclearer-core
-- odoo-addon-sale-product-multi-add
-- odoo-addon-sale-delivery-state
-- gwrefpy
-- docker-tidy
-- bgc-viewer
-- lbt-honeybee
-- localstack-core
-- nested-property
-- easyborg
-- WebDesignTaal
-- gresecml
-- slack-clacks
-- evol-aiq
-- ansible-doctor
-- prometheus-pve-sd
-- odoo-addon-document-quick-access-folder-auto-classification
-- tf-keras-nightly
-- tina4-python
-- git-batch
-- earthkit-transforms
-- oq-riskmanager
-- fabricks
-- dsf-mobility
-- dahitiapi
-- finanfut-sdk
-- molcraft
-- anypoint-sdk
-- rediacc
-- langmiddle
-- netboxlabs-diode-sdk
-- ogc-cite-runner
-- alibabacloud-aliding20230426

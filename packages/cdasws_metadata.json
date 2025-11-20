@@ -1,0 +1,11 @@
+{
+  "name": "cdasws",
+  "version": "1.8.12",
+  "summary": "NASA's Coordinated Data Analysis System Web Service Client Library",
+  "author": "Bernie Harris",
+  "license": "NOSA",
+  "home_page": "https://cdaweb.gsfc.nasa.gov/WebServices/REST",
+  "download_filename": "cdasws-1.8.12.tar.gz",
+  "download_time": "2025-11-20T11:53:12.048864",
+  "package_url": "https://pypi.org/project/cdasws/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gais",
+  "version": "0.1.1",
+  "summary": "A unified and consistent interface for working with multiple LLM providers.",
+  "author": "Hanif Sajid",
+  "license": "MIT",
+  "home_page": "https://hanifsajid.github.io/gais",
+  "download_filename": "gais-0.1.1.tar.gz",
+  "download_time": "2025-11-20T11:52:47.784698",
+  "package_url": "https://pypi.org/project/gais/"
+}
