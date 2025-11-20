@@ -1,0 +1,11 @@
+{
+  "name": "pypaimon",
+  "version": "1.3.1",
+  "summary": "Apache Paimon Python API",
+  "author": "Apache Software Foundation",
+  "license": null,
+  "home_page": "https://paimon.apache.org",
+  "download_filename": "pypaimon-1.3.1.tar.gz",
+  "download_time": "2025-11-20T03:03:25.685555",
+  "package_url": "https://pypi.org/project/pypaimon/"
+}

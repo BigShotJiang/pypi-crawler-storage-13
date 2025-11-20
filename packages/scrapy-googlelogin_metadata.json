@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-googlelogin",
+  "version": "0.1.9",
+  "summary": "google login downloader middleware for scrapy",
+  "author": "derekchan",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/geek-dc/scrapy-googlelogin",
+  "download_filename": "scrapy_googlelogin-0.1.9.tar.gz",
+  "download_time": "2025-11-20T03:03:37.019293",
+  "package_url": "https://pypi.org/project/scrapy-googlelogin/"
+}

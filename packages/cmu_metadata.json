@@ -1,0 +1,11 @@
+{
+  "name": "cmu",
+  "version": "0.1.4",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmu-0.1.4.tar.gz",
+  "download_time": "2025-11-20T03:03:42.158860",
+  "package_url": "https://pypi.org/project/cmu/"
+}

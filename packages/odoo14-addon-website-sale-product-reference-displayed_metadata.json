@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-website-sale-product-reference-displayed",
+  "version": "14.0.1.0.1.dev7",
+  "summary": "Display product reference in e-commerce",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/e-commerce",
+  "download_filename": "odoo14_addon_website_sale_product_reference_displayed-14.0.1.0.1.dev7-py3-none-any.whl",
+  "download_time": "2025-11-20T03:03:08.768962",
+  "package_url": "https://pypi.org/project/odoo14-addon-website-sale-product-reference-displayed/"
+}

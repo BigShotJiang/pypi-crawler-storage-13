@@ -1,0 +1,11 @@
+{
+  "name": "cqa",
+  "version": "0.1.15",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cqa-0.1.15.tar.gz",
+  "download_time": "2025-11-20T03:03:29.285640",
+  "package_url": "https://pypi.org/project/cqa/"
+}

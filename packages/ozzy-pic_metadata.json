@@ -1,0 +1,11 @@
+{
+  "name": "ozzy-pic",
+  "version": "2.0.4",
+  "summary": "PIC simulation data analysis for the lazy and impatient",
+  "author": "Mariana Moreira",
+  "license": "MIT",
+  "home_page": "https://mtrocadomoreira.github.io/ozzy/",
+  "download_filename": "ozzy_pic-2.0.4.tar.gz",
+  "download_time": "2025-11-20T03:03:01.994836",
+  "package_url": "https://pypi.org/project/ozzy-pic/"
+}

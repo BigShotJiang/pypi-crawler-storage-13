@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-web-browser",
+  "version": "0.1.0",
+  "summary": "MCP Web Browser Server using Playwright",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_web_browser-0.1.0.tar.gz",
+  "download_time": "2025-11-20T03:03:14.541636",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-web-browser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ctv",
+  "version": "0.1.16",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctv-0.1.16.tar.gz",
+  "download_time": "2025-11-20T03:03:15.057999",
+  "package_url": "https://pypi.org/project/ctv/"
+}

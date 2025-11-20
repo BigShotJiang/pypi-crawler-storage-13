@@ -1,0 +1,11 @@
+{
+  "name": "psrn",
+  "version": "0.1.0",
+  "summary": "Parallel Symbolic Regression Network (PSRN) / Parallel Symbolic Enumeration (PSE)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psrn-0.1.0.tar.gz",
+  "download_time": "2025-11-20T03:03:05.652020",
+  "package_url": "https://pypi.org/project/psrn/"
+}

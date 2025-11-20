@@ -1,11 +1,11 @@
 {
   "name": "adnuntius",
-  "version": "1.25.0",
+  "version": "1.26.0",
   "summary": "Interface and tools for using the Adnuntius API",
   "author": "Adnuntius",
   "license": "MIT",
   "home_page": "https://github.com/Adnuntius/api-tools",
-  "download_filename": "adnuntius-1.25.0.tar.gz",
-  "download_time": "2025-11-19T05:44:00.504298",
+  "download_filename": "adnuntius-1.26.0.tar.gz",
+  "download_time": "2025-11-20T03:03:04.102091",
   "package_url": "https://pypi.org/project/adnuntius/"
 }
