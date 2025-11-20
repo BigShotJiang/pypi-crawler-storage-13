@@ -1,15 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-20T08:32:22.321813
-- **Total Packages**: 97
-- **Total Size**: 33.62 MB
+- **Download Time**: 2025-11-20T08:59:46.674453
+- **Total Packages**: 92
+- **Total Size**: 7.51 MB
 
 ## Packages List
+- pyndakaas
+- aixtools
+- click-extended
+- vibego
+- utilx-format
+- SURE-tools
+- rhodecode-mcp-server
+- Pollcord
+- SHICTHRSJsonLoader
+- unique_follow_up_questions
+- pywebtask
+- fx-bharat
+- nucliadb-utils
+- nucliadb-telemetry
+- vfuzztrie
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- apikey-gateway
+- nidx-binding
+- fastclash
+- mcp-weather-demo-huangshuai
+- fastapi-boilerplate-generator
+- oq-riskmanager
+- MetaRpcMT5
+- py-ed25519-blake2b
+- MetaRpcMT4
+- kuaijs-ios
+- binance-futures-availability
+- prisma-web3-py
 - oarepo-ui
 - tacoreader
 - infra-core
-- rhodecode-mcp-server
 - powerbot-asyncio-client
 - powerbot-client
 - pulumiverse-scaleway
@@ -20,7 +52,6 @@
 - drun
 - siitoogether
 - pairwiseANIviz
-- kuaijs-ios
 - odoo-somconnexio-python-client
 - huaweicloudsdkworkspaceapp
 - zamp-public-workflow-sdk
@@ -31,7 +62,6 @@
 - huaweicloudsdkvpc
 - huaweicloudsdkvod
 - huaweicloudsdkvcm
-- SHICTHRSJsonLoader
 - huaweicloudsdkvas
 - huaweicloudsdkugo
 - huaweicloudsdktms
@@ -68,38 +98,3 @@
 - huaweicloudsdkoms
 - huaweicloudsdkoctopus
 - lattica-common
-- huaweicloudsdkocr
-- huaweicloudsdkobs
-- huaweicloudsdknlp
-- huaweicloudsdknat
-- huaweicloudsdkmssi
-- huaweicloudsdkmsgsms
-- huaweicloudsdkmrs
-- huaweicloudsdkmpc
-- huaweicloudsdkmoderation
-- huaweicloudsdkmetastudio
-- huaweicloudsdkmeeting
-- huaweicloudsdkmastudio
-- huaweicloudsdkmas
-- doldol-alarm
-- huaweicloudsdkmapds
-- huaweicloudsdklts
-- huaweicloudsdklive
-- huaweicloudsdklakeformation
-- huaweicloudsdkkvs
-- huaweicloudsdkkps
-- huaweicloudsdkkoomessage
-- huaweicloudsdkkms
-- huaweicloudsdkkafka
-- huaweicloudsdkivs
-- huaweicloudsdkiotedge
-- huaweicloudsdkiotdm
-- huaweicloudsdkiotda
-- huaweicloudsdkiotanalytics
-- huaweicloudsdkims
-- huaweicloudsdkimagesearch
-- huaweicloudsdkimage
-- huaweicloudsdkief
-- huaweicloudsdkiec
-- huaweicloudsdkidmeclassicapi
-- huaweicloudsdkidme
