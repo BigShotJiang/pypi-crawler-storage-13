@@ -1,0 +1,11 @@
+{
+  "name": "cat-experiments",
+  "version": "0.0.2",
+  "summary": "Standalone evaluation engine for LLM applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cat_experiments-0.0.2.tar.gz",
+  "download_time": "2025-11-20T22:53:29.584268",
+  "package_url": "https://pypi.org/project/cat-experiments/"
+}

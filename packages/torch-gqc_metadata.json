@@ -1,11 +1,11 @@
 {
   "name": "torch-gqc",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "summary": "Adaptive gradient accumulation for improved training efficiency",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "torch_gqc-0.7.3.tar.gz",
-  "download_time": "2025-11-20T20:55:17.397624",
+  "download_filename": "torch_gqc-0.8.0.tar.gz",
+  "download_time": "2025-11-20T22:53:27.394637",
   "package_url": "https://pypi.org/project/torch-gqc/"
 }

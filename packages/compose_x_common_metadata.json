@@ -1,0 +1,11 @@
+{
+  "name": "compose_x_common",
+  "version": "1.4.12",
+  "summary": "Common Library for Compose-X Projects",
+  "author": "John Preston",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/compose-x/compose-x-common-libs/",
+  "download_filename": "compose_x_common-1.4.12.tar.gz",
+  "download_time": "2025-11-20T22:53:36.765473",
+  "package_url": "https://pypi.org/project/compose_x_common/"
+}

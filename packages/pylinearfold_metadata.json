@@ -1,0 +1,11 @@
+{
+  "name": "pylinearfold",
+  "version": "1.0.0",
+  "summary": "Python bindings for LinearFold and LinearPartition",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylinearfold-1.0.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-20T22:53:25.222204",
+  "package_url": "https://pypi.org/project/pylinearfold/"
+}
