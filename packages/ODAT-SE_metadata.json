@@ -1,0 +1,11 @@
+{
+  "name": "ODAT-SE",
+  "version": "3.2.0",
+  "summary": "Open Data Analysis Tool for Science and Engineering",
+  "author": "2DMAT developers",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "odat_se-3.2.0.tar.gz",
+  "download_time": "2025-11-20T04:26:40.476356",
+  "package_url": "https://pypi.org/project/ODAT-SE/"
+}

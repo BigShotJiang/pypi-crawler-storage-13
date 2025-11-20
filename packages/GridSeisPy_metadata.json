@@ -1,0 +1,11 @@
+{
+  "name": "GridSeisPy",
+  "version": "0.2.246",
+  "summary": "A Python library for seismic data processing and visualization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gridseispy-0.2.246.tar.gz",
+  "download_time": "2025-11-20T04:26:34.225493",
+  "package_url": "https://pypi.org/project/GridSeisPy/"
+}

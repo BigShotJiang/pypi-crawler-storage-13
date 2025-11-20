@@ -1,0 +1,11 @@
+{
+  "name": "booklab",
+  "version": "0.9",
+  "summary": "A books manager. For any kind of documentation can dream about.",
+  "author": null,
+  "license": "GNU",
+  "home_page": null,
+  "download_filename": "booklab-0.9.tar.gz",
+  "download_time": "2025-11-20T04:26:19.221211",
+  "package_url": "https://pypi.org/project/booklab/"
+}

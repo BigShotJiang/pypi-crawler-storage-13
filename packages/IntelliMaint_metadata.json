@@ -1,0 +1,11 @@
+{
+  "name": "IntelliMaint",
+  "version": "1.0.4",
+  "summary": "A prognostics package by IntelliPredikt Technologies",
+  "author": "IPTLP0032",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intellimaint-1.0.4.tar.gz",
+  "download_time": "2025-11-20T04:26:50.472689",
+  "package_url": "https://pypi.org/project/IntelliMaint/"
+}

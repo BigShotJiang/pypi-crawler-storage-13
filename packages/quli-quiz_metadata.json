@@ -1,0 +1,11 @@
+{
+  "name": "quli-quiz",
+  "version": "2.1.1",
+  "summary": "CLI quiz app powered by Gemini Flash 2.5",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quli_quiz-2.1.1.tar.gz",
+  "download_time": "2025-11-20T04:26:24.828091",
+  "package_url": "https://pypi.org/project/quli-quiz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "imgenx",
+  "version": "0.3.3",
+  "summary": "AI 图片/视频生成与处理套件，支持文本/图生图、文本/图生视频、图片分析与常用编辑（裁剪、缩放、转换、调参），可作为命令行工具或 MCP Server 使用",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgenx-0.3.3.tar.gz",
+  "download_time": "2025-11-20T04:26:22.212501",
+  "package_url": "https://pypi.org/project/imgenx/"
+}
