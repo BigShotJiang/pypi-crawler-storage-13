@@ -1,0 +1,11 @@
+{
+  "name": "geoplanar",
+  "version": "0.5.0",
+  "summary": "Geographic planar enforcement of polygon geoseries",
+  "author": null,
+  "license": "3-Clause BSD",
+  "home_page": null,
+  "download_filename": "geoplanar-0.5.0-py3-none-any.whl",
+  "download_time": "2025-11-20T20:26:59.707067",
+  "package_url": "https://pypi.org/project/geoplanar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vibe-widget",
+  "version": "0.2.0",
+  "summary": "Create interactive visualizations using natural language and LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibe_widget-0.2.0.tar.gz",
+  "download_time": "2025-11-20T20:26:52.015218",
+  "package_url": "https://pypi.org/project/vibe-widget/"
+}

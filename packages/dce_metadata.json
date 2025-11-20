@@ -1,0 +1,11 @@
+{
+  "name": "dce",
+  "version": "0.1.9",
+  "summary": "A placeholder Python SDK package for BSO",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dce-0.1.9.tar.gz",
+  "download_time": "2025-11-20T20:27:04.630828",
+  "package_url": "https://pypi.org/project/dce/"
+}

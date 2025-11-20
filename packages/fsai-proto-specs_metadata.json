@@ -1,11 +1,11 @@
 {
   "name": "fsai-proto-specs",
-  "version": "0.0.385",
+  "version": "0.0.386",
   "summary": "Auto-generated library for use with GRPC API.",
   "author": "Michael Mohamed",
   "license": "MIT",
   "home_page": "https://github.com/fsai-dev/fsai-proto-specs",
-  "download_filename": "fsai_proto_specs-0.0.385.tar.gz",
-  "download_time": "2025-11-19T15:24:45.107511",
+  "download_filename": "fsai_proto_specs-0.0.386.tar.gz",
+  "download_time": "2025-11-20T20:26:33.368395",
   "package_url": "https://pypi.org/project/fsai-proto-specs/"
 }

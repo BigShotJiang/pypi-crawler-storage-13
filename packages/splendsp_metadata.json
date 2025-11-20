@@ -1,0 +1,11 @@
+{
+  "name": "splendsp",
+  "version": "0.3.0",
+  "summary": "Splendid Digital Signal Processing of time series data for small physics experiments",
+  "author": "SPLENDOR Collaboration",
+  "license": "MIT",
+  "home_page": "https://github.com/splendor-collab/splendsp",
+  "download_filename": "splendsp-0.3.0.tar.gz",
+  "download_time": "2025-11-20T20:27:00.788562",
+  "package_url": "https://pypi.org/project/splendsp/"
+}

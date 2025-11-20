@@ -1,0 +1,11 @@
+{
+  "name": "jenkinsctl",
+  "version": "1.0.19",
+  "summary": "A command-line tool to interact with Jenkins jobs 🚀",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jenkinsctl-1.0.19.tar.gz",
+  "download_time": "2025-11-20T20:27:05.182016",
+  "package_url": "https://pypi.org/project/jenkinsctl/"
+}

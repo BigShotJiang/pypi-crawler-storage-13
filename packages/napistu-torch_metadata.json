@@ -1,0 +1,11 @@
+{
+  "name": "napistu-torch",
+  "version": "0.2.10",
+  "summary": "PyTorch-based toolkit for working with Napistu network graphs",
+  "author": "Sean Hackett",
+  "license": null,
+  "home_page": "https://github.com/napistu/napistu-torch",
+  "download_filename": "napistu_torch-0.2.10.tar.gz",
+  "download_time": "2025-11-20T20:26:48.596378",
+  "package_url": "https://pypi.org/project/napistu-torch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "layered-config-tree",
+  "version": "4.0.6",
+  "summary": "Layered Config Tree is a configuration structure which supports cascading layers.",
+  "author": "The vivarium developers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ihmeuw/layered_config_tree",
+  "download_filename": "layered_config_tree-4.0.6.tar.gz",
+  "download_time": "2025-11-20T20:26:50.303923",
+  "package_url": "https://pypi.org/project/layered-config-tree/"
+}

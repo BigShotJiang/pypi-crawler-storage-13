@@ -1,0 +1,11 @@
+{
+  "name": "notion-to-markdown",
+  "version": "0.1.6",
+  "summary": "A package to convert Notion content into Markdown format",
+  "author": "Ajay Tripathi",
+  "license": "MIT",
+  "home_page": "https://github.com/atb00ker/notion-to-markdown",
+  "download_filename": "notion_to_markdown-0.1.6.tar.gz",
+  "download_time": "2025-11-20T20:26:42.589436",
+  "package_url": "https://pypi.org/project/notion-to-markdown/"
+}
