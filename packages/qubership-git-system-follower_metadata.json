@@ -1,0 +1,11 @@
+{
+  "name": "qubership-git-system-follower",
+  "version": "0.6.6",
+  "summary": "The package manager for Git providers",
+  "author": "Qubership",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qubership_git_system_follower-0.6.6.tar.gz",
+  "download_time": "2025-11-20T07:42:00.802335",
+  "package_url": "https://pypi.org/project/qubership-git-system-follower/"
+}

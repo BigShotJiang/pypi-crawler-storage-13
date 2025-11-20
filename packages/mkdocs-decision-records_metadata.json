@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-decision-records",
+  "version": "2.1.2",
+  "summary": "Manage decision records with mkdocs in a customizable and minimal fashion.",
+  "author": "Timo Reymann",
+  "license": null,
+  "home_page": "https://github.com/timo-reymann/mkdocs-decision-records",
+  "download_filename": "mkdocs_decision_records-2.1.2.tar.gz",
+  "download_time": "2025-11-20T07:41:54.511597",
+  "package_url": "https://pypi.org/project/mkdocs-decision-records/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-sort",
+  "version": "0.0.1rc2",
+  "summary": "Sort and deduplicate lines in text files",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmem_plugin_sort-0.0.1rc2.tar.gz",
+  "download_time": "2025-11-20T07:42:10.622705",
+  "package_url": "https://pypi.org/project/cmem-plugin-sort/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "csv2json-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "一个基于 FastMCP 的 CSV 到 JSON 转换 MCP (Model Context Protocol) 服务器，提供高效的 CSV 数据转换服务",
-  "author": "zhangjy07",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "csv2json_mcp-0.1.1.tar.gz",
-  "download_time": "2025-11-20T07:26:03.703841",
+  "download_filename": "csv2json_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-20T07:41:57.654973",
   "package_url": "https://pypi.org/project/csv2json-mcp/"
 }
