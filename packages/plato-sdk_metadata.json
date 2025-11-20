@@ -1,11 +1,11 @@
 {
   "name": "plato-sdk",
-  "version": "1.1.39",
+  "version": "1.1.43",
   "summary": "Plato SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plato_sdk-1.1.39-cp311-cp311-macosx_15_0_universal2.whl",
-  "download_time": "2025-11-20T05:44:24.448044",
+  "download_filename": "plato_sdk-1.1.43-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-20T23:23:06.215050",
   "package_url": "https://pypi.org/project/plato-sdk/"
 }

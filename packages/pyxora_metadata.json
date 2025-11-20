@@ -1,11 +1,11 @@
 {
   "name": "pyxora",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A game engine library using pygame-ce, pymunk, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyxora-0.5.2.tar.gz",
-  "download_time": "2025-11-20T19:53:07.141602",
+  "download_filename": "pyxora-0.5.3.tar.gz",
+  "download_time": "2025-11-20T23:22:40.657572",
   "package_url": "https://pypi.org/project/pyxora/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fraiseql-confiture",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "PostgreSQL migrations, sweetly done 🍓",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/fraiseql/confiture",
-  "download_filename": "fraiseql_confiture-0.3.1.tar.gz",
-  "download_time": "2025-11-20T20:55:04.102849",
+  "download_filename": "fraiseql_confiture-0.3.2.tar.gz",
+  "download_time": "2025-11-20T23:22:47.400198",
   "package_url": "https://pypi.org/project/fraiseql-confiture/"
 }

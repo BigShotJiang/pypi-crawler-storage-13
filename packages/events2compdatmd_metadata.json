@@ -1,0 +1,11 @@
+{
+  "name": "events2compdatmd",
+  "version": "0.0.2",
+  "summary": "script to convert events file into COMPDATMD keyword for ECHELON simulator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "events2compdatmd-0.0.2.tar.gz",
+  "download_time": "2025-11-20T23:22:53.591146",
+  "package_url": "https://pypi.org/project/events2compdatmd/"
+}

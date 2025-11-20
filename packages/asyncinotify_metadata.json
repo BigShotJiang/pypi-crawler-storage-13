@@ -1,11 +1,11 @@
 {
   "name": "asyncinotify",
-  "version": "4.3.0",
+  "version": "4.3.2",
   "summary": "'A simple optionally-async python inotify library, focused on simplicity of use and operation, and leveraging modern Python features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asyncinotify-4.3.0.tar.gz",
-  "download_time": "2025-11-20T22:53:32.864163",
+  "download_filename": "asyncinotify-4.3.2.tar.gz",
+  "download_time": "2025-11-20T23:23:01.816326",
   "package_url": "https://pypi.org/project/asyncinotify/"
 }

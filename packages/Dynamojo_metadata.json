@@ -1,0 +1,11 @@
+{
+  "name": "Dynamojo",
+  "version": "1.0.4",
+  "summary": "ORM For Dynamodb",
+  "author": "Mathew Moon",
+  "license": null,
+  "home_page": "https://github.com/mathewmoon/dynamojo",
+  "download_filename": "dynamojo-1.0.4.tar.gz",
+  "download_time": "2025-11-20T23:22:35.522765",
+  "package_url": "https://pypi.org/project/Dynamojo/"
+}

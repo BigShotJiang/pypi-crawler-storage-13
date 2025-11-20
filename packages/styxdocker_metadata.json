@@ -1,11 +1,11 @@
 {
   "name": "styxdocker",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Docker integration for Styx compiled wrappers.",
   "author": "Florian Rupprecht",
   "license": null,
   "home_page": null,
-  "download_filename": "styxdocker-0.6.0.tar.gz",
-  "download_time": "2025-11-18T19:22:30.938328",
+  "download_filename": "styxdocker-0.6.1.tar.gz",
+  "download_time": "2025-11-20T23:22:56.176152",
   "package_url": "https://pypi.org/project/styxdocker/"
 }
