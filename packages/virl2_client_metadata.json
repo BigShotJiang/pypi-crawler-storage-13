@@ -1,0 +1,11 @@
+{
+  "name": "virl2_client",
+  "version": "2.9.1",
+  "summary": "VIRL2 Client Library",
+  "author": "Simon Knight",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ciscodevnet/virl2-client",
+  "download_filename": "virl2_client-2.9.1.tar.gz",
+  "download_time": "2025-11-20T19:23:10.662112",
+  "package_url": "https://pypi.org/project/virl2_client/"
+}

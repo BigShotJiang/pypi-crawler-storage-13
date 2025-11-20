@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-stock-picking-show-currency-rate",
+  "version": "16.0.1.0.0.6",
+  "summary": "Show currency rate in purchase stock picking.",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_stock_picking_show_currency_rate-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-20T19:23:34.246804",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-stock-picking-show-currency-rate/"
+}

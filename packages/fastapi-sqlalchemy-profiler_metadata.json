@@ -1,11 +1,11 @@
 {
   "name": "fastapi-sqlalchemy-profiler",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "SQL Profiler for FastAPI + SQLAlchemy with HTML UI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_sqlalchemy_profiler-0.1.2.tar.gz",
-  "download_time": "2025-11-20T18:58:58.361479",
+  "download_filename": "fastapi_sqlalchemy_profiler-0.1.3.tar.gz",
+  "download_time": "2025-11-20T19:23:23.237262",
   "package_url": "https://pypi.org/project/fastapi-sqlalchemy-profiler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "multi-storage-client",
+  "version": "0.35.0",
+  "summary": "Unified high-performance Python client for object and file stores.",
+  "author": "NVIDIA Multi-Storage Client Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "multi_storage_client-0.35.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-20T19:23:04.920346",
+  "package_url": "https://pypi.org/project/multi-storage-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyfundlib",
+  "version": "0.1.0",
+  "summary": "End-to-End Python Toolkit for Algo Trading: Strategies, ML Predictions, and Automated Funds",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfundlib-0.1.0.tar.gz",
+  "download_time": "2025-11-20T19:23:08.052253",
+  "package_url": "https://pypi.org/project/pyfundlib/"
+}

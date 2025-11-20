@@ -1,0 +1,11 @@
+{
+  "name": "detection-limits",
+  "version": "0.9.0",
+  "summary": "NIST detection limits and image quality metrics for SEM images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "detection_limits-0.9.0.tar.gz",
+  "download_time": "2025-11-20T19:23:32.679831",
+  "package_url": "https://pypi.org/project/detection-limits/"
+}
