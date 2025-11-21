@@ -1,11 +1,11 @@
 {
   "name": "nzalchemy",
-  "version": "11.1.1",
+  "version": "11.1.2",
   "summary": "Netezza Dialect for SQLAlchemy",
   "author": null,
   "license": "IBM",
   "home_page": "https://github.com/IBM/nzalchemy",
-  "download_filename": "nzalchemy-11.1.1.tar.gz",
-  "download_time": "2025-11-21T11:53:18.025217",
+  "download_filename": "nzalchemy-11.1.2.tar.gz",
+  "download_time": "2025-11-21T12:44:55.845032",
   "package_url": "https://pypi.org/project/nzalchemy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "avrotize",
-  "version": "2.16.5",
+  "version": "2.16.6",
   "summary": "Tools to convert from and to Avro Schema from various other schema languages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "avrotize-2.16.5.tar.gz",
-  "download_time": "2025-11-21T11:40:07.021639",
+  "download_filename": "avrotize-2.16.6.tar.gz",
+  "download_time": "2025-11-21T12:44:48.285209",
   "package_url": "https://pypi.org/project/avrotize/"
 }

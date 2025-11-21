@@ -1,0 +1,11 @@
+{
+  "name": "open-forms-ext-token-exchange",
+  "version": "0.5.0",
+  "summary": "Open Forms extension to use Keycloak access tokens when requesting prefill data from external APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_forms_ext_token_exchange-0.5.0.tar.gz",
+  "download_time": "2025-11-21T12:44:43.016625",
+  "package_url": "https://pypi.org/project/open-forms-ext-token-exchange/"
+}

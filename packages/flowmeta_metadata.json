@@ -1,0 +1,11 @@
+{
+  "name": "flowmeta",
+  "version": "0.1.3",
+  "summary": "Integrated metagenomic workflow orchestration",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "flowmeta-0.1.3.tar.gz",
+  "download_time": "2025-11-21T12:45:01.062678",
+  "package_url": "https://pypi.org/project/flowmeta/"
+}

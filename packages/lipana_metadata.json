@@ -1,0 +1,11 @@
+{
+  "name": "lipana",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Lipana M-Pesa API",
+  "author": "Lipana",
+  "license": "MIT",
+  "home_page": "https://github.com/lipana/lipana-python",
+  "download_filename": "lipana-1.0.0.tar.gz",
+  "download_time": "2025-11-21T12:44:39.341882",
+  "package_url": "https://pypi.org/project/lipana/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gambit-sdk",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "The official SDK for building Gambit Platform Adapters",
   "author": "Mikhail Shevernev",
   "license": "Proprietary",
   "home_page": "https://github.com/brilliant-gambit/gambit-sdk",
-  "download_filename": "gambit_sdk-0.4.2.tar.gz",
-  "download_time": "2025-11-21T11:40:24.145366",
+  "download_filename": "gambit_sdk-0.4.4.tar.gz",
+  "download_time": "2025-11-21T12:44:51.833687",
   "package_url": "https://pypi.org/project/gambit-sdk/"
 }
