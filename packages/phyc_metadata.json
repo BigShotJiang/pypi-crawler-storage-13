@@ -1,0 +1,11 @@
+{
+  "name": "phyc",
+  "version": "0.1.0",
+  "summary": "Meta package of `phy` project.",
+  "author": "Alfred DU",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phyc-0.1.0.tar.gz",
+  "download_time": "2025-11-21T05:45:34.313034",
+  "package_url": "https://pypi.org/project/phyc/"
+}

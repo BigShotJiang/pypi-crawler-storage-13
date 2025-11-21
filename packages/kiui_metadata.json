@@ -1,0 +1,11 @@
+{
+  "name": "kiui",
+  "version": "0.2.20",
+  "summary": "A toolkit for 3D vision",
+  "author": "kiui",
+  "license": null,
+  "home_page": "https://github.com/ashawkey/kiuikit",
+  "download_filename": "kiui-0.2.20.tar.gz",
+  "download_time": "2025-11-21T05:45:29.164678",
+  "package_url": "https://pypi.org/project/kiui/"
+}

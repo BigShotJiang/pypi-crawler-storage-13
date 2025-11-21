@@ -1,0 +1,11 @@
+{
+  "name": "QDarts",
+  "version": "1.0.5",
+  "summary": "A package for simulating realistic quantum dot arrays and their charge transitions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qdarts-1.0.5.tar.gz",
+  "download_time": "2025-11-21T05:45:25.972498",
+  "package_url": "https://pypi.org/project/QDarts/"
+}

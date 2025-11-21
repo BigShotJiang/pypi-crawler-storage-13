@@ -1,11 +1,11 @@
 {
   "name": "memorable-ai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Advanced Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
   "author": "Memorable Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/0sparsh2/memorable",
-  "download_filename": "memorable_ai-0.1.0.tar.gz",
-  "download_time": "2025-11-21T03:52:14.253732",
+  "download_filename": "memorable_ai-0.1.1.tar.gz",
+  "download_time": "2025-11-21T05:45:53.601097",
   "package_url": "https://pypi.org/project/memorable-ai/"
 }

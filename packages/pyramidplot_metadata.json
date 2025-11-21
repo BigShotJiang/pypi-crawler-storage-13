@@ -1,0 +1,11 @@
+{
+  "name": "pyramidplot",
+  "version": "0.1.1",
+  "summary": "A Python package for creating pyramid plots using Matplotlib.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyramidplot-0.1.1.tar.gz",
+  "download_time": "2025-11-21T05:45:28.115798",
+  "package_url": "https://pypi.org/project/pyramidplot/"
+}

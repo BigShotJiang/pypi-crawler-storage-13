@@ -1,11 +1,11 @@
 {
   "name": "dinnovos-agent-cli",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "summary": "CLI tool to create new AI agent projects based on LangGraph and FastAPI",
   "author": "Dinnovos",
   "license": null,
   "home_page": "https://github.com/dinnovos/agent-base-project",
-  "download_filename": "dinnovos_agent_cli-1.0.3.tar.gz",
-  "download_time": "2025-11-20T21:38:36.256233",
+  "download_filename": "dinnovos_agent_cli-1.0.7.tar.gz",
+  "download_time": "2025-11-21T05:45:17.567899",
   "package_url": "https://pypi.org/project/dinnovos-agent-cli/"
 }

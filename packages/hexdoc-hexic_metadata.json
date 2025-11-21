@@ -1,11 +1,11 @@
 {
   "name": "hexdoc-hexic",
-  "version": "1.4.6.1.0",
-  "summary": null,
+  "version": "1.4.6.1.1.post1",
+  "summary": "Miscellaneous neat features and QoL patterns for Hex Casting.",
   "author": "PoolloverNathan",
   "license": null,
   "home_page": null,
-  "download_filename": "hexdoc_hexic-1.4.6.1.0-py3-none-any.whl",
-  "download_time": "2025-11-20T17:25:21.147385",
+  "download_filename": "hexdoc_hexic-1.4.6.1.1.post1-py3-none-any.whl",
+  "download_time": "2025-11-21T05:45:18.081827",
   "package_url": "https://pypi.org/project/hexdoc-hexic/"
 }

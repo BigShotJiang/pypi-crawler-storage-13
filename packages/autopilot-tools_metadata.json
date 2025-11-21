@@ -1,0 +1,11 @@
+{
+  "name": "autopilot-tools",
+  "version": "0.6.0",
+  "summary": "PX4/ArduPilot autopilot tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autopilot_tools-0.6.0.tar.gz",
+  "download_time": "2025-11-21T05:45:52.570531",
+  "package_url": "https://pypi.org/project/autopilot-tools/"
+}

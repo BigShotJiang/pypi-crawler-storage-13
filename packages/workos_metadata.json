@@ -1,0 +1,11 @@
+{
+  "name": "workos",
+  "version": "5.33.0",
+  "summary": "WorkOS Python Client",
+  "author": "WorkOS",
+  "license": "MIT",
+  "home_page": "https://github.com/workos-inc/workos-python",
+  "download_filename": "workos-5.33.0.tar.gz",
+  "download_time": "2025-11-21T05:45:28.628884",
+  "package_url": "https://pypi.org/project/workos/"
+}
