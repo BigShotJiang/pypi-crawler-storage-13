@@ -1,0 +1,11 @@
+{
+  "name": "finalflash",
+  "version": "0.3.7",
+  "summary": "A tool for uGMRT primary beam correction",
+  "author": "Arpan Pal",
+  "license": null,
+  "home_page": "https://github.com/arpan-52/Finalflash",
+  "download_filename": "finalflash-0.3.7.tar.gz",
+  "download_time": "2025-11-21T14:45:10.929886",
+  "package_url": "https://pypi.org/project/finalflash/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "marinholab-papers-tro2022-adaptivecontrol",
+  "version": "25.6.0.34",
+  "summary": "A Python implementation of an example of 'Adaptive Constrained Kinematic Control using Partial or Complete Task-Space Measurements'",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "marinholab_papers_tro2022_adaptivecontrol-25.6.0.34-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-11-21T14:45:17.743276",
+  "package_url": "https://pypi.org/project/marinholab-papers-tro2022-adaptivecontrol/"
+}

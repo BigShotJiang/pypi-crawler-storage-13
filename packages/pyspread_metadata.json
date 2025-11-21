@@ -1,0 +1,11 @@
+{
+  "name": "pyspread",
+  "version": "2.4.2",
+  "summary": "Pyspread is a non-traditional spreadsheet application that is based on and written in the programming language Python.",
+  "author": "Martin Manns",
+  "license": "GPL v3 :: GNU General Public License",
+  "home_page": "https://pyspread.gitlab.io",
+  "download_filename": "pyspread-2.4.2.tar.gz",
+  "download_time": "2025-11-21T14:45:03.548186",
+  "package_url": "https://pypi.org/project/pyspread/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ionoscloud-cdn",
-  "version": "1.0.0b1",
+  "version": "1.0.0b2",
   "summary": "IONOS Cloud - CDN Distribution API",
-  "author": "OpenAPI Generator community",
-  "license": null,
+  "author": "OpenAPI Generator Community",
+  "license": "NoLicense",
   "home_page": null,
-  "download_filename": "ionoscloud_cdn-1.0.0b1.tar.gz",
-  "download_time": "2025-11-21T13:47:33.159278",
+  "download_filename": "ionoscloud_cdn-1.0.0b2.tar.gz",
+  "download_time": "2025-11-21T14:44:56.585328",
   "package_url": "https://pypi.org/project/ionoscloud-cdn/"
 }

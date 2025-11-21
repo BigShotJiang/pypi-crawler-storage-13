@@ -1,11 +1,11 @@
 {
   "name": "langmiddle",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Middlewares for LangChain / LangGraph",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langmiddle-0.1.4.tar.gz",
-  "download_time": "2025-11-17T20:25:50.666362",
+  "download_filename": "langmiddle-0.1.5.tar.gz",
+  "download_time": "2025-11-21T14:44:58.726215",
   "package_url": "https://pypi.org/project/langmiddle/"
 }

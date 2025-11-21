@@ -1,11 +1,11 @@
 {
   "name": "codeblur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A powerful GUI tool for obfuscating and deobfuscating code strings with clipboard integration",
-  "author": "Your Name",
+  "author": "CodeBlur Team",
   "license": null,
-  "home_page": "https://github.com/yourusername/codeblur",
-  "download_filename": "codeblur-1.0.0.tar.gz",
-  "download_time": "2025-11-21T14:23:21.543802",
+  "home_page": "https://pypi.org/project/codeblur/",
+  "download_filename": "codeblur-1.0.1.tar.gz",
+  "download_time": "2025-11-21T14:45:24.075965",
   "package_url": "https://pypi.org/project/codeblur/"
 }

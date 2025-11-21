@@ -1,0 +1,11 @@
+{
+  "name": "gpb-models",
+  "version": "1.4.1",
+  "summary": "Pydantic datamodels for the Gene Panel Builder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpb_models-1.4.1.tar.gz",
+  "download_time": "2025-11-21T14:45:21.410497",
+  "package_url": "https://pypi.org/project/gpb-models/"
+}

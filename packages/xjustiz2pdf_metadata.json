@@ -1,0 +1,11 @@
+{
+  "name": "xjustiz2pdf",
+  "version": "0.1.0",
+  "summary": "Diese Desktopanwendung konvertiert XJustiz-Akten / E-Akten in eine Gesamt-PDF (PDF-Converter for electronic records)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xjustiz2pdf-0.1.0.tar.gz",
+  "download_time": "2025-11-21T14:44:51.361157",
+  "package_url": "https://pypi.org/project/xjustiz2pdf/"
+}

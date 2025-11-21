@@ -1,0 +1,11 @@
+{
+  "name": "siemens-plc",
+  "version": "1.6.0",
+  "summary": "西门子plc通讯",
+  "author": "LiuWei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "siemens_plc-1.6.0.tar.gz",
+  "download_time": "2025-11-21T14:44:53.448011",
+  "package_url": "https://pypi.org/project/siemens-plc/"
+}

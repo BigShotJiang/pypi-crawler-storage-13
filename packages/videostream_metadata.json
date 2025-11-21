@@ -1,11 +1,11 @@
 {
   "name": "videostream",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "Video utility library for embedded Linux with DMA buffer support",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "videostream-1.5.3.tar.gz",
-  "download_time": "2025-11-20T22:53:34.539742",
+  "download_filename": "videostream-1.5.4.tar.gz",
+  "download_time": "2025-11-21T14:44:55.501676",
   "package_url": "https://pypi.org/project/videostream/"
 }

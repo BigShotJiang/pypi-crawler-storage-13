@@ -1,0 +1,11 @@
+{
+  "name": "aiomisc",
+  "version": "17.9.9",
+  "summary": "aiomisc - miscellaneous utils for asyncio",
+  "author": "Dmitry Orlov",
+  "license": "MIT",
+  "home_page": "https://github.com/aiokitchen/aiomisc",
+  "download_filename": "aiomisc-17.9.9.tar.gz",
+  "download_time": "2025-11-21T14:44:54.477703",
+  "package_url": "https://pypi.org/project/aiomisc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ionoscloud-api-gateway",
-  "version": "1.0.0b1",
+  "version": "1.0.1",
   "summary": "IONOS Cloud - API Gateway",
-  "author": "OpenAPI Generator community",
-  "license": null,
+  "author": "OpenAPI Generator Community",
+  "license": "NoLicense",
   "home_page": null,
-  "download_filename": "ionoscloud_api_gateway-1.0.0b1.tar.gz",
-  "download_time": "2025-11-21T14:23:11.175741",
+  "download_filename": "ionoscloud_api_gateway-1.0.1.tar.gz",
+  "download_time": "2025-11-21T14:45:01.407713",
   "package_url": "https://pypi.org/project/ionoscloud-api-gateway/"
 }

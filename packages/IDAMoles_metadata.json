@@ -1,11 +1,11 @@
 {
   "name": "IDAMoles",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "IDA Moles is a reverse analysis interface for IDA Pro 9.1. It controls decompilation, debugging, and other operations via standardized calls, returning POST-formatted results. It supports custom MCP server development to enhance reverse analysis efficiency and flexibility.",
   "author": "lyshark",
   "license": "MIT Licence",
   "home_page": "http://moles.lyshark.com",
-  "download_filename": "idamoles-1.0.6.tar.gz",
-  "download_time": "2025-11-21T14:23:16.572586",
+  "download_filename": "idamoles-1.0.7.tar.gz",
+  "download_time": "2025-11-21T14:44:59.238037",
   "package_url": "https://pypi.org/project/IDAMoles/"
 }
