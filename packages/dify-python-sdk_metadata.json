@@ -1,0 +1,11 @@
+{
+  "name": "dify-python-sdk",
+  "version": "0.1.16",
+  "summary": "A package for interacting with the Dify Service-API (based on dify-client)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dify_python_sdk-0.1.16.tar.gz",
+  "download_time": "2025-11-21T04:27:37.072264",
+  "package_url": "https://pypi.org/project/dify-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neurodeckit",
+  "version": "0.2.0",
+  "summary": "Full chain toolkit for EEG signal decoding",
+  "author": "LC. Pan",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/PLC-TJU/NeuroDecKit",
+  "download_filename": "neurodeckit-0.2.0.tar.gz",
+  "download_time": "2025-11-21T04:27:22.882919",
+  "package_url": "https://pypi.org/project/neurodeckit/"
+}
