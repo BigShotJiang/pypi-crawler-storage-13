@@ -1,16 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T22:44:42.006341
-- **Total Packages**: 82
-- **Total Size**: 22.08 MB
+- **Download Time**: 2025-11-21T22:55:32.089755
+- **Total Packages**: 83
+- **Total Size**: 12.05 MB
 
 ## Packages List
+- secure-python-utils
+- AgentService
+- flixopt
+- snowflake-data-exchange-agent
+- pipetint
+- snowflake-data-validation
+- t-sql
+- glean-api-client
+- liger-kernel
+- ucdp
+- liger-kernel-nightly
+- biblemategui
+- metient
+- standardbots
+- ia-modules
+- abi-core-ai
+- agentshield-vigil
+- context-async-sqlalchemy
+- groundx
+- anyenv
+- teracrafts-huefy-sdk-python
+- moltres
 - datatalk-cli
 - amethyst-facet
 - ft-tokenize
 - chunklet-py
-- secure-python-utils
 - dictionaries-addons-framework
 - type-analyzer
 - xlb
@@ -64,27 +85,7 @@
 - llm-to-toon
 - llm-to-json
 - prompture
-- groundx
 - aiinbx
 - umepr
 - pingintel-api
 - mc-netease-sdk-nyrev
-- docex
-- array-api-extra
-- markdowndata
-- aponyx
-- firipy
-- PyOCN
-- aquiles-rag
-- adryserage-aetheris
-- circuitydatabase
-- regula-documentreader-webclient
-- figlinq
-- plot3d
-- qucircuit
-- nci-cidc-api-modules
-- umep
-- torch-geopooling
-- sec2md
-- qusimulator
-- bioblueprint

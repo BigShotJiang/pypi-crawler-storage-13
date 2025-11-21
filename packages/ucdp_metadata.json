@@ -1,11 +1,11 @@
 {
   "name": "ucdp",
-  "version": "0.36.0",
+  "version": "0.36.1",
   "summary": "Unified Chip Design Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ucdp-0.36.0.tar.gz",
-  "download_time": "2025-11-21T21:28:53.019842",
+  "download_filename": "ucdp-0.36.1.tar.gz",
+  "download_time": "2025-11-21T22:54:54.005090",
   "package_url": "https://pypi.org/project/ucdp/"
 }
