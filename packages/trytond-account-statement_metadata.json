@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account-statement",
+  "version": "7.6.1",
+  "summary": "Tryton module with account statements",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account_statement-7.6.1.tar.gz",
+  "download_time": "2025-11-21T07:56:19.212149",
+  "package_url": "https://pypi.org/project/trytond-account-statement/"
+}

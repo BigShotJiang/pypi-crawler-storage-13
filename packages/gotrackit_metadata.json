@@ -1,0 +1,11 @@
+{
+  "name": "gotrackit",
+  "version": "0.3.22",
+  "summary": "A Python Package for Map Matching Algorithm Based on Hidden Markov Model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gotrackit-0.3.22.tar.gz",
+  "download_time": "2025-11-21T07:56:06.073625",
+  "package_url": "https://pypi.org/project/gotrackit/"
+}

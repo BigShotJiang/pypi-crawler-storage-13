@@ -1,0 +1,11 @@
+{
+  "name": "terndata.flux",
+  "version": "1.0.6",
+  "summary": "TERN flux data access library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terndata_flux-1.0.6.tar.gz",
+  "download_time": "2025-11-21T07:56:01.890558",
+  "package_url": "https://pypi.org/project/terndata.flux/"
+}

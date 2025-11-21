@@ -1,0 +1,11 @@
+{
+  "name": "logtrek",
+  "version": "0.2.5",
+  "summary": "To generate a log tracking mechanism that can be customised.",
+  "author": "mose_tucker_0159",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logtrek-0.2.5.tar.gz",
+  "download_time": "2025-11-21T07:56:06.584203",
+  "package_url": "https://pypi.org/project/logtrek/"
+}

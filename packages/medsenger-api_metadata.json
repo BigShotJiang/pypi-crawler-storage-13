@@ -1,0 +1,11 @@
+{
+  "name": "medsenger-api",
+  "version": "0.1.95",
+  "summary": "Python SDK for Medsenger.AI",
+  "author": "Rostislav Borodin",
+  "license": "BSD 2-clause",
+  "home_page": "https://github.com/roctbb/medsenger_api",
+  "download_filename": "medsenger_api-0.1.95.tar.gz",
+  "download_time": "2025-11-21T07:56:16.585674",
+  "package_url": "https://pypi.org/project/medsenger-api/"
+}
