@@ -1,0 +1,11 @@
+{
+  "name": "blitzer-cli",
+  "version": "0.1.0",
+  "summary": "A CLI for language-learning vocabulary extraction",
+  "author": "Samiddhi",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "blitzer_cli-0.1.0.tar.gz",
+  "download_time": "2025-11-21T18:51:26.461103",
+  "package_url": "https://pypi.org/project/blitzer-cli/"
+}

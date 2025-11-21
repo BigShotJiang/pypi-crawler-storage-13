@@ -1,0 +1,11 @@
+{
+  "name": "libxr",
+  "version": "5.1.4",
+  "summary": "C++ code generator for LibXR-based embedded systems, supporting STM32 and modular robotics applications.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "libxr-5.1.4.tar.gz",
+  "download_time": "2025-11-21T18:51:25.376498",
+  "package_url": "https://pypi.org/project/libxr/"
+}

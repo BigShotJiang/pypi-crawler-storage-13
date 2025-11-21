@@ -1,11 +1,11 @@
 {
   "name": "nkapi",
-  "version": "25.11.18a0",
+  "version": "0.1.2",
   "summary": "A lightweight general purpose API framework. Designed to make getting started quick and easy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nkapi-25.11.18a0.tar.gz",
-  "download_time": "2025-11-19T15:24:14.104416",
+  "download_filename": "nkapi-0.1.2.tar.gz",
+  "download_time": "2025-11-21T18:51:45.319048",
   "package_url": "https://pypi.org/project/nkapi/"
 }

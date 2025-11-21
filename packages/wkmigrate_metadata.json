@@ -1,0 +1,11 @@
+{
+  "name": "wkmigrate",
+  "version": "0.0.2",
+  "summary": "wkmigrate is a Python library for converting orchestration definitions between various systems",
+  "author": "Greg Hansen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wkmigrate-0.0.2.tar.gz",
+  "download_time": "2025-11-21T18:51:40.189916",
+  "package_url": "https://pypi.org/project/wkmigrate/"
+}

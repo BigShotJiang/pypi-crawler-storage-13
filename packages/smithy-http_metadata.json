@@ -1,0 +1,11 @@
+{
+  "name": "smithy-http",
+  "version": "0.3.0",
+  "summary": "HTTP components for Smithy tooling.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "smithy_http-0.3.0.tar.gz",
+  "download_time": "2025-11-21T18:51:43.787081",
+  "package_url": "https://pypi.org/project/smithy-http/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "igdtools",
+  "version": "2.6",
+  "summary": "Tools for converting VCF to IGD files and processing them.",
+  "author": "Drew DeHaas",
+  "license": "MIT",
+  "home_page": "https://github.com/aprilweilab/picovcf",
+  "download_filename": "igdtools-2.6.tar.gz",
+  "download_time": "2025-11-21T18:51:25.889162",
+  "package_url": "https://pypi.org/project/igdtools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "newpool",
+  "version": "0.2.0",
+  "summary": "更简单的使用异步协程和线程池",
+  "author": "jiaosenvip",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newpool-0.2.0.tar.gz",
+  "download_time": "2025-11-21T18:51:29.368250",
+  "package_url": "https://pypi.org/project/newpool/"
+}

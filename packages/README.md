@@ -1,11 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T18:30:56.864905
-- **Total Packages**: 81
-- **Total Size**: 15.57 MB
+- **Download Time**: 2025-11-21T18:52:04.763061
+- **Total Packages**: 87
+- **Total Size**: 30.23 MB
 
 ## Packages List
+- pulumi-docker
+- scale-gp-beta
+- sigma-c-framework
+- vox-real
+- cml-parser
+- classno
+- DIQA
+- shareqr
+- netsome
+- ArfLab
+- maleo-metadata
+- cardonnay
+- luts
+- git-ipfs-remote-bridge
+- groundx
+- libxr
+- igdtools
+- blitzer-cli
+- NEMO-CE
+- ankitpytools
+- mpneuralnetwork
+- aiotw
+- newpool
+- siga-mcp
+- scsim
+- link2abc
+- maleo-soma
+- tabroom
+- pvblocks
+- hillclimber
+- fileglancer
+- locoformer
+- pyfebio
+- pg-sui
+- sql-testing-tools
+- vijil-dome
+- commonlog
+- glean-api-client
+- datautilss
+- megatron-core
+- megatron-fsdp
+- wkmigrate
+- maleo-middlewares
+- kaggle
+- iam-policy-validator
+- pulumi-datadog
+- much-segmenter
+- smithy-json
+- smithy-http
+- smithy-core
+- smithy-aws-event-stream
+- nkapi
+- smithy-aws-core
+- maleo-google
+- btweak
+- maleo-client
+- rcsb-embedding-model
+- usb-inspector
+- dbt-autofix
+- uiprotect
+- python-package-folder
 - django-admin-thumbnails
 - docuchango
 - django-simple-dms
@@ -13,7 +74,6 @@
 - nemoasr2pytorch
 - R0216-cli-todo-app
 - phypanda
-- btweak
 - datatools-utils
 - microsoft-agents-m365copilot-beta
 - muc
@@ -33,57 +93,3 @@
 - cactis
 - maleo-database
 - py5canvas
-- RiboParser
-- trakd
-- django-discordo
-- allprs
-- plaknit
-- arts
-- pulumi-datadog
-- massgen
-- plasmid-bin-bench
-- pydrime
-- stewbeet
-- maleo-schemas
-- abi-core-ai
-- brotlicffi
-- GaPFlow
-- rtty-soda
-- cmr-metadata-validator
-- talkky-bot
-- commonlog
-- plain.models
-- pi-zero-pytorch
-- shareqr
-- anodb
-- slurmbench
-- jax-grid-search
-- sunshine-res
-- tidysdmx
-- hammer-patterns
-- bioinspired
-- birdnet
-- openinverter-can-tool
-- miwear
-- fgo-api-types
-- condorgame
-- agilab
-- agi-core
-- agi-cluster
-- agi-node
-- agi-env
-- maleo-utils
-- mordu
-- sapx
-- iris-devtester
-- aiosql
-- gradio-client
-- yabi-bython
-- gravi-vision
-- hel-elmuro
-- sekai-deck-recommend-cpp
-- lunalib
-- overflow-hydro
-- rio-cogeo
-- raphson-music-headless
-- opik-optimizer
