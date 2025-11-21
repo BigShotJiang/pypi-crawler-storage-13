@@ -1,11 +1,11 @@
 {
   "name": "defectdojo-cli2",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "CLI Wrapper for DefectDojo using APIv2",
   "author": "Mikke Schirén",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "defectdojo_cli2-0.1.17.tar.gz",
-  "download_time": "2025-11-21T23:22:06.072971",
+  "download_filename": "defectdojo_cli2-0.1.18.tar.gz",
+  "download_time": "2025-11-21T23:57:55.865033",
   "package_url": "https://pypi.org/project/defectdojo-cli2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vlcsync",
+  "version": "0.3.3",
+  "summary": "Utility for synchronize multiple instances of VLC. Supports seek, play and pause. ",
+  "author": "mrkeuz",
+  "license": "MIT",
+  "home_page": "https://github.com/mrkeuz/vlcsync/",
+  "download_filename": "vlcsync-0.3.3.tar.gz",
+  "download_time": "2025-11-21T23:58:09.318788",
+  "package_url": "https://pypi.org/project/vlcsync/"
+}

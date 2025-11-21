@@ -1,0 +1,11 @@
+{
+  "name": "rispec",
+  "version": "0.1.0",
+  "summary": "AI-assisted change-management tool for senior engineers working on large, single-repo legacy codebases",
+  "author": "Aleksander",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/techdebtgpt/RiSpec",
+  "download_filename": "rispec-0.1.0.tar.gz",
+  "download_time": "2025-11-21T23:57:56.890042",
+  "package_url": "https://pypi.org/project/rispec/"
+}

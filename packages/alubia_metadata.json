@@ -1,11 +1,11 @@
 {
   "name": "alubia",
-  "version": "2025.11.6",
+  "version": "2025.11.8",
   "summary": "Bits and bobs for beancount benefit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alubia-2025.11.6.tar.gz",
-  "download_time": "2025-11-21T23:42:04.479399",
+  "download_filename": "alubia-2025.11.8.tar.gz",
+  "download_time": "2025-11-21T23:57:54.841503",
   "package_url": "https://pypi.org/project/alubia/"
 }

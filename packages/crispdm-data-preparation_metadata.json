@@ -1,0 +1,11 @@
+{
+  "name": "crispdm-data-preparation",
+  "version": "0.1.0",
+  "summary": "CRISP-DM data preparation utilities for the ventilator pressure project.",
+  "author": "Personal ASA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crispdm_data_preparation-0.1.0.tar.gz",
+  "download_time": "2025-11-21T23:57:59.459330",
+  "package_url": "https://pypi.org/project/crispdm-data-preparation/"
+}
