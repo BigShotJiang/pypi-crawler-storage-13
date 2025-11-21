@@ -1,0 +1,11 @@
+{
+  "name": "bezalel",
+  "version": "0.0.22",
+  "summary": "A library for ingesting data provided by paginated HTTP APIs",
+  "author": "bezalelsoft",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bezalel-0.0.22.tar.gz",
+  "download_time": "2025-11-21T10:58:10.339199",
+  "package_url": "https://pypi.org/project/bezalel/"
+}

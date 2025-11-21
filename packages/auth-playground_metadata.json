@@ -1,0 +1,11 @@
+{
+  "name": "auth-playground",
+  "version": "0.1.4",
+  "summary": "Demonstration OpenID Connect Client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auth_playground-0.1.4.tar.gz",
+  "download_time": "2025-11-21T10:58:11.360840",
+  "package_url": "https://pypi.org/project/auth-playground/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ttx-diff",
+  "version": "0.2.1",
+  "summary": "A tool for comparing font compiler outputs (fontc vs fontmake)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttx_diff-0.2.1.tar.gz",
+  "download_time": "2025-11-21T10:58:05.659665",
+  "package_url": "https://pypi.org/project/ttx-diff/"
+}

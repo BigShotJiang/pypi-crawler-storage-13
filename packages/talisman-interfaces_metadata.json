@@ -1,0 +1,11 @@
+{
+  "name": "talisman-interfaces",
+  "version": "0.11.7",
+  "summary": "Talisman Processor base interfaces",
+  "author": "ISPRAS Talisman NLP team",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "talisman_interfaces-0.11.7.tar.gz",
+  "download_time": "2025-11-21T10:57:55.431423",
+  "package_url": "https://pypi.org/project/talisman-interfaces/"
+}
