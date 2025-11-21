@@ -1,0 +1,11 @@
+{
+  "name": "jennifer-python",
+  "version": "5.6.5.0",
+  "summary": "JENNIFER, JenniferSoft APM, python agent.",
+  "author": "JENNIFER",
+  "license": "Proprietary",
+  "home_page": "https://jennifersoft.com",
+  "download_filename": "jennifer_python-5.6.5.0-py3-none-any.whl",
+  "download_time": "2025-11-21T06:59:56.156662",
+  "package_url": "https://pypi.org/project/jennifer-python/"
+}

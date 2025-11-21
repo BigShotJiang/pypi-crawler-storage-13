@@ -1,0 +1,11 @@
+{
+  "name": "ascend-nputop",
+  "version": "0.0.5",
+  "summary": "An interactive Ascend-NPU process viewer.",
+  "author": "Lianzhong You",
+  "license": "Apache License, Version 2.0 (Apache-2.0) & GNU General Public License, Version 3 (GPL-3.0)",
+  "home_page": null,
+  "download_filename": "ascend_nputop-0.0.5.tar.gz",
+  "download_time": "2025-11-21T07:00:22.335348",
+  "package_url": "https://pypi.org/project/ascend-nputop/"
+}

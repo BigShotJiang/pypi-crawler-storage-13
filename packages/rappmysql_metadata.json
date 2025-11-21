@@ -1,0 +1,11 @@
+{
+  "name": "rappmysql",
+  "version": "2025.11.20",
+  "summary": "aplicatia mea personala",
+  "author": "Radu M.",
+  "license": null,
+  "home_page": "https://github.com/RaduMirc/rappmysql.git",
+  "download_filename": "rappmysql-2025.11.20.tar.gz",
+  "download_time": "2025-11-21T06:59:51.420229",
+  "package_url": "https://pypi.org/project/rappmysql/"
+}

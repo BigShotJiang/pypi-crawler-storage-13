@@ -1,11 +1,11 @@
 {
   "name": "nestai",
-  "version": "0.2.0",
-  "summary": "NestAI – multi-agent secure prompt hardening CLI",
-  "author": "Imani Gad",
+  "version": "1.0.0",
+  "summary": "NestAI – Secure Multi-Agent Code Security & Generation Pipeline",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nestai-0.2.0.tar.gz",
-  "download_time": "2025-11-19T19:52:16.295822",
+  "download_filename": "nestai-1.0.0.tar.gz",
+  "download_time": "2025-11-21T07:00:15.510965",
   "package_url": "https://pypi.org/project/nestai/"
 }

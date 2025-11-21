@@ -1,11 +1,11 @@
 {
   "name": "playwright-stealth-plugin",
-  "version": "1.4.5",
+  "version": "1.5.0",
   "summary": "Playwright Plugin for Anti-Bot Stealth",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "playwright_stealth_plugin-1.4.5.tar.gz",
-  "download_time": "2025-11-20T07:42:12.744291",
+  "download_filename": "playwright_stealth_plugin-1.5.0.tar.gz",
+  "download_time": "2025-11-21T06:59:48.774579",
   "package_url": "https://pypi.org/project/playwright-stealth-plugin/"
 }

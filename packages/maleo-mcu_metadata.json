@@ -1,11 +1,11 @@
 {
   "name": "maleo-mcu",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "summary": "MaleoMCU service package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_mcu-0.0.30.tar.gz",
-  "download_time": "2025-11-21T06:36:04.529139",
+  "download_filename": "maleo_mcu-0.0.31.tar.gz",
+  "download_time": "2025-11-21T07:00:03.973132",
   "package_url": "https://pypi.org/project/maleo-mcu/"
 }
