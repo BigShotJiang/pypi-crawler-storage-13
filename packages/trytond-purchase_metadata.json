@@ -1,0 +1,11 @@
+{
+  "name": "trytond-purchase",
+  "version": "7.6.2",
+  "summary": "Tryton module for purchase",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_purchase-7.6.2.tar.gz",
+  "download_time": "2025-11-21T07:43:46.924242",
+  "package_url": "https://pypi.org/project/trytond-purchase/"
+}

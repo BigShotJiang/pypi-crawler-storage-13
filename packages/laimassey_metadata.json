@@ -1,0 +1,11 @@
+{
+  "name": "laimassey",
+  "version": "0.1.0",
+  "summary": "Educational Lai-Massey block cipher library with multiple algorithms and block modes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "laimassey-0.1.0.tar.gz",
+  "download_time": "2025-11-21T07:43:48.467289",
+  "package_url": "https://pypi.org/project/laimassey/"
+}

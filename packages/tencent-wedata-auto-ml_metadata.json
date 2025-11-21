@@ -1,11 +1,11 @@
 {
   "name": "tencent-wedata-auto-ml",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "AutoML SDK for Tencent Cloud WeData using FLAML with MLflow integration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tencent_wedata_auto_ml-0.2.6.tar.gz",
-  "download_time": "2025-11-20T03:51:35.136526",
+  "download_filename": "tencent_wedata_auto_ml-0.2.7.tar.gz",
+  "download_time": "2025-11-21T07:43:39.181059",
   "package_url": "https://pypi.org/project/tencent-wedata-auto-ml/"
 }

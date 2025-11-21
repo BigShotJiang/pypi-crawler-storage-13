@@ -1,0 +1,11 @@
+{
+  "name": "localstack-obfuscator",
+  "version": "1.0.4",
+  "summary": "Obfuscate proprietary LocalStack code bases",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "localstack_obfuscator-1.0.4.tar.gz",
+  "download_time": "2025-11-21T07:43:36.063310",
+  "package_url": "https://pypi.org/project/localstack-obfuscator/"
+}

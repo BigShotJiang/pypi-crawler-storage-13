@@ -1,13 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T07:29:55.108092
-- **Total Packages**: 80
-- **Total Size**: 56.09 MB
+- **Download Time**: 2025-11-21T07:44:15.023554
+- **Total Packages**: 78
+- **Total Size**: 21.4 MB
 
 ## Packages List
-- user-scanner
+- lcp-deep-research-mcp
+- trytond-account-stock-eu
+- wavetrainer
+- htQuant
+- localstack-obfuscator
+- lino-xl
+- aio-service-caller
+- trytond-incoterm
+- scrapy-item-ingest
+- pitchmeld
+- tencent-wedata-auto-ml
+- utest-auto-core
+- spoon-toolkits
+- iflow-mcp_dingding_mcp_v2
+- pulumi-wavefront
+- parallel-llm
+- maxpylang
+- lazylinop
+- mathcode
+- simple-math-zhou-example
+- compass_api_sdk
+- pandoc-embedz
+- pulumi-vsphere
+- kttc
+- pulumi-tls
+- trytond-purchase
+- ombra
+- sigmaflow
+- laimassey
+- iflow-mcp_superset-mcp
+- mobidec-package-test
+- flashorm
+- yt-dlp-termux-gui
+- iflow-mcp_excel-reader-server
+- entari-plugin-hyw
+- aptapy
+- pulumi-venafi
+- bohr-agent-sdk
+- tryton
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- zope.pagetemplate
 - terminal-markdown
+- retell-sdk
+- tempo-tracker-cli
+- user-scanner
 - iflow-mcp_eunomia-mcp-server
 - PGram
 - aa-payout
@@ -17,7 +61,6 @@
 - pulumi-splunk
 - increase
 - veriskgo
-- flashorm
 - emberquant
 - easymaker
 - overflow-hydro
@@ -41,48 +84,3 @@
 - gate-api
 - pulumi-slack
 - iqm-client-wcss
-- scbiot
-- ldc-lender-datalayer
-- DLMS-SPODES-communications
-- logzai-otlp
-- pulumi-scm
-- mathcode
-- tritonparse
-- pulumi-rancher2
-- pyramidplot
-- streamlit-nightly
-- maleo-mcu
-- mcli-framework
-- pulumi-pagerduty
-- pulumi-signalfx
-- noetl
-- aio-service-caller
-- unname
-- bioplotkit
-- pulumi-okta
-- prism-models
-- pulumi-rabbitmq
-- pulumi-postgresql
-- playwright-stealth-plugin
-- dyff-schema
-- net-vis
-- fovus
-- sayou-refinery
-- kttc
-- libcalab
-- SoL
-- memlayer
-- rxiv-maker
-- pulumi-opsgenie
-- quite6
-- copra-theorem-prover
-- pulumi-openstack
-- sayou-assembler
-- gllm-core-binary
-- parallel-llm
-- pdf-craft
-- openmetadata-managed-apis
-- pygeneral
-- aipartnerupflow
-- utg-base
-- rappmysql

@@ -1,11 +1,11 @@
 {
   "name": "sigmaflow",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "SigmaFlow is a Python package designed to optimize the performance of task-flow related to LLMs or MLLMs",
   "author": "maokangkun",
   "license": null,
   "home_page": "https://github.com/maokangkun/SigmaFlow",
-  "download_filename": "sigmaflow-0.0.31.tar.gz",
-  "download_time": "2025-11-21T06:36:03.949165",
+  "download_filename": "sigmaflow-0.0.32.tar.gz",
+  "download_time": "2025-11-21T07:43:47.954989",
   "package_url": "https://pypi.org/project/sigmaflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zope.pagetemplate",
+  "version": "6.1",
+  "summary": "Zope Page Templates",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zope.pagetemplate",
+  "download_filename": "zope_pagetemplate-6.1.tar.gz",
+  "download_time": "2025-11-21T07:43:55.143676",
+  "package_url": "https://pypi.org/project/zope.pagetemplate/"
+}
