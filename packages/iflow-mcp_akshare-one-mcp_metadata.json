@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_akshare-one-mcp",
+  "version": "0.3.7",
+  "summary": "MCP server that provides access to Chinese stock market data using akshare-one",
+  "author": "zwldarren",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_akshare_one_mcp-0.3.7.tar.gz",
+  "download_time": "2025-11-21T08:58:46.514303",
+  "package_url": "https://pypi.org/project/iflow-mcp_akshare-one-mcp/"
+}

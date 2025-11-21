@@ -1,0 +1,11 @@
+{
+  "name": "elastic-apm",
+  "version": "6.24.1",
+  "summary": "The official Python module for Elastic APM",
+  "author": "Elastic, Inc",
+  "license": "BSD",
+  "home_page": "https://github.com/elastic/apm-agent-python",
+  "download_filename": "elastic_apm-6.24.1.tar.gz",
+  "download_time": "2025-11-21T08:58:28.790521",
+  "package_url": "https://pypi.org/project/elastic-apm/"
+}

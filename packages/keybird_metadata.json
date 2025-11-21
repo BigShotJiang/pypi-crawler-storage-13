@@ -1,0 +1,11 @@
+{
+  "name": "keybird",
+  "version": "1.0.6",
+  "summary": "Turn a Raspberry Pi into a USB HID keyboard/mouse bridge with web-based control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keybird-1.0.6.tar.gz",
+  "download_time": "2025-11-21T08:58:21.662682",
+  "package_url": "https://pypi.org/project/keybird/"
+}

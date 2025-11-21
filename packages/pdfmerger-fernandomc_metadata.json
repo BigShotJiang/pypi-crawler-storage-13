@@ -1,0 +1,11 @@
+{
+  "name": "pdfmerger-fernandomc",
+  "version": "1.0.0",
+  "summary": "Aplicación GUI para fusionar archivos PDF",
+  "author": "Fernando Martinez Castillo",
+  "license": null,
+  "home_page": "https://github.com/tuusuario/pdfmerger",
+  "download_filename": "pdfmerger_fernandomc-1.0.0.tar.gz",
+  "download_time": "2025-11-21T08:58:54.399181",
+  "package_url": "https://pypi.org/project/pdfmerger-fernandomc/"
+}
