@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T04:28:09.868814
-- **Total Packages**: 91
-- **Total Size**: 41.15 MB
+- **Download Time**: 2025-11-21T04:47:49.598380
+- **Total Packages**: 84
+- **Total Size**: 18.45 MB
 
 ## Packages List
+- speterlin-stocks
+- aiagent-2025
+- wrap-glmnet
+- speedy-utils
+- treesak
+- cubik
+- pawnlib
+- smoosense
+- virtuals-acp
+- excel-convertor
+- ncuhep
+- snmp
+- hsds-validator
+- kbkit
+- vizproo
+- django-click-send-sms
+- normaldistrib
+- scikit-robot
+- deepfake-sdk
+- langchain-compensation
+- krista-infinispan
+- datashard
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- finter
+- odoo-addon-hr-timesheet-sheet
+- hbat
+- emberquant
+- pyEdge-package-name-reservation-1
+- Radar-Range-Equation
+- Tawala
 - tccli-intl-en
 - pylxpweb
 - eo-processor
@@ -13,7 +44,6 @@
 - neurodeckit
 - keras-nlp-nightly
 - keras-hub-nightly
-- django-click-send-sms
 - pytest-api-framework-alpha
 - xlwings-mcp-server
 - maleo-mcu
@@ -29,12 +59,10 @@
 - mercuto-client
 - snowflake-connector-python-nightly
 - rediacc
-- kbkit
 - mcp-mesh
 - vscode-multi
 - SURE-tools
 - gaussian-splatting-mcmc
-- speedy-utils
 - odoo-addon-base-user-role
 - dify-python-sdk
 - cdktf-cdktf-provider-gitlab
@@ -62,38 +90,3 @@
 - fastapi-redis-utils
 - pulumi-vault
 - odoo-addon-sale-blanket-order
-- odoo-addon-rma-repair
-- nexusql
-- iflow-mcp_mcp-server-milvus
-- pgql
-- smartpi
-- odoo-addon-report-qweb-field-option
-- reflex-clerk-api
-- cabinet
-- named-arrays
-- publish-test-nekevss
-- langchain-compensation
-- odoo-addon-purchase-order-owner
-- odoo-addon-purchase-tier-validation
-- odoo-addon-purchase-cancel-reason
-- hsds-validator
-- odoo-addons-oca-purchase-workflow
-- tesser
-- odoo-addon-purchase-force-invoiced
-- nextrec
-- odoo-addon-purchase-invoice-status-line
-- speterlin-stocks
-- pulumi-fastly
-- pyagentic-core
-- ign-lidar-hd
-- matrice-inference
-- pathsdata
-- excel-mcp-server-bachstudio
-- hbat
-- pulumi-confluentcloud
-- fabric-data-agent-sdk
-- odoo-addon-project-task-stock
-- dragon-ml-toolbox
-- veadk-python
-- aa-top
-- bear-shelf

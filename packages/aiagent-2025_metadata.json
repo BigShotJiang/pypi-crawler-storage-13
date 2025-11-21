@@ -1,0 +1,11 @@
+{
+  "name": "aiagent-2025",
+  "version": "0.1.4",
+  "summary": "AI-powered CLI agent for codebase analysis and documentation generation using Databricks AI models",
+  "author": "Hossam Tabana",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiagent_2025-0.1.4-py3-none-any.whl",
+  "download_time": "2025-11-21T04:47:04.553945",
+  "package_url": "https://pypi.org/project/aiagent-2025/"
+}

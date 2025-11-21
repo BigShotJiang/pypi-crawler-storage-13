@@ -1,11 +1,11 @@
 {
   "name": "hsds-validator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Verifying provided files comply with HSDS specification.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hsds_validator-0.1.1.tar.gz",
-  "download_time": "2025-11-21T04:27:58.790955",
+  "download_filename": "hsds_validator-0.1.2.tar.gz",
+  "download_time": "2025-11-21T04:47:10.749491",
   "package_url": "https://pypi.org/project/hsds-validator/"
 }
