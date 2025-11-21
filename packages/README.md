@@ -1,18 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T04:47:49.598380
-- **Total Packages**: 84
-- **Total Size**: 18.45 MB
+- **Download Time**: 2025-11-21T05:24:20.170401
+- **Total Packages**: 88
+- **Total Size**: 1.07 MB
 
 ## Packages List
-- speterlin-stocks
-- aiagent-2025
-- wrap-glmnet
-- speedy-utils
 - treesak
-- cubik
-- pawnlib
 - smoosense
 - virtuals-acp
 - excel-convertor
@@ -63,6 +57,7 @@
 - vscode-multi
 - SURE-tools
 - gaussian-splatting-mcmc
+- speedy-utils
 - odoo-addon-base-user-role
 - dify-python-sdk
 - cdktf-cdktf-provider-gitlab
@@ -90,3 +85,12 @@
 - fastapi-redis-utils
 - pulumi-vault
 - odoo-addon-sale-blanket-order
+- odoo-addon-rma-repair
+- nexusql
+- iflow-mcp_mcp-server-milvus
+- pgql
+- smartpi
+- odoo-addon-report-qweb-field-option
+- reflex-clerk-api
+- cabinet
+- named-arrays

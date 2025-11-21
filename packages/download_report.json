@@ -1,15 +1,9 @@
 {
-  "download_time": "2025-11-21T04:47:49.598380",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 18.45,
+  "download_time": "2025-11-21T05:24:20.170401",
+  "total_packages_downloaded": 88,
+  "total_size_mb": 1.07,
   "packages": [
-    "speterlin-stocks",
-    "aiagent-2025",
-    "wrap-glmnet",
-    "speedy-utils",
     "treesak",
-    "cubik",
-    "pawnlib",
     "smoosense",
     "virtuals-acp",
     "excel-convertor",
@@ -60,6 +54,7 @@
     "vscode-multi",
     "SURE-tools",
     "gaussian-splatting-mcmc",
+    "speedy-utils",
     "odoo-addon-base-user-role",
     "dify-python-sdk",
     "cdktf-cdktf-provider-gitlab",
@@ -86,6 +81,15 @@
     "chromedriver-binary",
     "fastapi-redis-utils",
     "pulumi-vault",
-    "odoo-addon-sale-blanket-order"
+    "odoo-addon-sale-blanket-order",
+    "odoo-addon-rma-repair",
+    "nexusql",
+    "iflow-mcp_mcp-server-milvus",
+    "pgql",
+    "smartpi",
+    "odoo-addon-report-qweb-field-option",
+    "reflex-clerk-api",
+    "cabinet",
+    "named-arrays"
   ]
 }
