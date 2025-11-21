@@ -1,0 +1,11 @@
+{
+  "name": "abm",
+  "version": "2.2.1",
+  "summary": "A Python client for the Applied BioMath platform",
+  "author": "ABM Support",
+  "license": "Proprietary",
+  "home_page": "https://github.com/certara/certara-iq-python-client",
+  "download_filename": "abm-2.2.1.tar.gz",
+  "download_time": "2025-11-21T20:55:45.802241",
+  "package_url": "https://pypi.org/project/abm/"
+}
