@@ -1,0 +1,11 @@
+{
+  "name": "safeinterp",
+  "version": "0.1.0",
+  "summary": "Safe & intelligent 1D interpolation and extrapolation engine for Python.",
+  "author": "mrbinxu2025-dotcom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safeinterp-0.1.0.tar.gz",
+  "download_time": "2025-11-21T11:40:13.189481",
+  "package_url": "https://pypi.org/project/safeinterp/"
+}

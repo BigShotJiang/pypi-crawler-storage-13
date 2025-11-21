@@ -1,11 +1,11 @@
 {
   "name": "images2pdf-slides",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Convert images in a folder to PDF slides with automatic resolution analysis",
   "author": "Maheshkumar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "images2pdf_slides-0.1.0.tar.gz",
-  "download_time": "2025-11-21T10:46:15.469340",
+  "download_filename": "images2pdf_slides-0.2.0.tar.gz",
+  "download_time": "2025-11-21T11:40:18.341872",
   "package_url": "https://pypi.org/project/images2pdf-slides/"
 }

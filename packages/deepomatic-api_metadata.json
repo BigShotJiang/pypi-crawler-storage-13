@@ -1,0 +1,11 @@
+{
+  "name": "deepomatic-api",
+  "version": "1.0.0",
+  "summary": "Deepomatic API client",
+  "author": "deepomatic",
+  "license": "MIT License",
+  "home_page": "https://github.com/deepomatic/deepomatic-client-python",
+  "download_filename": "deepomatic_api-1.0.0-py2.py3-none-any.whl",
+  "download_time": "2025-11-21T11:40:15.762654",
+  "package_url": "https://pypi.org/project/deepomatic-api/"
+}

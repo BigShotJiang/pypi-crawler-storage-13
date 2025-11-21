@@ -1,11 +1,11 @@
 {
   "name": "logger-36",
-  "version": "2025.32",
+  "version": "2025.33",
   "summary": "Simple logger with a catalog of handlers",
   "author": "Eric Debreuve",
   "license": "CeCILL-2.1",
   "home_page": "https://src.koda.cnrs.fr/eric.debreuve/logger-36/",
-  "download_filename": "logger_36-2025.32.tar.gz",
-  "download_time": "2025-11-19T15:57:01.990217",
+  "download_filename": "logger_36-2025.33.tar.gz",
+  "download_time": "2025-11-21T11:40:41.141247",
   "package_url": "https://pypi.org/project/logger-36/"
 }

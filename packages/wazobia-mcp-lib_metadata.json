@@ -1,0 +1,11 @@
+{
+  "name": "wazobia-mcp-lib",
+  "version": "1.0.2",
+  "summary": "A library for implementing Model Context Protocol (MCP) servers in Python services with project authentication",
+  "author": "Wazobia MCP Team",
+  "license": null,
+  "home_page": "https://github.com/wazobia/mcp-server",
+  "download_filename": "wazobia_mcp_lib-1.0.2.tar.gz",
+  "download_time": "2025-11-21T11:40:31.872492",
+  "package_url": "https://pypi.org/project/wazobia-mcp-lib/"
+}

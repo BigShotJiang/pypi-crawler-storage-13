@@ -1,0 +1,11 @@
+{
+  "name": "py-marstek",
+  "version": "0.2.0",
+  "summary": "Asynchronous UDP client for Marstek energy storage systems",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "py_marstek-0.2.0.tar.gz",
+  "download_time": "2025-11-21T11:40:39.601273",
+  "package_url": "https://pypi.org/project/py-marstek/"
+}

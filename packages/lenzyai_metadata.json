@@ -1,0 +1,11 @@
+{
+  "name": "lenzyai",
+  "version": "0.0.1",
+  "summary": "Python SDK for LenzyAI analytics platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lenzyai-0.0.1.tar.gz",
+  "download_time": "2025-11-21T11:40:08.553858",
+  "package_url": "https://pypi.org/project/lenzyai/"
+}

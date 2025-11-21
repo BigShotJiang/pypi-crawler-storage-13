@@ -1,0 +1,11 @@
+{
+  "name": "PySwitchbot",
+  "version": "0.74.0",
+  "summary": "A library to communicate with Switchbot",
+  "author": "Daniel Hjelseth Hoyer",
+  "license": "MIT",
+  "home_page": "https://github.com/sblibs/pySwitchbot/",
+  "download_filename": "pyswitchbot-0.74.0.tar.gz",
+  "download_time": "2025-11-21T11:39:58.802646",
+  "package_url": "https://pypi.org/project/PySwitchbot/"
+}

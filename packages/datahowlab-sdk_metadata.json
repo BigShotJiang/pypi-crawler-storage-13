@@ -1,0 +1,11 @@
+{
+  "name": "datahowlab-sdk",
+  "version": "0.3.3",
+  "summary": "The DataHowLab SDK for Python",
+  "author": "DataHow",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datahowlab_sdk-0.3.3.tar.gz",
+  "download_time": "2025-11-21T11:40:36.507495",
+  "package_url": "https://pypi.org/project/datahowlab-sdk/"
+}

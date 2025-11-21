@@ -1,0 +1,11 @@
+{
+  "name": "prefect-slurm",
+  "version": "0.1.1",
+  "summary": "Prefect worker for running flows on a Slurm HPC cluster",
+  "author": "Aleksandar Rajkovic",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "prefect_slurm-0.1.1.tar.gz",
+  "download_time": "2025-11-21T11:40:43.700623",
+  "package_url": "https://pypi.org/project/prefect-slurm/"
+}

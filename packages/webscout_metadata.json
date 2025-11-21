@@ -1,11 +1,11 @@
 {
   "name": "webscout",
-  "version": "2025.11.21",
+  "version": "2025.11.21.1",
   "summary": "Search for anything using Google, DuckDuckGo, phind.com, Contains AI models, can transcribe yt videos, temporary email and phone number generation, has TTS support, webai (terminal gpt and open interpreter) and offline LLMs and more",
   "author": null,
   "license": "HelpingAI",
   "home_page": null,
-  "download_filename": "webscout-2025.11.21.tar.gz",
-  "download_time": "2025-11-21T10:46:31.406026",
+  "download_filename": "webscout-2025.11.21.1.tar.gz",
+  "download_time": "2025-11-21T11:40:12.159271",
   "package_url": "https://pypi.org/project/webscout/"
 }

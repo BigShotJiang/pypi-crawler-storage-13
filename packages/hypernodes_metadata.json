@@ -1,11 +1,11 @@
 {
   "name": "hypernodes",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "A hierarchical, modular pipeline system for ML/AI workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hypernodes-0.4.4.tar.gz",
-  "download_time": "2025-11-20T19:23:09.091158",
+  "download_filename": "hypernodes-0.4.5.tar.gz",
+  "download_time": "2025-11-21T11:40:24.684112",
   "package_url": "https://pypi.org/project/hypernodes/"
 }
