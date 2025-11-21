@@ -1,0 +1,11 @@
+{
+  "name": "hairgap",
+  "version": "1.2.3",
+  "summary": "Basic protocol to send files using the hairgap binary ( github.com/cea-sec/hairgap ).",
+  "author": "Matthieu Gallet",
+  "license": "CECILL-B",
+  "home_page": "https://github.com/d9pouces/hairgap",
+  "download_filename": "hairgap-1.2.3.tar.gz",
+  "download_time": "2025-11-21T19:51:26.320922",
+  "package_url": "https://pypi.org/project/hairgap/"
+}

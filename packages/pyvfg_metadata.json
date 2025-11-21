@@ -1,11 +1,11 @@
 {
   "name": "pyvfg",
-  "version": "8.2.3",
+  "version": "8.2.4",
   "summary": null,
   "author": "VERSES, Jasmine Moore, Alex Kiefer, Alessandro Muzzi",
   "license": null,
   "home_page": null,
-  "download_filename": "pyvfg-8.2.3.tar.gz",
-  "download_time": "2025-11-21T19:20:03.921661",
+  "download_filename": "pyvfg-8.2.4.tar.gz",
+  "download_time": "2025-11-21T19:51:40.521510",
   "package_url": "https://pypi.org/project/pyvfg/"
 }

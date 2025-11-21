@@ -1,11 +1,11 @@
 {
   "name": "btweak",
-  "version": "0.2.34",
+  "version": "0.2.35",
   "summary": "Berserk Arch Tweak Tool",
   "author": "Gaurav Raj",
   "license": null,
   "home_page": null,
-  "download_filename": "btweak-0.2.34.tar.gz",
-  "download_time": "2025-11-21T18:51:46.868732",
+  "download_filename": "btweak-0.2.35.tar.gz",
+  "download_time": "2025-11-21T19:52:03.235750",
   "package_url": "https://pypi.org/project/btweak/"
 }

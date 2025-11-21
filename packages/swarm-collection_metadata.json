@@ -1,11 +1,11 @@
 {
   "name": "swarm-collection",
-  "version": "1.0.0b2",
+  "version": "1.0.0b3",
   "summary": "Unified SDK collection for trading Real World Assets across multiple platforms",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "swarm_collection-1.0.0b2.tar.gz",
-  "download_time": "2025-11-21T11:40:01.880352",
+  "download_filename": "swarm_collection-1.0.0b3.tar.gz",
+  "download_time": "2025-11-21T19:51:49.756252",
   "package_url": "https://pypi.org/project/swarm-collection/"
 }

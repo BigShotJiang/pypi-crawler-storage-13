@@ -1,11 +1,11 @@
 {
   "name": "usb-inspector",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A cross-platform tool to monitor and inspect USB devices connected to the host system.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "usb_inspector-0.2.0.tar.gz",
-  "download_time": "2025-11-21T19:20:01.746619",
+  "download_filename": "usb_inspector-0.2.1.tar.gz",
+  "download_time": "2025-11-21T19:51:37.397213",
   "package_url": "https://pypi.org/project/usb-inspector/"
 }

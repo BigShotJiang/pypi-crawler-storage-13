@@ -1,11 +1,11 @@
 {
   "name": "diffweave-ai",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Assists with git workflows using LLMs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diffweave_ai-1.2.1.tar.gz",
-  "download_time": "2025-11-21T17:43:00.243605",
+  "download_filename": "diffweave_ai-1.2.2.tar.gz",
+  "download_time": "2025-11-21T19:51:52.084093",
   "package_url": "https://pypi.org/project/diffweave-ai/"
 }

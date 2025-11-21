@@ -1,11 +1,11 @@
 {
   "name": "virtueai",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "VirtueAI Python package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "virtueai-0.1.1.tar.gz",
-  "download_time": "2025-11-20T20:27:06.240899",
+  "download_filename": "virtueai-0.1.4.tar.gz",
+  "download_time": "2025-11-21T19:52:01.022792",
   "package_url": "https://pypi.org/project/virtueai/"
 }

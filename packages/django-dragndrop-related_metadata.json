@@ -1,0 +1,11 @@
+{
+  "name": "django-dragndrop-related",
+  "version": "0.4.0",
+  "summary": "Drag-and-drop multiple uploading of related images/files for",
+  "author": "James Tiplady",
+  "license": "MIT",
+  "home_page": "http://github.com/BigglesZX/django-dragndrop-related",
+  "download_filename": "django_dragndrop_related-0.4.0.tar.gz",
+  "download_time": "2025-11-21T19:52:14.607535",
+  "package_url": "https://pypi.org/project/django-dragndrop-related/"
+}

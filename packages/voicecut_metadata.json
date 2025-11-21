@@ -1,11 +1,11 @@
 {
   "name": "voicecut",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A cli tool for cutting a long audio into segments by silence.",
   "author": "Mikhail Pankin",
   "license": null,
   "home_page": null,
-  "download_filename": "voicecut-0.1.0.tar.gz",
-  "download_time": "2025-11-19T12:47:09.228984",
+  "download_filename": "voicecut-0.2.0.tar.gz",
+  "download_time": "2025-11-21T19:52:12.024487",
   "package_url": "https://pypi.org/project/voicecut/"
 }
