@@ -1,0 +1,11 @@
+{
+  "name": "hdf5view",
+  "version": "0.2.7",
+  "summary": "hdf5view is a python based HDF5 file viewer built on PyQt5/PySide2/PyQt6/PySide6, QtPy, h5py and pyqtgraph.",
+  "author": "Martin Swarbrick, Thomas G. Woodcock, The hdf5view Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdf5view-0.2.7.tar.gz",
+  "download_time": "2025-11-21T09:28:52.616814",
+  "package_url": "https://pypi.org/project/hdf5view/"
+}

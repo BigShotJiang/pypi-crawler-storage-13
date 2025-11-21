@@ -1,0 +1,11 @@
+{
+  "name": "ssb-eimerdb",
+  "version": "0.2.6",
+  "summary": "EimerDB",
+  "author": "Stian Elisenberg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssb_eimerdb-0.2.6.tar.gz",
+  "download_time": "2025-11-21T09:28:52.068894",
+  "package_url": "https://pypi.org/project/ssb-eimerdb/"
+}

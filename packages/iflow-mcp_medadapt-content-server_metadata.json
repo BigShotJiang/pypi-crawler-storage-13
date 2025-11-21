@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_medadapt-content-server",
+  "version": "1.0.0",
+  "summary": "A specialized Model Context Protocol (MCP) server for Claude Desktop that enhances AI-assisted medical learning by fetching and processing educational resources from PubMed, NCBI Bookshelf, and user-provided documents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_medadapt_content_server-1.0.0.tar.gz",
+  "download_time": "2025-11-21T09:28:33.308419",
+  "package_url": "https://pypi.org/project/iflow-mcp_medadapt-content-server/"
+}

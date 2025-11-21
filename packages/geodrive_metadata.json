@@ -1,11 +1,11 @@
 {
   "name": "geodrive",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Universal SDK for rover programming",
   "author": "Roman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geodrive-0.0.10.tar.gz",
-  "download_time": "2025-11-19T12:47:10.796312",
+  "download_filename": "geodrive-0.0.11.tar.gz",
+  "download_time": "2025-11-21T09:28:48.752767",
   "package_url": "https://pypi.org/project/geodrive/"
 }

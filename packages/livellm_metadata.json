@@ -1,11 +1,11 @@
 {
   "name": "livellm",
-  "version": "1.3.6",
+  "version": "1.4.0",
   "summary": "Python client for the LiveLLM Server",
   "author": "Kamil Saliamov",
   "license": null,
   "home_page": null,
-  "download_filename": "livellm-1.3.6.tar.gz",
-  "download_time": "2025-11-19T08:53:01.340904",
+  "download_filename": "livellm-1.4.0.tar.gz",
+  "download_time": "2025-11-21T09:29:06.035345",
   "package_url": "https://pypi.org/project/livellm/"
 }

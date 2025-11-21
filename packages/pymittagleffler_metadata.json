@@ -1,0 +1,11 @@
+{
+  "name": "pymittagleffler",
+  "version": "0.1.7",
+  "summary": "High performance implementation of the Mittag-Leffler function",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/alexfikl/mittagleffler",
+  "download_filename": "pymittagleffler-0.1.7.tar.gz",
+  "download_time": "2025-11-21T09:28:50.970030",
+  "package_url": "https://pypi.org/project/pymittagleffler/"
+}

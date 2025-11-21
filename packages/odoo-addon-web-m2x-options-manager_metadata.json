@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-web-m2x-options-manager",
-  "version": "17.0.1.0.0.2",
+  "version": "18.0.1.0.0.2",
   "summary": "Adds an interface to manage the \"Create\" and \"Create and Edit\" options for specific models and fields.",
   "author": "Camptocamp, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/web",
-  "download_filename": "odoo_addon_web_m2x_options_manager-17.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2025-11-18T09:45:22.683089",
+  "download_filename": "odoo_addon_web_m2x_options_manager-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-21T09:28:59.127208",
   "package_url": "https://pypi.org/project/odoo-addon-web-m2x-options-manager/"
 }
