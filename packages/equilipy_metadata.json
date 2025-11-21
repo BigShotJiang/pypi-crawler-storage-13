@@ -1,0 +1,11 @@
+{
+  "name": "equilipy",
+  "version": "0.2.0",
+  "summary": "A Gibbs energy minimization based on the CALPHAD approach",
+  "author": null,
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "equilipy-0.2.0-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-11-21T23:41:57.692145",
+  "package_url": "https://pypi.org/project/equilipy/"
+}

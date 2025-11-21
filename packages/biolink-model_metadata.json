@@ -1,0 +1,11 @@
+{
+  "name": "biolink-model",
+  "version": "4.3.5",
+  "summary": "The Biolink Model is a high-level data model designed to standardize types and relationships in biological knowledgebases.",
+  "author": "Chris Mungall",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biolink_model-4.3.5.tar.gz",
+  "download_time": "2025-11-21T23:42:00.870760",
+  "package_url": "https://pypi.org/project/biolink-model/"
+}

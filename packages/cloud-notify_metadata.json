@@ -1,0 +1,11 @@
+{
+  "name": "cloud-notify",
+  "version": "1.0.1",
+  "summary": "A generic Django-compatible notification library for order status updates.",
+  "author": "Hetik Chandaria",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/cloud-notify/",
+  "download_filename": "cloud_notify-1.0.1.tar.gz",
+  "download_time": "2025-11-21T23:41:59.840518",
+  "package_url": "https://pypi.org/project/cloud-notify/"
+}
