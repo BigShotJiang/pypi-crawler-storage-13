@@ -1,11 +1,11 @@
 {
   "name": "zdbg",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A tiny zero-cost debugging helper for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zdbg-1.0.0.tar.gz",
-  "download_time": "2025-11-20T03:03:43.700013",
+  "download_filename": "zdbg-1.1.0.tar.gz",
+  "download_time": "2025-11-21T22:23:02.119256",
   "package_url": "https://pypi.org/project/zdbg/"
 }

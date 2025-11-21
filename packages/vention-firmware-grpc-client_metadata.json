@@ -1,0 +1,11 @@
+{
+  "name": "vention-firmware-grpc-client",
+  "version": "0.0.2",
+  "summary": "A python grpc client for calling vention firmware endpoints",
+  "author": "VentionCo",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "vention_firmware_grpc_client-0.0.2.tar.gz",
+  "download_time": "2025-11-21T22:22:58.578294",
+  "package_url": "https://pypi.org/project/vention-firmware-grpc-client/"
+}
