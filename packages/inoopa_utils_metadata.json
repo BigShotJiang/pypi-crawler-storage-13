@@ -1,11 +1,11 @@
 {
   "name": "inoopa_utils",
-  "version": "8.9.3",
+  "version": "8.10.0",
   "summary": "Collection of utils used at Inoopa.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inoopa_utils-8.9.3.tar.gz",
-  "download_time": "2025-11-21T11:40:23.634137",
+  "download_filename": "inoopa_utils-8.10.0.tar.gz",
+  "download_time": "2025-11-21T13:21:40.188039",
   "package_url": "https://pypi.org/project/inoopa_utils/"
 }

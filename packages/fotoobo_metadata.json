@@ -1,0 +1,11 @@
+{
+  "name": "fotoobo",
+  "version": "3.1.0",
+  "summary": "The awesome Fortinet Toolbox",
+  "author": "Patrik Spiess",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/migros/fotoobo",
+  "download_filename": "fotoobo-3.1.0.tar.gz",
+  "download_time": "2025-11-21T13:21:43.762410",
+  "package_url": "https://pypi.org/project/fotoobo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "guaraci",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Brazilian public data integration platform for scientific research",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "guaraci-0.3.1.tar.gz",
-  "download_time": "2025-11-21T12:44:43.591160",
+  "download_filename": "guaraci-0.3.2.tar.gz",
+  "download_time": "2025-11-21T13:21:30.964407",
   "package_url": "https://pypi.org/project/guaraci/"
 }

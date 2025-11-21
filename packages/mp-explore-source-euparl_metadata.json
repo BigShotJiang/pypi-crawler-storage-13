@@ -1,0 +1,11 @@
+{
+  "name": "mp-explore-source-euparl",
+  "version": "0.1.3",
+  "summary": "Obtain data of EU MPs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mp_explore_source_euparl-0.1.3.tar.gz",
+  "download_time": "2025-11-21T13:21:02.183021",
+  "package_url": "https://pypi.org/project/mp-explore-source-euparl/"
+}
