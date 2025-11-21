@@ -1,0 +1,11 @@
+{
+  "name": "dapr-ext-grpc-dev",
+  "version": "1.16.0.dev51",
+  "summary": "The developmental release for Dapr gRPC AppCallback.",
+  "author": "Dapr Authors",
+  "license": "Apache",
+  "home_page": "https://dapr.io/",
+  "download_filename": "dapr_ext_grpc_dev-1.16.0.dev51.tar.gz",
+  "download_time": "2025-11-21T14:23:41.377597",
+  "package_url": "https://pypi.org/project/dapr-ext-grpc-dev/"
+}

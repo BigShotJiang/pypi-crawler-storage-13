@@ -1,0 +1,11 @@
+{
+  "name": "PyTDLM",
+  "version": "0.2.1",
+  "summary": "Systematic comparison of trip distribution laws and models in Python",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "pytdlm-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-21T14:23:12.319111",
+  "package_url": "https://pypi.org/project/PyTDLM/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kcai-data-sampling",
+  "version": "0.0.6",
+  "summary": "Samples generation utilities managed with uv",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kcai_data_sampling-0.0.6.tar.gz",
+  "download_time": "2025-11-21T14:23:18.235891",
+  "package_url": "https://pypi.org/project/kcai-data-sampling/"
+}
