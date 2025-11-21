@@ -1,0 +1,11 @@
+{
+  "name": "byquant",
+  "version": "3.12.96.0",
+  "summary": "byquant库由ByQuant.com 提供支持，可以回测及策略交易。ByQuant.com官网提供系列策略课程《量化策略百战案例》；ByQuant智能策略决策系统提供通过客户端方式调用该库功能！",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "byquant-3.12.96.0.tar.gz",
+  "download_time": "2025-11-21T11:53:27.898203",
+  "package_url": "https://pypi.org/project/byquant/"
+}

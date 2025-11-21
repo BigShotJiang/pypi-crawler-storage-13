@@ -1,11 +1,11 @@
 {
   "name": "smart-bot-factory",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": "Библиотека для создания умных чат-ботов",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smart_bot_factory-1.1.7.tar.gz",
-  "download_time": "2025-11-21T09:57:55.144640",
+  "download_filename": "smart_bot_factory-1.1.8.tar.gz",
+  "download_time": "2025-11-21T11:53:29.453718",
   "package_url": "https://pypi.org/project/smart-bot-factory/"
 }

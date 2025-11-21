@@ -1,0 +1,11 @@
+{
+  "name": "airbook-duckdb-utils-vb",
+  "version": "1.0.0",
+  "summary": "Utility functions for DuckDB to BigQuery data type mapping and other database operations",
+  "author": "Airbook Team",
+  "license": "MIT",
+  "home_page": "https://github.com/airbook/airbook-duckdb-utils",
+  "download_filename": "airbook_duckdb_utils_vb-1.0.0.tar.gz",
+  "download_time": "2025-11-21T11:53:23.709319",
+  "package_url": "https://pypi.org/project/airbook-duckdb-utils-vb/"
+}

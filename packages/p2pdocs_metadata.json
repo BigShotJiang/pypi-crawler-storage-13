@@ -1,11 +1,11 @@
 {
   "name": "p2pdocs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Peer-to-Peer Collaborative Document Editing System with Real-Time Synchronization",
   "author": "P2PDocs Team",
   "license": "MIT",
   "home_page": "https://github.com/p2pdocs/p2pdocs",
-  "download_filename": "p2pdocs-1.0.3.tar.gz",
-  "download_time": "2025-11-21T10:57:57.740117",
+  "download_filename": "p2pdocs-1.0.4.tar.gz",
+  "download_time": "2025-11-21T11:53:19.062790",
   "package_url": "https://pypi.org/project/p2pdocs/"
 }

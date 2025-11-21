@@ -1,0 +1,11 @@
+{
+  "name": "git-changelog",
+  "version": "2.7.0",
+  "summary": "Automatic Changelog generator using Jinja2 templates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_changelog-2.7.0.tar.gz",
+  "download_time": "2025-11-21T11:53:22.171925",
+  "package_url": "https://pypi.org/project/git-changelog/"
+}
