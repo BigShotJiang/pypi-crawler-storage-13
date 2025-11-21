@@ -1,0 +1,11 @@
+{
+  "name": "bachstudio-teradata-mcp-server",
+  "version": "0.1.6",
+  "summary": "Model Context Protocol (MCP) server for Teradata, Community edition by BachStudio",
+  "author": "bachstudio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bachstudio_teradata_mcp_server-0.1.6.tar.gz",
+  "download_time": "2025-11-21T03:04:38.324629",
+  "package_url": "https://pypi.org/project/bachstudio-teradata-mcp-server/"
+}

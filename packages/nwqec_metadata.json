@@ -1,0 +1,11 @@
+{
+  "name": "nwqec",
+  "version": "0.1.1",
+  "summary": "NWQEC: C++ quantum circuit transpiler with Python bindings",
+  "author": "NWQEC Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwqec-0.1.1.tar.gz",
+  "download_time": "2025-11-21T03:05:18.939586",
+  "package_url": "https://pypi.org/project/nwqec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_zhongyao-mcp-server",
+  "version": "0.0.5",
+  "summary": "主要实现的是火山引擎的提供的中药文生图，文生视频，使用免费edgett实现文生音频，整合打包合成打包视频MCP-Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_zhongyao_mcp_server-0.0.5-py3-none-any.whl",
+  "download_time": "2025-11-21T03:05:03.750161",
+  "package_url": "https://pypi.org/project/iflow-mcp_zhongyao-mcp-server/"
+}

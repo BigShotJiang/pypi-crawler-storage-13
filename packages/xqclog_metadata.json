@@ -1,0 +1,11 @@
+{
+  "name": "xqclog",
+  "version": "0.0.3",
+  "summary": "⚡ 基于 Loguru 的 Python 日志模块 - 开箱即用，支持多种告警通知",
+  "author": "Xiaoqiang",
+  "license": "MIT",
+  "home_page": "https://github.com/xiaoqiangclub/xqclog",
+  "download_filename": "xqclog-0.0.3.tar.gz",
+  "download_time": "2025-11-21T03:04:49.116116",
+  "package_url": "https://pypi.org/project/xqclog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "parajax",
+  "version": "0.2.4",
+  "summary": "Parallelization utilities for JAX",
+  "author": "Gabriel S. Gerlero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parajax-0.2.4.tar.gz",
+  "download_time": "2025-11-21T03:05:07.328960",
+  "package_url": "https://pypi.org/project/parajax/"
+}

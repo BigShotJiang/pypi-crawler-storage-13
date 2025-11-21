@@ -1,0 +1,11 @@
+{
+  "name": "types-google-cloud-ndb",
+  "version": "2.3.0.20251121",
+  "summary": "Typing stubs for google-cloud-ndb",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_google_cloud_ndb-2.3.0.20251121.tar.gz",
+  "download_time": "2025-11-21T03:04:37.012146",
+  "package_url": "https://pypi.org/project/types-google-cloud-ndb/"
+}

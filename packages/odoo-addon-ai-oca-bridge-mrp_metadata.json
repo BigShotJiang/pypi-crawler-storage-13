@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-ai-oca-bridge-mrp",
-  "version": "16.0.2.0.0",
+  "version": "16.0.2.0.0.1",
   "summary": "Adds MRP triggers for AI Bridges",
   "author": "Escodoo,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/ai",
-  "download_filename": "odoo_addon_ai_oca_bridge_mrp-16.0.2.0.0-py3-none-any.whl",
-  "download_time": "2025-11-18T06:32:53.292679",
+  "download_filename": "odoo_addon_ai_oca_bridge_mrp-16.0.2.0.0.1-py3-none-any.whl",
+  "download_time": "2025-11-21T03:05:04.290755",
   "package_url": "https://pypi.org/project/odoo-addon-ai-oca-bridge-mrp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "numcodecs",
-  "version": "0.16.4",
+  "version": "0.16.5",
   "summary": "A Python package providing buffer compression and transformation codecs for use in data storage and communication applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "numcodecs-0.16.4.tar.gz",
-  "download_time": "2025-11-20T20:26:44.824435",
+  "download_filename": "numcodecs-0.16.5.tar.gz",
+  "download_time": "2025-11-21T03:04:57.686725",
   "package_url": "https://pypi.org/project/numcodecs/"
 }
