@@ -1,11 +1,11 @@
 {
   "name": "muc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Play audio through your microphone in games using hotkeys",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muc-0.1.0.tar.gz",
-  "download_time": "2025-11-20T21:53:05.473721",
+  "download_filename": "muc-0.2.0.tar.gz",
+  "download_time": "2025-11-21T18:30:13.668081",
   "package_url": "https://pypi.org/project/muc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "brotlicffi",
+  "version": "1.2.0.0",
+  "summary": "Python CFFI bindings to the Brotli library",
+  "author": "Cory Benfield",
+  "license": "MIT",
+  "home_page": "https://github.com/python-hyper/brotlicffi",
+  "download_filename": "brotlicffi-1.2.0.0.tar.gz",
+  "download_time": "2025-11-21T18:30:33.073880",
+  "package_url": "https://pypi.org/project/brotlicffi/"
+}

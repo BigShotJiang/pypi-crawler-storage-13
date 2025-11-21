@@ -1,11 +1,11 @@
 {
   "name": "talkky-bot",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Cliente oficial para bots da Talkky",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "talkky_bot-0.1.5.tar.gz",
-  "download_time": "2025-11-21T17:54:34.065186",
+  "download_filename": "talkky_bot-0.1.8.tar.gz",
+  "download_time": "2025-11-21T18:30:35.158457",
   "package_url": "https://pypi.org/project/talkky-bot/"
 }

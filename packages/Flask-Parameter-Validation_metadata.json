@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Parameter-Validation",
+  "version": "2.5.0",
+  "summary": "Get and validate all Flask input parameters with ease.",
+  "author": "George Omnet",
+  "license": "MIT",
+  "home_page": "https://github.com/Ge0rg3/flask-parameter-validation",
+  "download_filename": "flask_parameter_validation-2.5.0.tar.gz",
+  "download_time": "2025-11-21T18:30:21.671009",
+  "package_url": "https://pypi.org/project/Flask-Parameter-Validation/"
+}

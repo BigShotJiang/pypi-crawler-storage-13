@@ -1,0 +1,11 @@
+{
+  "name": "fontmake",
+  "version": "3.11.1",
+  "summary": "Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).",
+  "author": "James Godfrey-kittle",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/googlei18n/fontmake",
+  "download_filename": "fontmake-3.11.1-py3-none-any.whl",
+  "download_time": "2025-11-21T18:30:22.188229",
+  "package_url": "https://pypi.org/project/fontmake/"
+}

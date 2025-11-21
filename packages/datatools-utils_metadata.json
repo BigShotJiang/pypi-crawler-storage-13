@@ -1,0 +1,11 @@
+{
+  "name": "datatools-utils",
+  "version": "1.2.2.0",
+  "summary": "Basic mathematics operations and string utilities.",
+  "author": "Ankit Yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datatools_utils-1.2.2.0.tar.gz",
+  "download_time": "2025-11-21T18:30:12.634002",
+  "package_url": "https://pypi.org/project/datatools-utils/"
+}

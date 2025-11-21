@@ -1,0 +1,11 @@
+{
+  "name": "openinverter-can-tool",
+  "version": "0.5.1",
+  "summary": "Tool to configure and operate OpenInverter systems over CAN",
+  "author": "David J. Fiddes",
+  "license": "MIT License",
+  "home_page": "https://github.com/davefiddes/openinverter-can-tool",
+  "download_filename": "openinverter_can_tool-0.5.1.tar.gz",
+  "download_time": "2025-11-21T18:30:41.841583",
+  "package_url": "https://pypi.org/project/openinverter-can-tool/"
+}

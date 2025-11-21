@@ -1,0 +1,11 @@
+{
+  "name": "phypanda",
+  "version": "1.0.1",
+  "summary": "package containing the PaNDA framework for exploring, visualizing and maximizing phylogenetic diversity in phylogenetic networks",
+  "author": "N. Holtgrefe",
+  "license": null,
+  "home_page": "https://github.com/nholtgrefe/panda/tree/main/phypanda",
+  "download_filename": "phypanda-1.0.1.tar.gz",
+  "download_time": "2025-11-21T18:30:11.603098",
+  "package_url": "https://pypi.org/project/phypanda/"
+}

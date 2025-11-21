@@ -1,0 +1,11 @@
+{
+  "name": "GaPFlow",
+  "version": "1.0.1",
+  "summary": "Gap-averaged flow simulations with Gaussian Process regression.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gapflow-1.0.1.tar.gz",
+  "download_time": "2025-11-21T18:30:33.586081",
+  "package_url": "https://pypi.org/project/GaPFlow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-thumbnails",
+  "version": "1.0.0",
+  "summary": "A Django app for DRY thumbnails in admin list views and forms.",
+  "author": "James Tiplady",
+  "license": "MIT",
+  "home_page": "http://github.com/BigglesZX/django-admin-thumbnails",
+  "download_filename": "django_admin_thumbnails-1.0.0.tar.gz",
+  "download_time": "2025-11-21T18:30:08.497801",
+  "package_url": "https://pypi.org/project/django-admin-thumbnails/"
+}
