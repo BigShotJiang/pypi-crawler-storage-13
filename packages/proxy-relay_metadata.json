@@ -1,0 +1,11 @@
+{
+  "name": "proxy-relay",
+  "version": "1.2.0",
+  "summary": "多协议代理中转器，支持HTTP/HTTPS/SOCKS5/SOCKS5H协议互转，本地代理无需账密认证",
+  "author": "huazz233",
+  "license": "MIT",
+  "home_page": "https://github.com/huazz233/proxy_relay",
+  "download_filename": "proxy_relay-1.2.0.tar.gz",
+  "download_time": "2025-11-21T09:45:30.352115",
+  "package_url": "https://pypi.org/project/proxy-relay/"
+}

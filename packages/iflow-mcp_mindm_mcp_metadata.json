@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mindm_mcp",
+  "version": "0.0.2.3",
+  "summary": "Model Context Protocol (MCP) server for the mindm library, enabling AI assistants like Claude to interact with MindManager.",
+  "author": "Robert Zaufall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mindm_mcp-0.0.2.3.tar.gz",
+  "download_time": "2025-11-21T09:45:47.556565",
+  "package_url": "https://pypi.org/project/iflow-mcp_mindm_mcp/"
+}

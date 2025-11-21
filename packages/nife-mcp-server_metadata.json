@@ -1,0 +1,11 @@
+{
+  "name": "nife-mcp-server",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol server for Nife.io GraphQL API",
+  "author": "Nife Team",
+  "license": "MIT",
+  "home_page": "https://github.com/nife-io/nife-mcp-server",
+  "download_filename": "nife_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-11-21T09:45:46.502741",
+  "package_url": "https://pypi.org/project/nife-mcp-server/"
+}

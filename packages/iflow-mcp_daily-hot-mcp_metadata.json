@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_daily-hot-mcp",
+  "version": "1.6.3",
+  "summary": "🔥 基于 Model Context Protocol (MCP) 协议的全网热点趋势一站式聚合服务",
+  "author": "fancyboi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_daily_hot_mcp-1.6.3.tar.gz",
+  "download_time": "2025-11-21T09:45:49.804910",
+  "package_url": "https://pypi.org/project/iflow-mcp_daily-hot-mcp/"
+}

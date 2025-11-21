@@ -1,11 +1,11 @@
 {
   "name": "rohkun",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Client-side code analysis tool for API connections",
   "author": "Rohkun Labs",
   "license": "Proprietary",
   "home_page": "https://rohkun.com",
-  "download_filename": "rohkun-2.1.1.tar.gz",
-  "download_time": "2025-11-20T23:22:26.098223",
+  "download_filename": "rohkun-2.1.2.tar.gz",
+  "download_time": "2025-11-21T09:45:52.652603",
   "package_url": "https://pypi.org/project/rohkun/"
 }

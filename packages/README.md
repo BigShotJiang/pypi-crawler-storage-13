@@ -1,15 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T09:29:12.476410
-- **Total Packages**: 92
-- **Total Size**: 10.04 MB
+- **Download Time**: 2025-11-21T09:46:14.110033
+- **Total Packages**: 83
+- **Total Size**: 33.29 MB
 
 ## Packages List
+- cribl-control-plane
+- cashu
+- featheros
+- proxy-relay
+- tfp-nightly
+- gfram
+- cppmake
+- cppmakelib
+- essimaging
+- udata-hydra
+- dissect.target
+- py-auto-migrate
+- parallel-llm
+- scrapy-item-ingest
+- smart-bot-factory
+- comet-toolbox
+- insights-core
+- megatron-core
+- unique_toolkit
+- megatron-fsdp
+- nebius
+- shotgrid-query
+- lichess-board
+- jettask
+- kitech-repository
+- phonexia-time-analysis-client
+- aa-cli
+- gamslib
+- cosmic-sim
+- base-api-utils
+- nife-mcp-server
+- iflow-mcp_google-flights-mcp
+- iflow-mcp_mindm_mcp
+- matrice-common
+- defermi
+- l9-turtle-gameeeeeeeeeeee
+- iflow-mcp_daily-hot-mcp
+- playwright-stealth-plugin
+- dutch-med-hips
+- smartroute
+- xiaozhi-sdk
+- rohkun
+- revng
+- lyapprove
+- sigma-c-framework
 - tock-genai-core
 - apify
 - arcane-requests
-- parallel-llm
 - MetaRpcMT5
 - MetaRpcMT4
 - d4rktg
@@ -22,25 +66,21 @@
 - tdsbrondata
 - paramclasses
 - qubership-pipelines-common-library
-- playwright-stealth-plugin
 - pybotchi
 - yt-dlp-termux-gui
 - octobot-commons
 - pgconnect
 - iflow-mcp_medadapt-content-server
-- cppmakelib
 - stash
 - openmeter
 - batplot
 - zappa
 - autocoder-nano
 - iflow-mcp_mcp-server-office
-- aa-cli
 - utest-auto-core
 - bedrock-gateway-client
 - admem
 - toonlite
-- cppmake
 - nvfuser-cu126
 - nanobanana-mcp-server
 - nvfuser-cu128
@@ -49,52 +89,3 @@
 - mcp-server-package
 - nvfuser-cu130
 - agentscope-extension-nacos
-- conversational-sop-framework
-- logikit
-- ruythcore
-- satctl
-- jupyterlite
-- geodrive
-- laimassey
-- sagemaker-hyperpod
-- crawlee
-- pymittagleffler
-- xpander-sdk
-- ssb-eimerdb
-- hdf5view
-- imio.smartweb.locales
-- insta_rag
-- direct-method-mqtt-python
-- teachbooks-sphinx-grasple
-- dynamiq
-- miliapi
-- kitech-repository
-- hestia-earth-schema
-- connectonion
-- hic-sca
-- wellapi
-- odoo-addon-web-m2x-options-manager
-- hyperpod-custom-inference-template
-- wp21-train
-- yolo-seg-ort
-- microsoft-agents-storage-cosmos
-- microsoft-agents-storage-blob
-- microsoft-agents-hosting-teams
-- microsoft-agents-hosting-fastapi
-- microsoft-agents-hosting-core
-- microsoft-agents-hosting-aiohttp
-- microsoft-agents-copilotstudio-client
-- microsoft-agents-authentication-msal
-- microsoft-agents-activity
-- livellm
-- hyperpod-pytorch-job-template
-- pywebtask
-- renoir-wikiart
-- autogluon
-- autogluon.timeseries
-- acontext
-- hyperpod-jumpstart-inference-template
-- autogluon.multimodal
-- iflow-mcp_mcp-flight-search
-- autogluon.tabular
-- autogluon.features

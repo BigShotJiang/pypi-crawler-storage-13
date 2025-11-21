@@ -1,11 +1,11 @@
 {
   "name": "sigma-c-framework",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Critical Susceptibility Framework for Quantum, GPU, Financial, Climate, Seismic, and Magnetic analysis",
   "author": null,
   "license": "AGPL-3.0-or-later OR Commercial",
   "home_page": null,
-  "download_filename": "sigma_c_framework-1.0.0.tar.gz",
-  "download_time": "2025-11-21T01:44:24.406299",
+  "download_filename": "sigma_c_framework-1.1.0.tar.gz",
+  "download_time": "2025-11-21T09:45:54.234806",
   "package_url": "https://pypi.org/project/sigma-c-framework/"
 }
