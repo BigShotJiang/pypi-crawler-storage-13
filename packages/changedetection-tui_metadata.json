@@ -1,11 +1,11 @@
 {
   "name": "changedetection-tui",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "TUI client for changedetection.io",
   "author": "Giuseppe Rota",
   "license": null,
   "home_page": null,
-  "download_filename": "changedetection_tui-1.1.0-py3-none-any.whl",
-  "download_time": "2025-11-21T17:20:46.554133",
+  "download_filename": "changedetection_tui-1.1.1.tar.gz",
+  "download_time": "2025-11-21T17:43:26.415189",
   "package_url": "https://pypi.org/project/changedetection-tui/"
 }

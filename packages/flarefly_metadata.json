@@ -1,11 +1,11 @@
 {
   "name": "flarefly",
-  "version": "0.0.16",
+  "version": "0.1.0",
   "summary": "FLexible And REliable Fitting LibrarY for particle physics analysis",
   "author": "flarefly-developers",
   "license": "GPL",
   "home_page": "https://github.com/flarefly/flarefly",
-  "download_filename": "flarefly-0.0.16.tar.gz",
-  "download_time": "2025-11-20T10:47:33.802544",
+  "download_filename": "flarefly-0.1.0.tar.gz",
+  "download_time": "2025-11-21T17:42:52.781257",
   "package_url": "https://pypi.org/project/flarefly/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "psd-toolkit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A toolkit for batch processing PSD files - hide text layers and export to PNG",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "psd_toolkit-0.1.0.tar.gz",
-  "download_time": "2025-11-21T16:49:10.226001",
+  "download_filename": "psd_toolkit-0.2.0.tar.gz",
+  "download_time": "2025-11-21T17:43:19.456508",
   "package_url": "https://pypi.org/project/psd-toolkit/"
 }

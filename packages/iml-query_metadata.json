@@ -1,11 +1,11 @@
 {
   "name": "iml-query",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iml_query-0.4.2.tar.gz",
-  "download_time": "2025-11-17T18:31:56.901207",
+  "download_filename": "iml_query-0.5.0.tar.gz",
+  "download_time": "2025-11-21T17:43:14.602544",
   "package_url": "https://pypi.org/project/iml-query/"
 }

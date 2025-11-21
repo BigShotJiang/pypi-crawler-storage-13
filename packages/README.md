@@ -1,12 +1,73 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T17:21:24.812209
-- **Total Packages**: 78
-- **Total Size**: 28.11 MB
+- **Download Time**: 2025-11-21T17:43:40.344876
+- **Total Packages**: 86
+- **Total Size**: 21.93 MB
 
 ## Packages List
+- flarefly
+- breesy
+- chia-dev-tools
+- holado
+- auto-uv
+- mirro
+- pulumi-pulumiservice
+- proto-explorer
+- condorgame
+- orbelican
+- dbt-autofix
+- ticca-tools
+- imandrax-api-models
+- diffweave-ai
+- SimpleColoredLogs
+- ocf-data-sampler
+- jetflow
+- nnsight
+- lunalib
+- pelican-data-files
+- pypomes-crypto
+- assemblyline-core
+- pywiim
+- assemblyline
+- assemblyline-v4-service
+- assemblyline-ui
+- assemblyline-service-server
+- assemblyline-service-client
+- pyshowdown
+- TeXicode
+- quazydb
+- bioinspired
+- AgentManager
+- 10xscale-agentflow-cli
+- rembi-mifa
+- scrapeMM
+- q8s
+- pylmm3
+- patchfm
+- iml-query
+- aibridgecore
+- e6data-python-connector
+- promptheus
+- emergene
+- scalewob
+- pilot-platform-object-storage
 - lar-engine
+- lupaxa-certtool
+- psd-toolkit
+- dkist-inventory
+- pinno-solver
+- uqlm
+- fhlmi
+- ldp
+- cleanlab-tlm
+- connectivity-agent
+- worker-core-lib
+- PythonandDragons
+- unique_toolkit
+- langchain-deck
+- cdk-vscode-server
+- changedetection-tui
 - metrics-utility
 - typ2docx
 - evonet
@@ -15,10 +76,8 @@
 - libinephany
 - hammer-patterns
 - dw-ai-x
-- changedetection-tui
 - maze-rl
 - tvi-solphit-ingialla
-- holado
 - reinforcement-learning-framework
 - fftrr-poisson
 - py-testrail-cli
@@ -28,59 +87,8 @@
 - sequence
 - fastapi-commons
 - weixinautox4
-- lunalib
-- connectivity-agent
 - uiprotect
 - cardonnay
 - dsa-helpers
 - scahpy
 - rio-tiler
-- hex-robo-yoco
-- klug-secrets
-- great-expectations-cloud
-- nemoasr2pytorch
-- python-omnilogic-local
-- cml-parser
-- stjames
-- hillclimber
-- vtkapi-mcp
-- imzML-Writer
-- featheros
-- pydaasiot
-- hats-import
-- maleo-logging
-- webimage
-- commonlog
-- GroveGrabCLI
-- mynet
-- httpx-whackamole
-- vulncheck-sdk
-- QuipuSkyfree
-- odoo-addon-helpdesk-somconnexio
-- langchain-pymupdf-layout
-- odoo-addon-cooperator-somconnexio
-- odoo-addon-cooperator-api-somconnexio
-- labterial-sim
-- fetchtastic
-- pydrime
-- gradio-client
-- data-prep-toolkit-transforms
-- nowcasting-datamodel
-- bedrock-gateway-client
-- cmf
-- pyTCSPCtools
-- data-prep-toolkit
-- smle
-- apk-patchx
-- strayl-mcp-server
-- winipyside
-- nyancad
-- fal
-- ni.measurements.data.v1.client
-- ni.measurements.metadata.v1.client
-- winidjango
-- pygamejr
-- qanswer_sdk
-- signalpilot-ai-internal
-- winiutils
-- moat-lib-gpio

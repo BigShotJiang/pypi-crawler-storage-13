@@ -1,0 +1,11 @@
+{
+  "name": "pylmm3",
+  "version": "0.1.1",
+  "summary": "Python 3 implementation of Pylmm",
+  "author": "Your Name",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://bitbucket.org/jacksonlaboratory/pylmm3/src/master",
+  "download_filename": "pylmm3-0.1.1.tar.gz",
+  "download_time": "2025-11-21T17:43:13.544661",
+  "package_url": "https://pypi.org/project/pylmm3/"
+}

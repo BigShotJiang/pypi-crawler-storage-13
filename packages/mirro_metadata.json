@@ -1,0 +1,11 @@
+{
+  "name": "mirro",
+  "version": "0.4.0",
+  "summary": "A safe editing wrapper: edits a temp copy, compares, and saves original backup if changed.",
+  "author": "Marco D'Aleo",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/mdaleo404/mirro",
+  "download_filename": "mirro-0.4.0.tar.gz",
+  "download_time": "2025-11-21T17:42:55.972015",
+  "package_url": "https://pypi.org/project/mirro/"
+}

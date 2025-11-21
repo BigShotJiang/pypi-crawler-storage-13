@@ -1,0 +1,11 @@
+{
+  "name": "chia-dev-tools",
+  "version": "1.2.15",
+  "summary": "Chia development commands",
+  "author": "Quexington",
+  "license": "https://opensource.org/licenses/Apache-2.0",
+  "home_page": "https://github.com/Chia-Network",
+  "download_filename": "chia_dev_tools-1.2.15.tar.gz",
+  "download_time": "2025-11-21T17:42:53.840217",
+  "package_url": "https://pypi.org/project/chia-dev-tools/"
+}

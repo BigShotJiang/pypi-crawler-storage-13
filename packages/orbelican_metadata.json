@@ -1,0 +1,11 @@
+{
+  "name": "orbelican",
+  "version": "1.0.0.post1",
+  "summary": "A simple port of orbit-theme for Pelican to build an online resume",
+  "author": "vhash",
+  "license": "MIT",
+  "home_page": "https://github.com/LucasVanHaaren/orbelican",
+  "download_filename": "orbelican-1.0.0.post1.tar.gz",
+  "download_time": "2025-11-21T17:42:58.118192",
+  "package_url": "https://pypi.org/project/orbelican/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyshowdown",
+  "version": "0.2.3",
+  "summary": "A client library for the Pokémon Showdown! battle simulator.",
+  "author": "Scott Maxwell",
+  "license": null,
+  "home_page": "https://github.com/ScottehMax/pyshowdown",
+  "download_filename": "pyshowdown-0.2.3.tar.gz",
+  "download_time": "2025-11-21T17:43:08.287731",
+  "package_url": "https://pypi.org/project/pyshowdown/"
+}

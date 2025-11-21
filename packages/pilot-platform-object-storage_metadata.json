@@ -1,0 +1,11 @@
+{
+  "name": "pilot-platform-object-storage",
+  "version": "2.1.0",
+  "summary": "Python library for interacting with multiple object storage APIs.",
+  "author": "Indoc Systems",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "pilot_platform_object_storage-2.1.0.tar.gz",
+  "download_time": "2025-11-21T17:43:17.872237",
+  "package_url": "https://pypi.org/project/pilot-platform-object-storage/"
+}
