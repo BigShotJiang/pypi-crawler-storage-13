@@ -1,0 +1,11 @@
+{
+  "name": "lightbeam",
+  "version": "0.1.10",
+  "summary": "Sends JSONL data into an Ed-Fi API",
+  "author": "Tom Reitz",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/edanalytics/lightbeam",
+  "download_filename": "lightbeam-0.1.10-py3-none-any.whl",
+  "download_time": "2025-11-21T22:44:03.402118",
+  "package_url": "https://pypi.org/project/lightbeam/"
+}

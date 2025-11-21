@@ -1,0 +1,11 @@
+{
+  "name": "cuda-quantum-cu13",
+  "version": "0.13.0",
+  "summary": "A dummy package for PyPI cuda-quantum-cu13",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "cuda_quantum_cu13-0.13.0.tar.gz",
+  "download_time": "2025-11-21T22:44:16.642671",
+  "package_url": "https://pypi.org/project/cuda-quantum-cu13/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyrefly",
-  "version": "0.42.2",
+  "version": "0.42.3",
   "summary": "A fast type checker and language server for Python with powerful IDE features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyrefly-0.42.2.tar.gz",
-  "download_time": "2025-11-19T21:17:51.229369",
+  "download_filename": "pyrefly-0.42.3.tar.gz",
+  "download_time": "2025-11-21T22:44:27.433232",
   "package_url": "https://pypi.org/project/pyrefly/"
 }

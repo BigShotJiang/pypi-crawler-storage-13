@@ -1,11 +1,11 @@
 {
   "name": "dictionaries-addons-framework",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A framework to let you build addons for Dictionaries.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dictionaries_addons_framework-0.0.6.tar.gz",
-  "download_time": "2025-11-19T05:22:48.288675",
+  "download_filename": "dictionaries_addons_framework-0.0.7-py3-none-any.whl",
+  "download_time": "2025-11-21T22:44:01.866671",
   "package_url": "https://pypi.org/project/dictionaries-addons-framework/"
 }

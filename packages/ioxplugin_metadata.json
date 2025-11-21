@@ -1,0 +1,11 @@
+{
+  "name": "ioxplugin",
+  "version": "1.5.7",
+  "summary": "IoX Plugin Helper Package",
+  "author": "Michel Kohanim",
+  "license": null,
+  "home_page": "https://github.com/universaldevices/ioxplugin.git",
+  "download_filename": "ioxplugin-1.5.7.tar.gz",
+  "download_time": "2025-11-21T22:44:21.754707",
+  "package_url": "https://pypi.org/project/ioxplugin/"
+}

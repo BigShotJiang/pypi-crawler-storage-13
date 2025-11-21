@@ -1,0 +1,11 @@
+{
+  "name": "unittest_templates",
+  "version": "0.1.1",
+  "summary": "Write less unittest boilerplate",
+  "author": "Charles Tapley Hoyt, Max Berrendorf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unittest_templates-0.1.1.tar.gz",
+  "download_time": "2025-11-21T22:44:18.175778",
+  "package_url": "https://pypi.org/project/unittest_templates/"
+}

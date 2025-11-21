@@ -1,11 +1,11 @@
 {
   "name": "fake-py-mcp",
-  "version": "0.2",
+  "version": "0.2.1",
   "summary": "MCP server for fake.py.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fake_py_mcp-0.2.tar.gz",
-  "download_time": "2025-11-19T22:21:43.240869",
+  "download_filename": "fake_py_mcp-0.2.1.tar.gz",
+  "download_time": "2025-11-21T22:44:20.221794",
   "package_url": "https://pypi.org/project/fake-py-mcp/"
 }

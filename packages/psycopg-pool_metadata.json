@@ -1,0 +1,11 @@
+{
+  "name": "psycopg-pool",
+  "version": "3.2.8",
+  "summary": "Connection Pool for Psycopg",
+  "author": "Daniele Varrazzo",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://psycopg.org/psycopg3/",
+  "download_filename": "psycopg_pool-3.2.8.tar.gz",
+  "download_time": "2025-11-21T22:44:10.808805",
+  "package_url": "https://pypi.org/project/psycopg-pool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diversedata",
+  "version": "1.0.4",
+  "summary": "A Python package that provides a curated collection of real-world data sets centered on themes of equity, diversity and inclusion (EDI). These data sets are intended to support teaching, learning, and analysis by offering meaningful and socially relevant data that can be used in data science workflows.",
+  "author": "Katie Burak, Elham E. Khoda, and Stephanie Ta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diversedata-1.0.4.tar.gz",
+  "download_time": "2025-11-21T22:44:14.970299",
+  "package_url": "https://pypi.org/project/diversedata/"
+}
