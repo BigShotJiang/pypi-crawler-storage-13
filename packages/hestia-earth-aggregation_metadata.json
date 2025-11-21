@@ -1,11 +1,11 @@
 {
   "name": "hestia-earth-aggregation",
-  "version": "0.21.5",
+  "version": "0.21.6",
   "summary": "HESTIA's aggregation engine.",
   "author": "HESTIA Team",
   "license": "MIT",
   "home_page": "https://gitlab.com/hestia-earth/hestia-aggregation-engine",
-  "download_filename": "hestia_earth_aggregation-0.21.5.tar.gz",
-  "download_time": "2025-11-21T07:56:17.096753",
+  "download_filename": "hestia_earth_aggregation-0.21.6.tar.gz",
+  "download_time": "2025-11-21T09:58:01.009853",
   "package_url": "https://pypi.org/project/hestia-earth-aggregation/"
 }

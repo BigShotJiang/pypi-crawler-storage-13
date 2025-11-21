@@ -1,17 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T09:46:14.110033
+- **Download Time**: 2025-11-21T09:58:29.999225
 - **Total Packages**: 83
-- **Total Size**: 33.29 MB
+- **Total Size**: 18.44 MB
 
 ## Packages List
+- astro-nest
+- pymport
+- encord
+- TexTOM
+- tesser
+- ida-hcli
+- compass_api_sdk
+- tomoscan
+- defermi-gui
+- textremo-phy-mod-otfs
+- bighead-dfs-client
+- sequenzo
+- androtools
+- featheros
+- streamlit-simui
+- dolphinvoice
+- xloft
+- gfram
+- MzmcOSAPIPySDK
+- powerbot-client
+- powerbot-asyncio-client
+- smart-bot-factory
+- aio-service-caller
+- direct-method-mqtt-python
+- luma-lang
+- BoschRpaMagicBox
+- hotopy
+- unique_toolkit
+- iflow-mcp_skydeckai-code
+- leetcode-py-sdk
+- bcmd
+- hestia-earth-aggregation
+- apify
+- pylamarzocco
+- jupyter-ydoc
+- agno
+- qkan
 - cribl-control-plane
 - cashu
-- featheros
 - proxy-relay
 - tfp-nightly
-- gfram
 - cppmake
 - cppmakelib
 - essimaging
@@ -20,11 +55,9 @@
 - py-auto-migrate
 - parallel-llm
 - scrapy-item-ingest
-- smart-bot-factory
 - comet-toolbox
 - insights-core
 - megatron-core
-- unique_toolkit
 - megatron-fsdp
 - nebius
 - shotgrid-query
@@ -52,40 +85,7 @@
 - lyapprove
 - sigma-c-framework
 - tock-genai-core
-- apify
 - arcane-requests
 - MetaRpcMT5
 - MetaRpcMT4
 - d4rktg
-- alibaba-cloud-ops-mcp-server
-- aimodelshare
-- xenoverse
-- ciatools
-- odoo-addon-mail-activity-reminder
-- openframe-criteria-set-protocol
-- tdsbrondata
-- paramclasses
-- qubership-pipelines-common-library
-- pybotchi
-- yt-dlp-termux-gui
-- octobot-commons
-- pgconnect
-- iflow-mcp_medadapt-content-server
-- stash
-- openmeter
-- batplot
-- zappa
-- autocoder-nano
-- iflow-mcp_mcp-server-office
-- utest-auto-core
-- bedrock-gateway-client
-- admem
-- toonlite
-- nvfuser-cu126
-- nanobanana-mcp-server
-- nvfuser-cu128
-- tui-writer
-- elevenlabs
-- mcp-server-package
-- nvfuser-cu130
-- agentscope-extension-nacos

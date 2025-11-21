@@ -1,0 +1,11 @@
+{
+  "name": "pymport",
+  "version": "0.0.6",
+  "summary": "A lightweight Python linter for checking unused docstrings.",
+  "author": "malatorrediaz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymport-0.0.6.tar.gz",
+  "download_time": "2025-11-21T09:57:42.529611",
+  "package_url": "https://pypi.org/project/pymport/"
+}

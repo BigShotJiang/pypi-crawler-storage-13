@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_skydeckai-code",
+  "version": "0.1.41",
+  "summary": "This MCP server provides a comprehensive set of tools for AI-driven Development workflows including file operations, code analysis, multi-language execution, web content fetching with HTML-to-markdown conversion, multi-engine web search, code content searching, persistent task management, and system information retrieval.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_skydeckai_code-0.1.41.tar.gz",
+  "download_time": "2025-11-21T09:57:59.238857",
+  "package_url": "https://pypi.org/project/iflow-mcp_skydeckai-code/"
+}
