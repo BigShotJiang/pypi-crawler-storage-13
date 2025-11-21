@@ -1,11 +1,11 @@
 {
   "name": "hyptorch",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Suite of hyperbolic neural networks in PyTorch",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hyptorch-1.2.0.tar.gz",
-  "download_time": "2025-11-19T13:34:40.978351",
+  "download_filename": "hyptorch-1.2.1.tar.gz",
+  "download_time": "2025-11-21T14:56:29.089843",
   "package_url": "https://pypi.org/project/hyptorch/"
 }

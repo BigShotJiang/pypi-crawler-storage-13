@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-context-finder",
+  "version": "2.0.0",
+  "summary": "Intelligent fuzzy keyword search with lemmatization for investigative journalists. Local processing ensures source confidentiality.",
+  "author": "Sandeep Junnarkar",
+  "license": null,
+  "home_page": "https://github.com/sandeepmj/fuzzy_context_finder",
+  "download_filename": "fuzzy_context_finder-2.0.0.tar.gz",
+  "download_time": "2025-11-21T14:56:32.165605",
+  "package_url": "https://pypi.org/project/fuzzy-context-finder/"
+}

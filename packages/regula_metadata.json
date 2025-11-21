@@ -1,11 +1,11 @@
 {
   "name": "regula",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightweight, simplified wrapper around the Tkinter library for faster desktop application development.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "regula-0.1.1.tar.gz",
-  "download_time": "2025-11-20T12:45:52.567166",
+  "download_filename": "regula-0.1.2.tar.gz",
+  "download_time": "2025-11-21T14:56:28.576302",
   "package_url": "https://pypi.org/project/regula/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "json-schema-for-humans",
+  "version": "1.5.1",
+  "summary": "Generate static HTML documentation from JSON schemas",
+  "author": "Denis Blanchette",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "json_schema_for_humans-1.5.1.tar.gz",
+  "download_time": "2025-11-21T14:56:16.116005",
+  "package_url": "https://pypi.org/project/json-schema-for-humans/"
+}

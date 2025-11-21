@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-web-view-leaflet-map",
-  "version": "18.0.1.1.0",
+  "version": "18.0.1.1.1",
   "summary": "Add new 'leaflet_map' view, to display markers.",
   "author": "GRAP, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/geospatial",
-  "download_filename": "odoo_addon_web_view_leaflet_map-18.0.1.1.0-py3-none-any.whl",
-  "download_time": "2025-11-20T19:40:00.414783",
+  "download_filename": "odoo_addon_web_view_leaflet_map-18.0.1.1.1-py3-none-any.whl",
+  "download_time": "2025-11-21T14:56:27.532949",
   "package_url": "https://pypi.org/project/odoo-addon-web-view-leaflet-map/"
 }

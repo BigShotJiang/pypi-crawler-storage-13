@@ -1,11 +1,11 @@
 {
   "name": "wmill",
-  "version": "1.583.0",
+  "version": "1.583.1",
   "summary": "A client library for accessing Windmill server wrapping the Windmill client API",
   "author": "Ruben Fiszel",
   "license": "Apache-2.0",
   "home_page": "https://windmill.dev",
-  "download_filename": "wmill-1.583.0.tar.gz",
-  "download_time": "2025-11-21T13:21:22.684288",
+  "download_filename": "wmill-1.583.1.tar.gz",
+  "download_time": "2025-11-21T14:56:19.759013",
   "package_url": "https://pypi.org/project/wmill/"
 }

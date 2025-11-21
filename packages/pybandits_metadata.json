@@ -1,0 +1,11 @@
+{
+  "name": "pybandits",
+  "version": "4.0.16",
+  "summary": "Python Multi-Armed Bandit Library",
+  "author": "Dario d'Andrea",
+  "license": "MIT",
+  "home_page": "https://github.com/PlaytikaOSS/pybandits",
+  "download_filename": "pybandits-4.0.16.tar.gz",
+  "download_time": "2025-11-21T14:56:16.630157",
+  "package_url": "https://pypi.org/project/pybandits/"
+}
