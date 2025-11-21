@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T15:40:29.410430
-- **Total Packages**: 95
-- **Total Size**: 45.27 MB
+- **Download Time**: 2025-11-21T16:07:17.336664
+- **Total Packages**: 94
+- **Total Size**: 1.8 MB
 
 ## Packages List
-- abi-core-ai
-- large-image
-- lattifai-run
-- cortexgraph
-- bybit-bulk-downloader
-- txtai
-- veracode-api-py
 - dkist-inventory
 - mdformat-py-edu-fr
 - gftools
@@ -101,3 +94,9 @@
 - syndisco
 - HedgeTech
 - apolo-app-types
+- invenio-app-rdm
+- vllm-ascend
+- orq-ai-sdk
+- jupyter-fs
+- azureml-registry-tools
+- fsai-proto-specs

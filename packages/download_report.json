@@ -1,15 +1,8 @@
 {
-  "download_time": "2025-11-21T15:40:29.410430",
-  "total_packages_downloaded": 95,
-  "total_size_mb": 45.27,
+  "download_time": "2025-11-21T16:07:17.336664",
+  "total_packages_downloaded": 94,
+  "total_size_mb": 1.8,
   "packages": [
-    "abi-core-ai",
-    "large-image",
-    "lattifai-run",
-    "cortexgraph",
-    "bybit-bulk-downloader",
-    "txtai",
-    "veracode-api-py",
     "dkist-inventory",
     "mdformat-py-edu-fr",
     "gftools",
@@ -97,6 +90,12 @@
     "bel-selenium-fetcher",
     "syndisco",
     "HedgeTech",
-    "apolo-app-types"
+    "apolo-app-types",
+    "invenio-app-rdm",
+    "vllm-ascend",
+    "orq-ai-sdk",
+    "jupyter-fs",
+    "azureml-registry-tools",
+    "fsai-proto-specs"
   ]
 }
