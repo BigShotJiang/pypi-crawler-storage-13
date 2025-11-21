@@ -1,0 +1,11 @@
+{
+  "name": "receptiviti",
+  "version": "0.2.1",
+  "summary": "Process texts with the Receptiviti API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "receptiviti-0.2.1.tar.gz",
+  "download_time": "2025-11-21T19:20:07.203799",
+  "package_url": "https://pypi.org/project/receptiviti/"
+}

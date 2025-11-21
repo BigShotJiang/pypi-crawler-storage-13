@@ -1,11 +1,11 @@
 {
   "name": "molde",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": null,
   "author": "André Fernandes",
   "license": null,
   "home_page": null,
-  "download_filename": "molde-0.1.17.tar.gz",
-  "download_time": "2025-11-21T16:49:35.949428",
+  "download_filename": "molde-0.1.18.tar.gz",
+  "download_time": "2025-11-21T19:19:49.756031",
   "package_url": "https://pypi.org/project/molde/"
 }

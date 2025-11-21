@@ -1,0 +1,11 @@
+{
+  "name": "voike",
+  "version": "3.0.0",
+  "summary": "VOIKE - The FLOW-Native AI Platform",
+  "author": "VOIKE Team",
+  "license": "MIT",
+  "home_page": "https://github.com/voike/voike",
+  "download_filename": "voike-3.0.0.tar.gz",
+  "download_time": "2025-11-21T19:19:50.289174",
+  "package_url": "https://pypi.org/project/voike/"
+}

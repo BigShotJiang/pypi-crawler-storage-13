@@ -1,0 +1,11 @@
+{
+  "name": "diqa",
+  "version": "0.1.1",
+  "summary": "A production-ready No-Reference Image Quality Assessment (NR-IQA) library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diqa-0.1.1.tar.gz",
+  "download_time": "2025-11-21T19:20:09.926244",
+  "package_url": "https://pypi.org/project/diqa/"
+}

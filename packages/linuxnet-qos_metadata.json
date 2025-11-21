@@ -1,0 +1,11 @@
+{
+  "name": "linuxnet-qos",
+  "version": "3.5.2",
+  "summary": "programmatic access to the Linux queuing disciplines",
+  "author": "Panagiotis (Panos) Tsirigotis",
+  "license": "AGPLv3",
+  "home_page": "https://gitlab.com/panos-tools/linuxnet-qos",
+  "download_filename": "linuxnet_qos-3.5.2.tar.gz",
+  "download_time": "2025-11-21T19:19:39.898434",
+  "package_url": "https://pypi.org/project/linuxnet-qos/"
+}

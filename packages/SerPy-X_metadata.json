@@ -1,0 +1,11 @@
+{
+  "name": "SerPy-X",
+  "version": "0.1.2",
+  "summary": "Statistical single-exposure retrieval of transmission, isotropic and directional dark-field signals for X-ray imaging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serpy_x-0.1.2.tar.gz",
+  "download_time": "2025-11-21T19:19:43.794037",
+  "package_url": "https://pypi.org/project/SerPy-X/"
+}

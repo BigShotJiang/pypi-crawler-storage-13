@@ -1,11 +1,11 @@
 {
   "name": "hio",
-  "version": "0.7.17",
+  "version": "0.7.18",
   "summary": "Hierarchical Concurrency with Async IO",
   "author": "Samuel M. Smith",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/ioflo/hio",
-  "download_filename": "hio-0.7.17.tar.gz",
-  "download_time": "2025-11-20T20:55:15.284789",
+  "download_filename": "hio-0.7.18.tar.gz",
+  "download_time": "2025-11-21T19:19:45.965524",
   "package_url": "https://pypi.org/project/hio/"
 }
