@@ -1,0 +1,11 @@
+{
+  "name": "antimony",
+  "version": "3.1.1",
+  "summary": "Python bindings for libAntimony",
+  "author": "Lucian Smith",
+  "license": "MIT",
+  "home_page": "http://antimony.sf.net/",
+  "download_filename": "antimony-3.1.1-py3-none-macosx_14_0_arm64.whl",
+  "download_time": "2025-11-21T23:22:04.526488",
+  "package_url": "https://pypi.org/project/antimony/"
+}

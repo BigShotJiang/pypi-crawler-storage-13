@@ -1,0 +1,11 @@
+{
+  "name": "trulens-providers-google",
+  "version": "2.5.1",
+  "summary": "Library to systematically track and evaluate LLM based applications.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens_providers_google-2.5.1.tar.gz",
+  "download_time": "2025-11-21T23:22:28.566888",
+  "package_url": "https://pypi.org/project/trulens-providers-google/"
+}

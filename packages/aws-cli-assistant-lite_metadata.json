@@ -1,11 +1,11 @@
 {
   "name": "aws-cli-assistant-lite",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Natural language to AWS CLI converter with MCP, Web, and CLI modes",
   "author": "Malini Agrawal",
   "license": "Commercial",
   "home_page": "https://github.com/maliniagrawal/aws-cli-assistant-lite",
-  "download_filename": "aws_cli_assistant_lite-1.0.3.tar.gz",
-  "download_time": "2025-11-19T22:21:29.768839",
+  "download_filename": "aws_cli_assistant_lite-1.0.4.tar.gz",
+  "download_time": "2025-11-21T23:22:24.459448",
   "package_url": "https://pypi.org/project/aws-cli-assistant-lite/"
 }

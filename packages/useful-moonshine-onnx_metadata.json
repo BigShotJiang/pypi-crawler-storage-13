@@ -1,11 +1,11 @@
 {
   "name": "useful-moonshine-onnx",
-  "version": "20251120",
+  "version": "20251121",
   "summary": "Speech recognition for live transcription and voice commands with the Moonshine ONNX models.",
   "author": "Useful Sensors",
   "license": "MIT",
   "home_page": "https://github.com/moonshine-ai/moonshine",
-  "download_filename": "useful_moonshine_onnx-20251120.tar.gz",
-  "download_time": "2025-11-20T23:23:09.300167",
+  "download_filename": "useful_moonshine_onnx-20251121.tar.gz",
+  "download_time": "2025-11-21T23:22:42.958121",
   "package_url": "https://pypi.org/project/useful-moonshine-onnx/"
 }

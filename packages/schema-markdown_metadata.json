@@ -1,0 +1,11 @@
+{
+  "name": "schema-markdown",
+  "version": "1.2.12",
+  "summary": "A schema definition and validation library",
+  "author": "Craig A. Hobbs",
+  "license": "MIT",
+  "home_page": "https://github.com/craigahobbs/schema-markdown",
+  "download_filename": "schema_markdown-1.2.12.tar.gz",
+  "download_time": "2025-11-21T23:22:20.276125",
+  "package_url": "https://pypi.org/project/schema-markdown/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jx",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Replace your HTML templates with Python server-Side components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jx-0.5.0.tar.gz",
-  "download_time": "2025-11-21T22:44:18.685963",
+  "download_filename": "jx-0.5.1.tar.gz",
+  "download_time": "2025-11-21T23:22:23.948238",
   "package_url": "https://pypi.org/project/jx/"
 }

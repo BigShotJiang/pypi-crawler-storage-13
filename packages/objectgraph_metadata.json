@@ -1,0 +1,11 @@
+{
+  "name": "objectgraph",
+  "version": "1.0.5",
+  "summary": "A basic graph library",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://objectgraph.readthedocs.io/",
+  "download_filename": "objectgraph-1.0.5.tar.gz",
+  "download_time": "2025-11-21T23:22:13.070076",
+  "package_url": "https://pypi.org/project/objectgraph/"
+}

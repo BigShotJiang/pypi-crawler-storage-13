@@ -1,0 +1,11 @@
+{
+  "name": "bedrock-protocol-packets",
+  "version": "0.0.7",
+  "summary": "Minecraft Bedrock Packets Codec Library",
+  "author": "GlacieTeam",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "bedrock_protocol_packets-0.0.7-py3-none-any.whl",
+  "download_time": "2025-11-21T23:22:19.246029",
+  "package_url": "https://pypi.org/project/bedrock-protocol-packets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loops-ai",
+  "version": "0.1.0",
+  "summary": "AI-powered ad generation pipeline that transforms product briefs into creative ad visuals",
+  "author": "Loops Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loops_ai-0.1.0.tar.gz",
+  "download_time": "2025-11-21T23:22:46.074419",
+  "package_url": "https://pypi.org/project/loops-ai/"
+}
