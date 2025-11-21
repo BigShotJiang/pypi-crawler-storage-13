@@ -1,11 +1,11 @@
 {
   "name": "storage-node-env",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "Gymnasium environments for simulating energy nodes with battery energy storage systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "storage_node_env-0.8.1.tar.gz",
-  "download_time": "2025-11-21T14:45:25.121502",
+  "download_filename": "storage_node_env-0.8.2.tar.gz",
+  "download_time": "2025-11-21T15:39:58.139555",
   "package_url": "https://pypi.org/project/storage-node-env/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-website-sale-product-attribute-filter-category",
-  "version": "18.0.1.0.0.2",
+  "version": "18.0.1.0.1",
   "summary": "Allow group attributes in shop by categories",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/e-commerce",
-  "download_filename": "odoo_addon_website_sale_product_attribute_filter_category-18.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2025-11-19T19:52:38.975276",
+  "download_filename": "odoo_addon_website_sale_product_attribute_filter_category-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-21T15:40:06.933405",
   "package_url": "https://pypi.org/project/odoo-addon-website-sale-product-attribute-filter-category/"
 }
