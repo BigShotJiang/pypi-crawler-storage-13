@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-grep",
+  "version": "0.2.1",
+  "summary": "MCP Grep Server",
+  "author": null,
+  "license": "GPL 3.0+",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_grep-0.2.1.tar.gz",
+  "download_time": "2025-11-21T06:35:59.352783",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-grep/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_a2a_mcp_server",
+  "version": "0.1.5",
+  "summary": "A bridge server that connects Model Context Protocol (MCP) with Agent-to-Agent (A2A) protocol",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_a2a_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-11-21T06:36:09.265953",
+  "package_url": "https://pypi.org/project/iflow-mcp_a2a_mcp_server/"
+}

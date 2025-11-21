@@ -1,11 +1,11 @@
 {
   "name": "format-docstring",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A Python formatter to wrap/adjust docstring lines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "format_docstring-0.2.5.tar.gz",
-  "download_time": "2025-11-20T06:58:20.492632",
+  "download_filename": "format_docstring-0.2.6.tar.gz",
+  "download_time": "2025-11-21T06:36:18.105469",
   "package_url": "https://pypi.org/project/format-docstring/"
 }

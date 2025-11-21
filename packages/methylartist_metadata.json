@@ -1,0 +1,11 @@
+{
+  "name": "methylartist",
+  "version": "1.5.3",
+  "summary": "Tools for parsing and plotting nanopore methylation data",
+  "author": "Adam Ewing",
+  "license": "MIT",
+  "home_page": "https://github.com/adamewing/methylartist",
+  "download_filename": "methylartist-1.5.3.tar.gz",
+  "download_time": "2025-11-21T06:35:37.506969",
+  "package_url": "https://pypi.org/project/methylartist/"
+}

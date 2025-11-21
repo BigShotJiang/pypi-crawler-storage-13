@@ -1,11 +1,11 @@
 {
   "name": "Sentiment140-DU",
-  "version": "0.0.1",
-  "summary": "Sentiment140's Data Understanding Phase",
+  "version": "0.0.2",
+  "summary": "Data understanding phase for Sentiment140",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sentiment140_du-0.0.1.tar.gz",
-  "download_time": "2025-11-20T21:39:00.555006",
+  "download_filename": "sentiment140_du-0.0.2.tar.gz",
+  "download_time": "2025-11-21T06:35:48.978840",
   "package_url": "https://pypi.org/project/Sentiment140-DU/"
 }

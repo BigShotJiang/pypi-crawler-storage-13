@@ -1,11 +1,11 @@
 {
   "name": "aerospot-autoreport",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "summary": "AeroSpot自动化报告生成工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aerospot_autoreport-1.7.2-py3-none-any.whl",
-  "download_time": "2025-11-21T05:56:27.248496",
+  "download_filename": "aerospot_autoreport-1.7.3-py3-none-any.whl",
+  "download_time": "2025-11-21T06:35:40.392371",
   "package_url": "https://pypi.org/project/aerospot-autoreport/"
 }

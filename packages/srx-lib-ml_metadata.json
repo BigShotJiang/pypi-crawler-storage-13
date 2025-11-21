@@ -1,0 +1,11 @@
+{
+  "name": "srx-lib-ml",
+  "version": "0.1.2",
+  "summary": "Reusable analytics and ML utilities for transport risk detection and streaming dashboards.",
+  "author": "SRX Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "srx_lib_ml-0.1.2.tar.gz",
+  "download_time": "2025-11-21T06:36:10.418660",
+  "package_url": "https://pypi.org/project/srx-lib-ml/"
+}

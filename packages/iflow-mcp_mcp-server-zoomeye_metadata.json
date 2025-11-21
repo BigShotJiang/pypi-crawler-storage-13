@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-zoomeye",
+  "version": "0.1.5",
+  "summary": "A Model Context Protocol server providing tools for ZoomEye queries for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_zoomeye-0.1.5.tar.gz",
+  "download_time": "2025-11-21T06:35:38.660774",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-zoomeye/"
+}
