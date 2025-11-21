@@ -1,11 +1,11 @@
 {
   "name": "ldc-lender-datalayer",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "A comprehensive data access layer for ldc lender apps",
   "author": "Sandesh Kanagal",
   "license": null,
   "home_page": null,
-  "download_filename": "ldc_lender_datalayer-1.0.14.tar.gz",
-  "download_time": "2025-11-19T09:26:27.312839",
+  "download_filename": "ldc_lender_datalayer-1.0.15.tar.gz",
+  "download_time": "2025-11-21T07:29:31.470785",
   "package_url": "https://pypi.org/project/ldc-lender-datalayer/"
 }
