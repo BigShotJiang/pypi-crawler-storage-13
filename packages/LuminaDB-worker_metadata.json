@@ -1,0 +1,11 @@
+{
+  "name": "LuminaDB-worker",
+  "version": "0.0.1",
+  "summary": "Worker thread extension for LuminaDB",
+  "author": "RimuEirnarn",
+  "license": null,
+  "home_page": "https://github.com/RimuEirnarn/luminadb",
+  "download_filename": "luminadb_worker-0.0.1.tar.gz",
+  "download_time": "2025-11-21T13:46:47.290514",
+  "package_url": "https://pypi.org/project/LuminaDB-worker/"
+}

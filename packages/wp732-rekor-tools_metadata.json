@@ -1,0 +1,11 @@
+{
+  "name": "wp732-rekor-tools",
+  "version": "4.0.0",
+  "summary": "Tools to make using Rekor eaiser",
+  "author": "Warren Pfeffer",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wp732_rekor_tools-4.0.0.tar.gz",
+  "download_time": "2025-11-21T13:46:56.841357",
+  "package_url": "https://pypi.org/project/wp732-rekor-tools/"
+}

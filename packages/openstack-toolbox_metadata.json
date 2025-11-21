@@ -1,11 +1,11 @@
 {
   "name": "openstack-toolbox",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "A toolbox for OpenStack (Infomaniak hosting)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openstack_toolbox-1.5.0.tar.gz",
-  "download_time": "2025-11-21T11:53:32.528343",
+  "download_filename": "openstack_toolbox-1.6.0.tar.gz",
+  "download_time": "2025-11-21T13:47:10.001614",
   "package_url": "https://pypi.org/project/openstack-toolbox/"
 }

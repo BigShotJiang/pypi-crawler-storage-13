@@ -1,0 +1,11 @@
+{
+  "name": "libcaes-python",
+  "version": "20251121",
+  "summary": "Python bindings module for libcaes",
+  "author": "Joachim Metz",
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)",
+  "home_page": null,
+  "download_filename": "libcaes_python-20251121.tar.gz",
+  "download_time": "2025-11-21T13:47:31.606055",
+  "package_url": "https://pypi.org/project/libcaes-python/"
+}

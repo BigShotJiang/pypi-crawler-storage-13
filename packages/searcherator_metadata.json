@@ -1,0 +1,11 @@
+{
+  "name": "searcherator",
+  "version": "0.0.2",
+  "summary": "A Python package for performing cached web searches using the Brave Search API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "searcherator-0.0.2.tar.gz",
+  "download_time": "2025-11-21T13:46:53.178046",
+  "package_url": "https://pypi.org/project/searcherator/"
+}

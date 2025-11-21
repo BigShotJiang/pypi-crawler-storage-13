@@ -1,0 +1,11 @@
+{
+  "name": "python-linstor",
+  "version": "1.27.0",
+  "summary": "Linstor python api",
+  "author": "Robert Altnoeder <robert.altnoeder@linbit.com>, Roland Kammerer <roland.kammerer@linbit.com>, Rene Peinthor <rene.peinthor@linbit.com>, Moritz Wanzenboeck <moritz.wanzenboeck@linbit.com>",
+  "license": "LGPLv3",
+  "home_page": "https://www.linbit.com",
+  "download_filename": "python_linstor-1.27.0-py3-none-any.whl",
+  "download_time": "2025-11-21T13:47:30.022762",
+  "package_url": "https://pypi.org/project/python-linstor/"
+}

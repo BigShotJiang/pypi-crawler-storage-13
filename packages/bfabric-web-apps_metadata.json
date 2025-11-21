@@ -1,0 +1,11 @@
+{
+  "name": "bfabric-web-apps",
+  "version": "0.3.1",
+  "summary": "A package containing handy boilerplate utilities for developing bfabric web-applications",
+  "author": "Marc Zuber, Griffin White, GWC GmbH",
+  "license": "MIT",
+  "home_page": "https://gitlab.bfabric.org/bfabricpublic/bfabric-web-apps/-/wikis/home/",
+  "download_filename": "bfabric_web_apps-0.3.1.tar.gz",
+  "download_time": "2025-11-21T13:47:30.542751",
+  "package_url": "https://pypi.org/project/bfabric-web-apps/"
+}
