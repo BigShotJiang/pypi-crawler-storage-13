@@ -1,13 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T05:45:58.764946
-- **Total Packages**: 81
-- **Total Size**: 22.46 MB
+- **Download Time**: 2025-11-21T05:57:10.520879
+- **Total Packages**: 83
+- **Total Size**: 6.38 MB
 
 ## Packages List
-- pulumi-confluentcloud
+- PyQUDA
+- ultimate-gemini-mcp
+- mcp-finnhub
+- aerospot-autoreport
+- pulumi-dbtcloud
+- wattameter
 - magic-extractor
+- duckrun
+- hyperpod-space-template
+- boomi
+- SimplerLLM
+- gapless-crypto-clickhouse
+- opik-optimizer
+- phy-imports-resolver
+- pulumi-artifactory
+- iflow-mcp-azure-fhir-mcp-server
+- j2tmpl
+- pulumi-alicloud
+- pulumi-cloudngfwaws
+- scbiot
+- pulumi-confluentcloud
+- adk-retrieval
 - dars-framework
 - pulumi-cloudinit
 - gllm-inference-binary
@@ -50,7 +70,6 @@
 - waterqsvg
 - speterlin-stocks
 - langchain-compensation
-- ultimate-gemini-mcp
 - jetflow
 - dhan-mcp-server
 - pulumi-auth0
@@ -70,20 +89,3 @@
 - pulumi-aiven
 - matrice-analytics
 - iflow-mcp_claude-post
-- iflow-mcp_codebasemcp
-- auth
-- deepfake-sdk
-- ign-lidar-hd
-- iflow-mcp_world_bank_mcp_server
-- adv-optm
-- apache-tvm-ffi
-- autopilot-tools
-- createsonline
-- memorable-ai
-- deephaven-mcp
-- nextrec
-- ydata-profiling
-- nonebot_plugin_suggarchat
-- match-predicting-pub-api
-- match-predicting-ann-server-pub-api
-- groundeddino-vl
