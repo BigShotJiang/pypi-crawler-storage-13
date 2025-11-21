@@ -1,0 +1,11 @@
+{
+  "name": "zope.meta",
+  "version": "2.1",
+  "summary": "Helper functions for package management",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/meta",
+  "download_filename": "zope_meta-2.1.tar.gz",
+  "download_time": "2025-11-21T08:32:45.791598",
+  "package_url": "https://pypi.org/project/zope.meta/"
+}

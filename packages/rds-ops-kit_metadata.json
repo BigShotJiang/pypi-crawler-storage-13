@@ -1,0 +1,11 @@
+{
+  "name": "rds-ops-kit",
+  "version": "0.3.0",
+  "summary": "CLI toolkit for RDS/Aurora PostgreSQL parameter groups, deploy plans and migration readiness checks.",
+  "author": "Vjekoslav Goronja",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rds_ops_kit-0.3.0.tar.gz",
+  "download_time": "2025-11-21T08:32:34.810992",
+  "package_url": "https://pypi.org/project/rds-ops-kit/"
+}

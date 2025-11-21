@@ -1,0 +1,11 @@
+{
+  "name": "nnetflow",
+  "version": "2.0.4",
+  "summary": "A minimal neural network framework with autodiff and NumPy",
+  "author": "Lewis Njue",
+  "license": "MIT",
+  "home_page": "https://github.com/lewisnjue/nnetflow",
+  "download_filename": "nnetflow-2.0.4.tar.gz",
+  "download_time": "2025-11-21T08:32:28.058483",
+  "package_url": "https://pypi.org/project/nnetflow/"
+}

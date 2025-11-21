@@ -1,0 +1,11 @@
+{
+  "name": "clc99",
+  "version": "2.3.post1",
+  "summary": "This is a module to make your 'print' function looks like Metasploit.",
+  "author": "99",
+  "license": null,
+  "home_page": "https://github.com/windows99-hue/clc99",
+  "download_filename": "clc99-2.3.post1.tar.gz",
+  "download_time": "2025-11-21T08:32:32.737537",
+  "package_url": "https://pypi.org/project/clc99/"
+}

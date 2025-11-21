@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-reddit",
+  "version": "0.1.0",
+  "summary": "MCP Reddit Server - A Model Control Protocol server for Reddit integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_reddit-0.1.0.tar.gz",
+  "download_time": "2025-11-21T08:32:35.851986",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-reddit/"
+}
