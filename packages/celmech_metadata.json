@@ -1,0 +1,11 @@
+{
+  "name": "celmech",
+  "version": "1.5.7",
+  "summary": "Open source tools for celestial mechanics",
+  "author": "Dan Tamayo, Sam Hadden",
+  "license": "GPL",
+  "home_page": "http://github.com/shadden/celmech",
+  "download_filename": "celmech-1.5.7.tar.gz",
+  "download_time": "2025-11-21T01:44:54.385926",
+  "package_url": "https://pypi.org/project/celmech/"
+}

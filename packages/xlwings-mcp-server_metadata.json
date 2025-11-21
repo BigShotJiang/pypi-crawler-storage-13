@@ -1,0 +1,11 @@
+{
+  "name": "xlwings-mcp-server",
+  "version": "1.0.2",
+  "summary": "Excel MCP Server for manipulating Excel files using xlwings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlwings_mcp_server-1.0.2.tar.gz",
+  "download_time": "2025-11-21T01:44:24.926583",
+  "package_url": "https://pypi.org/project/xlwings-mcp-server/"
+}

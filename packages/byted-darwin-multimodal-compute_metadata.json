@@ -1,0 +1,11 @@
+{
+  "name": "byted-darwin-multimodal-compute",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/byted_darwin_multimodal_compute",
+  "download_filename": "byted_darwin_multimodal_compute-0.0.1.tar.gz",
+  "download_time": "2025-11-21T01:44:40.503871",
+  "package_url": "https://pypi.org/project/byted-darwin-multimodal-compute/"
+}

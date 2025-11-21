@@ -1,0 +1,11 @@
+{
+  "name": "credtools",
+  "version": "0.0.40",
+  "summary": "multi-ancestry fine-mapping pipeline.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "credtools-0.0.40.tar.gz",
+  "download_time": "2025-11-21T01:44:46.378515",
+  "package_url": "https://pypi.org/project/credtools/"
+}

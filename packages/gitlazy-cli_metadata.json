@@ -1,0 +1,11 @@
+{
+  "name": "gitlazy-cli",
+  "version": "0.1.2",
+  "summary": "One-command git workflow helper: add, summarize, commit, pull --rebase, and push.",
+  "author": "Shawki Aladdin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitlazy_cli-0.1.2.tar.gz",
+  "download_time": "2025-11-21T01:44:38.410298",
+  "package_url": "https://pypi.org/project/gitlazy-cli/"
+}

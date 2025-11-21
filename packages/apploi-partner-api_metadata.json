@@ -1,0 +1,11 @@
+{
+  "name": "apploi-partner-api",
+  "version": "0.1.8",
+  "summary": "Official Python client for Apploi Partner API with high-level abstractions",
+  "author": "Apploi",
+  "license": null,
+  "home_page": "https://github.com/apploitech/partner-api",
+  "download_filename": "apploi_partner_api-0.1.8.tar.gz",
+  "download_time": "2025-11-21T01:44:21.208949",
+  "package_url": "https://pypi.org/project/apploi-partner-api/"
+}
