@@ -1,11 +1,11 @@
 {
   "name": "pgql",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "A lightweight Python GraphQL server framework with automatic resolver mapping and schema introspection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pgql-0.5.5.tar.gz",
-  "download_time": "2025-11-21T07:29:24.692857",
+  "download_filename": "pgql-0.5.6.tar.gz",
+  "download_time": "2025-11-21T20:44:05.176466",
   "package_url": "https://pypi.org/project/pgql/"
 }

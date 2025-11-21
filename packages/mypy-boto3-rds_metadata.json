@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-rds",
-  "version": "1.41.1",
-  "summary": "Type annotations for boto3 RDS 1.41.1 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.41.2",
+  "summary": "Type annotations for boto3 RDS 1.41.2 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_rds-1.41.1.tar.gz",
-  "download_time": "2025-11-20T20:55:32.117211",
+  "download_filename": "mypy_boto3_rds-1.41.2.tar.gz",
+  "download_time": "2025-11-21T20:44:20.478072",
   "package_url": "https://pypi.org/project/mypy-boto3-rds/"
 }

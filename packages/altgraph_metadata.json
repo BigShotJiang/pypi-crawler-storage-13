@@ -1,0 +1,11 @@
+{
+  "name": "altgraph",
+  "version": "0.17.5",
+  "summary": "Python graph (network) package",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://altgraph.readthedocs.io",
+  "download_filename": "altgraph-0.17.5.tar.gz",
+  "download_time": "2025-11-21T20:44:41.975789",
+  "package_url": "https://pypi.org/project/altgraph/"
+}

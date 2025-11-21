@@ -1,11 +1,11 @@
 {
   "name": "schedule-management",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "summary": "A TOML based scheduling tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "schedule_management-0.2.7.tar.gz",
-  "download_time": "2025-11-21T20:26:41.017378",
+  "download_filename": "schedule_management-0.3.0.tar.gz",
+  "download_time": "2025-11-21T20:43:58.285437",
   "package_url": "https://pypi.org/project/schedule-management/"
 }
