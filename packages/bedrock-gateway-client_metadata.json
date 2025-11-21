@@ -1,11 +1,11 @@
 {
   "name": "bedrock-gateway-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python client for AWS Bedrock Gateway with IAM authentication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bedrock_gateway_client-1.0.2.tar.gz",
-  "download_time": "2025-11-21T11:53:26.818090",
+  "download_filename": "bedrock_gateway_client-1.0.3.tar.gz",
+  "download_time": "2025-11-21T17:21:15.027084",
   "package_url": "https://pypi.org/project/bedrock-gateway-client/"
 }

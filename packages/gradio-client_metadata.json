@@ -1,11 +1,11 @@
 {
   "name": "gradio-client",
-  "version": "1.13.3",
+  "version": "2.0.0",
   "summary": "Python library for easily interacting with trained machine learning models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_client-1.13.3.tar.gz",
-  "download_time": "2025-11-19T17:25:03.362502",
+  "download_filename": "gradio_client-2.0.0.tar.gz",
+  "download_time": "2025-11-21T17:21:12.855130",
   "package_url": "https://pypi.org/project/gradio-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nowcasting-datamodel",
+  "version": "1.7.6",
+  "summary": "Data Model for the OCF nowcasting project",
+  "author": "Peter Dudfield",
+  "license": "MIT",
+  "home_page": "https://github.com/openclimatefix/nowcasting_datamodel",
+  "download_filename": "nowcasting_datamodel-1.7.6.tar.gz",
+  "download_time": "2025-11-21T17:21:13.991611",
+  "package_url": "https://pypi.org/project/nowcasting-datamodel/"
+}

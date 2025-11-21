@@ -1,0 +1,11 @@
+{
+  "name": "fftrr-poisson",
+  "version": "1.0.0",
+  "summary": "A Fast Fourier Transform Recursive Relationship (FFTRR) algorithm for solving the Poisson Equation on the Unit Disk.",
+  "author": "Dr. Prabir Daripa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fftrr_poisson-1.0.0.tar.gz",
+  "download_time": "2025-11-21T17:20:49.132058",
+  "package_url": "https://pypi.org/project/fftrr-poisson/"
+}

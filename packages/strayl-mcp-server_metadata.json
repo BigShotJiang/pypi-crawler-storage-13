@@ -1,11 +1,11 @@
 {
   "name": "strayl-mcp-server",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "MCP server for Strayl log search with semantic and exact search capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strayl_mcp_server-0.1.6.tar.gz",
-  "download_time": "2025-11-21T16:49:11.268245",
+  "download_filename": "strayl_mcp_server-0.1.7.tar.gz",
+  "download_time": "2025-11-21T17:21:18.111647",
   "package_url": "https://pypi.org/project/strayl-mcp-server/"
 }

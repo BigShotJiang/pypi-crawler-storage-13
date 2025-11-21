@@ -1,0 +1,11 @@
+{
+  "name": "cmf",
+  "version": "2.0.2",
+  "summary": "Catchment Modelling Framework - A hydrological modelling toolkit",
+  "author": "Philipp Kraft",
+  "license": "GPLv3+",
+  "home_page": "https://www.uni-giessen.de/hydro/download",
+  "download_filename": "cmf-2.0.2.tar.gz",
+  "download_time": "2025-11-21T17:21:15.544692",
+  "package_url": "https://pypi.org/project/cmf/"
+}

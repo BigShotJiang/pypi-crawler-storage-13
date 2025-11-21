@@ -1,0 +1,11 @@
+{
+  "name": "ni.measurements.metadata.v1.client",
+  "version": "0.2.0.dev3",
+  "summary": "gRPC Client for NI Metadata Store Service",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ni_measurements_metadata_v1_client-0.2.0.dev3.tar.gz",
+  "download_time": "2025-11-21T17:21:21.205744",
+  "package_url": "https://pypi.org/project/ni.measurements.metadata.v1.client/"
+}
