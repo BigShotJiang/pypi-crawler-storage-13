@@ -1,0 +1,11 @@
+{
+  "name": "qrisp",
+  "version": "0.7.12",
+  "summary": "Qrisp - A high level language for gate-based quantum computing",
+  "author": "The Qrisp team",
+  "license": null,
+  "home_page": "https://github.com/fraunhoferfokus/Qrisp",
+  "download_filename": "qrisp-0.7.12.tar.gz",
+  "download_time": "2025-11-21T17:54:33.026260",
+  "package_url": "https://pypi.org/project/qrisp/"
+}

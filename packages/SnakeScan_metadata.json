@@ -1,11 +1,11 @@
 {
   "name": "SnakeScan",
-  "version": "1.6.4",
-  "summary": "IPv4 address scanner for collecting address information.Use carefully for your network safety.Use to get IPV4 from IPV6  address.Don't use it to scan IPV6 because it's not designed for it. Scan only IPv4 or get the IPv4 address from the IPv6 host ",
+  "version": "1.6.7",
+  "summary": "IPv4 address scanner for collecting address information.Use carefully for your network safety.Use to get IPV4 from IPV6  address.Don't use it to scan IPV6 because it's not designed for it. Scan only IPv4 or get the IPv4 address from the IPv6 host",
   "author": "Den*Ram",
   "license": null,
   "home_page": null,
-  "download_filename": "snakescan-1.6.4.tar.gz",
-  "download_time": "2025-11-19T15:24:17.769519",
+  "download_filename": "snakescan-1.6.7.tar.gz",
+  "download_time": "2025-11-21T17:54:41.866280",
   "package_url": "https://pypi.org/project/SnakeScan/"
 }

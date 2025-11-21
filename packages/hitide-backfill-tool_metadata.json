@@ -1,0 +1,11 @@
+{
+  "name": "hitide-backfill-tool",
+  "version": "0.12.1",
+  "summary": "Backfill footprints and images for HiTIDE collections",
+  "author": "PO.DAAC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hitide_backfill_tool-0.12.1.tar.gz",
+  "download_time": "2025-11-21T17:54:31.391442",
+  "package_url": "https://pypi.org/project/hitide-backfill-tool/"
+}
