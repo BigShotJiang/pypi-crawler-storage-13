@@ -1,0 +1,11 @@
+{
+  "name": "obspec-utils",
+  "version": "0.1.0",
+  "summary": "Utilities for interacting with object storage, based on obspec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "obspec_utils-0.1.0.tar.gz",
+  "download_time": "2025-11-21T21:40:30.890198",
+  "package_url": "https://pypi.org/project/obspec-utils/"
+}

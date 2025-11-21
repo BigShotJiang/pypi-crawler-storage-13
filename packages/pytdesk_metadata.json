@@ -1,0 +1,11 @@
+{
+  "name": "pytdesk",
+  "version": "1.0.4",
+  "summary": "A lightweight, robust Python client for interacting with the TalentDesk API.",
+  "author": "Scott Murray",
+  "license": null,
+  "home_page": "https://github.com/scottmurray2789/pytdesk",
+  "download_filename": "pytdesk-1.0.4.tar.gz",
+  "download_time": "2025-11-21T21:40:26.715637",
+  "package_url": "https://pypi.org/project/pytdesk/"
+}

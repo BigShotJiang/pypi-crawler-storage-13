@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T21:29:00.188503
-- **Total Packages**: 86
-- **Total Size**: 27.02 MB
+- **Download Time**: 2025-11-21T21:41:11.458402
+- **Total Packages**: 84
+- **Total Size**: 11.45 MB
 
 ## Packages List
+- bdext
+- pytdesk
+- qrtunnel
+- vivarium-build-utils
+- n7
+- payi
+- secure-python-utils
+- linkml
+- moltres
+- obspec-utils
+- pyulysses
+- featclus
+- ipynb-pdf
+- zara
+- liger-kernel-nightly
+- code-spy
+- python-xbox
+- forcepy
+- groundx
+- answerrocket-client
+- typewing
+- gravi-vision
+- imap-processing
+- PythonandDragons
+- yfmcp
+- geoprior1d
+- data-automation-kit
+- adcp
+- weni-cli
+- wwpdb.apps.releasemodule
+- mdformat-mkdocs
+- deephaven-coreplus-client
+- dailybasket-support-mithilesh
+- strands-agents
+- nvshmem4py-cu13
+- nia-mcp-server
+- DaisyBlast
 - asyncblobdict
 - weni-agents-toolkit
 - pydrime
@@ -13,13 +50,10 @@
 - nextline-schedule
 - datamint
 - xatra
-- sara-ai
 - metahq-core
 - openai-chatkit
-- featclus
 - django-env-check
 - redfetch
-- groundx
 - tol-sdk
 - overflow-hydro
 - contextinator
@@ -39,8 +73,6 @@
 - types-s3transfer
 - mongo-charms-single-kernel
 - datatalk-cli
-- pyulysses
-- PythonandDragons
 - yugo-booking-lib-vishal
 - yugo-booking-lib
 - langchain-model-profiles
@@ -53,42 +85,8 @@
 - ProteinGymPy
 - pyg90alarm
 - jetbase
-- ipynb-pdf
 - scikit-surgerycalibration
 - biblemategui
 - ax-platform
-- qrtunnel
 - arthur-common
 - deephaven-mcp
-- azure-ai-voicelive
-- pyagfs
-- cml-parser
-- schemez
-- zaguan-sdk
-- gondola
-- titans-pytorch
-- britive
-- morningstar-data
-- pyccolo
-- langchain-core
-- types-awscrt
-- sage-lib
-- pyaskalono
-- aoc-mod
-- hume
-- ant-upload-checker
-- pycarlo
-- ucdp
-- batplot
-- lipana
-- progress-bar-plus
-- ezga-lib
-- AgentService
-- ray-cli
-- mcp-memory-service
-- py-markdown-editor
-- promptlayer
-- runloop_api_client
-- ezmq
-- vijil
-- pylizlib

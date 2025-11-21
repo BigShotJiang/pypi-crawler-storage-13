@@ -1,11 +1,11 @@
 {
   "name": "moltres",
-  "version": "0.4.0",
-  "summary": "PySpark-like DataFrame API that compiles to SQL",
+  "version": "0.5.0",
+  "summary": "DataFrame API with SQL pushdown execution and real SQL CRUD - the missing layer for SQL in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moltres-0.4.0.tar.gz",
-  "download_time": "2025-11-21T17:54:39.774144",
+  "download_filename": "moltres-0.5.0.tar.gz",
+  "download_time": "2025-11-21T21:40:30.375772",
   "package_url": "https://pypi.org/project/moltres/"
 }
