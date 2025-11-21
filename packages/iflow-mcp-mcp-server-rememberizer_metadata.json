@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-mcp-server-rememberizer",
+  "version": "0.1.6",
+  "summary": "A Model Context Protocol server for interacting with Rememberizer's document and knowledge management API. This server enables Large Language Models to search, retrieve, and manage documents and integrations through Rememberizer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_rememberizer-0.1.6.tar.gz",
+  "download_time": "2025-11-21T10:26:10.142198",
+  "package_url": "https://pypi.org/project/iflow-mcp-mcp-server-rememberizer/"
+}

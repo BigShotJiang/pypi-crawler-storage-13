@@ -1,0 +1,11 @@
+{
+  "name": "dc-options",
+  "version": "0.1.0",
+  "summary": "Dataclass-driven configuration helpers with metadata, validation, path access, argparse integration, and documentation generation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dc_options-0.1.0.tar.gz",
+  "download_time": "2025-11-21T10:25:41.089488",
+  "package_url": "https://pypi.org/project/dc-options/"
+}

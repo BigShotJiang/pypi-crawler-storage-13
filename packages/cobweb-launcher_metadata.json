@@ -1,11 +1,11 @@
 {
   "name": "cobweb-launcher",
-  "version": "3.2.9",
+  "version": "3.2.10",
   "summary": "spider_hole",
   "author": "Juannie-PP",
   "license": "MIT",
   "home_page": "https://github.com/Juannie-PP/cobweb",
-  "download_filename": "cobweb_launcher-3.2.9.tar.gz",
-  "download_time": "2025-11-21T07:29:26.283788",
+  "download_filename": "cobweb_launcher-3.2.10.tar.gz",
+  "download_time": "2025-11-21T10:25:56.666905",
   "package_url": "https://pypi.org/project/cobweb-launcher/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spinWannier",
+  "version": "0.1.8",
+  "summary": "Wannier (spin) interpolation and spin texture plotting",
+  "author": "L. Vojáček",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "spinwannier-0.1.8.tar.gz",
+  "download_time": "2025-11-21T10:25:26.530522",
+  "package_url": "https://pypi.org/project/spinWannier/"
+}

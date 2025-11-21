@@ -1,11 +1,11 @@
 {
   "name": "sageintacctsdk",
-  "version": "1.27.4",
+  "version": "1.28.0",
   "summary": "Python SDK for accessing Sage Intacct APIs",
   "author": "Ashwin T",
   "license": "MIT",
   "home_page": "https://github.com/fylein/sageintacct-sdk-py",
-  "download_filename": "sageintacctsdk-1.27.4.tar.gz",
-  "download_time": "2025-11-17T18:32:00.789040",
+  "download_filename": "sageintacctsdk-1.28.0.tar.gz",
+  "download_time": "2025-11-21T10:25:28.593787",
   "package_url": "https://pypi.org/project/sageintacctsdk/"
 }

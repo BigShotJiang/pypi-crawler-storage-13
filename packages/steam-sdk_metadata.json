@@ -1,0 +1,11 @@
+{
+  "name": "steam-sdk",
+  "version": "2025.11.1",
+  "summary": "Source code for APIs for STEAM tools.",
+  "author": "STEAM Team",
+  "license": null,
+  "home_page": "https://gitlab.cern.ch/steam/steam_sdk",
+  "download_filename": "steam_sdk-2025.11.1-py3-none-any.whl",
+  "download_time": "2025-11-21T10:26:09.070071",
+  "package_url": "https://pypi.org/project/steam-sdk/"
+}

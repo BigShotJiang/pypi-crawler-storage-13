@@ -1,0 +1,11 @@
+{
+  "name": "diematic-server",
+  "version": "3.6.0",
+  "summary": "Unix daemon and supporting models for publishing data from Diematic DeDietrich boiler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diematic_server-3.6.0.tar.gz",
+  "download_time": "2025-11-21T10:25:30.271014",
+  "package_url": "https://pypi.org/project/diematic-server/"
+}
