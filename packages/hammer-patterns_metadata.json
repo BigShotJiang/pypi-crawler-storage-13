@@ -1,11 +1,11 @@
 {
   "name": "hammer-patterns",
-  "version": "0.1.1",
-  "summary": "Fun ASCII hammer patterns",
+  "version": "0.1.2.2",
+  "summary": "Fun ASCII hammer and custom patterns",
   "author": "Deepinder Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "hammer_patterns-0.1.1.tar.gz",
-  "download_time": "2025-11-21T16:06:47.984676",
+  "download_filename": "hammer_patterns-0.1.2.2.tar.gz",
+  "download_time": "2025-11-21T16:49:04.765195",
   "package_url": "https://pypi.org/project/hammer-patterns/"
 }

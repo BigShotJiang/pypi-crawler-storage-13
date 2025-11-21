@@ -1,0 +1,11 @@
+{
+  "name": "xyzgraph",
+  "version": "1.4.8",
+  "summary": "Molecular Graph Construction from Cartesian Coordinates.",
+  "author": "Dr Alister Goodfellow",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xyzgraph-1.4.8.tar.gz",
+  "download_time": "2025-11-21T16:49:10.745836",
+  "package_url": "https://pypi.org/project/xyzgraph/"
+}

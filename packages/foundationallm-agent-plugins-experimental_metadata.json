@@ -1,11 +1,11 @@
 {
   "name": "foundationallm-agent-plugins-experimental",
-  "version": "0.9.7rc481",
+  "version": "0.9.7rc488",
   "summary": "FoundationaLLM Agent plugins (experimental).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "foundationallm_agent_plugins_experimental-0.9.7rc481.tar.gz",
-  "download_time": "2025-11-18T11:21:04.918478",
+  "download_filename": "foundationallm_agent_plugins_experimental-0.9.7rc488.tar.gz",
+  "download_time": "2025-11-21T16:49:29.167294",
   "package_url": "https://pypi.org/project/foundationallm-agent-plugins-experimental/"
 }

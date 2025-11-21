@@ -1,11 +1,11 @@
 {
   "name": "llm-json-utils",
-  "version": "2.0.0",
+  "version": "0.2.0",
   "summary": "Fast, minimal JSON repair implemented in Rust (PyO3), focusing on truncation and trailing comma fixes.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/shiertier/llm_json_utils",
-  "download_filename": "llm_json_utils-2.0.0.tar.gz",
-  "download_time": "2025-11-21T15:21:48.815846",
+  "download_filename": "llm_json_utils-0.2.0.tar.gz",
+  "download_time": "2025-11-21T16:49:36.468534",
   "package_url": "https://pypi.org/project/llm-json-utils/"
 }

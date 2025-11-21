@@ -1,0 +1,11 @@
+{
+  "name": "igntui",
+  "version": "0.0.1",
+  "summary": "Interactive Terminal User Interface for GitIgnore template generation",
+  "author": "Mohammad Abu Mattar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "igntui-0.0.1.tar.gz",
+  "download_time": "2025-11-21T16:49:21.840664",
+  "package_url": "https://pypi.org/project/igntui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dynex-nightly",
+  "version": "0.1.29",
+  "summary": "Dynex SDK (beta) Neuromorphic Computing Library",
+  "author": "Dynex Developers",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dynex_nightly-0.1.29.tar.gz",
+  "download_time": "2025-11-21T16:49:50.054093",
+  "package_url": "https://pypi.org/project/dynex-nightly/"
+}

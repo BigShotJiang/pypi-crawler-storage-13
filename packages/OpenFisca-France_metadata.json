@@ -1,0 +1,11 @@
+{
+  "name": "OpenFisca-France",
+  "version": "174.2.12",
+  "summary": "OpenFisca Rules as Code model for France.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openfisca_france-174.2.12.tar.gz",
+  "download_time": "2025-11-21T16:49:46.935459",
+  "package_url": "https://pypi.org/project/OpenFisca-France/"
+}

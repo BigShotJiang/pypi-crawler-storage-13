@@ -1,0 +1,11 @@
+{
+  "name": "londonaicentre-llama-serve",
+  "version": "1.1.0",
+  "summary": "Serve llama models locally",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "londonaicentre_llama_serve-1.1.0.tar.gz",
+  "download_time": "2025-11-21T16:49:17.116568",
+  "package_url": "https://pypi.org/project/londonaicentre-llama-serve/"
+}

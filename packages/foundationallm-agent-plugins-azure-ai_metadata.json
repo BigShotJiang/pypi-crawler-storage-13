@@ -1,11 +1,11 @@
 {
   "name": "foundationallm-agent-plugins-azure-ai",
-  "version": "0.9.7rc481",
+  "version": "0.9.7rc488",
   "summary": "FoundationaLLM Agent plugins (Azure AI).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "foundationallm_agent_plugins_azure_ai-0.9.7rc481.tar.gz",
-  "download_time": "2025-11-18T11:21:04.399982",
+  "download_filename": "foundationallm_agent_plugins_azure_ai-0.9.7rc488.tar.gz",
+  "download_time": "2025-11-21T16:49:28.126424",
   "package_url": "https://pypi.org/project/foundationallm-agent-plugins-azure-ai/"
 }

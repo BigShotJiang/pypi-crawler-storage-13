@@ -1,0 +1,11 @@
+{
+  "name": "fryweb",
+  "version": "0.3.13",
+  "summary": "A asgi/wsgi server that can generate HTML, Javascript and CSS, based on fry file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fryweb-0.3.13.tar.gz",
+  "download_time": "2025-11-21T16:49:29.685963",
+  "package_url": "https://pypi.org/project/fryweb/"
+}
