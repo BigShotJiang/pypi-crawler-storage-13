@@ -1,11 +1,11 @@
 {
   "name": "defermi-gui",
-  "version": "0.0.1",
-  "summary": "User interface for `defermi`",
+  "version": "0.0.2",
+  "summary": "User interface for defermi",
   "author": "Lorenzo Villa",
   "license": null,
   "home_page": null,
-  "download_filename": "defermi_gui-0.0.1.tar.gz",
-  "download_time": "2025-11-21T09:57:46.961971",
+  "download_filename": "defermi_gui-0.0.2.tar.gz",
+  "download_time": "2025-11-21T15:22:20.124802",
   "package_url": "https://pypi.org/project/defermi-gui/"
 }

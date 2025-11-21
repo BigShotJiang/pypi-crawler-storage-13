@@ -1,0 +1,11 @@
+{
+  "name": "pyscreeps",
+  "version": "0.1.0a0",
+  "summary": "Python SDK for screeps.",
+  "author": "Adrian Makridenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyscreeps-0.1.0a0.tar.gz",
+  "download_time": "2025-11-21T15:22:11.294189",
+  "package_url": "https://pypi.org/project/pyscreeps/"
+}

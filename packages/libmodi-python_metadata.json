@@ -1,0 +1,11 @@
+{
+  "name": "libmodi-python",
+  "version": "20251121",
+  "summary": "Python bindings module for libmodi",
+  "author": "Joachim Metz",
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)",
+  "home_page": null,
+  "download_filename": "libmodi_python-20251121.tar.gz",
+  "download_time": "2025-11-21T15:21:54.156258",
+  "package_url": "https://pypi.org/project/libmodi-python/"
+}

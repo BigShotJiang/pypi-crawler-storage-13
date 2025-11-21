@@ -1,0 +1,11 @@
+{
+  "name": "bitemark",
+  "version": "0.1.0",
+  "summary": "Reference implementation for `BiteMark` - a markup language for recipes based on Markdown.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitemark-0.1.0.tar.gz",
+  "download_time": "2025-11-21T15:21:46.108797",
+  "package_url": "https://pypi.org/project/bitemark/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dolze-image-templates",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A package for generating Dolze templates",
   "author": "Dolze Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/dolze-templates",
-  "download_filename": "dolze_image_templates-1.0.3.tar.gz",
-  "download_time": "2025-11-19T07:41:30.743230",
+  "download_filename": "dolze_image_templates-1.0.4.tar.gz",
+  "download_time": "2025-11-21T15:22:09.075324",
   "package_url": "https://pypi.org/project/dolze-image-templates/"
 }

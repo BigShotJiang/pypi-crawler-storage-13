@@ -1,11 +1,11 @@
 {
   "name": "bel-selenium-fetcher",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple Selenium-based webpage fetcher for fully rendered HTML",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bel_selenium_fetcher-0.1.1.tar.gz",
-  "download_time": "2025-11-21T14:44:47.689631",
+  "download_filename": "bel_selenium_fetcher-0.1.2.tar.gz",
+  "download_time": "2025-11-21T15:21:57.930762",
   "package_url": "https://pypi.org/project/bel-selenium-fetcher/"
 }

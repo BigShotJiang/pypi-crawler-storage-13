@@ -1,0 +1,11 @@
+{
+  "name": "netron",
+  "version": "8.7.5",
+  "summary": "Viewer for neural network, deep learning and machine learning models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netron-8.7.5-py3-none-any.whl",
+  "download_time": "2025-11-21T15:21:54.757244",
+  "package_url": "https://pypi.org/project/netron/"
+}

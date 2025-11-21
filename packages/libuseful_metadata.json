@@ -1,0 +1,11 @@
+{
+  "name": "libuseful",
+  "version": "0.4.6",
+  "summary": "It's useful library, commonly.\\n(path/file/shell/thread/process/watchdog/async/args/logger/retry/singleton/time/cam/dynamic_import/excel/geometry_math/user_mng)",
+  "author": "Alberto Eins",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libuseful-0.4.6-py3-none-any.whl",
+  "download_time": "2025-11-21T15:21:43.949805",
+  "package_url": "https://pypi.org/project/libuseful/"
+}

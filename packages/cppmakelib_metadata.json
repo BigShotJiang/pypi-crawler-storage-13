@@ -1,11 +1,11 @@
 {
   "name": "cppmakelib",
-  "version": "16",
+  "version": "17",
   "summary": "A modern C++ builder based on C++20 Modules.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cppmakelib-16.tar.gz",
-  "download_time": "2025-11-21T14:45:07.210248",
+  "download_filename": "cppmakelib-17.tar.gz",
+  "download_time": "2025-11-21T15:22:13.345152",
   "package_url": "https://pypi.org/project/cppmakelib/"
 }

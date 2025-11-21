@@ -1,0 +1,11 @@
+{
+  "name": "miniFasta",
+  "version": "3.2.0",
+  "summary": "A simple FASTA read and write toolbox for small to medium size projects without dependencies.",
+  "author": "Jules Kreuer / not_a_feature",
+  "license": "gpl-3.0",
+  "home_page": "https://github.com/not-a-feature/miniFASTA",
+  "download_filename": "minifasta-3.2.0.tar.gz",
+  "download_time": "2025-11-21T15:22:04.810425",
+  "package_url": "https://pypi.org/project/miniFasta/"
+}

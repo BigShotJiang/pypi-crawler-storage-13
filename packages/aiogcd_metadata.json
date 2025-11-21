@@ -1,0 +1,11 @@
+{
+  "name": "aiogcd",
+  "version": "1.0.0",
+  "summary": "Async Google Cloud Datastore API",
+  "author": "Jeroen van der Heijden",
+  "license": null,
+  "home_page": "https://github.com/cesbit/aiogcd",
+  "download_filename": "aiogcd-1.0.0.tar.gz",
+  "download_time": "2025-11-21T15:22:14.879145",
+  "package_url": "https://pypi.org/project/aiogcd/"
+}
