@@ -1,11 +1,11 @@
 {
   "name": "claude-agent-sdk",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Python SDK for Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_agent_sdk-0.1.8.tar.gz",
-  "download_time": "2025-11-19T05:22:39.914757",
+  "download_filename": "claude_agent_sdk-0.1.9.tar.gz",
+  "download_time": "2025-11-21T20:26:06.994126",
   "package_url": "https://pypi.org/project/claude-agent-sdk/"
 }

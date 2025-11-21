@@ -1,11 +1,11 @@
 {
   "name": "fetchMGs",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "FetchMGs extracts the 40 marker genes from genomes and metagenomes in an easy and accurate manner.",
   "author": "Hans-Joachim Ruscheweyh, Chris Field, Shinichi Sunagawa, Daniel R. Mende",
   "license": "GPL-3.0",
   "home_page": "https://github.com/motu-tool/FetchMGs",
-  "download_filename": "fetchmgs-2.1.1.tar.gz",
-  "download_time": "2025-11-21T14:23:34.607912",
+  "download_filename": "fetchmgs-2.1.2.tar.gz",
+  "download_time": "2025-11-21T20:26:39.851885",
   "package_url": "https://pypi.org/project/fetchMGs/"
 }

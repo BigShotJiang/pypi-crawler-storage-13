@@ -1,11 +1,11 @@
 {
   "name": "agentic-data-scientist",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Agentic Data Scientist - General-purpose multi-agent framework with ADK and Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_data_scientist-0.2.1.tar.gz",
-  "download_time": "2025-11-21T03:52:06.471412",
+  "download_filename": "agentic_data_scientist-0.2.2.tar.gz",
+  "download_time": "2025-11-21T20:26:29.954140",
   "package_url": "https://pypi.org/project/agentic-data-scientist/"
 }

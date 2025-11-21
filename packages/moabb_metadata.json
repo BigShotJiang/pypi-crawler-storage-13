@@ -1,11 +1,11 @@
 {
   "name": "moabb",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "Mother of All BCI Benchmarks",
   "author": "Alexandre Barachant, Vinay Jayaram",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "moabb-1.4.1.tar.gz",
-  "download_time": "2025-11-21T19:51:44.520257",
+  "download_filename": "moabb-1.4.2.tar.gz",
+  "download_time": "2025-11-21T20:26:27.784201",
   "package_url": "https://pypi.org/project/moabb/"
 }

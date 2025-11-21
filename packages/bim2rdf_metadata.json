@@ -1,0 +1,11 @@
+{
+  "name": "bim2rdf",
+  "version": "2025.11.1854",
+  "summary": "Convert BIM data to RDF models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bim2rdf-2025.11.1854.tar.gz",
+  "download_time": "2025-11-21T20:26:36.614220",
+  "package_url": "https://pypi.org/project/bim2rdf/"
+}

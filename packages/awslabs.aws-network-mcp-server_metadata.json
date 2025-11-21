@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-network-mcp-server",
+  "version": "0.0.0",
+  "summary": "An AWS Model Context Protocol (MCP) server",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_network_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-11-21T20:26:34.297309",
+  "package_url": "https://pypi.org/project/awslabs.aws-network-mcp-server/"
+}

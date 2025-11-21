@@ -1,11 +1,11 @@
 {
   "name": "easyborg",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "Borg for Dummies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easyborg-0.9.5.tar.gz",
-  "download_time": "2025-11-21T14:56:30.108770",
+  "download_filename": "easyborg-0.9.6.tar.gz",
+  "download_time": "2025-11-21T20:26:13.686571",
   "package_url": "https://pypi.org/project/easyborg/"
 }

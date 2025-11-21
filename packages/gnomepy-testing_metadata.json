@@ -1,0 +1,11 @@
+{
+  "name": "gnomepy-testing",
+  "version": "0.2.0",
+  "summary": "Testing framework for validating market data implementations",
+  "author": "mprey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnomepy_testing-0.2.0.tar.gz",
+  "download_time": "2025-11-21T20:26:19.515480",
+  "package_url": "https://pypi.org/project/gnomepy-testing/"
+}
