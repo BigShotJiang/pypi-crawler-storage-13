@@ -1,0 +1,11 @@
+{
+  "name": "mynet",
+  "version": "0.1.0",
+  "summary": "Creating my own neural network implementation with JAX-based gradients",
+  "author": "Danilo de Souza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mynet-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-21T10:46:23.759086",
+  "package_url": "https://pypi.org/project/mynet/"
+}

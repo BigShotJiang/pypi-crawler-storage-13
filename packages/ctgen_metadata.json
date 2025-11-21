@@ -1,0 +1,11 @@
+{
+  "name": "ctgen",
+  "version": "0.2.0",
+  "summary": "Coordinate-transforms code generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctgen-0.2.0.tar.gz",
+  "download_time": "2025-11-21T10:46:40.978470",
+  "package_url": "https://pypi.org/project/ctgen/"
+}

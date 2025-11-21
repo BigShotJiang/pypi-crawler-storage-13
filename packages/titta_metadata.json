@@ -1,0 +1,11 @@
+{
+  "name": "titta",
+  "version": "2.2.2",
+  "summary": "Titta is a toolbox for using eye trackers from Tobii with Python, specifically offering integration with PsychoPy.",
+  "author": "Marcus Nystrom",
+  "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "home_page": "https://github.com/marcus-nystrom/Titta",
+  "download_filename": "titta-2.2.2.tar.gz",
+  "download_time": "2025-11-21T10:46:58.941837",
+  "package_url": "https://pypi.org/project/titta/"
+}

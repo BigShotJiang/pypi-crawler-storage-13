@@ -1,11 +1,11 @@
 {
   "name": "specklia",
-  "version": "1.9.93",
+  "version": "1.9.94",
   "summary": "Python client for Specklia, a geospatial point cloud database by Earthwave.",
   "author": "Earthwave Ltd",
   "license": "MIT",
   "home_page": "https://specklia.earthwave.co.uk/",
-  "download_filename": "specklia-1.9.93.tar.gz",
-  "download_time": "2025-11-18T16:55:31.622198",
+  "download_filename": "specklia-1.9.94.tar.gz",
+  "download_time": "2025-11-21T10:46:10.862063",
   "package_url": "https://pypi.org/project/specklia/"
 }

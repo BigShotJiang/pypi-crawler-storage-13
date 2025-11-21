@@ -1,11 +1,11 @@
 {
   "name": "datacanva",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Python module which connects to the DataCanva REST API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datacanva-1.0.0.tar.gz",
-  "download_time": "2025-11-19T06:58:10.124607",
+  "download_filename": "datacanva-1.0.2.tar.gz",
+  "download_time": "2025-11-21T10:46:19.928130",
   "package_url": "https://pypi.org/project/datacanva/"
 }
