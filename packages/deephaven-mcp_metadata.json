@@ -1,11 +1,11 @@
 {
   "name": "deephaven-mcp",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Unified Python package providing Model Context Protocol (MCP) servers for Deephaven: orchestrate Community Core data workers and power Documentation Q&A with LLMs. Supports AI-driven data workflows and agentic documentation assistance in a single deployable package.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "deephaven_mcp-0.0.15-py3-none-any.whl",
-  "download_time": "2025-11-21T05:45:54.627165",
+  "download_filename": "deephaven_mcp-0.0.16-py3-none-any.whl",
+  "download_time": "2025-11-21T21:28:42.265319",
   "package_url": "https://pypi.org/project/deephaven-mcp/"
 }

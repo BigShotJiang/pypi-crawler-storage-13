@@ -1,0 +1,11 @@
+{
+  "name": "ax-platform",
+  "version": "1.2.1",
+  "summary": "Adaptive Experimentation",
+  "author": "Meta Platforms, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ax_platform-1.2.1.tar.gz",
+  "download_time": "2025-11-21T21:28:40.732048",
+  "package_url": "https://pypi.org/project/ax-platform/"
+}

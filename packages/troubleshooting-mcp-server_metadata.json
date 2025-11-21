@@ -1,0 +1,11 @@
+{
+  "name": "troubleshooting-mcp-server",
+  "version": "1.0.2",
+  "summary": "A Model Context Protocol server for system troubleshooting and diagnostics",
+  "author": "Samuel Amoh Ntim",
+  "license": "MIT",
+  "home_page": "https://github.com/Amoh-Ntim/troubleshooting-mcp-server",
+  "download_filename": "troubleshooting_mcp_server-1.0.2.tar.gz",
+  "download_time": "2025-11-21T21:28:27.879343",
+  "package_url": "https://pypi.org/project/troubleshooting-mcp-server/"
+}

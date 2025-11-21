@@ -1,0 +1,11 @@
+{
+  "name": "ipyflow",
+  "version": "0.0.217",
+  "summary": "A reactive Python kernel for Jupyter notebooks.",
+  "author": "Stephen Macke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ipyflow/ipyflow",
+  "download_filename": "ipyflow-0.0.217.tar.gz",
+  "download_time": "2025-11-21T21:28:24.217325",
+  "package_url": "https://pypi.org/project/ipyflow/"
+}

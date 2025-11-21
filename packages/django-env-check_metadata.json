@@ -1,0 +1,11 @@
+{
+  "name": "django-env-check",
+  "version": "0.1.2",
+  "summary": "A tiny helper to validate required environment variables for Django.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_env_check-0.1.2.tar.gz",
+  "download_time": "2025-11-21T21:28:18.992888",
+  "package_url": "https://pypi.org/project/django-env-check/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zaguan-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Official Python SDK for Zaguan CoreX",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zaguan_sdk-0.1.0.tar.gz",
-  "download_time": "2025-11-18T17:43:36.418790",
+  "download_filename": "zaguan_sdk-0.2.0.tar.gz",
+  "download_time": "2025-11-21T21:28:44.820017",
   "package_url": "https://pypi.org/project/zaguan-sdk/"
 }

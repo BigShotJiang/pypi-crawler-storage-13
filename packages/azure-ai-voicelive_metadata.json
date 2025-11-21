@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-voicelive",
+  "version": "1.1.0",
+  "summary": "Microsoft Corporation Azure Ai Voicelive Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_ai_voicelive-1.1.0.tar.gz",
+  "download_time": "2025-11-21T21:28:42.776034",
+  "package_url": "https://pypi.org/project/azure-ai-voicelive/"
+}
