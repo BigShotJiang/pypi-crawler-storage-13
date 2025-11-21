@@ -1,0 +1,11 @@
+{
+  "name": "youtube-dl-nightly",
+  "version": "2025.11.21",
+  "summary": "YouTube video downloader",
+  "author": "Ricardo Garcia",
+  "license": "Unlicense",
+  "home_page": "https://github.com/ytdl-org/ytdl-nightly",
+  "download_filename": "youtube_dl_nightly-2025.11.21-py2.py3-none-any.whl",
+  "download_time": "2025-11-21T03:52:10.108879",
+  "package_url": "https://pypi.org/project/youtube-dl-nightly/"
+}

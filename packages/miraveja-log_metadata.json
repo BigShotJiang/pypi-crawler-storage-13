@@ -1,0 +1,11 @@
+{
+  "name": "miraveja-log",
+  "version": "0.1.0",
+  "summary": "Lightweight and flexible logging library with structured logging support for Python",
+  "author": "Jomar Júnior de Souza Pereira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miraveja_log-0.1.0.tar.gz",
+  "download_time": "2025-11-21T03:52:09.063074",
+  "package_url": "https://pypi.org/project/miraveja-log/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "selftempdemo",
+  "version": "0.0.1",
+  "summary": "a python test project by template",
+  "author": "Lonyang wang",
+  "license": "MIT license",
+  "home_page": "https://github.com/longyangzz/selftempdemo",
+  "download_filename": "selftempdemo-0.0.1.tar.gz",
+  "download_time": "2025-11-21T03:51:53.995481",
+  "package_url": "https://pypi.org/project/selftempdemo/"
+}

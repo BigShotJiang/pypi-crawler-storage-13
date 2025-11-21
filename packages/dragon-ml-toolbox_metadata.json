@@ -1,11 +1,11 @@
 {
   "name": "dragon-ml-toolbox",
-  "version": "17.0.0",
+  "version": "17.1.0",
   "summary": "Complete pipelines and helper tools for data science and machine learning projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dragon_ml_toolbox-17.0.0.tar.gz",
-  "download_time": "2025-11-20T13:54:38.272933",
+  "download_filename": "dragon_ml_toolbox-17.1.0.tar.gz",
+  "download_time": "2025-11-21T03:51:37.512385",
   "package_url": "https://pypi.org/project/dragon-ml-toolbox/"
 }

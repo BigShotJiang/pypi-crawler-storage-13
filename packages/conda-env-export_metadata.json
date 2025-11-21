@@ -1,0 +1,11 @@
+{
+  "name": "conda-env-export",
+  "version": "0.6.2",
+  "summary": "Export conda env dependencies and pip requirements to ONE yml file.",
+  "author": "Luffy Yu",
+  "license": "MIT license",
+  "home_page": "https://github.com/luffy-yu/conda_env_export",
+  "download_filename": "conda_env_export-0.6.2-py2.py3-none-any.whl",
+  "download_time": "2025-11-21T03:51:57.107724",
+  "package_url": "https://pypi.org/project/conda-env-export/"
+}
