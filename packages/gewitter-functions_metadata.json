@@ -1,0 +1,11 @@
+{
+  "name": "gewitter-functions",
+  "version": "0.1.0",
+  "summary": "A collection of utility functions for gewitter projects",
+  "author": "Iain Mcconnell",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gewitter_functions-0.1.0.tar.gz",
+  "download_time": "2025-11-21T21:53:56.484878",
+  "package_url": "https://pypi.org/project/gewitter-functions/"
+}

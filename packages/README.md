@@ -1,16 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-21T21:41:11.458402
-- **Total Packages**: 84
-- **Total Size**: 11.45 MB
+- **Download Time**: 2025-11-21T21:54:39.979220
+- **Total Packages**: 86
+- **Total Size**: 10.89 MB
 
 ## Packages List
+- geoprior1d
+- qucircuit
+- python-xbox
+- cmping
+- gewitter-functions
+- clumppling
+- scbiot
+- qusimulator
+- stjames
+- ai-edge-litert
+- stellarphot
+- abm
+- fake.py
+- data-designer
+- type-analyzer
+- methodwebscan
+- tdp-touchutilcollection
+- py-markdown-editor
+- claude-mpm
+- dian-utils
+- jupyterlab-biolm
+- ayz-auth
+- torchcurves
+- strands-agents-mcp-server
 - bdext
 - pytdesk
 - qrtunnel
 - vivarium-build-utils
-- n7
 - payi
 - secure-python-utils
 - linkml
@@ -22,7 +45,6 @@
 - zara
 - liger-kernel-nightly
 - code-spy
-- python-xbox
 - forcepy
 - groundx
 - answerrocket-client
@@ -31,7 +53,6 @@
 - imap-processing
 - PythonandDragons
 - yfmcp
-- geoprior1d
 - data-automation-kit
 - adcp
 - weni-cli
@@ -71,22 +92,3 @@
 - troubleshooting-mcp-server
 - unstructured-inference
 - types-s3transfer
-- mongo-charms-single-kernel
-- datatalk-cli
-- yugo-booking-lib-vishal
-- yugo-booking-lib
-- langchain-model-profiles
-- coregenai
-- mipi-datamanager
-- ageclerate-cli
-- tklr-dgraham
-- mlquantify
-- pyhubblenetwork
-- ProteinGymPy
-- pyg90alarm
-- jetbase
-- scikit-surgerycalibration
-- biblemategui
-- ax-platform
-- arthur-common
-- deephaven-mcp

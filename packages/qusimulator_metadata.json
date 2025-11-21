@@ -1,0 +1,11 @@
+{
+  "name": "qusimulator",
+  "version": "2.3",
+  "summary": "Quantum computer simulator",
+  "author": "Atul Varshneya",
+  "license": "GPL",
+  "home_page": "https://github.com/atulvarshneya/quantum-computing",
+  "download_filename": "qusimulator-2.3.tar.gz",
+  "download_time": "2025-11-21T21:53:58.595386",
+  "package_url": "https://pypi.org/project/qusimulator/"
+}

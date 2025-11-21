@@ -1,0 +1,11 @@
+{
+  "name": "ai-edge-litert",
+  "version": "2.0.3",
+  "summary": "LiteRT is for mobile and embedded devices.",
+  "author": "Google AI Edge Authors",
+  "license": "Apache 2.0",
+  "home_page": "https://www.tensorflow.org/lite/",
+  "download_filename": "ai_edge_litert-2.0.3-cp310-cp310-macosx_12_0_arm64.whl",
+  "download_time": "2025-11-21T21:53:59.636844",
+  "package_url": "https://pypi.org/project/ai-edge-litert/"
+}

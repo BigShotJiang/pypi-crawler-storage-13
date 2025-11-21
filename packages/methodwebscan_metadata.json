@@ -1,11 +1,11 @@
 {
   "name": "methodwebscan",
-  "version": "0.0.187",
+  "version": "0.0.188",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "methodwebscan-0.0.187.tar.gz",
-  "download_time": "2025-11-20T22:21:37.860018",
+  "download_filename": "methodwebscan-0.0.188.tar.gz",
+  "download_time": "2025-11-21T21:54:02.781149",
   "package_url": "https://pypi.org/project/methodwebscan/"
 }
