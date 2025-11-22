@@ -1,0 +1,11 @@
+{
+  "name": "heavyedge-dataset",
+  "version": "1.3.0",
+  "summary": "PyTorch-compatible edge profile dataset API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "heavyedge_dataset-1.3.0.tar.gz",
+  "download_time": "2025-11-22T17:20:35.977472",
+  "package_url": "https://pypi.org/project/heavyedge-dataset/"
+}

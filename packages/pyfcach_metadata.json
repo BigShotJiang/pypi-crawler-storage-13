@@ -1,11 +1,11 @@
 {
   "name": "pyfcach",
-  "version": "0.2.14",
-  "summary": "Best production cache, use async - better than sync",
+  "version": "0.3.15",
+  "summary": "High-performance caching library with async support",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyfcach-0.2.14.tar.gz",
-  "download_time": "2025-11-22T10:53:45.846345",
+  "download_filename": "pyfcach-0.3.15.tar.gz",
+  "download_time": "2025-11-22T17:21:02.735195",
   "package_url": "https://pypi.org/project/pyfcach/"
 }

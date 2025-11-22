@@ -1,0 +1,11 @@
+{
+  "name": "just-semantic-search-server",
+  "version": "0.4.6",
+  "summary": "Core interfaces for hybrid search implementations (CPU version)",
+  "author": "Anton Kulaga",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "just_semantic_search_server-0.4.6.tar.gz",
+  "download_time": "2025-11-22T17:20:44.259979",
+  "package_url": "https://pypi.org/project/just-semantic-search-server/"
+}

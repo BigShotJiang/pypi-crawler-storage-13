@@ -1,0 +1,11 @@
+{
+  "name": "cpuid",
+  "version": "0.1.1",
+  "summary": "cpuid Pythonic API",
+  "author": "Fernando Pelliccioni",
+  "license": "MIT",
+  "home_page": "https://github.com/fpelliccioni/cpuid-py",
+  "download_filename": "cpuid-0.1.1.tar.gz",
+  "download_time": "2025-11-22T17:20:59.651547",
+  "package_url": "https://pypi.org/project/cpuid/"
+}

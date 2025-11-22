@@ -1,0 +1,11 @@
+{
+  "name": "crypt32",
+  "version": "1.0.0",
+  "summary": "The official library for the 'crypt32' cipher",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crypt32-1.0.0.tar.gz",
+  "download_time": "2025-11-22T17:20:27.079880",
+  "package_url": "https://pypi.org/project/crypt32/"
+}

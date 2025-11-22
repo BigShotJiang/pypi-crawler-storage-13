@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-policy",
+  "version": "1.20.0",
+  "summary": "Pulumi's Policy Python SDK",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pulumi/pulumi-policy",
+  "download_filename": "pulumi_policy-1.20.0-py2.py3-none-any.whl",
+  "download_time": "2025-11-22T17:21:01.199848",
+  "package_url": "https://pypi.org/project/pulumi-policy/"
+}

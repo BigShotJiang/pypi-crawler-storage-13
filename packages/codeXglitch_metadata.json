@@ -1,0 +1,11 @@
+{
+  "name": "codeXglitch",
+  "version": "0.1.0",
+  "summary": "Static analysis tool for detecting bugs offline using small ML models",
+  "author": "codeXglitch Team",
+  "license": null,
+  "home_page": "https://github.com/codeXglitch/codeXglitch",
+  "download_filename": "codexglitch-0.1.0.tar.gz",
+  "download_time": "2025-11-22T17:21:05.806519",
+  "package_url": "https://pypi.org/project/codeXglitch/"
+}

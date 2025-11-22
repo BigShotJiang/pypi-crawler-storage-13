@@ -1,11 +1,11 @@
 {
   "name": "ggufy",
-  "version": "0.1.5",
-  "summary": "Python shim for ggufy - A tool for managing GGUF model files. Visit https://ggufy.com and https://github.com/nbiish/ggufy",
-  "author": "nbiish",
+  "version": "0.2.0",
+  "summary": "Unified GGUF wrapper for llama.cpp and Ollama",
+  "author": "ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ggufy-0.1.5.tar.gz",
-  "download_time": "2025-11-18T01:43:40.335870",
+  "download_filename": "ggufy-0.2.0.tar.gz",
+  "download_time": "2025-11-22T17:20:37.520826",
   "package_url": "https://pypi.org/project/ggufy/"
 }

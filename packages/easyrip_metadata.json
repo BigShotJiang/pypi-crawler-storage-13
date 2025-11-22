@@ -1,11 +1,11 @@
 {
   "name": "easyrip",
-  "version": "3.15.8",
+  "version": "3.15.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easyrip-3.15.8.tar.gz",
-  "download_time": "2025-11-19T18:55:00.523427",
+  "download_filename": "easyrip-3.15.9.tar.gz",
+  "download_time": "2025-11-22T17:20:54.550230",
   "package_url": "https://pypi.org/project/easyrip/"
 }

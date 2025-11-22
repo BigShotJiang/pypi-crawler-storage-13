@@ -1,11 +1,11 @@
 {
   "name": "absfuyu",
-  "version": "5.16.0",
+  "version": "5.17.0",
   "summary": "A small collection of code",
   "author": "somewhatcold (AbsoluteWinter)",
   "license": null,
   "home_page": null,
-  "download_filename": "absfuyu-5.16.0.tar.gz",
-  "download_time": "2025-11-20T12:45:19.678119",
+  "download_filename": "absfuyu-5.17.0.tar.gz",
+  "download_time": "2025-11-22T17:20:32.385484",
   "package_url": "https://pypi.org/project/absfuyu/"
 }
