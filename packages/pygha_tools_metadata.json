@@ -1,11 +1,11 @@
 {
   "name": "pygha_tools",
-  "version": "0.1.0",
-  "summary": "Library for managing Github actions summary for python.",
+  "version": "0.1.1",
+  "summary": "Python Tools for GitHub Actions",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pygha_tools-0.1.0.tar.gz",
-  "download_time": "2025-11-22T13:54:43.006363",
+  "download_filename": "pygha_tools-0.1.1.tar.gz",
+  "download_time": "2025-11-22T19:18:26.972632",
   "package_url": "https://pypi.org/project/pygha_tools/"
 }

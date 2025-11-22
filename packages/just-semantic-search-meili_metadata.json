@@ -1,11 +1,11 @@
 {
   "name": "just-semantic-search-meili",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "Core interfaces for hybrid search implementations (CPU version)",
   "author": "Anton Kulaga",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "just_semantic_search_meili-0.4.7.tar.gz",
-  "download_time": "2025-11-22T18:51:50.312346",
+  "download_filename": "just_semantic_search_meili-0.4.8.tar.gz",
+  "download_time": "2025-11-22T19:18:41.268808",
   "package_url": "https://pypi.org/project/just-semantic-search-meili/"
 }

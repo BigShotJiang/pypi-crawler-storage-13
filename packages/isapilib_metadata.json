@@ -1,11 +1,11 @@
 {
   "name": "isapilib",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Libreria de isapilib, utilidades para API's de Intelisis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "isapilib-3.1.0.tar.gz",
-  "download_time": "2025-11-21T15:22:19.614691",
+  "download_filename": "isapilib-3.1.1.tar.gz",
+  "download_time": "2025-11-22T19:18:20.486877",
   "package_url": "https://pypi.org/project/isapilib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zotero2readwise",
+  "version": "1.3.1",
+  "summary": "Export your Zotero annotations and notes to Readwise",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zotero2readwise-1.3.1.tar.gz",
+  "download_time": "2025-11-22T19:18:45.474245",
+  "package_url": "https://pypi.org/project/zotero2readwise/"
+}

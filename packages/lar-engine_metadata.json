@@ -1,11 +1,11 @@
 {
   "name": "lar-engine",
-  "version": "0.6.3",
+  "version": "0.6.8",
   "summary": "Lár: The PyTorch for Agents. A 'define-by-run' agentic framework.",
-  "author": "Snath AI",
+  "author": "SnathAI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lar_engine-0.6.3.tar.gz",
-  "download_time": "2025-11-21T17:43:18.400842",
+  "download_filename": "lar_engine-0.6.8.tar.gz",
+  "download_time": "2025-11-22T19:18:21.046596",
   "package_url": "https://pypi.org/project/lar-engine/"
 }

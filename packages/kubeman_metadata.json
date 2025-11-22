@@ -1,11 +1,11 @@
 {
   "name": "kubeman",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "A Python library for rendering Helm charts and Kubernetes resources with automatic ArgoCD Application generation. Features an abstract Template base class for consistent template management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kubeman-0.2.3.tar.gz",
-  "download_time": "2025-11-22T18:51:45.745234",
+  "download_filename": "kubeman-0.3.0.tar.gz",
+  "download_time": "2025-11-22T19:18:34.955874",
   "package_url": "https://pypi.org/project/kubeman/"
 }

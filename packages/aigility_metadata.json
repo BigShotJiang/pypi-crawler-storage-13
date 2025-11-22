@@ -1,0 +1,11 @@
+{
+  "name": "aigility",
+  "version": "0.0.2",
+  "summary": "A modern Python ADK - Agent Development Kit for building AI agents with LangGraph and LangChain. This library provides a comprehensive, type-safe framework for developing intelligent agents with chat, workflow, memory, and knowledge management capabilities.",
+  "author": "AIGility Cloud Innovation",
+  "license": "MIT",
+  "home_page": "https://github.com/AIGility-Cloud-Innovation/timem-python",
+  "download_filename": "aigility-0.0.2.tar.gz",
+  "download_time": "2025-11-22T19:18:35.504823",
+  "package_url": "https://pypi.org/project/aigility/"
+}

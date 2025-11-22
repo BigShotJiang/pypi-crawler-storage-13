@@ -1,11 +1,11 @@
 {
   "name": "pylxpweb",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Python client library for Luxpower/EG4 inverter web monitoring API",
   "author": "Bryan Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pylxpweb-0.3.2.tar.gz",
-  "download_time": "2025-11-22T07:21:01.631520",
+  "download_filename": "pylxpweb-0.3.3.tar.gz",
+  "download_time": "2025-11-22T19:18:53.996466",
   "package_url": "https://pypi.org/project/pylxpweb/"
 }

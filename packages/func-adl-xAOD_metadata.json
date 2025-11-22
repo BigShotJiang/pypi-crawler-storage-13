@@ -1,0 +1,11 @@
+{
+  "name": "func-adl-xAOD",
+  "version": "2.2.5",
+  "summary": "Functional Analysis Description Language backend for accessing ATLAS xAOD files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "func_adl_xaod-2.2.5-py3-none-any.whl",
+  "download_time": "2025-11-22T19:18:51.390430",
+  "package_url": "https://pypi.org/project/func-adl-xAOD/"
+}
