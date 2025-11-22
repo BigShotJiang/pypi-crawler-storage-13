@@ -1,12 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T13:08:10.704255
-- **Total Packages**: 73
-- **Total Size**: 29.66 MB
+- **Download Time**: 2025-11-22T13:35:22.269623
+- **Total Packages**: 79
+- **Total Size**: 1.13 MB
 
 ## Packages List
+- sciveo
+- nbdev-apl
+- nbdev-django
+- nbdev-sphinx
+- nbdev-scipy
+- nbdev-pytorch
+- nbdev-pandas
+- nbdev-numpy
+- nbdev-stdlib
+- dockerview
+- medusa-security
+- pyscreeps-arena
+- twidgets
+- ckb-g2p
+- zrb-extras
+- ibkr-mcp
 - abstract-utilities
+- symbolica
 - lifx-async
 - oarepo-theme
 - gpsd
@@ -46,7 +63,6 @@
 - modal
 - endec
 - itrx
-- medusa-security
 - langchainkit
 - raggify
 - dtreg
@@ -69,13 +85,3 @@
 - staywise-discountlib
 - langevin
 - umep
-- mytech-rest-auth
-- trpdf
-- memberjojo
-- chemgraphbuilder
-- veriskgo
-- munchboka-edutools
-- xyra
-- oarepo-runtime
-- cybrid-api-organization-python
-- cybrid-api-bank-python

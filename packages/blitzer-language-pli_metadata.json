@@ -1,11 +1,11 @@
 {
   "name": "blitzer-language-pli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Pali language pack for blitzer-cli",
   "author": "Samiddhi",
   "license": null,
   "home_page": null,
-  "download_filename": "blitzer_language_pli-0.0.5.tar.gz",
-  "download_time": "2025-11-22T13:07:37.569789",
+  "download_filename": "blitzer_language_pli-0.0.6.tar.gz",
+  "download_time": "2025-11-22T13:34:53.968481",
   "package_url": "https://pypi.org/project/blitzer-language-pli/"
 }
