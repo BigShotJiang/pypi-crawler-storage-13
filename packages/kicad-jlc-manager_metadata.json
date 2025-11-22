@@ -1,11 +1,11 @@
 {
   "name": "kicad-jlc-manager",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "summary": "Project-local JLC component library manager for KiCad",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kicad_jlc_manager-0.0.0.tar.gz",
-  "download_time": "2025-11-22T01:41:32.452984",
+  "download_filename": "kicad_jlc_manager-0.1.0.tar.gz",
+  "download_time": "2025-11-22T15:41:03.176922",
   "package_url": "https://pypi.org/project/kicad-jlc-manager/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eu5",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A library to interact with EU5 save games.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eu5-0.0.5-py3-none-any.whl",
-  "download_time": "2025-11-22T15:21:40.128776",
+  "download_filename": "eu5-0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-22T15:40:45.155116",
   "package_url": "https://pypi.org/project/eu5/"
 }

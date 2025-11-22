@@ -1,0 +1,11 @@
+{
+  "name": "odoo-env",
+  "version": "0.16.6",
+  "summary": "A Dockerized environment for Odoo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_env-0.16.6.tar.gz",
+  "download_time": "2025-11-22T15:40:53.313361",
+  "package_url": "https://pypi.org/project/odoo-env/"
+}

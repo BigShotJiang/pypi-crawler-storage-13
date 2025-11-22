@@ -1,27 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T15:21:49.950885
-- **Total Packages**: 72
-- **Total Size**: 16.58 MB
+- **Download Time**: 2025-11-22T15:41:24.466315
+- **Total Packages**: 71
+- **Total Size**: 23.89 MB
 
 ## Packages List
+- textgrid-editor
+- eu5
+- Procaptcha
+- web-perfmonitor
+- cc-check
+- mcp2skill
+- logward-sdk
+- abstract-utilities
+- epics-sumo
+- search_vulns
+- schemathesis
+- colorist
+- spoox
+- caliscope
+- waldiez-jupyter
+- odoo-env
+- ssh-zone-handler
+- mmcif_parser
+- hillclimber
+- treetouch
+- pywiim
+- aimemo
+- lifx-async
+- pydrime
+- twidgets
+- auroraview
+- terra_ui_components
+- anaplan-sdk
+- bofhound
+- Coreform-Cubit-Mesh-Export
+- wellapi
+- wayne-graphics
+- kicad-jlc-manager
+- oarepo-oidc-einfra
 - cmping
 - doggopyr
 - dataspace-client
 - udtools
 - qBitrr2
-- abstract-utilities
 - waldiez
 - aiinbx
-- terra_ui_components
 - mltoolhub
-- pydrime
 - oarepo-vocabularies
 - osv-reproducer
 - mizan-rag
 - tinycwrap
-- treetouch
 - llm-session
 - apikey-gateway
 - pulumi
@@ -34,7 +64,6 @@
 - diskcache-rs
 - webtoolkit
 - HOS-M2F
-- spoox
 - cubix
 - filter_functions
 - mizan-vector
@@ -48,33 +77,3 @@
 - kleinkram
 - quick-pp
 - medusa-security
-- oarepo-communities
-- AgentService
-- commonplace
-- nexo-logging
-- libtetrabz
-- smlr-learn
-- aioafero
-- actingweb
-- pulse-framework
-- pulse-aws
-- rayforge
-- eu5
-- blend2d-py
-- llm-ledger
-- claranet4
-- HOS-ANY2DOCX
-- robotpy-rev-digit
-- heavyedge-landmarks
-- lambda-ai-cloud-api-client
-- PySide6-ElaWidgetTools
-- PyQt6-ElaWidgetTools
-- featheros
-- PyQt5-ElaWidgetTools
-- monapipe
-- llmshell-cli
-- pywiim
-- ticket-tracker
-- max-div
-- parallel-llm
-- aa-payout

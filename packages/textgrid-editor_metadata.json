@@ -1,0 +1,11 @@
+{
+  "name": "textgrid-editor",
+  "version": "1.0.0",
+  "summary": "Praat TextGrid editor.",
+  "author": "hellolzc",
+  "license": null,
+  "home_page": "https://github.com/hellolzc/textgrid_editor",
+  "download_filename": "textgrid_editor-1.0.0.tar.gz",
+  "download_time": "2025-11-22T15:40:44.636282",
+  "package_url": "https://pypi.org/project/textgrid-editor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wellapi",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A simple web framework for aws lambda",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wellapi-0.9.0.tar.gz",
-  "download_time": "2025-11-21T09:28:58.599428",
+  "download_filename": "wellapi-0.9.1.tar.gz",
+  "download_time": "2025-11-22T15:41:02.152935",
   "package_url": "https://pypi.org/project/wellapi/"
 }
