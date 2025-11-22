@@ -1,0 +1,11 @@
+{
+  "name": "telekit",
+  "version": "0.1.1",
+  "summary": "The easiest and most convenient Telegram Bot API with a declarative interface, featuring a wide range of built-in tools and ready-to-use solutions for fast bot development",
+  "author": "romashka",
+  "license": "MIT",
+  "home_page": "https://t.me/TeleKitLib",
+  "download_filename": "telekit-0.1.1.tar.gz",
+  "download_time": "2025-11-22T03:39:51.721882",
+  "package_url": "https://pypi.org/project/telekit/"
+}

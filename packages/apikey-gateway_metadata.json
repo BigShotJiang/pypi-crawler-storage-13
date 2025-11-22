@@ -1,11 +1,11 @@
 {
   "name": "apikey-gateway",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "A Python library for API key validation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apikey_gateway-1.0.2.tar.gz",
-  "download_time": "2025-11-21T16:49:46.362116",
+  "download_filename": "apikey_gateway-1.1.0.tar.gz",
+  "download_time": "2025-11-22T03:40:03.234346",
   "package_url": "https://pypi.org/project/apikey-gateway/"
 }

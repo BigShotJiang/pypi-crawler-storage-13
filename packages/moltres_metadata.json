@@ -1,11 +1,11 @@
 {
   "name": "moltres",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "DataFrame API with SQL pushdown execution and real SQL CRUD - the missing layer for SQL in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moltres-0.6.0.tar.gz",
-  "download_time": "2025-11-21T22:55:00.563095",
+  "download_filename": "moltres-0.8.0.tar.gz",
+  "download_time": "2025-11-22T03:39:51.149660",
   "package_url": "https://pypi.org/project/moltres/"
 }

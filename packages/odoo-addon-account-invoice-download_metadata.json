@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-account-invoice-download",
-  "version": "16.0.1.0.0.5",
+  "version": "16.0.1.0.0.6",
   "summary": "Auto-download supplier invoices and import them",
   "author": "Akretion,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/edi",
-  "download_filename": "odoo_addon_account_invoice_download-16.0.1.0.0.5-py3-none-any.whl",
-  "download_time": "2025-11-20T18:59:24.112641",
+  "download_filename": "odoo_addon_account_invoice_download-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-22T03:40:05.800395",
   "package_url": "https://pypi.org/project/odoo-addon-account-invoice-download/"
 }

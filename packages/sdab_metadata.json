@@ -1,0 +1,11 @@
+{
+  "name": "sdab",
+  "version": "1.0.1",
+  "summary": "Khmer Speech To Text Inference API using Wav2Vec2 with Pretrain Model",
+  "author": "Metythorn Penn",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/MetythornPenn/sdab.git",
+  "download_filename": "sdab-1.0.1.tar.gz",
+  "download_time": "2025-11-22T03:39:59.619584",
+  "package_url": "https://pypi.org/project/sdab/"
+}
