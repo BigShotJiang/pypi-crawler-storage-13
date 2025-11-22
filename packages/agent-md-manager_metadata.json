@@ -1,0 +1,11 @@
+{
+  "name": "agent-md-manager",
+  "version": "0.1.0",
+  "summary": "Render agent guideline markdown files across platforms",
+  "author": "isyuah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_md_manager-0.1.0.tar.gz",
+  "download_time": "2025-11-22T16:27:20.555138",
+  "package_url": "https://pypi.org/project/agent-md-manager/"
+}

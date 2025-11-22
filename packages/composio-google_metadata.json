@@ -1,0 +1,11 @@
+{
+  "name": "composio-google",
+  "version": "0.9.3",
+  "summary": "Use Composio to get an array of tools with your Google AI Python Gemini model.",
+  "author": "Composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_google-0.9.3.tar.gz",
+  "download_time": "2025-11-22T16:27:41.650197",
+  "package_url": "https://pypi.org/project/composio-google/"
+}

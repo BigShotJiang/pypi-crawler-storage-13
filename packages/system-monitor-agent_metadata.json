@@ -1,0 +1,11 @@
+{
+  "name": "system-monitor-agent",
+  "version": "1.0.0",
+  "summary": "Lightweight telemetry agent for distributed system monitoring",
+  "author": "Mohammad Sami Bhat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "system_monitor_agent-1.0.0.tar.gz",
+  "download_time": "2025-11-22T16:27:34.998137",
+  "package_url": "https://pypi.org/project/system-monitor-agent/"
+}

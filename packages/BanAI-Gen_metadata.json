@@ -1,0 +1,11 @@
+{
+  "name": "BanAI-Gen",
+  "version": "0.1.0",
+  "summary": "Ferramenta Para Gerar txt de Ban Para Telegram",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "banai_gen-0.1.0.tar.gz",
+  "download_time": "2025-11-22T16:27:04.465863",
+  "package_url": "https://pypi.org/project/BanAI-Gen/"
+}

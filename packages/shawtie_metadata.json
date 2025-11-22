@@ -1,0 +1,11 @@
+{
+  "name": "shawtie",
+  "version": "1.0.0",
+  "summary": "AI-powered file organization tool for Linux",
+  "author": "Turbash Negi",
+  "license": null,
+  "home_page": "https://github.com/Turbash/shawtie",
+  "download_filename": "shawtie-1.0.0.tar.gz",
+  "download_time": "2025-11-22T16:27:37.558028",
+  "package_url": "https://pypi.org/project/shawtie/"
+}
