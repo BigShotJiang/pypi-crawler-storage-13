@@ -1,0 +1,11 @@
+{
+  "name": "ringgis-probability-distributions",
+  "version": "0.1",
+  "summary": "Gaussian and Binomial distributions",
+  "author": "Roland Ringgenberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ringgis_probability_distributions-0.1.tar.gz",
+  "download_time": "2025-11-22T19:54:03.637524",
+  "package_url": "https://pypi.org/project/ringgis-probability-distributions/"
+}

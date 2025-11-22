@@ -1,0 +1,11 @@
+{
+  "name": "biogl",
+  "version": "3.0.0",
+  "summary": "A collection of (semi) useful bioinformatics functions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biogl-3.0.0.tar.gz",
+  "download_time": "2025-11-22T19:53:58.928364",
+  "package_url": "https://pypi.org/project/biogl/"
+}

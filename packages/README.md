@@ -1,16 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T19:40:46.260932
-- **Total Packages**: 75
-- **Total Size**: 9.5 MB
+- **Download Time**: 2025-11-22T19:54:31.768602
+- **Total Packages**: 73
+- **Total Size**: 1.54 MB
 
 ## Packages List
+- nexo-middlewares
+- threaded-order
 - synqed
+- pyagentic-core
+- vadalog-extension
+- nexo-google
+- airbyte
+- slimschema
+- uuzip
+- fmd-api
+- biogl
+- nexo-client
+- cs-models
+- aicommitter
+- jlcpcb-search-mcp
+- nexo-infra
 - ayechat
+- nexo-database
+- term-tree-maker
+- ringgis-probability-distributions
 - nexo-schemas
 - geo-activity-playground
-- jlcpcb-search-mcp
 - ceylonai-next
 - braindecode
 - timem-ai
@@ -18,7 +35,6 @@
 - sprocket-boxcars-py
 - nexo-utils
 - diskcache-rs
-- vadalog-extension
 - local-deep-research
 - dmeth
 - fusion-solar-py
@@ -51,7 +67,6 @@
 - mcp-postgres-duwenji
 - depydency
 - LLM-Bridge
-- pyagentic-core
 - signalwire-agents
 - quantizedensenet
 - pygha_tools
@@ -64,20 +79,3 @@
 - autopahe
 - pyaging
 - ovos-solver-bm25-plugin
-- oarepo-model
-- prompt-unifier
-- kubeman
-- aigility
-- opik-optimizer
-- doggopyr
-- VLife-Gram
-- gasp-python
-- nemoasr2pytorch
-- just-semantic-search-server-cuda
-- just-semantic-search-server
-- just-semantic-search-scholar-cuda
-- just-semantic-search-scholar
-- just-semantic-search-meili-cuda
-- just-semantic-search-meili
-- just-semantic-search
-- syblock-rpip

@@ -1,11 +1,11 @@
 {
   "name": "aicommitter",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "summary": "AI powered commit message helper",
   "author": "ifaakash",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aicommitter-0.0.6.tar.gz",
-  "download_time": "2025-11-20T23:52:47.708028",
+  "download_filename": "aicommitter-1.0.0.tar.gz",
+  "download_time": "2025-11-22T19:54:00.506939",
   "package_url": "https://pypi.org/project/aicommitter/"
 }
