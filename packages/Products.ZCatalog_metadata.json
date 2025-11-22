@@ -1,0 +1,11 @@
+{
+  "name": "Products.ZCatalog",
+  "version": "7.3",
+  "summary": "Zope's indexing and search solution.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/Products.ZCatalog",
+  "download_filename": "products_zcatalog-7.3.tar.gz",
+  "download_time": "2025-11-22T09:41:16.572897",
+  "package_url": "https://pypi.org/project/Products.ZCatalog/"
+}

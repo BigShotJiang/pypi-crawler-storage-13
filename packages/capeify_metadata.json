@@ -1,11 +1,11 @@
 {
   "name": "capeify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Win cursor package to .cape file converter",
   "author": "mmemoo",
   "license": null,
   "home_page": null,
-  "download_filename": "capeify-1.0.0.tar.gz",
-  "download_time": "2025-11-20T15:45:21.020885",
+  "download_filename": "capeify-1.0.1.tar.gz",
+  "download_time": "2025-11-22T09:41:09.741304",
   "package_url": "https://pypi.org/project/capeify/"
 }

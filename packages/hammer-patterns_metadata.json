@@ -1,11 +1,11 @@
 {
   "name": "hammer-patterns",
-  "version": "0.1.9.1",
-  "summary": "A lightweight and beginner-friendly ASCII art library created, owned, and maintained by Deepinder Singh. The package provides a growing collection of fun and creative text-based patterns including stars, squares, diamonds, hammers, arrows, and more. It is designed for students, hobbyists, and anyone who enjoys generating simple visual art directly in the terminal. All functions are easy to call and require no external dependencies.",
+  "version": "0.1.12",
+  "summary": "A lightweight ASCII art library by Deepinder Singh.",
   "author": "Deepinder Singh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hammer_patterns-0.1.9.1.tar.gz",
-  "download_time": "2025-11-22T06:31:29.101868",
+  "download_filename": "hammer_patterns-0.1.12.tar.gz",
+  "download_time": "2025-11-22T09:41:03.319225",
   "package_url": "https://pypi.org/project/hammer-patterns/"
 }

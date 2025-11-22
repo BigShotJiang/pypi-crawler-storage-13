@@ -1,11 +1,11 @@
 {
   "name": "py-testrail-cli",
-  "version": "0.2",
+  "version": "0.2.1",
   "summary": "Python-based CLI for complete TestRail REST API access and CSV-driven case management",
   "author": "Mokson",
   "license": "Apache-2.0",
   "home_page": "https://github.com/mokson/testrail-cli",
-  "download_filename": "py_testrail_cli-0.2.tar.gz",
-  "download_time": "2025-11-21T17:20:49.644041",
+  "download_filename": "py_testrail_cli-0.2.1.tar.gz",
+  "download_time": "2025-11-22T09:41:10.793730",
   "package_url": "https://pypi.org/project/py-testrail-cli/"
 }

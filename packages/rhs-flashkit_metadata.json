@@ -1,11 +1,11 @@
 {
   "name": "rhs-flashkit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "CI/CD toolkit for flashing and testing embedded devices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rhs_flashkit-0.1.4.tar.gz",
-  "download_time": "2025-11-20T15:25:13.571997",
+  "download_filename": "rhs_flashkit-0.1.5.tar.gz",
+  "download_time": "2025-11-22T09:41:07.122586",
   "package_url": "https://pypi.org/project/rhs-flashkit/"
 }

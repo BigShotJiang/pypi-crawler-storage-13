@@ -1,0 +1,11 @@
+{
+  "name": "nexo-logging",
+  "version": "0.0.1",
+  "summary": "Logging package for Nexo",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "nexo_logging-0.0.1.tar.gz",
+  "download_time": "2025-11-22T09:41:16.052123",
+  "package_url": "https://pypi.org/project/nexo-logging/"
+}
