@@ -1,0 +1,11 @@
+{
+  "name": "pre-commit",
+  "version": "4.5.0",
+  "summary": "A framework for managing and maintaining multi-language pre-commit hooks.",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/pre-commit/pre-commit",
+  "download_filename": "pre_commit-4.5.0.tar.gz",
+  "download_time": "2025-11-22T21:21:05.800916",
+  "package_url": "https://pypi.org/project/pre-commit/"
+}

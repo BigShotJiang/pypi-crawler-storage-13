@@ -1,11 +1,11 @@
 {
   "name": "textxgen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Python package for interacting with models",
   "author": "Sohail Shaikh",
   "license": null,
   "home_page": "https://pystack.site/",
-  "download_filename": "textxgen-1.0.3.tar.gz",
-  "download_time": "2025-11-21T20:26:10.317227",
+  "download_filename": "textxgen-1.0.4.tar.gz",
+  "download_time": "2025-11-22T21:20:57.102321",
   "package_url": "https://pypi.org/project/textxgen/"
 }

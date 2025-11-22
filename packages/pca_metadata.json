@@ -1,0 +1,11 @@
+{
+  "name": "pca",
+  "version": "2.10.1",
+  "summary": "pca: A Python Package for Principal Component Analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pca-2.10.1.tar.gz",
+  "download_time": "2025-11-22T21:21:12.962087",
+  "package_url": "https://pypi.org/project/pca/"
+}

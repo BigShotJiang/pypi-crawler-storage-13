@@ -1,11 +1,11 @@
 {
   "name": "material-ai",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "summary": "Material AI Agent with FastAPI server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "material_ai-1.1.12.tar.gz",
-  "download_time": "2025-11-22T07:39:40.378695",
+  "download_filename": "material_ai-1.1.13.tar.gz",
+  "download_time": "2025-11-22T21:20:57.618242",
   "package_url": "https://pypi.org/project/material-ai/"
 }

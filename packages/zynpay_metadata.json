@@ -1,0 +1,11 @@
+{
+  "name": "zynpay",
+  "version": "0.2.0",
+  "summary": "Python SDK for ZynPay - Accept crypto payments with ease",
+  "author": "ZynPay",
+  "license": null,
+  "home_page": "https://github.com/Zyntria-Labs/zynpay",
+  "download_filename": "zynpay-0.2.0-py3-none-any.whl",
+  "download_time": "2025-11-22T21:21:04.778826",
+  "package_url": "https://pypi.org/project/zynpay/"
+}
