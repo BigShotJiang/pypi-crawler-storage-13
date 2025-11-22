@@ -1,11 +1,11 @@
 {
   "name": "martinaPI",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Control a home robot Martina",
   "author": "Marçal Nebot",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "martinapi-0.1.1.tar.gz",
-  "download_time": "2025-11-22T13:08:00.447635",
+  "download_filename": "martinapi-0.1.2.tar.gz",
+  "download_time": "2025-11-22T20:43:07.266753",
   "package_url": "https://pypi.org/project/martinaPI/"
 }

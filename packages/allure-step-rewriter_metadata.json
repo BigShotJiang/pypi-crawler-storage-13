@@ -1,0 +1,11 @@
+{
+  "name": "allure-step-rewriter",
+  "version": "0.2.1",
+  "summary": "Rewrite Allure step titles without nesting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "allure_step_rewriter-0.2.1.tar.gz",
+  "download_time": "2025-11-22T20:43:02.334903",
+  "package_url": "https://pypi.org/project/allure-step-rewriter/"
+}
