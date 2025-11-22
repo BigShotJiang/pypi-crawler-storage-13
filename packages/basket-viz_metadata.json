@@ -1,0 +1,11 @@
+{
+  "name": "basket-viz",
+  "version": "0.2.6",
+  "summary": "A Python library for creating interactive and customizable visualizations of basketball statistics.",
+  "author": "basket-viz",
+  "license": "MIT",
+  "home_page": "https://github.com/sVujke/basket-viz",
+  "download_filename": "basket_viz-0.2.6.tar.gz",
+  "download_time": "2025-11-22T14:41:27.617704",
+  "package_url": "https://pypi.org/project/basket-viz/"
+}

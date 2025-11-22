@@ -1,11 +1,11 @@
 {
   "name": "radio-manager",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "A unified library for controlling various radio devices (receivers and transceivers)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "radio_manager-0.2.3.tar.gz",
-  "download_time": "2025-11-17T23:51:34.163752",
+  "download_filename": "radio_manager-0.3.0.tar.gz",
+  "download_time": "2025-11-22T14:41:41.507127",
   "package_url": "https://pypi.org/project/radio-manager/"
 }

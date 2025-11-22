@@ -1,11 +1,11 @@
 {
   "name": "makeitup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "LLM-based synthetic dataset generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "makeitup-0.1.0.tar.gz",
-  "download_time": "2025-11-21T14:45:07.722038",
+  "download_filename": "makeitup-0.1.1.tar.gz",
+  "download_time": "2025-11-22T14:41:29.664192",
   "package_url": "https://pypi.org/project/makeitup/"
 }
