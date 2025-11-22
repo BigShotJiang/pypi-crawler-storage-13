@@ -1,0 +1,11 @@
+{
+  "name": "lbrlabs-pulumi-tailscalebastion",
+  "version": "0.12.0",
+  "summary": "A Pulumi package for creating a tailscale bastion in AWS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lbrlabs_pulumi_tailscalebastion-0.12.0.tar.gz",
+  "download_time": "2025-11-22T17:54:23.285858",
+  "package_url": "https://pypi.org/project/lbrlabs-pulumi-tailscalebastion/"
+}

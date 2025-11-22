@@ -1,11 +1,11 @@
 {
   "name": "afterpython",
-  "version": "0.1.0.dev5",
+  "version": "0.1.0.dev6",
   "summary": "CLI tool for AfterPython",
   "author": "Stephen Yau",
   "license": null,
   "home_page": null,
-  "download_filename": "afterpython-0.1.0.dev5.tar.gz",
-  "download_time": "2025-11-21T05:45:27.603765",
+  "download_filename": "afterpython-0.1.0.dev6.tar.gz",
+  "download_time": "2025-11-22T17:54:16.455303",
   "package_url": "https://pypi.org/project/afterpython/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-mtuci",
+  "version": "0.1.0",
+  "summary": "Langchain tools for MTUCI Private API",
+  "author": "MisterEblan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_mtuci-0.1.0.tar.gz",
+  "download_time": "2025-11-22T17:54:20.269820",
+  "package_url": "https://pypi.org/project/langchain-mtuci/"
+}

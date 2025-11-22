@@ -1,0 +1,11 @@
+{
+  "name": "texterrors",
+  "version": "1.0.12",
+  "summary": "For WER",
+  "author": "Rudolf A Braun",
+  "license": "Apache-2.0 License",
+  "home_page": "https://github.com/RuABraun/texterrors",
+  "download_filename": "texterrors-1.0.12.tar.gz",
+  "download_time": "2025-11-22T17:54:26.868420",
+  "package_url": "https://pypi.org/project/texterrors/"
+}

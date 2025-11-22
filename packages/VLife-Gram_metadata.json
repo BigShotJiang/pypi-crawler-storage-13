@@ -1,11 +1,11 @@
 {
   "name": "VLife-Gram",
-  "version": "2.1.0",
+  "version": "2.1.0.1",
   "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python",
   "author": "WannnV",
   "license": "LGPLv3",
   "home_page": "https://github.com/wndrzzka/pyromod",
-  "download_filename": "vlife_gram-2.1.0.tar.gz",
-  "download_time": "2025-11-22T17:20:36.490186",
+  "download_filename": "vlife_gram-2.1.0.1.tar.gz",
+  "download_time": "2025-11-22T17:54:28.446695",
   "package_url": "https://pypi.org/project/VLife-Gram/"
 }
