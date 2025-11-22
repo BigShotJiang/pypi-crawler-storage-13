@@ -1,51 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T09:41:48.045710
-- **Total Packages**: 82
-- **Total Size**: 29.37 MB
+- **Download Time**: 2025-11-22T09:54:04.241247
+- **Total Packages**: 81
+- **Total Size**: 0.02 MB
 
 ## Packages List
-- uatu
-- bouquin
-- waldiez-runner
-- cribl-control-plane
-- hammer-patterns
-- causalexplain
-- adryserage-aetheris
-- biblemategui
-- pyshareit
-- rds-proxy-password-rotation
-- pyinstaller-hooks-contrib
-- rhs-flashkit
-- natural-pdf
-- medusa-security
-- HOS-ANY2DOCX
-- capeify
-- diffindiff
-- py-testrail-cli
-- wmain
-- Products.SiteErrorLog
-- mitogen
-- deps-installer
-- pyspread
-- waldiez-studio
-- babyweb
-- pictocut
-- gradescopeapi
-- nexo-logging
-- Products.ZCatalog
-- doclatam
-- metnet
-- lattica
-- kostyl-toolkit
-- tgframework-bot
-- headson
-- comfyui-workflow-templates
-- mmq-high-precision
-- nvfuser-cu130
-- nvfuser-cu128
-- zrb-extras
 - iaode
 - ninetoothed
 - liblaf-grapes
@@ -56,6 +16,7 @@
 - modifiedOtsu
 - uc-manager
 - nonebot-adapter-qq
+- biblemategui
 - scald
 - autogluon
 - torchPersLay
@@ -66,10 +27,12 @@
 - autogluon.core
 - autogluon.common
 - dectobin
+- tgframework-bot
 - disco-tools
 - qtoggleserver-zigbee2mqtt
 - nexo-utils
 - waldiez-jupyter
+- comfyui-workflow-templates
 - PyAgartha
 - librenmsapi
 - pyheaderparse
@@ -88,3 +51,39 @@
 - dbt-autodoc
 - StreamingCommunity
 - adjuster
+- sleipnirgroup-jormungandr
+- wiselib
+- aframexr
+- compare-all-the-names
+- specql
+- nonebot-plugin-parser
+- bool-hybrid-array
+- webull-openapi-python-sdk
+- scrap-imdb
+- waldiez
+- tello-renewal
+- suzaku
+- livae
+- nexo-types
+- countries-dictionary
+- wandas
+- schemez
+- macholib
+- xiaoya-teacher-mcp-server
+- sssom_pydantic
+- tree-sitter-matlab
+- treem
+- pythonbpf
+- hfsearch
+- pulumi-eks
+- lm-deluge
+- modulegraph
+- pyturso
+- npmai
+- nucleation
+- tesser
+- clippers
+- p2pdocs
+- tpu-inference
+- tf-models-nightly
+- slides-cli
