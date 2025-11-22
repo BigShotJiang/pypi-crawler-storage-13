@@ -1,11 +1,11 @@
 {
   "name": "fiuai-sdk-python",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "FiuAI Python SDK - 企业级AI服务集成开发工具包",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fiuai_sdk_python-0.5.2.tar.gz",
-  "download_time": "2025-11-22T05:43:11.912201",
+  "download_filename": "fiuai_sdk_python-0.5.3.tar.gz",
+  "download_time": "2025-11-22T10:53:56.561140",
   "package_url": "https://pypi.org/project/fiuai-sdk-python/"
 }

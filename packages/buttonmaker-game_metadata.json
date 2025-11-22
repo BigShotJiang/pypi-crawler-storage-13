@@ -1,0 +1,11 @@
+{
+  "name": "buttonmaker-game",
+  "version": "0.1.1",
+  "summary": "A package for creating buttons in Pygame",
+  "author": "Timmeit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "buttonmaker_game-0.1.1.tar.gz",
+  "download_time": "2025-11-22T10:54:08.960501",
+  "package_url": "https://pypi.org/project/buttonmaker-game/"
+}

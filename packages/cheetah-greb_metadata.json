@@ -1,11 +1,11 @@
 {
   "name": "cheetah-greb",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "AI-powered intelligent code search - pip package, MCP server, and API service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cheetah_greb-1.2.7.tar.gz",
-  "download_time": "2025-11-22T07:39:30.555516",
+  "download_filename": "cheetah_greb-1.2.8.tar.gz",
+  "download_time": "2025-11-22T10:54:04.873995",
   "package_url": "https://pypi.org/project/cheetah-greb/"
 }
