@@ -1,11 +1,11 @@
 {
   "name": "data-automation-kit",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "summary": "A comprehensive Python package for automated data loading, cleaning, visualization, and quality checks with AI integration",
   "author": "Peter Gatitu",
   "license": null,
   "home_page": "https://github.com/bellonbits/data-automation-kit",
-  "download_filename": "data_automation_kit-2.0.6.tar.gz",
-  "download_time": "2025-11-22T11:17:51.203518",
+  "download_filename": "data_automation_kit-2.0.7.tar.gz",
+  "download_time": "2025-11-22T11:40:48.140501",
   "package_url": "https://pypi.org/project/data-automation-kit/"
 }

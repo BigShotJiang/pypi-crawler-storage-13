@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-11-22T11:18:26.887367",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 8.15,
+  "download_time": "2025-11-22T11:41:25.981152",
+  "total_packages_downloaded": 86,
+  "total_size_mb": 0.13,
   "packages": [
+    "aiinbx",
     "django-ninja-extra",
     "batplot",
     "tf-keras-nightly",
