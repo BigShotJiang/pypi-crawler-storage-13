@@ -1,0 +1,11 @@
+{
+  "name": "myscreen",
+  "version": "0.1.0",
+  "summary": "A small module for drawing console screens.",
+  "author": "Benjamin Thompson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "myscreen-0.1.0.tar.gz",
+  "download_time": "2025-11-22T23:22:46.828483",
+  "package_url": "https://pypi.org/project/myscreen/"
+}

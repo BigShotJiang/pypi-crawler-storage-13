@@ -1,0 +1,11 @@
+{
+  "name": "stellarnet-legacy",
+  "version": "0.0.1",
+  "summary": "Python bindings for legacy StellarNet spectrometers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stellarnet_legacy-0.0.1.tar.gz",
+  "download_time": "2025-11-22T23:22:42.565348",
+  "package_url": "https://pypi.org/project/stellarnet-legacy/"
+}

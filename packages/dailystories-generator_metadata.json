@@ -1,0 +1,11 @@
+{
+  "name": "dailystories-generator",
+  "version": "0.2.0",
+  "summary": "Gemini-based story generator for children's books",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dailystories_generator-0.2.0.tar.gz",
+  "download_time": "2025-11-22T23:22:39.944833",
+  "package_url": "https://pypi.org/project/dailystories-generator/"
+}

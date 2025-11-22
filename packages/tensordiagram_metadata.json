@@ -1,0 +1,11 @@
+{
+  "name": "tensordiagram",
+  "version": "0.2.0",
+  "summary": "Visualize torch, jax, tensorflow, etc. tensors for understanding and debugging.",
+  "author": "Hardik Vala",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensordiagram-0.2.0.tar.gz",
+  "download_time": "2025-11-22T23:22:36.236023",
+  "package_url": "https://pypi.org/project/tensordiagram/"
+}

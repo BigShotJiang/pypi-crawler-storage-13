@@ -1,11 +1,11 @@
 {
   "name": "scruff",
-  "version": "0.14.6",
+  "version": "0.14.6.post1",
   "summary": "A scruffier ruff.",
   "author": null,
   "license": null,
   "home_page": "https://docs.astral.sh/ruff",
-  "download_filename": "scruff-0.14.6.tar.gz",
-  "download_time": "2025-11-22T20:24:30.035132",
+  "download_filename": "scruff-0.14.6.post1.tar.gz",
+  "download_time": "2025-11-22T23:22:39.365371",
   "package_url": "https://pypi.org/project/scruff/"
 }
