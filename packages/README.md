@@ -1,12 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T23:23:15.749845
-- **Total Packages**: 82
-- **Total Size**: 9.97 MB
+- **Download Time**: 2025-11-22T23:42:17.307837
+- **Total Packages**: 73
+- **Total Size**: 2.42 MB
 
 ## Packages List
+- PyLanauageCtrl
+- d365fo-client
+- chromasql
+- eetc-utils
+- langchain-tests
+- dailystories-generator
+- pytest-scenarios
+- maleo-mcu
+- idxr
+- aa-esi-status
+- nv-ingest
+- nv-ingest-client
+- basket-viz
+- nv-ingest-api
+- oldaplib
+- policyboom
+- tailrisk
+- pyoco
+- yaaat
+- easy-acumatica
+- iris-sdk
 - token-reducer
+- conson-xp
+- bpo
+- cdek
+- createsonline
+- threaded-order
+- orbitalsai
+- logab
+- hej
 - cmpparis-parser
 - git-police
 - valid8r
@@ -14,13 +43,10 @@
 - tensordiagram
 - siglab-py
 - rna-seq-tools
-- basket-viz
 - eegdash
 - bambu-printer-manager
 - scruff
-- dailystories-generator
 - arc-atlas
-- PyLanauageCtrl
 - oc_ocdm
 - oarepo-communities
 - stellarnet-legacy
@@ -38,16 +64,13 @@
 - humantyping
 - quantecon-book-theme
 - autopkg-wrapper
-- policyboom
 - pragma-sdk
 - parallel-hill-climber
-- pytest-scenarios
 - smoosense
 - arize-phoenix-evals
 - mmm-fair
 - robosystems-client
 - licensing-specialist
-- maleo-mcu
 - privatera
 - sprocket-boxcars-py
 - groundx
@@ -56,35 +79,3 @@
 - shinestacker
 - flipper-fs
 - damask-parse
-- horizon-fastapi-template
-- torch-gqc
-- ovos-tts-plugin-nos
-- tentacletk
-- mayatk
-- ndfilters
-- uitk
-- denki-client
-- pythontk
-- polli-typus
-- dbt-review-assistant
-- regridding
-- twevals
-- ReverseBox
-- headson
-- pyspecdata
-- wikidata-identifier-extractor
-- chencrafts
-- blooio
-- opstool
-- search-vulns
-- synqed
-- kitcoda
-- rnow
-- airflow-etl-config
-- binmod
-- avionmesh
-- tiddl
-- biblemategui
-- pylxpweb
-- pygixml
-- localis

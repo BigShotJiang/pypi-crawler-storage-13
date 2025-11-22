@@ -1,11 +1,11 @@
 {
   "name": "policyboom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Enterprise legal risk intelligence CLI - analyze Terms of Service and Privacy Policies with multi-domain scanning",
   "author": "PolicyBoom Team",
   "license": null,
   "home_page": null,
-  "download_filename": "policyboom-0.1.0.tar.gz",
-  "download_time": "2025-11-22T22:54:12.201971",
+  "download_filename": "policyboom-0.1.1.tar.gz",
+  "download_time": "2025-11-22T23:41:46.828085",
   "package_url": "https://pypi.org/project/policyboom/"
 }

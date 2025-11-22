@@ -1,11 +1,11 @@
 {
   "name": "token-reducer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Intelligent token reduction library for LLM applications with context-aware compression",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "token_reducer-0.2.0.tar.gz",
-  "download_time": "2025-11-22T23:22:33.013008",
+  "download_filename": "token_reducer-0.2.1.tar.gz",
+  "download_time": "2025-11-22T23:41:50.406923",
   "package_url": "https://pypi.org/project/token-reducer/"
 }
