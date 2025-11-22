@@ -1,0 +1,11 @@
+{
+  "name": "kitikiplot",
+  "version": "1.0.1",
+  "summary": "A Python library to visualize categorical sliding window data.",
+  "author": "Boddu Sri Pavan",
+  "license": "MIT",
+  "home_page": "https://github.com/BodduSriPavan-111/kitikiplot",
+  "download_filename": "kitikiplot-1.0.1.tar.gz",
+  "download_time": "2025-11-22T07:21:14.465991",
+  "package_url": "https://pypi.org/project/kitikiplot/"
+}

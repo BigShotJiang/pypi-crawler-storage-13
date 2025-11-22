@@ -1,0 +1,11 @@
+{
+  "name": "ocdscardinal",
+  "version": "0.0.8",
+  "summary": "Measure red flags and procurement indicators using OCDS data",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/open-contracting/cardinal-rs",
+  "download_filename": "ocdscardinal-0.0.8.tar.gz",
+  "download_time": "2025-11-22T07:21:03.733862",
+  "package_url": "https://pypi.org/project/ocdscardinal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dyntripy",
+  "version": "3.2.5.0",
+  "summary": "A package for detecting dynamic triggering automatically",
+  "author": "Naidan YUN",
+  "license": null,
+  "home_page": "https://github.com/yunndlalala/dynamic_earthquake_triggering",
+  "download_filename": "dyntripy-3.2.5.0.tar.gz",
+  "download_time": "2025-11-22T07:21:08.837037",
+  "package_url": "https://pypi.org/project/dyntripy/"
+}

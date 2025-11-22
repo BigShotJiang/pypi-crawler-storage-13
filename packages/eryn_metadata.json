@@ -1,0 +1,11 @@
+{
+  "name": "eryn",
+  "version": "1.2.5",
+  "summary": "Eryn: an omni-MCMC sampling package.",
+  "author": "Michael Katz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eryn-1.2.5.tar.gz",
+  "download_time": "2025-11-22T07:21:12.936194",
+  "package_url": "https://pypi.org/project/eryn/"
+}
