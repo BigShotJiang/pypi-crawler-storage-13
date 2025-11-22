@@ -1,11 +1,11 @@
 {
   "name": "claranet4",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Barebones Bleak-based client for the Aranet4 sensor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claranet4-0.4.1.tar.gz",
-  "download_time": "2025-11-22T14:41:31.703500",
+  "download_filename": "claranet4-0.4.2.tar.gz",
+  "download_time": "2025-11-22T14:53:37.839029",
   "package_url": "https://pypi.org/project/claranet4/"
 }

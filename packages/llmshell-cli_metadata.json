@@ -1,0 +1,11 @@
+{
+  "name": "llmshell-cli",
+  "version": "0.0.2",
+  "summary": "Convert natural language to shell commands using LLMs (GPT4All, OpenAI, Ollama)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmshell_cli-0.0.2.tar.gz",
+  "download_time": "2025-11-22T14:53:45.346714",
+  "package_url": "https://pypi.org/project/llmshell-cli/"
+}
