@@ -1,0 +1,11 @@
+{
+  "name": "wechat-oa-api-mcp",
+  "version": "1.0.0",
+  "summary": "微信公众号API MCP服务程序 - 此 MCP 服务器仅限研究用途，禁止用于商业目的。WeChat Official Account API MCP server plus client SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wechat_oa_api_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-22T02:57:07.080558",
+  "package_url": "https://pypi.org/project/wechat-oa-api-mcp/"
+}

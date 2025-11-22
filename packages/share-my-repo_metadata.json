@@ -1,0 +1,11 @@
+{
+  "name": "share-my-repo",
+  "version": "1.0.0",
+  "summary": "CLI tool to package git repositories for sharing with LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "share_my_repo-1.0.0.tar.gz",
+  "download_time": "2025-11-22T02:57:14.099610",
+  "package_url": "https://pypi.org/project/share-my-repo/"
+}
