@@ -1,0 +1,11 @@
+{
+  "name": "gsmart",
+  "version": "0.1.2",
+  "summary": "Git Smart - AI-powered commit message generator",
+  "author": "Reinier Hernández, Rosniel Miguel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gsmart-0.1.2.tar.gz",
+  "download_time": "2025-11-22T11:53:44.916636",
+  "package_url": "https://pypi.org/project/gsmart/"
+}

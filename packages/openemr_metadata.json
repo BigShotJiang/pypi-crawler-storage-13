@@ -1,0 +1,11 @@
+{
+  "name": "openemr",
+  "version": "0.4.0",
+  "summary": "An OpenEMR api connector",
+  "author": "Stein van Broekhoven",
+  "license": null,
+  "home_page": "https://gitlab.com/aapjeisbaas/openemr-python",
+  "download_filename": "openemr-0.4.0.tar.gz",
+  "download_time": "2025-11-22T11:53:55.819006",
+  "package_url": "https://pypi.org/project/openemr/"
+}

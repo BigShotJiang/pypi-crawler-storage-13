@@ -1,11 +1,11 @@
 {
   "name": "nexo-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Utils package for Nexo",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "nexo_utils-0.0.1.tar.gz",
-  "download_time": "2025-11-22T09:22:13.448121",
+  "download_filename": "nexo_utils-0.0.2.tar.gz",
+  "download_time": "2025-11-22T11:53:37.718194",
   "package_url": "https://pypi.org/project/nexo-utils/"
 }

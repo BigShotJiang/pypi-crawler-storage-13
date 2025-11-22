@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T11:41:25.981152
-- **Total Packages**: 86
-- **Total Size**: 0.13 MB
+- **Download Time**: 2025-11-22T11:54:20.709208
+- **Total Packages**: 85
+- **Total Size**: 15.65 MB
 
 ## Packages List
+- nexo-enums
+- fmtr.tools
+- swane
+- nexo-utils
+- alita-sdk
+- botasaurus
+- nexo-logging
+- liron-utils
+- auto-uv
+- easywheel
+- azure-ai-openai
+- llmling-agent
+- nexo-crypto
+- iragca
+- liblaf-grapes
+- davext
+- databank-x
+- gsmart
+- data-automation-kit
+- nexo-types
+- nadoo-plugin-sdk
+- aiotgbot
+- iaode
+- audfprint2
+- coalex
+- mcp-memory-service
+- conson-xp
+- prometheus-mcp-server
+- xyzservices
+- torchx-nightly
+- MeUtils
+- django-ninja-jwt
+- evented
+- monapipe
+- sensei-mcp
+- torchft-nightly
+- zetsubou-sdk
+- amrita-plugin-dify
+- openemr
+- gentf
+- fastsdk
+- pytest-html-dashboard
+- meseex
+- FLApy
 - aiinbx
 - django-ninja-extra
 - batplot
@@ -16,15 +60,12 @@
 - trd-utils
 - cpuid-native
 - aioairtable
-- audfprint2
 - chromasql
 - rewe-ebon-parser
 - idxr
 - quickpub
-- iragca
 - danielutils
 - video-topic-extractor
-- data-automation-kit
 - lifx-async
 - mizan-embedder
 - pytask
@@ -50,45 +91,3 @@
 - SwiftGUI
 - homeconnect-websocket
 - pyfcach
-- catapiler
-- pyguiadapterlite
-- flo_ai
-- konduktor-nightly
-- changedetection-tui
-- pysdm-examples
-- pysdm
-- trainy-policy-nightly
-- letta-nightly
-- wink-sdk-user-settings
-- wink-sdk-travel-agent
-- wink-sdk-reference
-- wink-sdk-ping
-- wink-sdk-notification
-- wink-sdk-lookup
-- fiuai-sdk-python
-- wink-sdk-inventory
-- rdl-mcp
-- wink-sdk-extranet-property-register
-- wink-sdk-extranet-property
-- wink-sdk-extranet-monetize
-- wink-sdk-extranet-facilities
-- wink-sdk-extranet-experiences
-- wink-sdk-extranet-distribution
-- wink-sdk-extranet-booking
-- wink-sdk-engine-client
-- wink-sdk-channel-manager
-- wink-sdk-booking
-- wink-sdk-analytics
-- wink-sdk-affiliate-winklinks
-- pqsdk
-- cheetah-greb
-- wink-sdk-affiliate-sales-channel
-- wink-sdk-affiliate-inventory
-- wink-sdk-affiliate-browse
-- wink-sdk-affiliate
-- odoo-addon-sale-commission-oca
-- llm-goose
-- odoo-addon-account-payment-order-grouped-output
-- buttonmaker-game
-- trip-pay-payment
-- nvidia-nat-ragaai
