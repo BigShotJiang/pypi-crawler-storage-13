@@ -1,11 +1,11 @@
 {
   "name": "gentf",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Generate file structures from text tree files and scaffold React/Next.js projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gentf-0.1.2.tar.gz",
-  "download_time": "2025-11-22T11:53:56.328251",
+  "download_filename": "gentf-0.1.4.tar.gz",
+  "download_time": "2025-11-22T12:40:19.828144",
   "package_url": "https://pypi.org/project/gentf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "blitzer-language-slv",
+  "version": "0.0.2",
+  "summary": "Slovenian language pack for blitzer-cli",
+  "author": "Samiddhi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blitzer_language_slv-0.0.2.tar.gz",
+  "download_time": "2025-11-22T12:40:10.675687",
+  "package_url": "https://pypi.org/project/blitzer-language-slv/"
+}
