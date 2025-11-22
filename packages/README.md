@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T06:32:08.003720
-- **Total Packages**: 89
-- **Total Size**: 35.82 MB
+- **Download Time**: 2025-11-22T06:52:18.514635
+- **Total Packages**: 88
+- **Total Size**: 4.25 MB
 
 ## Packages List
+- pulumi-aws-apigateway
+- stata-mcp
+- pulumi-splunk
+- pulumi-sdwan
+- quik-stat
+- pulumi-scm
+- sycommon-python-lib
+- pulumi-awsx
+- fencingview
+- wpiformat
+- xu60
+- llm-client-redis
+- CacheToolsUtils
+- parallel-llm
+- pulumi-slack
+- rq
+- pulumi-signalfx
+- pathstruct
+- pulumi-rancher2
+- cart-total-items
+- benchmax
+- wagtail-color-panel
+- tree-sitter-toon
+- langsmith-tool-server
+- pulumi-okta
+- pulumi-rabbitmq
+- pulumi-postgresql
+- pulumi-pagerduty
+- subdomain-takeover-tools
+- qabpassgen
+- avionmqtt
+- pulumi-aws-native
+- cjm-fasthtml-interactions
+- tgdl
+- pulumi-opsgenie
+- treem
+- pulumi-openstack
+- p2pdocs
+- mcp-kql-server
 - GeoBank
 - aimemo
 - langchain-cli-v2
@@ -16,7 +55,6 @@
 - biblemategui
 - pulumi-meraki
 - pulumi-null
-- parallel-llm
 - pulumi-newrelic
 - pulumi-nomad
 - genai-otel-instrument
@@ -39,7 +77,6 @@
 - aiinbx
 - pulumi-mailgun
 - cdk8s-awscdk-resolver
-- treem
 - tomwer
 - proxy-reader
 - SURE-tools
@@ -55,43 +92,5 @@
 - pulumi-harness
 - pyg-nightly
 - kuaijs-ios
-- qabpassgen
 - pulumi-ise
 - pulumi-docker-build
-- TopDownHockey-Scraper
-- pulumi-http
-- cubik
-- pulumi-ec
-- weixinautox4
-- pulumi-fastly
-- pulumi-github
-- pulumi-digitalocean
-- pulumi-docker
-- pytest-html-plus
-- cjm-fasthtml-interactions
-- pyrsult
-- arca-ai-vault
-- pytacs
-- dayuanlib
-- chembfn-webui
-- pulumi-datadog
-- chandassu
-- pulumi-f5bigip
-- p2pdocs
-- meta-spec
-- pulumi-external
-- empathy-framework
-- openagents
-- cripstegz
-- clip-util
-- rds-proxy-password-rotation
-- zdbg
-- mat3ra-made
-- sdark
-- pulumi-auth0
-- ultrafast-sequential-thinking-mcp
-- smg
-- pulumi-dnsimple
-- pylxpweb
-- LuminaDB
-- modusa

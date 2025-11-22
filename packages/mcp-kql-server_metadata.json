@@ -1,0 +1,11 @@
+{
+  "name": "mcp-kql-server",
+  "version": "2.0.9",
+  "summary": "AI-Powered MCP server for KQL query execution with Natural Language to KQL (NL2KQL) conversion, intelligent schema memory, RAG-enhanced context assistance, and semantic search capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_kql_server-2.0.9.tar.gz",
+  "download_time": "2025-11-22T06:51:52.352187",
+  "package_url": "https://pypi.org/project/mcp-kql-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pathstruct",
+  "version": "0.1.0",
+  "summary": "Static definition of directory and file structure to avoid hard-coding file paths",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathstruct-0.1.0.tar.gz",
+  "download_time": "2025-11-22T06:51:40.411541",
+  "package_url": "https://pypi.org/project/pathstruct/"
+}

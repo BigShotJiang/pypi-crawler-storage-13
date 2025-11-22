@@ -1,0 +1,11 @@
+{
+  "name": "tgdl",
+  "version": "1.1.1",
+  "summary": "A high-performance CLI tool for downloading media from Telegram",
+  "author": "kavidu-dilhara",
+  "license": "MIT",
+  "home_page": "https://github.com/kavidu-dilhara/tgdl",
+  "download_filename": "tgdl-1.1.1.tar.gz",
+  "download_time": "2025-11-22T06:51:49.760984",
+  "package_url": "https://pypi.org/project/tgdl/"
+}
