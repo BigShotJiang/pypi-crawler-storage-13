@@ -1,0 +1,11 @@
+{
+  "name": "pandas-flavor",
+  "version": "0.8.1",
+  "summary": "The easy way to write your own Pandas flavor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandas_flavor-0.8.1.tar.gz",
+  "download_time": "2025-11-22T11:17:55.809019",
+  "package_url": "https://pypi.org/project/pandas-flavor/"
+}

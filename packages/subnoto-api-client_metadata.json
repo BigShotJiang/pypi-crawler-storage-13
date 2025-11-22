@@ -1,11 +1,11 @@
 {
   "name": "subnoto-api-client",
-  "version": "1.1.9",
+  "version": "2.0.0",
   "summary": "Python client for the Subnoto Public API",
   "author": "Subnoto",
   "license": "Apache-2.0",
   "home_page": "https://subnoto.com",
-  "download_filename": "subnoto_api_client-1.1.9-py3-none-manylinux2014_x86_64.whl",
-  "download_time": "2025-11-22T04:27:41.851735",
+  "download_filename": "subnoto_api_client-2.0.0-py3-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-11-22T11:17:59.397393",
   "package_url": "https://pypi.org/project/subnoto-api-client/"
 }

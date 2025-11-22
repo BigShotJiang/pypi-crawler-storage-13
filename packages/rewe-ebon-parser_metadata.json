@@ -1,0 +1,11 @@
+{
+  "name": "rewe-ebon-parser",
+  "version": "0.0.8",
+  "summary": "Parse and convert REWE eBons (digital receipts) to JSON and CSV.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rewe_ebon_parser-0.0.8.tar.gz",
+  "download_time": "2025-11-22T11:17:48.135207",
+  "package_url": "https://pypi.org/project/rewe-ebon-parser/"
+}

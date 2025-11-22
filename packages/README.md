@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T10:54:29.967816
-- **Total Packages**: 89
-- **Total Size**: 20.91 MB
+- **Download Time**: 2025-11-22T11:18:26.887367
+- **Total Packages**: 85
+- **Total Size**: 8.15 MB
 
 ## Packages List
+- django-ninja-extra
+- batplot
+- tf-keras-nightly
+- smooth-text-animation
+- vargula
+- taranis-models
+- trd-utils
+- cpuid-native
+- aioairtable
+- audfprint2
+- chromasql
+- rewe-ebon-parser
+- idxr
+- quickpub
+- iragca
+- danielutils
+- video-topic-extractor
+- data-automation-kit
+- lifx-async
+- mizan-embedder
+- pytask
+- python-cq
+- fast-gov-uk
+- langchainkit
+- pandas-flavor
+- nadoo-flow-core
+- pydrime
+- q8s
+- kriralabs
+- type-analyzer
+- aiomoto
+- subnoto-api-client
+- rcrlm
+- SimpleColoredLogs
+- pingtile
+- advent-of-code
+- medusa-security
+- anyenv
 - tg-feedback-bot-ru
 - HoWDe
 - SwiftGUI
@@ -13,20 +51,16 @@
 - pyfcach
 - catapiler
 - pyguiadapterlite
-- pydrime
 - flo_ai
 - konduktor-nightly
 - changedetection-tui
 - pysdm-examples
 - pysdm
 - trainy-policy-nightly
-- medusa-security
 - letta-nightly
-- lifx-async
 - wink-sdk-user-settings
 - wink-sdk-travel-agent
 - wink-sdk-reference
-- django-ninja-extra
 - wink-sdk-ping
 - wink-sdk-notification
 - wink-sdk-lookup
@@ -55,43 +89,5 @@
 - llm-goose
 - odoo-addon-account-payment-order-grouped-output
 - buttonmaker-game
-- data-automation-kit
 - trip-pay-payment
 - nvidia-nat-ragaai
-- versapy
-- nvidia-nat-test
-- nvidia-nat-strands
-- nvidia-nat-phoenix
-- video-topic-extractor
-- nvidia-nat-mcp
-- nvidia-nat-ingestion
-- nvidia-nat-adk
-- nvidia-nat-llama-index
-- nvidia-nat-profiling
-- nvidia-nat-opentelemetry
-- nvidia-nat-mem0ai
-- nlbone
-- uhmbrella-api
-- nvidia-nat
-- nvidia-nat-mysql
-- agents-docs-sync
-- nvidia-nat-data-flywheel
-- nvidia-nat-all
-- nvidia-nat-weave
-- nvidia-nat-s3
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- dataforseo-client
-- nvidia-nat-langchain
-- nvidia-nat-semantic-kernel
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno
-- nvidia-nat-vanna
-- nexo-enums
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-crewai
-- aiqtoolkit-agno
-- essent-dynamic-pricing
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-llama-index
-- zoomy-core

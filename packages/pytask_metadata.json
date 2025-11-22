@@ -1,0 +1,11 @@
+{
+  "name": "pytask",
+  "version": "0.5.7",
+  "summary": "pytask is a workflow management system that facilitates reproducible data analyses.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytask-0.5.7.tar.gz",
+  "download_time": "2025-11-22T11:17:52.741031",
+  "package_url": "https://pypi.org/project/pytask/"
+}

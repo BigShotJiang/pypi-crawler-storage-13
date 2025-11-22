@@ -1,11 +1,11 @@
 {
   "name": "SimpleColoredLogs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Ein minimalistischer, farbiger Terminal-Logger",
   "author": "OPPRO.NET Development",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplecoloredlogs-1.0.4.tar.gz",
-  "download_time": "2025-11-21T18:30:17.528151",
+  "download_filename": "simplecoloredlogs-1.0.5.tar.gz",
+  "download_time": "2025-11-22T11:18:00.419304",
   "package_url": "https://pypi.org/project/SimpleColoredLogs/"
 }
