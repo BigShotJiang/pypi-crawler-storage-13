@@ -1,0 +1,11 @@
+{
+  "name": "dbt-hologres",
+  "version": "1.9.1",
+  "summary": "The hologres adapter plugin for dbt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_hologres-1.9.1.tar.gz",
+  "download_time": "2025-11-22T07:54:19.000889",
+  "package_url": "https://pypi.org/project/dbt-hologres/"
+}
