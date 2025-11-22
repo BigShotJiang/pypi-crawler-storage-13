@@ -1,11 +1,11 @@
 {
   "name": "dectobin",
-  "version": "0.2",
-  "summary": "A simple Python library to convert decimal to binary",
-  "author": "MD Mominul Haque Ifti",
+  "version": "1.0.0",
+  "summary": "A simple decimal to binary converter library.",
+  "author": "Md Mominul Haque Ifti",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "dectobin-0.2.tar.gz",
-  "download_time": "2025-11-22T08:48:24.737138",
+  "home_page": "https://github.com/mdmominulhaqueifti21/dectobin",
+  "download_filename": "dectobin-1.0.0.tar.gz",
+  "download_time": "2025-11-22T09:22:11.890448",
   "package_url": "https://pypi.org/project/dectobin/"
 }

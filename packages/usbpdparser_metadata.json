@@ -1,0 +1,11 @@
+{
+  "name": "usbpdparser",
+  "version": "1.0.0",
+  "summary": "A Python API for parsing USB Power Delivery messages.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "usbpdparser-1.0.0.tar.gz",
+  "download_time": "2025-11-22T09:22:02.326288",
+  "package_url": "https://pypi.org/project/usbpdparser/"
+}

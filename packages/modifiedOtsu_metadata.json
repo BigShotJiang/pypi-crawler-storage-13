@@ -1,0 +1,11 @@
+{
+  "name": "modifiedOtsu",
+  "version": "0.1.0",
+  "summary": "Numba-accelerated local modified Otsu thresholding for 3D images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modifiedotsu-0.1.0.tar.gz",
+  "download_time": "2025-11-22T09:22:04.403841",
+  "package_url": "https://pypi.org/project/modifiedOtsu/"
+}
