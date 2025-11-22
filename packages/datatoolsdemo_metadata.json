@@ -1,0 +1,11 @@
+{
+  "name": "datatoolsdemo",
+  "version": "0.0.2",
+  "summary": "A small demo package to practice Dependabot.",
+  "author": "Jyri Määttä",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datatoolsdemo-0.0.2.tar.gz",
+  "download_time": "2025-11-22T16:47:39.578294",
+  "package_url": "https://pypi.org/project/datatoolsdemo/"
+}

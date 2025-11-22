@@ -1,0 +1,11 @@
+{
+  "name": "linpredict",
+  "version": "0.1.0",
+  "summary": "Simple linear prediction - fit y = mx + c and predict values",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linpredict-0.1.0.tar.gz",
+  "download_time": "2025-11-22T16:47:46.281550",
+  "package_url": "https://pypi.org/project/linpredict/"
+}

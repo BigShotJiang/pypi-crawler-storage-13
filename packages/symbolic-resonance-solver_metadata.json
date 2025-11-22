@@ -1,11 +1,11 @@
 {
   "name": "symbolic-resonance-solver",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Revolutionary NP-complete problem solver using symbolic entropy spaces and quantum resonance dynamics",
   "author": null,
   "license": "Restricted Use License - See LICENSE file",
   "home_page": null,
-  "download_filename": "symbolic_resonance_solver-0.1.6.tar.gz",
-  "download_time": "2025-11-22T16:27:03.786751",
+  "download_filename": "symbolic_resonance_solver-0.1.7.tar.gz",
+  "download_time": "2025-11-22T16:47:41.622769",
   "package_url": "https://pypi.org/project/symbolic-resonance-solver/"
 }

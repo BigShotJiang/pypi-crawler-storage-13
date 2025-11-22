@@ -1,0 +1,11 @@
+{
+  "name": "chuk-mcp-open-meteo",
+  "version": "1.0.0",
+  "summary": "Comprehensive MCP server for Open-Meteo weather data - the best weather MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_mcp_open_meteo-1.0.0.tar.gz",
+  "download_time": "2025-11-22T16:47:39.068514",
+  "package_url": "https://pypi.org/project/chuk-mcp-open-meteo/"
+}

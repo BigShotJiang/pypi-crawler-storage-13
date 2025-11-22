@@ -1,11 +1,11 @@
 {
   "name": "cpuid-native",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "x86 cpuid native API",
   "author": "Fernando Pelliccioni",
   "license": "MIT",
   "home_page": "https://github.com/fpelliccioni/cpuid-py-native",
-  "download_filename": "cpuid_native-0.0.9.tar.gz",
-  "download_time": "2025-11-22T11:17:46.077397",
+  "download_filename": "cpuid_native-0.1.0.tar.gz",
+  "download_time": "2025-11-22T16:47:34.416487",
   "package_url": "https://pypi.org/project/cpuid-native/"
 }
