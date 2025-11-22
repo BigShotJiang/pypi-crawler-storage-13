@@ -1,11 +1,11 @@
 {
   "name": "aixv",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "The AI Integrity eXchange & Verification Protocol.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aixv-0.1.0.tar.gz",
-  "download_time": "2025-11-22T04:45:37.717777",
+  "download_filename": "aixv-0.1.2.tar.gz",
+  "download_time": "2025-11-22T05:22:39.246292",
   "package_url": "https://pypi.org/project/aixv/"
 }

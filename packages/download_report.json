@@ -1,12 +1,8 @@
 {
-  "download_time": "2025-11-22T04:57:22.991705",
-  "total_packages_downloaded": 65,
-  "total_size_mb": 6.07,
+  "download_time": "2025-11-22T05:23:08.403005",
+  "total_packages_downloaded": 64,
+  "total_size_mb": 8.79,
   "packages": [
-    "politipo",
-    "drow-http",
-    "envvm",
-    "zoomy-core",
     "AgentService",
     "fvm-formal",
     "nonebot-plugin-mcversion",
@@ -39,6 +35,7 @@
     "keras-nlp-nightly",
     "keras-hub-nightly",
     "cbridge",
+    "envvm",
     "zensols-relpo",
     "dialoghelper",
     "runcell",
@@ -67,6 +64,8 @@
     "aiq-platform-api",
     "hexdoc-hexthings",
     "istari-digital-client",
-    "pymolfold"
+    "pymolfold",
+    "radboy",
+    "torch-c-dlpack-ext"
   ]
 }
