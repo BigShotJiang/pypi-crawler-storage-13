@@ -1,11 +1,11 @@
 {
   "name": "barbara-updater",
-  "version": "4.3.12",
+  "version": "4.3.13",
   "summary": "weather observer",
   "author": "santod",
   "license": null,
   "home_page": null,
-  "download_filename": "barbara_updater-4.3.12.tar.gz",
-  "download_time": "2025-11-17T17:51:39.346220",
+  "download_filename": "barbara_updater-4.3.13.tar.gz",
+  "download_time": "2025-11-22T20:54:26.999791",
   "package_url": "https://pypi.org/project/barbara-updater/"
 }
