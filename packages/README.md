@@ -1,23 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T07:54:58.117251
-- **Total Packages**: 79
-- **Total Size**: 0.37 MB
+- **Download Time**: 2025-11-22T08:29:14.960897
+- **Total Packages**: 72
+- **Total Size**: 13.27 MB
 
 ## Packages List
+- sssom_pydantic
+- tree-sitter-matlab
+- treem
+- dbt-autodoc
+- pythonbpf
+- bool-hybrid-array
+- xiaoya-teacher-mcp-server
+- hfsearch
+- pulumi-eks
+- lm-deluge
+- PyAgartha
+- modulegraph
+- ccowsay
+- pyturso
+- npmai
+- nucleation
+- tesser
+- clippers
+- p2pdocs
+- tpu-inference
+- tf-models-nightly
+- slides-cli
+- easy-utils-dev
+- Apolien
+- pyglove
+- beads-mcp
+- django-routines
+- laine
+- pigeon-transitions
+- liveimport
+- gitcrumbs
+- test-ylang
+- zrb
+- ysher-mcp-server-demo
+- miunlock
+- fastapi-mongo-base
+- parallel-llm
+- orka-reasoning
+- sgoschoolapi
+- django-render-static
 - wpiformat
 - comfyui-workflow-templates
 - ai-validator
 - py-api-dumper
 - ramifice
-- clippers
 - htsdk
-- parallel-llm
 - feldera
-- sgoschoolapi
 - dbt-hologres
-- slides-cli
 - webscout
 - zhaostephen-vdts
 - cheetah-greb
@@ -28,7 +64,6 @@
 - swarmkit
 - avionmqtt
 - ethcompress
-- ccowsay
 - fastrep
 - mtuci-private-api
 - pulumi-kubernetes
@@ -41,47 +76,5 @@
 - aipyapp
 - ai-edge-litert-nightly
 - videowall
-- nucleation
 - pylxpweb
 - precice-config-graph
-- FlaskTester
-- ocdscardinal
-- tritonparse
-- devpath
-- ameliepy
-- avionmesh
-- sauva
-- django-vises
-- cart-total-items
-- oelint-data
-- pinionai
-- dyntripy
-- py-markdown-editor
-- himpunan-mathdisk
-- trifold
-- pulumi-cloudflare
-- tree-sitter-toon
-- eryn
-- ppqs
-- pygenpdf
-- kitikiplot
-- testio-mcp
-- turbopipe
-- ProxyPatternPool
-- pulumi-wavefront
-- pulumi-ns1
-- pulumi-tls
-- ecell4-base
-- pulumi-vsphere
-- pulumi-venafi
-- biblemategui
-- lm-saes
-- bizyengine
-- politipo
-- pulseflow
-- neuronpedia
-- aixv
-- sycommon-python-lib
-- pulumi-spotinst
-- pulumi-aws-apigateway
-- stata-mcp

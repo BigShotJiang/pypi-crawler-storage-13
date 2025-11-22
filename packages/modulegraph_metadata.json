@@ -1,0 +1,11 @@
+{
+  "name": "modulegraph",
+  "version": "0.19.7",
+  "summary": "Python module dependency analysis tool",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "http://github.com/ronaldoussoren/modulegraph",
+  "download_filename": "modulegraph-0.19.7.tar.gz",
+  "download_time": "2025-11-22T08:28:42.076170",
+  "package_url": "https://pypi.org/project/modulegraph/"
+}

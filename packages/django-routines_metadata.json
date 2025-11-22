@@ -1,0 +1,11 @@
+{
+  "name": "django-routines",
+  "version": "1.7.0",
+  "summary": "Define named groups of management commands in Django settings files for batched execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_routines-1.7.0.tar.gz",
+  "download_time": "2025-11-22T08:28:50.031323",
+  "package_url": "https://pypi.org/project/django-routines/"
+}

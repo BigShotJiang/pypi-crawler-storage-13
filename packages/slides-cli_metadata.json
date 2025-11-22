@@ -1,11 +1,11 @@
 {
   "name": "slides-cli",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Convert PDF slides to beautiful grid images",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slides_cli-0.1.0.tar.gz",
-  "download_time": "2025-11-22T07:54:19.577748",
+  "download_filename": "slides_cli-0.2.1.tar.gz",
+  "download_time": "2025-11-22T08:28:47.390958",
   "package_url": "https://pypi.org/project/slides-cli/"
 }
