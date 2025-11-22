@@ -1,0 +1,11 @@
+{
+  "name": "qtheme",
+  "version": "3.0.2",
+  "summary": "Tool for management qtile environment",
+  "author": "loadept",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qtheme-3.0.2.tar.gz",
+  "download_time": "2025-11-22T21:40:23.313321",
+  "package_url": "https://pypi.org/project/qtheme/"
+}

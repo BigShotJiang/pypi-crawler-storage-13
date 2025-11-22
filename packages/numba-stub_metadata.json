@@ -1,11 +1,11 @@
 {
   "name": "numba-stub",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Lightweight stub implementations of Numba decorators, allowing code to run and be debugged without installing Numba, reducing dependency size.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "numba_stub-1.1.0.tar.gz",
-  "download_time": "2025-11-22T21:20:53.379558",
+  "download_filename": "numba_stub-1.1.1.tar.gz",
+  "download_time": "2025-11-22T21:40:24.871759",
   "package_url": "https://pypi.org/project/numba-stub/"
 }

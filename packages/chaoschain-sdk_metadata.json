@@ -1,11 +1,11 @@
 {
   "name": "chaoschain-sdk",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Minimal SDK for building verifiable agents on ChaosChain protocol - ERC-8004, x402, local storage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chaoschain_sdk-0.2.9.tar.gz",
-  "download_time": "2025-11-22T21:20:56.060893",
+  "download_filename": "chaoschain_sdk-0.2.10.tar.gz",
+  "download_time": "2025-11-22T21:40:32.746965",
   "package_url": "https://pypi.org/project/chaoschain-sdk/"
 }
