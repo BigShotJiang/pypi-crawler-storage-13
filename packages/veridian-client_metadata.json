@@ -1,0 +1,11 @@
+{
+  "name": "veridian-client",
+  "version": "0.1.2",
+  "summary": "Client SDK for Veridian AI Safety Platform",
+  "author": "Veridian AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veridian_client-0.1.2.tar.gz",
+  "download_time": "2025-11-22T01:41:18.368586",
+  "package_url": "https://pypi.org/project/veridian-client/"
+}

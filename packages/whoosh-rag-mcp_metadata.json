@@ -1,0 +1,11 @@
+{
+  "name": "whoosh-rag-mcp",
+  "version": "0.1.2",
+  "summary": "Search and retrieve documentation using Whoosh full-text search with MCP server support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whoosh_rag_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-22T01:41:48.476125",
+  "package_url": "https://pypi.org/project/whoosh-rag-mcp/"
+}

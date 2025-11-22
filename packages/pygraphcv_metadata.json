@@ -1,0 +1,11 @@
+{
+  "name": "pygraphcv",
+  "version": "0.0.2",
+  "summary": "A high-performance 2D/3D graphics and multimedia framework built on Cython and OpenCV.",
+  "author": "PyGraph developer(s)",
+  "license": "MIT",
+  "home_page": "https://github.com/TunnelMiner12/PyGraph",
+  "download_filename": "pygraphcv-0.0.2.tar.gz",
+  "download_time": "2025-11-22T01:41:52.596457",
+  "package_url": "https://pypi.org/project/pygraphcv/"
+}

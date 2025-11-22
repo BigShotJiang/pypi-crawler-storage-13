@@ -1,0 +1,11 @@
+{
+  "name": "javanese-stemmer",
+  "version": "1.2.1",
+  "summary": "Comprehensive Javanese language stemmer with morphophonological rules and dictionary validation",
+  "author": "Stevia Anlena Putri",
+  "license": null,
+  "home_page": "https://github.com/steviaanlena/Javanese-Stemmer",
+  "download_filename": "javanese_stemmer-1.2.1.tar.gz",
+  "download_time": "2025-11-22T01:41:17.339448",
+  "package_url": "https://pypi.org/project/javanese-stemmer/"
+}

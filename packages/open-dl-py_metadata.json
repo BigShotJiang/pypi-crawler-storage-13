@@ -1,0 +1,11 @@
+{
+  "name": "open-dl-py",
+  "version": "0.1.0",
+  "summary": "Smart download dispatcher that selects curl, yt-dlp, aria2c, gallery-dl, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_dl_py-0.1.0.tar.gz",
+  "download_time": "2025-11-22T01:41:37.605674",
+  "package_url": "https://pypi.org/project/open-dl-py/"
+}

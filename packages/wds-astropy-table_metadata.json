@@ -1,0 +1,11 @@
+{
+  "name": "wds-astropy-table",
+  "version": "0.1.0",
+  "summary": "A simple package to parse the WDS catalog into an astropy table",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wds_astropy_table-0.1.0.tar.gz",
+  "download_time": "2025-11-22T01:41:32.963643",
+  "package_url": "https://pypi.org/project/wds-astropy-table/"
+}

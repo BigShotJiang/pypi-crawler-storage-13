@@ -1,0 +1,11 @@
+{
+  "name": "isolate",
+  "version": "0.21.2",
+  "summary": "Managed isolated environments for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isolate-0.21.2.tar.gz",
+  "download_time": "2025-11-22T01:41:19.395777",
+  "package_url": "https://pypi.org/project/isolate/"
+}
