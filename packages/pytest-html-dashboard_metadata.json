@@ -1,0 +1,11 @@
+{
+  "name": "pytest-html-dashboard",
+  "version": "1.0.0",
+  "summary": "Beautiful dashboard-style HTML reports for pytest with charts, error analysis, and visual insights",
+  "author": "Niresh Shanmugam",
+  "license": "MIT",
+  "home_page": "https://github.com/nireshs/pytest-html-dashboard",
+  "download_filename": "pytest_html_dashboard-1.0.0.tar.gz",
+  "download_time": "2025-11-22T07:39:31.077489",
+  "package_url": "https://pypi.org/project/pytest-html-dashboard/"
+}

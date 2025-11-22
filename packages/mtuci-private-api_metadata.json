@@ -1,0 +1,11 @@
+{
+  "name": "mtuci-private-api",
+  "version": "0.1.2",
+  "summary": "Library for reaching MTUCI site from code",
+  "author": "MisterEblan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtuci_private_api-0.1.2.tar.gz",
+  "download_time": "2025-11-22T07:39:36.245399",
+  "package_url": "https://pypi.org/project/mtuci-private-api/"
+}
