@@ -1,0 +1,11 @@
+{
+  "name": "LuminaDB",
+  "version": "0.8.0",
+  "summary": "Easy to use SQLite wrapper",
+  "author": "RimuEirnarn",
+  "license": null,
+  "home_page": "https://github.com/RimuEirnarn/luminadb",
+  "download_filename": "luminadb-0.8.0.tar.gz",
+  "download_time": "2025-11-22T06:32:06.988659",
+  "package_url": "https://pypi.org/project/LuminaDB/"
+}

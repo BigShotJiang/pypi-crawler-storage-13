@@ -1,0 +1,11 @@
+{
+  "name": "dexweb",
+  "version": "4.1.8",
+  "summary": "Dexweb makes dex, a programmatically generated website, to put on the web",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dexweb-4.1.8.tar.gz",
+  "download_time": "2025-11-22T06:31:28.567253",
+  "package_url": "https://pypi.org/project/dexweb/"
+}

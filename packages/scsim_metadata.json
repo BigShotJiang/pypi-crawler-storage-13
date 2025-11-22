@@ -1,11 +1,11 @@
 {
   "name": "scsim",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "summary": "Simulator for single-cell DNA sequencing data",
   "author": null,
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "scsim-0.1.2.tar.gz",
-  "download_time": "2025-11-22T05:43:23.252674",
+  "download_filename": "scsim-1.0.0.tar.gz",
+  "download_time": "2025-11-22T06:31:31.718378",
   "package_url": "https://pypi.org/project/scsim/"
 }

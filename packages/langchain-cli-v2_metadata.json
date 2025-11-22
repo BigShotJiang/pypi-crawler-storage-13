@@ -1,11 +1,11 @@
 {
   "name": "langchain-cli-v2",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "CLI for developing and deploying LangChain tool servers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_cli_v2-0.1.13.tar.gz",
-  "download_time": "2025-11-20T04:57:28.975371",
+  "download_filename": "langchain_cli_v2-0.1.14.tar.gz",
+  "download_time": "2025-11-22T06:31:21.789442",
   "package_url": "https://pypi.org/project/langchain-cli-v2/"
 }
