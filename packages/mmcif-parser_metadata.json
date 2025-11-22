@@ -1,0 +1,11 @@
+{
+  "name": "mmcif-parser",
+  "version": "0.1.0",
+  "summary": "Python bindings for the mmcif-parser Rust crates",
+  "author": "mmcif_parser team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mmcif_parser-0.1.0-cp39-abi3-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-11-22T13:55:00.114571",
+  "package_url": "https://pypi.org/project/mmcif-parser/"
+}

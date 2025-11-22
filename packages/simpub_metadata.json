@@ -1,11 +1,11 @@
 {
   "name": "simpub",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "A cross-environment tool to publish objects from simulation for Augmented Reality and Human Robot Interaction.",
   "author": "Xinkai Jiang",
   "license": "Apache-2.0",
   "home_page": "https://intuitive-robots.github.io/iris-project-page/",
-  "download_filename": "simpub-2.2.0.tar.gz",
-  "download_time": "2025-11-21T10:46:29.227670",
+  "download_filename": "simpub-2.2.2.tar.gz",
+  "download_time": "2025-11-22T13:54:48.184824",
   "package_url": "https://pypi.org/project/simpub/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rangeflow",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Certified Robustness and Uncertainty Quantification for AI",
   "author": null,
-  "license": "MIT License",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "rangeflow-0.2.0.tar.gz",
-  "download_time": "2025-11-21T03:51:58.741564",
+  "download_filename": "rangeflow-0.3.0.tar.gz",
+  "download_time": "2025-11-22T13:55:00.623152",
   "package_url": "https://pypi.org/project/rangeflow/"
 }

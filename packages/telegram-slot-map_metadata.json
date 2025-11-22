@@ -1,0 +1,11 @@
+{
+  "name": "telegram-slot-map",
+  "version": "1.0.0",
+  "summary": "Complete and customizable mapping of Telegram slot machine (🎰) dice values (1-64) to symbol combinations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telegram_slot_map-1.0.0.tar.gz",
+  "download_time": "2025-11-22T13:54:58.061219",
+  "package_url": "https://pypi.org/project/telegram-slot-map/"
+}

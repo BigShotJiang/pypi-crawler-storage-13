@@ -1,11 +1,11 @@
 {
   "name": "parallel-llm",
-  "version": "0.6.19",
+  "version": "0.6.21",
   "summary": "Ultra-fast parallel training and inference for language models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parallel_llm-0.6.19.tar.gz",
-  "download_time": "2025-11-22T13:07:33.038044",
+  "download_filename": "parallel_llm-0.6.21.tar.gz",
+  "download_time": "2025-11-22T13:54:36.764714",
   "package_url": "https://pypi.org/project/parallel-llm/"
 }

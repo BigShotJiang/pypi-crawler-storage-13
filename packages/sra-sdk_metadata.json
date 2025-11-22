@@ -1,0 +1,11 @@
+{
+  "name": "sra-sdk",
+  "version": "0.1.1",
+  "summary": "System Reliability Assistant - SDK for automatic incident detection and response",
+  "author": "SRA Team",
+  "license": null,
+  "home_page": "https://github.com/Greekatz/hackonauts-api",
+  "download_filename": "sra_sdk-0.1.1.tar.gz",
+  "download_time": "2025-11-22T13:55:03.221908",
+  "package_url": "https://pypi.org/project/sra-sdk/"
+}

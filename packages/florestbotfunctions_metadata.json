@@ -1,11 +1,11 @@
 {
   "name": "florestbotfunctions",
-  "version": "1.8.5",
+  "version": "1.8.6",
   "summary": "Функции бота Флореста в одной библиотеке.",
   "author": "florestdev",
   "license": null,
   "home_page": null,
-  "download_filename": "florestbotfunctions-1.8.5.tar.gz",
-  "download_time": "2025-11-20T11:40:10.648383",
+  "download_filename": "florestbotfunctions-1.8.6.tar.gz",
+  "download_time": "2025-11-22T13:54:45.058537",
   "package_url": "https://pypi.org/project/florestbotfunctions/"
 }
