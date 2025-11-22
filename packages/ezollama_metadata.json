@@ -1,11 +1,11 @@
 {
   "name": "ezollama",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A lightweight Python wrapper for Ollama AI models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezollama-0.1.8.tar.gz",
-  "download_time": "2025-11-20T22:21:10.578903",
+  "download_filename": "ezollama-0.1.9.tar.gz",
+  "download_time": "2025-11-22T18:31:00.990647",
   "package_url": "https://pypi.org/project/ezollama/"
 }

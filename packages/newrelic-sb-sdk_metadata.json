@@ -1,0 +1,11 @@
+{
+  "name": "newrelic-sb-sdk",
+  "version": "0.42.0",
+  "summary": "New Relic SDK to interact with Nerdgraph API.",
+  "author": "SoftButterfly Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dynovaio/newrelic-sb-sdk",
+  "download_filename": "newrelic_sb_sdk-0.42.0.tar.gz",
+  "download_time": "2025-11-22T18:31:14.046044",
+  "package_url": "https://pypi.org/project/newrelic-sb-sdk/"
+}

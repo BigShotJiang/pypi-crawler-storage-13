@@ -1,11 +1,11 @@
 {
   "name": "web-perfmonitor",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Zero-intrusion performance monitoring for Python web frameworks",
   "author": "Web Perf Monitor Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "web_perfmonitor-0.1.0.tar.gz",
-  "download_time": "2025-11-22T15:40:46.733885",
+  "download_filename": "web_perfmonitor-1.0.0.tar.gz",
+  "download_time": "2025-11-22T18:30:42.585616",
   "package_url": "https://pypi.org/project/web-perfmonitor/"
 }

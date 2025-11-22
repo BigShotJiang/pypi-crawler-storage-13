@@ -1,0 +1,11 @@
+{
+  "name": "easycv-lib",
+  "version": "0.2.0",
+  "summary": "A convenient wrapper library for OpenCV - Simple and easy-to-use computer vision tools",
+  "author": "taha zarif",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easycv_lib-0.2.0.tar.gz",
+  "download_time": "2025-11-22T18:30:58.337601",
+  "package_url": "https://pypi.org/project/easycv-lib/"
+}

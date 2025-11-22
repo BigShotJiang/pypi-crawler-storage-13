@@ -1,0 +1,11 @@
+{
+  "name": "dirigo-ni-digitizer",
+  "version": "0.1.0",
+  "summary": "Plugin to use NI S- and X-series devices as digitizers in Dirigo.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dirigo_ni_digitizer-0.1.0.tar.gz",
+  "download_time": "2025-11-22T18:31:01.521749",
+  "package_url": "https://pypi.org/project/dirigo-ni-digitizer/"
+}

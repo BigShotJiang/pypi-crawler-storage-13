@@ -1,0 +1,11 @@
+{
+  "name": "codexglitch",
+  "version": "0.1.2",
+  "summary": "Offline static analysis tool for Python - detects bugs, performance issues, and security vulnerabilities",
+  "author": "codeXglitch Team",
+  "license": null,
+  "home_page": "https://github.com/codeXglitch/codeXglitch",
+  "download_filename": "codexglitch-0.1.2.tar.gz",
+  "download_time": "2025-11-22T18:30:56.720966",
+  "package_url": "https://pypi.org/project/codexglitch/"
+}

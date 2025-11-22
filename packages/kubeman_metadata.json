@@ -1,11 +1,11 @@
 {
   "name": "kubeman",
-  "version": "0.2.0",
-  "summary": "A Python library for rendering Helm charts and ArgoCD applications",
-  "author": "Hazel Sudzilouski, Jason Zhang",
+  "version": "0.2.2",
+  "summary": "A Python library for rendering Helm charts and Kubernetes resources with automatic ArgoCD Application generation. Features an abstract Template base class for consistent template management.",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kubeman-0.2.0.tar.gz",
-  "download_time": "2025-11-22T17:54:18.113634",
+  "download_filename": "kubeman-0.2.2.tar.gz",
+  "download_time": "2025-11-22T18:30:43.134252",
   "package_url": "https://pypi.org/project/kubeman/"
 }

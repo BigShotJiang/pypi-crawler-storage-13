@@ -1,0 +1,11 @@
+{
+  "name": "nltk-extratokenizers",
+  "version": "0.1.1",
+  "summary": "Core NLTK model/data files (punkt, tagger, stopwords, wordnet, etc.) packaged for pip installation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nltk_extratokenizers-0.1.1.tar.gz",
+  "download_time": "2025-11-22T18:31:04.764690",
+  "package_url": "https://pypi.org/project/nltk-extratokenizers/"
+}
