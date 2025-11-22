@@ -1,0 +1,11 @@
+{
+  "name": "uiautodev",
+  "version": "0.14.0",
+  "summary": "Mobile UI Automation, include UI hierarchy inspector, script recorder",
+  "author": "codeskyblue",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uiautodev-0.14.0.tar.gz",
+  "download_time": "2025-11-22T15:21:29.712113",
+  "package_url": "https://pypi.org/project/uiautodev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dataspace-client",
+  "version": "0.1.3.19",
+  "summary": "Client for a publish/subscribe dataspace (MQTT-based) with convenience helpers.",
+  "author": "Anton Gustafsson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataspace_client-0.1.3.19.tar.gz",
+  "download_time": "2025-11-22T15:21:10.413331",
+  "package_url": "https://pypi.org/project/dataspace-client/"
+}

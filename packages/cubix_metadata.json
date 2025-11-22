@@ -1,0 +1,11 @@
+{
+  "name": "cubix",
+  "version": "1.1.2",
+  "summary": "Persistent homology using KDE",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cubix-1.1.2.tar.gz",
+  "download_time": "2025-11-22T15:21:26.999660",
+  "package_url": "https://pypi.org/project/cubix/"
+}

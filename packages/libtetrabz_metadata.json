@@ -1,0 +1,11 @@
+{
+  "name": "libtetrabz",
+  "version": "0.1.2",
+  "summary": "Optimized tetrahedron method to perform brillouin-zone integral",
+  "author": "Mitsuaki Kawamura",
+  "license": null,
+  "home_page": "https://mitsuaki1987.github.io/libtetrabz/",
+  "download_filename": "libtetrabz-0.1.2.tar.gz",
+  "download_time": "2025-11-22T15:21:36.236306",
+  "package_url": "https://pypi.org/project/libtetrabz/"
+}

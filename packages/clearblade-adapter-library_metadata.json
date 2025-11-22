@@ -1,0 +1,11 @@
+{
+  "name": "clearblade-adapter-library",
+  "version": "1.0.0",
+  "summary": "The adapter-python-library streamlines the development process for ClearBlade Adapters written in Python",
+  "author": "ClearBlade",
+  "license": "MIT",
+  "home_page": "https://github.com/ClearBlade/adapter-python-library",
+  "download_filename": "clearblade_adapter_library-1.0.0.tar.gz",
+  "download_time": "2025-11-22T15:21:31.843307",
+  "package_url": "https://pypi.org/project/clearblade-adapter-library/"
+}

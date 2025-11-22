@@ -1,0 +1,11 @@
+{
+  "name": "textual-jumper",
+  "version": "0.2.1",
+  "summary": "A keyboard-driven navigation widget for Textual TUI applications",
+  "author": "Zaloog",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textual_jumper-0.2.1.tar.gz",
+  "download_time": "2025-11-22T15:21:22.025766",
+  "package_url": "https://pypi.org/project/textual-jumper/"
+}
