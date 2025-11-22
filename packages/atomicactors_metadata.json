@@ -1,0 +1,11 @@
+{
+  "name": "atomicactors",
+  "version": "0.1.0b1",
+  "summary": "Ruthlessly simple framework for building agentic systems",
+  "author": "Jamoxidase",
+  "license": null,
+  "home_page": "https://github.com/Jamoxidase/Atomic-Actors",
+  "download_filename": "atomicactors-0.1.0b1.tar.gz",
+  "download_time": "2025-11-22T05:43:18.105057",
+  "package_url": "https://pypi.org/project/atomicactors/"
+}

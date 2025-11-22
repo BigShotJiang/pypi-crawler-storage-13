@@ -1,11 +1,11 @@
 {
   "name": "mrafit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": null,
   "author": "Utkarsh Saraswat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mrafit-1.1.0.tar.gz",
-  "download_time": "2025-11-21T14:23:53.928551",
+  "download_filename": "mrafit-1.1.1.tar.gz",
+  "download_time": "2025-11-22T05:42:44.268726",
   "package_url": "https://pypi.org/project/mrafit/"
 }

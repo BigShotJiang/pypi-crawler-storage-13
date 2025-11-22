@@ -1,0 +1,11 @@
+{
+  "name": "genie.libs.health",
+  "version": "25.10",
+  "summary": "pyATS Health Check for monitoring device health status",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie_libs_health-25.10-py3-none-any.whl",
+  "download_time": "2025-11-22T05:43:09.346294",
+  "package_url": "https://pypi.org/project/genie.libs.health/"
+}

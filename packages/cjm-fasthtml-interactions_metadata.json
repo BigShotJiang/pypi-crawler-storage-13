@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-interactions",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "Reusable user interaction patterns for FastHTML applications including multi-step wizards, master-detail views, modal workflows, and other stateful UI orchestration patterns.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-interactions",
-  "download_filename": "cjm_fasthtml_interactions-0.0.17.tar.gz",
-  "download_time": "2025-11-21T20:26:46.453625",
+  "download_filename": "cjm_fasthtml_interactions-0.0.18.tar.gz",
+  "download_time": "2025-11-22T05:42:45.810318",
   "package_url": "https://pypi.org/project/cjm-fasthtml-interactions/"
 }

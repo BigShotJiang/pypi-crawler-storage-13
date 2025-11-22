@@ -1,0 +1,11 @@
+{
+  "name": "unicon.plugins",
+  "version": "25.10",
+  "summary": "Unicon Connection Library Plugins",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "unicon_plugins-25.10-py3-none-any.whl",
+  "download_time": "2025-11-22T05:42:49.916875",
+  "package_url": "https://pypi.org/project/unicon.plugins/"
+}

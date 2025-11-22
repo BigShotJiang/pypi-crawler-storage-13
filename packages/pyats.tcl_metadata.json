@@ -1,0 +1,11 @@
+{
+  "name": "pyats.tcl",
+  "version": "25.10",
+  "summary": "pyATS Tcl: Tcl Integration and Objects",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats/",
+  "download_filename": "pyats_tcl-25.10-cp310-cp310-manylinux2014_aarch64.whl",
+  "download_time": "2025-11-22T05:42:54.715426",
+  "package_url": "https://pypi.org/project/pyats.tcl/"
+}

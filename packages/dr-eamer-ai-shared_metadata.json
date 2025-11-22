@@ -1,0 +1,11 @@
+{
+  "name": "dr-eamer-ai-shared",
+  "version": "1.0.0",
+  "summary": "Shared library for AI development projects - LLM providers, config management, and utilities",
+  "author": "Luke Steuber",
+  "license": "MIT",
+  "home_page": "https://github.com/lukeslp/kernel",
+  "download_filename": "dr_eamer_ai_shared-1.0.0.tar.gz",
+  "download_time": "2025-11-22T05:42:43.239508",
+  "package_url": "https://pypi.org/project/dr-eamer-ai-shared/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genie.libs.robot",
+  "version": "25.10",
+  "summary": "Genie libs Robot: RobotFramework libraries to interact with Genie",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie_libs_robot-25.10-py3-none-any.whl",
+  "download_time": "2025-11-22T05:43:07.809439",
+  "package_url": "https://pypi.org/project/genie.libs.robot/"
+}

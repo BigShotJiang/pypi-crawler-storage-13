@@ -1,0 +1,11 @@
+{
+  "name": "genie.trafficgen",
+  "version": "25.10",
+  "summary": "Genie Library for traffic generator connection support",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie_trafficgen-25.10-py3-none-any.whl",
+  "download_time": "2025-11-22T05:43:06.246388",
+  "package_url": "https://pypi.org/project/genie.trafficgen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GPUniq",
+  "version": "1.0.6",
+  "summary": "Python client for GPUniq GPU Meta-Cloud platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpuniq-1.0.6.tar.gz",
+  "download_time": "2025-11-22T05:43:12.937825",
+  "package_url": "https://pypi.org/project/GPUniq/"
+}
