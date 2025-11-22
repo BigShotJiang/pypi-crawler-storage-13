@@ -1,0 +1,11 @@
+{
+  "name": "nafflib",
+  "version": "2.1.1",
+  "summary": "NAFF algorithm for frequency analysis",
+  "author": "P. Belanger, K. Paraschou et al.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/xsuite/nafflib",
+  "download_filename": "nafflib-2.1.1.tar.gz",
+  "download_time": "2025-11-22T15:54:28.181396",
+  "package_url": "https://pypi.org/project/nafflib/"
+}
