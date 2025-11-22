@@ -1,11 +1,11 @@
 {
   "name": "psydk",
-  "version": "0.1.902",
+  "version": "0.1.903",
   "summary": "Python bindings for psydk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psydk-0.1.902.tar.gz",
-  "download_time": "2025-11-21T23:58:08.809499",
+  "download_filename": "psydk-0.1.903.tar.gz",
+  "download_time": "2025-11-22T13:07:58.299994",
   "package_url": "https://pypi.org/project/psydk/"
 }

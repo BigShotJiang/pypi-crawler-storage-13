@@ -1,0 +1,11 @@
+{
+  "name": "mrap",
+  "version": "1.0.0",
+  "summary": "Machine-Readable Data Analysis Results with Function Wrappers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mrap-1.0.0.tar.gz",
+  "download_time": "2025-11-22T13:07:33.579828",
+  "package_url": "https://pypi.org/project/mrap/"
+}
