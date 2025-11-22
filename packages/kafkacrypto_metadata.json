@@ -1,0 +1,11 @@
+{
+  "name": "kafkacrypto",
+  "version": "0.9.11.2",
+  "summary": "Message layer security/crypto for Kafka",
+  "author": "Tyrel M. McQueen",
+  "license": "GNU GPLv2",
+  "home_page": "https://github.com/tmcqueen-materials/kafkacrypto",
+  "download_filename": "kafkacrypto-0.9.11.2.tar.gz",
+  "download_time": "2025-11-22T17:40:55.422040",
+  "package_url": "https://pypi.org/project/kafkacrypto/"
+}

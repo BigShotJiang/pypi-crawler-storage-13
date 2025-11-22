@@ -1,11 +1,11 @@
 {
   "name": "pyswap",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Python wrapper for SWAP hydrological model.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyswap-0.3.2.tar.gz",
-  "download_time": "2025-11-22T14:20:08.261224",
+  "download_filename": "pyswap-0.3.3.tar.gz",
+  "download_time": "2025-11-22T17:40:58.583505",
   "package_url": "https://pypi.org/project/pyswap/"
 }

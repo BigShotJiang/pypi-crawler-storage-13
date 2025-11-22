@@ -1,0 +1,11 @@
+{
+  "name": "upa-url",
+  "version": "1.1.0",
+  "summary": "WHATWG URL Standard compliant URL parser library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "upa_url-1.1.0.tar.gz",
+  "download_time": "2025-11-22T17:40:55.939929",
+  "package_url": "https://pypi.org/project/upa-url/"
+}
