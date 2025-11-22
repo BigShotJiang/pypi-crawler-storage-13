@@ -1,0 +1,11 @@
+{
+  "name": "rl-tetris",
+  "version": "0.2.3",
+  "summary": "Simple Tetris Environment for Reinforcement Learning",
+  "author": "hot666666",
+  "license": "MIT",
+  "home_page": "https://github.com/hot666666/RL-Tetris",
+  "download_filename": "rl_tetris-0.2.3.tar.gz",
+  "download_time": "2025-11-22T04:27:34.089257",
+  "package_url": "https://pypi.org/project/rl-tetris/"
+}
