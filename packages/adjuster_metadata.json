@@ -1,0 +1,11 @@
+{
+  "name": "adjuster",
+  "version": "3.247",
+  "summary": "the Web Adjuster domain-rewriting proxy",
+  "author": "Silas S. Brown",
+  "license": "Apache 2",
+  "home_page": "http://ssb22.user.srcf.net/adjuster/",
+  "download_filename": "adjuster-3.247.tar.gz",
+  "download_time": "2025-11-22T08:48:29.364139",
+  "package_url": "https://pypi.org/project/adjuster/"
+}

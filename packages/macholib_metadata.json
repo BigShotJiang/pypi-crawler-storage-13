@@ -1,0 +1,11 @@
+{
+  "name": "macholib",
+  "version": "1.16.4",
+  "summary": "Mach-O header analysis and editing",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "http://github.com/ronaldoussoren/macholib",
+  "download_filename": "macholib-1.16.4.tar.gz",
+  "download_time": "2025-11-22T08:48:39.924916",
+  "package_url": "https://pypi.org/project/macholib/"
+}

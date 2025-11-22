@@ -1,0 +1,11 @@
+{
+  "name": "scrap-imdb",
+  "version": "0.1.7",
+  "summary": "Scrap Imdb website to retrieve detail informations from movies or tvshows",
+  "author": "David Steinberger",
+  "license": "MIT",
+  "home_page": "https://github.com/dsteinberger/scrapimdb",
+  "download_filename": "scrap_imdb-0.1.7.tar.gz",
+  "download_time": "2025-11-22T08:48:34.559442",
+  "package_url": "https://pypi.org/project/scrap-imdb/"
+}

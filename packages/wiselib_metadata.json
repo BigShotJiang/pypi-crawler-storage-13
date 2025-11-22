@@ -1,0 +1,11 @@
+{
+  "name": "wiselib",
+  "version": "0.3.28",
+  "summary": "WISE Library",
+  "author": "Wise Man",
+  "license": null,
+  "home_page": "https://github.com/yourusername/wiselib",
+  "download_filename": "wiselib-0.3.28.tar.gz",
+  "download_time": "2025-11-22T08:48:30.384189",
+  "package_url": "https://pypi.org/project/wiselib/"
+}

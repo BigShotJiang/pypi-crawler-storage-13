@@ -1,0 +1,11 @@
+{
+  "name": "tello-renewal",
+  "version": "0.1.2",
+  "summary": "Tello mobile plan automatic renewal system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tello_renewal-0.1.2.tar.gz",
+  "download_time": "2025-11-22T08:48:35.650751",
+  "package_url": "https://pypi.org/project/tello-renewal/"
+}
