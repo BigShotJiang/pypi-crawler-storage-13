@@ -1,0 +1,11 @@
+{
+  "name": "ovos-tts-plugin-nos",
+  "version": "0.7.5",
+  "summary": "A galician tts plugin for OVOS",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-tts-plugin-nos",
+  "download_filename": "ovos_tts_plugin_nos-0.7.5.tar.gz",
+  "download_time": "2025-11-22T22:43:34.078432",
+  "package_url": "https://pypi.org/project/ovos-tts-plugin-nos/"
+}

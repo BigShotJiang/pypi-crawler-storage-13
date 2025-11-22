@@ -1,11 +1,11 @@
 {
   "name": "ReverseBox",
-  "version": "0.69.0",
+  "version": "0.72.0",
   "summary": "A set of functions useful in reverse engineering.",
   "author": "Bartlomiej Duda",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/bartlomiejduda/ReverseBox",
-  "download_filename": "reversebox-0.69.0.tar.gz",
-  "download_time": "2025-11-18T23:38:34.018377",
+  "download_filename": "reversebox-0.72.0.tar.gz",
+  "download_time": "2025-11-22T22:43:40.319658",
   "package_url": "https://pypi.org/project/ReverseBox/"
 }

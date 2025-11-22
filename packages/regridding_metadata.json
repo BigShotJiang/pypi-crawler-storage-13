@@ -1,0 +1,11 @@
+{
+  "name": "regridding",
+  "version": "1.0.0",
+  "summary": "Numba-accelerated interpolation routines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regridding-1.0.0.tar.gz",
+  "download_time": "2025-11-22T22:43:39.147261",
+  "package_url": "https://pypi.org/project/regridding/"
+}

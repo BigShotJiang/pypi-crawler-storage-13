@@ -1,11 +1,11 @@
 {
   "name": "pyspecdata",
-  "version": "0.9.45.4",
+  "version": "0.9.45.5",
   "summary": "Object-Oriented, Multi-dimensional Spectroscopic Data Processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyspecdata-0.9.45.4-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2025-11-20T22:53:37.911100",
+  "download_filename": "pyspecdata-0.9.45.5-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-11-22T22:43:42.189768",
   "package_url": "https://pypi.org/project/pyspecdata/"
 }

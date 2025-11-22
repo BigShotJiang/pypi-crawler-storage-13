@@ -1,0 +1,11 @@
+{
+  "name": "wikidata-identifier-extractor",
+  "version": "0.1.0",
+  "summary": "Extract cross-platform media identifiers from Wikidata (IMDb, Trakt, TMDB, etc.)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wikidata_identifier_extractor-0.1.0.tar.gz",
+  "download_time": "2025-11-22T22:43:42.717784",
+  "package_url": "https://pypi.org/project/wikidata-identifier-extractor/"
+}
