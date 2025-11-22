@@ -1,0 +1,11 @@
+{
+  "name": "depydency",
+  "version": "1.0.0",
+  "summary": "Dependency Injection Container for Inversion of Control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "depydency-1.0.0.tar.gz",
+  "download_time": "2025-11-22T18:51:51.979779",
+  "package_url": "https://pypi.org/project/depydency/"
+}

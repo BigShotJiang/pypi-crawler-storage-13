@@ -1,0 +1,11 @@
+{
+  "name": "silero",
+  "version": "0.5.2",
+  "summary": "Silero Models: pre-trained enterprise-grade TTS models.",
+  "author": "Silero Team",
+  "license": null,
+  "home_page": "https://github.com/snakers4/silero-models",
+  "download_filename": "silero-0.5.2.tar.gz",
+  "download_time": "2025-11-22T18:51:49.221992",
+  "package_url": "https://pypi.org/project/silero/"
+}

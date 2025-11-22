@@ -1,11 +1,11 @@
 {
   "name": "just-semantic-search",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "summary": "Core interfaces for hybrid search implementations (CPU version)",
   "author": "Alex Karmazin",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "just_semantic_search-0.4.6.tar.gz",
-  "download_time": "2025-11-22T17:20:46.820860",
+  "download_filename": "just_semantic_search-0.4.7.tar.gz",
+  "download_time": "2025-11-22T18:51:51.435535",
   "package_url": "https://pypi.org/project/just-semantic-search/"
 }

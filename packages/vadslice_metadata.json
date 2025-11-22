@@ -1,0 +1,11 @@
+{
+  "name": "vadslice",
+  "version": "1.0.1",
+  "summary": "Slices audio clips into chunks of a specific number of seconds at the closest moment of silence (decided by silero-vad). Uses onnx which avoids the pytorch dependency.",
+  "author": "bn-l",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vadslice-1.0.1.tar.gz",
+  "download_time": "2025-11-22T18:51:42.220551",
+  "package_url": "https://pypi.org/project/vadslice/"
+}

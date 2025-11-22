@@ -1,16 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T18:31:23.450139
-- **Total Packages**: 76
-- **Total Size**: 33.08 MB
+- **Download Time**: 2025-11-22T18:52:25.309773
+- **Total Packages**: 79
+- **Total Size**: 10.88 MB
 
 ## Packages List
+- vadslice
+- ceylonai-next
+- svg-ultralight
+- flake8-explicitclassvar
+- gmtorch
+- torch-geopooling
+- kubeman
+- just-semantic-search-server-cuda
+- just-semantic-search-scholar-cuda
+- diskcache-rs
+- just-semantic-search-scholar
+- twidgets
+- silero
+- just-semantic-search-meili-cuda
+- just-semantic-search-meili
+- mhlabs-mcp-tools
+- just-semantic-search
+- depydency
+- easycv-lib
+- headson
+- resilient-circuit
+- maplestory-openapi
+- quisk
+- just-agents
+- just-agents-examples
+- just-agents-router
+- just-agents-web
+- just-agents-coding
+- just-agents-tools
+- just-agents-core
 - jubilee
 - ovos-wikipedia-solver
 - simba-uw-tf-dev
 - web-perfmonitor
-- kubeman
 - rmbloat
 - jps-jira-utils
 - pragma-sdk
@@ -23,7 +52,6 @@
 - tree-sitter-pgn
 - pykimix
 - crf-query-xtract
-- twidgets
 - maleo-metadata
 - bleak
 - pyyeti
@@ -37,7 +65,6 @@
 - codexglitch
 - maleo-enums
 - flowllm
-- easycv-lib
 - sdg8193_rekor
 - autopahe
 - tgeffect
@@ -47,7 +74,6 @@
 - pyjobkit
 - orbitalis
 - pythermacell
-- gmtorch
 - pytoolkitx2
 - nltk-extratokenizers
 - sefrone-build
@@ -59,26 +85,3 @@
 - novig-liquidity
 - psydk-gst
 - MorseCodePy
-- nexo-soma
-- loce-zap
-- VLife-Gram
-- mahsm
-- 2025-assignment2-vaultPasswordManager
-- mcp-ticketer
-- newrelic-sb-sdk
-- TopDownHockey-Scraper
-- vargula
-- lifx-async
-- afterpython
-- spotifysaver
-- dars-framework
-- maleo-soma
-- claia-bob
-- langchain-mtuci
-- alt-text-llm
-- crewai
-- igbyte
-- lbrlabs-pulumi-tailscalebastion
-- pydtmdl
-- syblock-rpip
-- midir
