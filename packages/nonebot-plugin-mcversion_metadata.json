@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-mcversion",
+  "version": "0.3.6",
+  "summary": "NoneBot2 plugin for CheckMCupdate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_mcversion-0.3.6.tar.gz",
+  "download_time": "2025-11-22T04:56:51.812810",
+  "package_url": "https://pypi.org/project/nonebot-plugin-mcversion/"
+}
