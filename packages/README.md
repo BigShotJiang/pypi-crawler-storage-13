@@ -1,29 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T10:23:09.650179
-- **Total Packages**: 87
-- **Total Size**: 23.17 MB
+- **Download Time**: 2025-11-22T10:43:19.516589
+- **Total Packages**: 86
+- **Total Size**: 0.15 MB
 
 ## Packages List
-- essent-dynamic-pricing
-- aiqtoolkit-zep-cloud
-- versapy
-- aiqtoolkit-llama-index
-- zoomy-core
-- aiqtoolkit
-- aiqtoolkit-test
-- ikalogic-sp1000g
-- onnxslim
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- aiqtoolkit-langchain
-- agents-docs-sync
-- chromasql
-- mmq-high-precision
-- python-injection
 - aiinbx
 - nexios_contrib
+- essent-dynamic-pricing
 - idxr
 - hookdns
 - ai-edge-torch-nightly
@@ -43,6 +28,7 @@
 - gisweb-ads
 - upathtools
 - medusa-security
+- zoomy-core
 - gisweb-jppa
 - asyncio_for_robotics
 - adryserage-aetheris
@@ -93,3 +79,16 @@
 - pyinstaller-hooks-contrib
 - rhs-flashkit
 - natural-pdf
+- HOS-ANY2DOCX
+- capeify
+- diffindiff
+- py-testrail-cli
+- wmain
+- Products.SiteErrorLog
+- mitogen
+- pyspread
+- waldiez-studio
+- pictocut
+- gradescopeapi
+- nexo-logging
+- Products.ZCatalog

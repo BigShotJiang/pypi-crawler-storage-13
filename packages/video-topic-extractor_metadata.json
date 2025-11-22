@@ -1,11 +1,11 @@
 {
   "name": "video-topic-extractor",
-  "version": "0.5.1",
+  "version": "0.6.1",
   "summary": "Extracts topics from lesson videos using speech recognition and NLP",
   "author": "Eldar Eliyev",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/video_topic_extractor",
-  "download_filename": "video_topic_extractor-0.5.1.tar.gz",
-  "download_time": "2025-11-22T10:22:34.460375",
+  "download_filename": "video_topic_extractor-0.6.1.tar.gz",
+  "download_time": "2025-11-22T10:42:35.660161",
   "package_url": "https://pypi.org/project/video-topic-extractor/"
 }
