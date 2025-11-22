@@ -1,11 +1,11 @@
 {
   "name": "scientific-calculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A beginner-friendly scientific calculator package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scientific_calculator-0.1.0.tar.gz",
-  "download_time": "2025-11-22T13:54:34.647403",
+  "download_filename": "scientific_calculator-0.1.1.tar.gz",
+  "download_time": "2025-11-22T14:20:26.689883",
   "package_url": "https://pypi.org/project/scientific-calculator/"
 }

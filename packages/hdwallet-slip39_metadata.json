@@ -1,0 +1,11 @@
+{
+  "name": "hdwallet-slip39",
+  "version": "4.0.3",
+  "summary": "Python-based library implementing a Hierarchical Deterministic (HD) Wallet generator for 200+ cryptocurrencies.",
+  "author": "Meheret Tesfaye Batu",
+  "license": "MIT",
+  "home_page": "https://hdwallet.io",
+  "download_filename": "hdwallet_slip39-4.0.3.tar.gz",
+  "download_time": "2025-11-22T14:20:21.468051",
+  "package_url": "https://pypi.org/project/hdwallet-slip39/"
+}

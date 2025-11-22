@@ -1,0 +1,11 @@
+{
+  "name": "sp-track-getter",
+  "version": "0.1.0",
+  "summary": "Aggregate Spotify song/track data using Spotify API with audio features data from ReccoBeats and/or SoundStat",
+  "author": "Eren-is",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sp_track_getter-0.1.0.tar.gz",
+  "download_time": "2025-11-22T14:20:14.579528",
+  "package_url": "https://pypi.org/project/sp-track-getter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "makeprov",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "An provenance tracking library for simple Python workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "makeprov-0.2.3.tar.gz",
-  "download_time": "2025-11-19T10:47:23.727411",
+  "download_filename": "makeprov-0.3.0.tar.gz",
+  "download_time": "2025-11-22T14:20:14.015596",
   "package_url": "https://pypi.org/project/makeprov/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "textual-plot",
+  "version": "0.8.1.post1",
+  "summary": "A native plotting widget for Textual apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_plot-0.8.1.post1.tar.gz",
+  "download_time": "2025-11-22T14:20:20.312463",
+  "package_url": "https://pypi.org/project/textual-plot/"
+}
