@@ -1,11 +1,11 @@
 {
   "name": "wpiformat",
-  "version": "2025.76",
+  "version": "2025.77",
   "summary": "Linters and formatters for ensuring WPILib's source code conforms to its style guide",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wpiformat-2025.76.tar.gz",
-  "download_time": "2025-11-22T19:18:25.930674",
+  "download_filename": "wpiformat-2025.77.tar.gz",
+  "download_time": "2025-11-22T19:40:17.084678",
   "package_url": "https://pypi.org/project/wpiformat/"
 }

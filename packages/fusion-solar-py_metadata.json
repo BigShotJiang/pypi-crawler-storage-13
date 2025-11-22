@@ -1,11 +1,11 @@
 {
   "name": "fusion-solar-py",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simply API to the Huawei Fusion Solar web interface.",
   "author": "Johannes Griss",
   "license": null,
   "home_page": "https://github.com/jgriss/FusionSolarPy",
-  "download_filename": "fusion_solar_py-0.1.0.tar.gz",
-  "download_time": "2025-11-22T19:18:24.347374",
+  "download_filename": "fusion_solar_py-0.1.1.tar.gz",
+  "download_time": "2025-11-22T19:40:15.005805",
   "package_url": "https://pypi.org/project/fusion-solar-py/"
 }

@@ -1,12 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T19:18:57.576431
-- **Total Packages**: 71
-- **Total Size**: 18.41 MB
+- **Download Time**: 2025-11-22T19:40:46.260932
+- **Total Packages**: 75
+- **Total Size**: 9.5 MB
 
 ## Packages List
+- synqed
+- ayechat
 - nexo-schemas
+- geo-activity-playground
+- jlcpcb-search-mcp
+- ceylonai-next
+- braindecode
+- timem-ai
+- endstone-inventoryui
+- sprocket-boxcars-py
+- nexo-utils
+- diskcache-rs
+- vadalog-extension
+- local-deep-research
+- dmeth
+- fusion-solar-py
+- nexo-logging
+- mignonFramework
+- ovos-wikipedia-solver
+- wpiformat
+- imgctl
+- sscs-hw1
+- nexo-enums
+- git-police
+- occupancy-manager
+- flake8-nested-fstrings
+- aline-ai
+- tree-sitter-pgn
+- nexo-crypto
+- loop-step
+- mcp-ticketer
+- pragma-sdk
+- passworder
+- nexo-types
+- jiratui
+- pyvegh
+- ft-tokenize
 - perpetual-context
 - isapilib
 - lar-engine
@@ -15,22 +51,18 @@
 - mcp-postgres-duwenji
 - depydency
 - LLM-Bridge
-- fusion-solar-py
 - pyagentic-core
 - signalwire-agents
-- wpiformat
 - quantizedensenet
 - pygha_tools
 - smle
 - opsgenielib
-- mignonFramework
 - numba-stub
 - chaiverse
 - oxc-python
 - envon
 - autopahe
 - pyaging
-- ovos-wikipedia-solver
 - ovos-solver-bm25-plugin
 - oarepo-model
 - prompt-unifier
@@ -49,31 +81,3 @@
 - just-semantic-search-meili
 - just-semantic-search
 - syblock-rpip
-- black-litterman-mcp
-- pragma-sdk
-- drop2beets
-- doxy2mdx
-- django-visual-editor
-- zotero2readwise
-- vadslice
-- sensei-mcp
-- jlcpcb-search-mcp
-- dependamerge
-- python-socketio
-- rmbloat
-- aimodelshare
-- easycv-lib
-- strayl-mcp-server
-- perpetual-context-window
-- func-adl-xAOD
-- aline-ai
-- lbrlabs-pulumi-tailscalebastion
-- aponyx
-- dsf-mobility
-- pylxpweb
-- ceylonai-next
-- svg-ultralight
-- flake8-explicitclassvar
-- gmtorch
-- torch-geopooling
-- diskcache-rs

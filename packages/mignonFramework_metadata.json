@@ -1,11 +1,11 @@
 {
   "name": "mignonFramework",
-  "version": "0.5.5.3",
+  "version": "0.5.5.4",
   "summary": "一个为爬虫设计的强大Python工具集",
   "author": "Mignon Rex",
   "license": null,
   "home_page": "https://github.com/RexMignon/MignonFramework",
-  "download_filename": "mignonframework-0.5.5.3.tar.gz",
-  "download_time": "2025-11-22T19:18:29.077068",
+  "download_filename": "mignonframework-0.5.5.4.tar.gz",
+  "download_time": "2025-11-22T19:40:16.045899",
   "package_url": "https://pypi.org/project/mignonFramework/"
 }

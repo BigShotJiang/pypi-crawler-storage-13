@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-pgn",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "summary": "PGN grammar for tree-sitter",
   "author": null,
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "tree_sitter_pgn-1.2.18.tar.gz",
-  "download_time": "2025-11-22T18:30:48.547061",
+  "download_filename": "tree_sitter_pgn-1.2.19.tar.gz",
+  "download_time": "2025-11-22T19:40:21.231335",
   "package_url": "https://pypi.org/project/tree-sitter-pgn/"
 }
