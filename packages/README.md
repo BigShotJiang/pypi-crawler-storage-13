@@ -1,22 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-22T19:54:31.768602
-- **Total Packages**: 73
-- **Total Size**: 1.54 MB
+- **Download Time**: 2025-11-22T20:24:56.661733
+- **Total Packages**: 74
+- **Total Size**: 9.8 MB
 
 ## Packages List
+- synqed
+- miraveja-protos
+- pyagentic-core
+- devgraph-client
+- maleo-mcu
+- token-reducer
+- twevals
+- autopahe
+- sleipnirgroup-jormungandr
+- taiyo
+- cython-extensions-sc2
+- igloo-mcp
+- lichess-board
+- depydency
+- wnet
+- charming
+- vadalog-extension
+- valid8r
+- hklpy2
+- django-watchlog-apm
+- vadalog-jupyter-kernel
+- pytest-insta
+- oarepo-rdm
+- scruff
+- maleo-metadata
+- tickblaze-api
+- pyapiq
+- nexo-soma
+- uuzip
+- passworder
+- biogl
 - nexo-middlewares
 - threaded-order
-- synqed
-- pyagentic-core
-- vadalog-extension
 - nexo-google
 - airbyte
 - slimschema
-- uuzip
 - fmd-api
-- biogl
 - nexo-client
 - cs-models
 - aicommitter
@@ -54,28 +80,3 @@
 - loop-step
 - mcp-ticketer
 - pragma-sdk
-- passworder
-- nexo-types
-- jiratui
-- pyvegh
-- ft-tokenize
-- perpetual-context
-- isapilib
-- lar-engine
-- alita-sdk
-- flask-blog-app
-- mcp-postgres-duwenji
-- depydency
-- LLM-Bridge
-- signalwire-agents
-- quantizedensenet
-- pygha_tools
-- smle
-- opsgenielib
-- numba-stub
-- chaiverse
-- oxc-python
-- envon
-- autopahe
-- pyaging
-- ovos-solver-bm25-plugin

@@ -1,0 +1,11 @@
+{
+  "name": "charming",
+  "version": "1.0.1",
+  "summary": "A creative coding language based on Processing and Python for creating interactive character terminal art.",
+  "author": "Pearmini",
+  "license": "MIT",
+  "home_page": "https://github.com/charming-art/pycharming",
+  "download_filename": "charming-1.0.1.tar.gz",
+  "download_time": "2025-11-22T20:24:25.715085",
+  "package_url": "https://pypi.org/project/charming/"
+}

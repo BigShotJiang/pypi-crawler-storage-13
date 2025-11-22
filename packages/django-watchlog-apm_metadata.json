@@ -1,0 +1,11 @@
+{
+  "name": "django-watchlog-apm",
+  "version": "1.1.0",
+  "summary": "Django instrumentation for Watchlog APM with JSON OTLP export",
+  "author": "Mohammadreza",
+  "license": "MIT",
+  "home_page": "https://github.com/Watchlog-monitoring/django_watchlog_apm.git",
+  "download_filename": "django_watchlog_apm-1.1.0.tar.gz",
+  "download_time": "2025-11-22T20:24:27.907351",
+  "package_url": "https://pypi.org/project/django-watchlog-apm/"
+}
