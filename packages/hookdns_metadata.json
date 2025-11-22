@@ -1,0 +1,11 @@
+{
+  "name": "hookdns",
+  "version": "2.0.1",
+  "summary": "An easy way to customize the dns resolution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hookdns-2.0.1.tar.gz",
+  "download_time": "2025-11-22T10:22:32.217269",
+  "package_url": "https://pypi.org/project/hookdns/"
+}

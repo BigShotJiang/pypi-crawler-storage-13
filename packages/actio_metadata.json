@@ -1,11 +1,11 @@
 {
   "name": "actio",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Pure Python actor system for building concurrent and distributed applications with async/await support for Python 3.11+",
   "author": "Semenets V. Pavel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "actio-0.1.0.tar.gz",
-  "download_time": "2025-11-22T03:40:12.673837",
+  "download_filename": "actio-0.1.2.tar.gz",
+  "download_time": "2025-11-22T10:22:50.913891",
   "package_url": "https://pypi.org/project/actio/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-injection",
+  "version": "0.24.0",
+  "summary": "Fast and easy dependency injection framework.",
+  "author": "remimd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_injection-0.24.0.tar.gz",
+  "download_time": "2025-11-22T10:22:29.981811",
+  "package_url": "https://pypi.org/project/python-injection/"
+}

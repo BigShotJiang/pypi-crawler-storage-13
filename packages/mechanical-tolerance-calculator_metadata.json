@@ -1,0 +1,11 @@
+{
+  "name": "mechanical-tolerance-calculator",
+  "version": "0.1.3",
+  "summary": "A Python package for material tolerance calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mechanical_tolerance_calculator-0.1.3.tar.gz",
+  "download_time": "2025-11-22T10:23:03.423362",
+  "package_url": "https://pypi.org/project/mechanical-tolerance-calculator/"
+}

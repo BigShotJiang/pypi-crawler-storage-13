@@ -1,11 +1,11 @@
 {
   "name": "sensei-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Engineering standards mentor - Active context injection for 50+ file types with session memory",
   "author": "amarodeabreu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sensei_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-20T22:53:14.855958",
+  "download_filename": "sensei_mcp-0.2.0.tar.gz",
+  "download_time": "2025-11-22T10:22:39.963098",
   "package_url": "https://pypi.org/project/sensei-mcp/"
 }

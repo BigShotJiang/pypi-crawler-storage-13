@@ -1,11 +1,11 @@
 {
   "name": "versapy",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Lightweight framework for desktop apps with web UI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "versapy-1.1.0.tar.gz",
-  "download_time": "2025-11-19T20:22:38.435653",
+  "download_filename": "versapy-1.2.0.tar.gz",
+  "download_time": "2025-11-22T10:22:23.029871",
   "package_url": "https://pypi.org/project/versapy/"
 }
