@@ -1,11 +1,11 @@
 {
   "name": "logpattern-converter",
-  "version": "0.1.1",
-  "summary": "Herramienta CLI para la conversión y refactorización de patrones de logs.",
-  "author": "Echek7 (AGI_ECHE)",
-  "license": "Proprietary (Licencia de Pago Único)",
-  "home_page": "https://github.com/Echek7/logpattern_converter",
-  "download_filename": "logpattern_converter-0.1.1.tar.gz",
-  "download_time": "2025-11-21T08:32:27.020781",
+  "version": "1.0.1",
+  "summary": "Herramienta profesional de refactorización de logs a JSON estructurado.",
+  "author": "Tu Nombre Aquí",
+  "license": null,
+  "home_page": "https://github.com/echek7/logpattern_converter",
+  "download_filename": "logpattern_converter-1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-22T03:58:01.453884",
   "package_url": "https://pypi.org/project/logpattern-converter/"
 }
