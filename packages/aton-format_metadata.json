@@ -1,11 +1,11 @@
 {
   "name": "aton-format",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Advanced data serialization achieving 50-60% token reduction with Compression Modes, SQL-like Query Language, and Streaming Support for LLMs",
   "author": "Stefano D'Agostino",
   "license": "MIT",
   "home_page": "https://github.com/dagoSte/aton-format",
-  "download_filename": "aton_format-2.0.0.tar.gz",
-  "download_time": "2025-11-22T16:47:45.774003",
+  "download_filename": "aton_format-2.0.1.tar.gz",
+  "download_time": "2025-11-22T16:59:29.824974",
   "package_url": "https://pypi.org/project/aton-format/"
 }
