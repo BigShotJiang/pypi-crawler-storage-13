@@ -1,11 +1,11 @@
 {
   "name": "utilities-toolkit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A lightweight utilities package for managing configuration and logging across multiple projects. It provides a simple interface to create and access configuration files in various formats, along with a straightforward logging system that can optionally centralize logs and configs in a single location.",
   "author": "Jules MOURGUES-HAROCHE",
   "license": null,
   "home_page": null,
-  "download_filename": "utilities_toolkit-0.1.0.tar.gz",
-  "download_time": "2025-11-22T21:21:07.333406",
+  "download_filename": "utilities_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-11-22T23:53:55.173124",
   "package_url": "https://pypi.org/project/utilities-toolkit/"
 }

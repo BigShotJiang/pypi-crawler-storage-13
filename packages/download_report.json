@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-11-22T23:42:17.307837",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 2.42,
+  "download_time": "2025-11-22T23:54:29.033644",
+  "total_packages_downloaded": 72,
+  "total_size_mb": 1.13,
   "packages": [
+    "agriforest-crops",
+    "toons",
+    "ecell4-base",
+    "dataframe-textual",
+    "basket-viz",
+    "ploneapi-shell",
+    "colorsynth",
+    "good-agent",
+    "caldavctl",
+    "utilities-toolkit",
     "PyLanauageCtrl",
     "d365fo-client",
     "chromasql",
@@ -15,7 +25,6 @@
     "aa-esi-status",
     "nv-ingest",
     "nv-ingest-client",
-    "basket-viz",
     "nv-ingest-api",
     "oldaplib",
     "policyboom",
@@ -65,16 +74,6 @@
     "parallel-hill-climber",
     "smoosense",
     "arize-phoenix-evals",
-    "mmm-fair",
-    "robosystems-client",
-    "licensing-specialist",
-    "privatera",
-    "sprocket-boxcars-py",
-    "groundx",
-    "agentrelay",
-    "simple-async-sqs",
-    "shinestacker",
-    "flipper-fs",
-    "damask-parse"
+    "mmm-fair"
   ]
 }

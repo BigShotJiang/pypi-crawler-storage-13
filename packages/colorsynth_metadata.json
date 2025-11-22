@@ -1,0 +1,11 @@
+{
+  "name": "colorsynth",
+  "version": "1.0.0",
+  "summary": "A Python library for creating false-color images from arrays of spectral radiance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "colorsynth-1.0.0.tar.gz",
+  "download_time": "2025-11-22T23:53:53.608736",
+  "package_url": "https://pypi.org/project/colorsynth/"
+}
