@@ -1,11 +1,11 @@
 {
   "name": "anova-precision-oven-sdk",
-  "version": "2025.11.10",
+  "version": "2025.11.11",
   "summary": "Python SDK for Anova Precision Oven",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anova_precision_oven_sdk-2025.11.10.tar.gz",
-  "download_time": "2025-11-23T19:19:25.574620",
+  "download_filename": "anova_precision_oven_sdk-2025.11.11.tar.gz",
+  "download_time": "2025-11-23T20:56:16.212166",
   "package_url": "https://pypi.org/project/anova-precision-oven-sdk/"
 }

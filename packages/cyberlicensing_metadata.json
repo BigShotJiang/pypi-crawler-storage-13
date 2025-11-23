@@ -1,11 +1,11 @@
 {
   "name": "cyberlicensing",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "Client and manager helpers for CyberLicensing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cyberlicensing-0.1.0.tar.gz",
-  "download_time": "2025-11-23T19:54:30.564112",
+  "download_filename": "cyberlicensing-0.2.2.tar.gz",
+  "download_time": "2025-11-23T20:55:53.624784",
   "package_url": "https://pypi.org/project/cyberlicensing/"
 }
