@@ -1,11 +1,11 @@
 {
   "name": "oidcauthlib",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "summary": "oidcauthlib",
   "author": "Imran Qureshi",
   "license": null,
   "home_page": "https://github.com/icanbwell/oidc-auth-lib",
-  "download_filename": "oidcauthlib-1.0.18.tar.gz",
-  "download_time": "2025-11-21T04:27:29.717797",
+  "download_filename": "oidcauthlib-1.0.19.tar.gz",
+  "download_time": "2025-11-23T05:22:47.329137",
   "package_url": "https://pypi.org/project/oidcauthlib/"
 }
