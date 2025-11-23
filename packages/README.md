@@ -1,14 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T05:44:40.994339
-- **Total Packages**: 72
-- **Total Size**: 5.26 MB
+- **Download Time**: 2025-11-23T05:55:24.546859
+- **Total Packages**: 73
+- **Total Size**: 10.04 MB
 
 ## Packages List
-- ncuhep
-- shotgrid-mcp-server
+- trovesuite
 - music-stain
+- Uranus-IDE
+- black-litterman-mcp
+- rag-mem
+- hussh
+- wrapper-tls-requests
+- weakincentives
+- kcpwd
+- easyrunner-cli
+- business-frameworks
+- easydag
+- bpmn-graph-transformation
+- datetime-matcher
+- ncuhep
+- edda-framework
+- shotgrid-mcp-server
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-mwaa
@@ -16,7 +30,6 @@
 - pycrypt-lib
 - AlexaPy
 - nercone-fastget
-- trovesuite
 - nextrec
 - django-vises
 - pulumi-aws-apigateway
@@ -29,7 +42,6 @@
 - aiwaf-fast
 - vizlint
 - uass
-- black-litterman-mcp
 - pyfrontkit
 - gha-utils
 - photos_drive
@@ -40,7 +52,6 @@
 - livekit-plugins-hgl
 - nnunetv2-cam
 - logbolt
-- rag-mem
 - ast-tool-py
 - miunlock
 - finrl-trading
@@ -68,13 +79,3 @@
 - synqed
 - luminescent
 - iamdata
-- zbMcLib
-- skimr-py
-- wmain
-- codeEEW-parser
-- anova-precision-oven-sdk
-- servicenow-api
-- oidcauthlib
-- wrapper-tls-requests
-- daglite
-- zombie-squirrel
