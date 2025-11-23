@@ -1,0 +1,11 @@
+{
+  "name": "cloudkitchen-lib",
+  "version": "0.1.0",
+  "summary": "Inventory helpers for CloudKitchen: parse ingredients, check availability, compute production capacity",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudkitchen_lib-0.1.0.tar.gz",
+  "download_time": "2025-11-23T15:41:30.381920",
+  "package_url": "https://pypi.org/project/cloudkitchen-lib/"
+}

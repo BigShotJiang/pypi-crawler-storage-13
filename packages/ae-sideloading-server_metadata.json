@@ -1,0 +1,11 @@
+{
+  "name": "ae-sideloading-server",
+  "version": "0.3.18",
+  "summary": "ae namespace module portion sideloading_server: sideloading server",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_sideloading_server",
+  "download_filename": "ae_sideloading_server-0.3.18.tar.gz",
+  "download_time": "2025-11-23T15:41:00.706646",
+  "package_url": "https://pypi.org/project/ae-sideloading-server/"
+}

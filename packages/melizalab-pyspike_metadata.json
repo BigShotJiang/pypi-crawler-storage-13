@@ -1,0 +1,11 @@
+{
+  "name": "melizalab-pyspike",
+  "version": "0.8.1",
+  "summary": "A Python library for the numerical analysis of spike train similarity - forked for PEP-518",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "melizalab_pyspike-0.8.1.tar.gz",
+  "download_time": "2025-11-23T15:41:09.903116",
+  "package_url": "https://pypi.org/project/melizalab-pyspike/"
+}

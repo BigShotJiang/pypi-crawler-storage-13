@@ -1,11 +1,11 @@
 {
   "name": "unitspy",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "A Python library that makes it easier to work with units in physics",
   "author": "Gustav Lindberg",
   "license": null,
   "home_page": null,
-  "download_filename": "unitspy-3.0.0.tar.gz",
-  "download_time": "2025-11-23T15:22:37.322422",
+  "download_filename": "unitspy-3.0.1.tar.gz",
+  "download_time": "2025-11-23T15:41:14.426589",
   "package_url": "https://pypi.org/project/unitspy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vibehdf5",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "A lightweight GUI to browse and interact with HDF5 file structures",
   "author": "Jacob Williams",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibehdf5-1.0.2.tar.gz",
-  "download_time": "2025-11-22T04:45:43.000749",
+  "download_filename": "vibehdf5-1.1.0.tar.gz",
+  "download_time": "2025-11-23T15:41:19.542554",
   "package_url": "https://pypi.org/project/vibehdf5/"
 }

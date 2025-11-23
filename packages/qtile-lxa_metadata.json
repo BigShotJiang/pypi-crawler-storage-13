@@ -1,0 +1,11 @@
+{
+  "name": "qtile-lxa",
+  "version": "0.0.8",
+  "summary": "QtileLXA is a modular extension suite for the Qtile window manager, featuring custom widgets, dynamic theming, video wallpapers, and system controls, all designed to enhance and automate your Qtile desktop experience.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qtile_lxa-0.0.8.tar.gz",
+  "download_time": "2025-11-23T15:41:29.825349",
+  "package_url": "https://pypi.org/project/qtile-lxa/"
+}

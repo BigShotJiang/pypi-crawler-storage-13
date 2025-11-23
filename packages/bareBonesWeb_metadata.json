@@ -1,11 +1,11 @@
 {
   "name": "bareBonesWeb",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A python web framework only using modules that are already installed on python Soon i will try to minimize the ammount of python packages to make it truly standalone",
   "author": "DaproDX",
   "license": null,
   "home_page": null,
-  "download_filename": "barebonesweb-0.0.1.tar.gz",
-  "download_time": "2025-11-23T11:40:43.579911",
+  "download_filename": "barebonesweb-0.1.0.tar.gz",
+  "download_time": "2025-11-23T15:41:25.742099",
   "package_url": "https://pypi.org/project/bareBonesWeb/"
 }
