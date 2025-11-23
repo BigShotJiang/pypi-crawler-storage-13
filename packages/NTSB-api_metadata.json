@@ -1,11 +1,11 @@
 {
   "name": "NTSB-api",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A Python wrapper for the NTSB aviation accident database",
   "author": "Amine harrabi",
   "license": "MIT",
   "home_page": "https://github.com/Amineharrabi/ntsb-api",
-  "download_filename": "ntsb_api-1.0.6.tar.gz",
-  "download_time": "2025-11-23T23:42:28.749813",
+  "download_filename": "ntsb_api-1.0.7.tar.gz",
+  "download_time": "2025-11-23T23:54:27.882246",
   "package_url": "https://pypi.org/project/NTSB-api/"
 }

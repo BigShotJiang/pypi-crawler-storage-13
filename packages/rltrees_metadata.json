@@ -1,0 +1,11 @@
+{
+  "name": "rltrees",
+  "version": "0.0.11",
+  "summary": "Sum tree and min tree implementation used particularly in reinforcement learning algorithms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rltrees-0.0.11.tar.gz",
+  "download_time": "2025-11-23T23:54:30.047520",
+  "package_url": "https://pypi.org/project/rltrees/"
+}

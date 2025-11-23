@@ -1,13 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T23:43:14.919454
-- **Total Packages**: 79
-- **Total Size**: 15.23 MB
+- **Download Time**: 2025-11-23T23:55:07.375098
+- **Total Packages**: 78
+- **Total Size**: 15.32 MB
 
 ## Packages List
-- lokzzpylib
+- spherical-harmonics-basis
+- NMSpy
+- synqed
+- jetflow
 - NTSB-api
+- createsonline
+- difflicious
+- typeagent
+- rltrees
+- insurance-risk-engine-x24329274
+- fastapi-easylimiter
+- lokzzpylib
+- hep-viz
+- basketball-ref-webscraper
+- ai-coliseum-bot-sdk
+- apala-api
+- python-nss-ng
+- barotropy
+- abi-core-ai
+- odc-stac
+- mcp-cli
+- zakuchienne
+- phoonnx
+- pixi-sync-environment
+- midi-device-control
+- machineconfig
+- sonolus.py
+- fgconfigtools
+- fastenv
 - dokku-wrapper
 - conson-xp
 - mylibrary278
@@ -21,7 +48,6 @@
 - nv-ingest-api
 - spotifysaver
 - based-utils
-- phoonnx
 - YoungLion-terminal
 - vibesafe
 - fin-infra
@@ -32,7 +58,6 @@
 - cyberlicensing
 - ExifSort
 - claude-mpm
-- basketball-ref-webscraper
 - mongland
 - opexcore
 - mismo
@@ -41,7 +66,6 @@
 - acdc_aws_etl_pipeline
 - gshock-api
 - pyblurry
-- sonolus.py
 - ennbo
 - zynpay
 - mdformat-front-matters
@@ -60,28 +84,3 @@
 - libcore-hng
 - pocketvectordb
 - dosh-cli
-- microarch
-- yahoo-fantasy-mcp
-- agriforest-crops
-- linregressor
-- imitator
-- machineconfig
-- flwr-nightly
-- scipy-stubs
-- fastapi-basekit
-- mas-cli
-- prescient-igloo
-- prophetverse
-- synth-ai
-- mjxml
-- pinviz
-- sphinxcontrib-mermaid
-- omuserver
-- omuplugin-obs
-- omu-chatprovider
-- omu-chat-youtube
-- omu-chat-twitch
-- omu-chat
-- omu
-- osrs
-- mat3ra-mode
