@@ -1,0 +1,11 @@
+{
+  "name": "geometry-toolkit-hvj",
+  "version": "1.0.0",
+  "summary": "A Python package providing geometric formulas for 2D shapes and 3D solid figures",
+  "author": "Harsh Vardhan Jha",
+  "license": null,
+  "home_page": "https://github.com/hvjha/geometry_toolkit",
+  "download_filename": "geometry_toolkit_hvj-1.0.0.tar.gz",
+  "download_time": "2025-11-23T12:40:13.359156",
+  "package_url": "https://pypi.org/project/geometry-toolkit-hvj/"
+}

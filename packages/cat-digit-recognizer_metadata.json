@@ -1,0 +1,11 @@
+{
+  "name": "cat-digit-recognizer",
+  "version": "1.2.1",
+  "summary": "A simple module for recognizing handwritten digits",
+  "author": "littlecommandcat",
+  "license": "MIT",
+  "home_page": "https://github.com/littlecommandcat/handwriting_recognizer",
+  "download_filename": "cat_digit_recognizer-1.2.1.tar.gz",
+  "download_time": "2025-11-23T12:40:16.740003",
+  "package_url": "https://pypi.org/project/cat-digit-recognizer/"
+}

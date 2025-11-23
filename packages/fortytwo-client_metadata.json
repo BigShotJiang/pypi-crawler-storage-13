@@ -1,11 +1,11 @@
 {
   "name": "fortytwo-client",
-  "version": "4.1.0",
+  "version": "4.1.2",
   "summary": "A Python client library for the 42 School API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fortytwo_client-4.1.0.tar.gz",
-  "download_time": "2025-11-23T11:53:32.052622",
+  "download_filename": "fortytwo_client-4.1.2.tar.gz",
+  "download_time": "2025-11-23T12:40:34.786005",
   "package_url": "https://pypi.org/project/fortytwo-client/"
 }

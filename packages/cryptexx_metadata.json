@@ -1,11 +1,11 @@
 {
   "name": "cryptexx",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "An encryption and decryption module.",
   "author": "Kevin Molnar",
   "license": null,
   "home_page": null,
-  "download_filename": "cryptexx-0.2.1.tar.gz",
-  "download_time": "2025-11-23T10:55:05.038404",
+  "download_filename": "cryptexx-0.2.3.tar.gz",
+  "download_time": "2025-11-23T12:40:14.429729",
   "package_url": "https://pypi.org/project/cryptexx/"
 }

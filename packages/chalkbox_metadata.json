@@ -1,0 +1,11 @@
+{
+  "name": "chalkbox",
+  "version": "2.2.0",
+  "summary": "A batteries-included CLI UI kit on top of Rich",
+  "author": "Robin Schulz",
+  "license": "MIT",
+  "home_page": "https://github.com/bulletinmybeard/chalkbox",
+  "download_filename": "chalkbox-2.2.0.tar.gz",
+  "download_time": "2025-11-23T12:40:49.902692",
+  "package_url": "https://pypi.org/project/chalkbox/"
+}

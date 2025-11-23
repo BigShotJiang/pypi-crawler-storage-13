@@ -1,11 +1,11 @@
 {
   "name": "shadowlib",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "OSRS Bot Development SDK with game-native structure",
   "author": "ShadowBot Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shadowlib-2.0.1.tar.gz",
-  "download_time": "2025-11-23T09:53:59.202582",
+  "download_filename": "shadowlib-2.0.3.tar.gz",
+  "download_time": "2025-11-23T12:40:18.364570",
   "package_url": "https://pypi.org/project/shadowlib/"
 }

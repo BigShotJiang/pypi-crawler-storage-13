@@ -1,0 +1,11 @@
+{
+  "name": "invoice_group_excel",
+  "version": "0.1.4",
+  "summary": "Tool that groups excell rows with specified conditions",
+  "author": "Jarosław Jezierczak",
+  "license": "Free",
+  "home_page": null,
+  "download_filename": "invoice_group_excel-0.1.4.tar.gz",
+  "download_time": "2025-11-23T12:40:36.929759",
+  "package_url": "https://pypi.org/project/invoice_group_excel/"
+}

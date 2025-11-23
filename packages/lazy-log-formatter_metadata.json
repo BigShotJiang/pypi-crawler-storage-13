@@ -1,11 +1,11 @@
 {
   "name": "lazy-log-formatter",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "A pre-commit script to make log lines lazzier",
   "author": "Daniel Marín",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lazy_log_formatter-0.9.0.tar.gz",
-  "download_time": "2025-11-18T21:52:18.658540",
+  "download_filename": "lazy_log_formatter-0.10.0.tar.gz",
+  "download_time": "2025-11-23T12:40:38.570943",
   "package_url": "https://pypi.org/project/lazy-log-formatter/"
 }

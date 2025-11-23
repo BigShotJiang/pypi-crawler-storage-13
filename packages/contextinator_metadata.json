@@ -1,11 +1,11 @@
 {
   "name": "contextinator",
-  "version": "0.0.post101",
+  "version": "0.0.post102",
   "summary": "Intelligent Codebase Understanding for AI Agents - Transform any codebase into semantically-aware, searchable knowledge",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "contextinator-0.0.post101.tar.gz",
-  "download_time": "2025-11-21T21:28:21.569905",
+  "download_filename": "contextinator-0.0.post102.tar.gz",
+  "download_time": "2025-11-23T12:40:54.171252",
   "package_url": "https://pypi.org/project/contextinator/"
 }

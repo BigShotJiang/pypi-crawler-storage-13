@@ -1,11 +1,11 @@
 {
   "name": "sensei-mcp",
-  "version": "0.4.0",
-  "summary": "Multi-persona engineering mentor with 22 specialized AI skills orchestrating collaborative guidance, session memory, and git-aware context",
+  "version": "0.5.0",
+  "summary": "Multi-persona engineering mentor with 23 specialized AI skills orchestrating collaborative guidance, session memory, and git-aware context",
   "author": "amarodeabreu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sensei_mcp-0.4.0.tar.gz",
-  "download_time": "2025-11-23T10:23:05.660343",
+  "download_filename": "sensei_mcp-0.5.0.tar.gz",
+  "download_time": "2025-11-23T12:40:56.300813",
   "package_url": "https://pypi.org/project/sensei-mcp/"
 }
