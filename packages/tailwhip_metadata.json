@@ -1,0 +1,11 @@
+{
+  "name": "tailwhip",
+  "version": "0.12.0",
+  "summary": "A pure Python Tailwind CSS class sorter that works with any HTML or CSS file, including Django templates and other template languages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tailwhip-0.12.0.tar.gz",
+  "download_time": "2025-11-23T19:54:32.119708",
+  "package_url": "https://pypi.org/project/tailwhip/"
+}

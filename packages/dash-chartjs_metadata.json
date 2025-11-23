@@ -1,0 +1,11 @@
+{
+  "name": "dash-chartjs",
+  "version": "1.2.2",
+  "summary": "A Dash Component library for ChartJs.",
+  "author": "Waleed Malik <zenalytiks@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/zenalytiks/dash-chartjs.git",
+  "download_filename": "dash_chartjs-1.2.2.tar.gz",
+  "download_time": "2025-11-23T19:54:35.810317",
+  "package_url": "https://pypi.org/project/dash-chartjs/"
+}

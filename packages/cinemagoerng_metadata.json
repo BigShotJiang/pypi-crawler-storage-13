@@ -1,0 +1,11 @@
+{
+  "name": "cinemagoerng",
+  "version": "0.7",
+  "summary": "Retrieve data from the IMDb.",
+  "author": "H. Turgut Uyar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cinemagoerng-0.7.tar.gz",
+  "download_time": "2025-11-23T19:54:26.315482",
+  "package_url": "https://pypi.org/project/cinemagoerng/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smartloop",
+  "version": "1.3.3",
+  "summary": "Smartloop Command Line interface to process documents using LLM",
+  "author": "Smartloop Inc.",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/LexicHQ/smartloop",
+  "download_filename": "smartloop-1.3.3.tar.gz",
+  "download_time": "2025-11-23T19:54:15.563837",
+  "package_url": "https://pypi.org/project/smartloop/"
+}

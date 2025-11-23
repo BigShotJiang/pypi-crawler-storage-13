@@ -1,0 +1,11 @@
+{
+  "name": "visioconverter",
+  "version": "0.1.1.dev0",
+  "summary": "Convert Visio .vsdx to other file formats.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "visioconverter-0.1.1.dev0-py3-none-any.whl",
+  "download_time": "2025-11-23T19:54:24.748671",
+  "package_url": "https://pypi.org/project/visioconverter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "akio",
+  "version": "0.0.4.dev0",
+  "summary": "An agentic AI for red team tasks.",
+  "author": "Fastiraz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "akio-0.0.4.dev0.tar.gz",
+  "download_time": "2025-11-23T19:54:22.667344",
+  "package_url": "https://pypi.org/project/akio/"
+}
