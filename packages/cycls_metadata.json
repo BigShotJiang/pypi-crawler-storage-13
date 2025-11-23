@@ -1,11 +1,11 @@
 {
   "name": "cycls",
-  "version": "0.0.2.47",
+  "version": "0.0.2.48",
   "summary": "Cycls SDK",
   "author": "Mohammed J. AlRujayi",
   "license": null,
   "home_page": null,
-  "download_filename": "cycls-0.0.2.47.tar.gz",
-  "download_time": "2025-11-23T16:27:41.074820",
+  "download_filename": "cycls-0.0.2.48.tar.gz",
+  "download_time": "2025-11-23T17:22:10.976183",
   "package_url": "https://pypi.org/project/cycls/"
 }

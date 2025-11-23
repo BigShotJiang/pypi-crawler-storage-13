@@ -1,12 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T16:59:26.107069
-- **Total Packages**: 84
-- **Total Size**: 4.77 MB
+- **Download Time**: 2025-11-23T17:22:40.251256
+- **Total Packages**: 80
+- **Total Size**: 27.23 MB
 
 ## Packages List
+- bec-qthemes
+- html-jscode
+- html-js
+- autopahe
+- pyinterpolate
+- orange3-sqlquery
+- laddr
+- lambda-ai-cloud-api-client
+- ufazien-cli
+- pyhelper-jkluess
+- cardiac-geometriesx
+- modusa
+- pyjarchery
+- finalsa-common-models
+- aiinbx
+- nevu-ui
+- agentsflow
+- endabyss
+- twevals
+- Xray-core
+- bookmarks-curses
+- secontrol
+- minionpy
+- yfinance-ta-patterns
+- cycls
+- nummo
+- SnakeScan
+- androidmparser
+- untext
+- reroute
+- finalsa-common-http-client
+- mpneuralnetwork
+- iatoolkit
+- rolling-ball
+- diqa
+- aline-ai
+- afetch
+- wistx-mcp
+- prompt-unifier
+- chutes-miner-cli
+- selector-cli
+- abstract-ide
+- alita-sdk
+- bluetti-bt-lib
+- timber-common
+- pywiim
 - abstract-utilities
+- utils-devops
+- kcl-lib
+- inception-reports
+- pip-uv
 - leap-model-parser
 - rpaframework-core
 - onnx2kerastl
@@ -20,19 +70,14 @@
 - keras-data-format-converter
 - tiktools
 - svg-ultralight
-- laddr
-- untext
 - repo-ctx
-- Xray-core
 - continuum-context-hub
 - k7sfunc
 - midlearn
 - falkordb-orm
 - ejkernel
 - llm-proxier
-- mpneuralnetwork
 - rds-proxy-password-rotation
-- wistx-mcp
 - acmecse-dev
 - science-ops-cli
 - django-spire
@@ -40,53 +85,4 @@
 - stayease-accomm-utils
 - pystash-secrets
 - airflow-provider-notion
-- chutes-miner-cli
 - line-solver
-- gatling
-- aiofreqlimit
-- loom-agent
-- goodgute
-- goad-py
-- tts-webui-extension.openai-tts-api
-- brazilian
-- anova-precision-oven-sdk
-- logproc
-- llama-stack-haystack
-- krista-infinispan
-- vadalog-extension
-- vadalog-jupyter-kernel
-- mediacloud-cliff
-- pip-uv
-- headson
-- trackbear-api
-- llmling-agent
-- bentopy
-- mhg-dl
-- root-mcp-server
-- depydency
-- sideseeing-tools
-- logging-loguru
-- HamiltonIO
-- flaxfile
-- blues-lib
-- gtm-mcp
-- hysteria2
-- himena
-- YokAPI
-- pyjarchery
-- owocr
-- cheetah-greb
-- python-logstash-async
-- claustk
-- alita-sdk
-- dark-matter
-- pycoro
-- prseq
-- alubia
-- aiinbx
-- medusa-security
-- prompt-unifier
-- pelfy
-- py-pve-cloud
-- pgcopy
-- jupyterlab-tabular-data-viewer-extension

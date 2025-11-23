@@ -1,0 +1,11 @@
+{
+  "name": "html-js",
+  "version": "0.1.0",
+  "summary": "HTML ve JS kodlarını Python'a ekleyen paket",
+  "author": "Hamza Al",
+  "license": null,
+  "home_page": null,
+  "download_filename": "html_js-0.1.0.tar.gz",
+  "download_time": "2025-11-23T17:21:58.988401",
+  "package_url": "https://pypi.org/project/html-js/"
+}

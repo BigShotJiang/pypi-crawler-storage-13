@@ -1,0 +1,11 @@
+{
+  "name": "orange3-sqlquery",
+  "version": "0.0.4",
+  "summary": "Simple widget to load a table from an SQL query against an SQLite3 database",
+  "author": null,
+  "license": "CC-BY-NC-SA-4.0",
+  "home_page": null,
+  "download_filename": "orange3_sqlquery-0.0.4.tar.gz",
+  "download_time": "2025-11-23T17:22:00.712588",
+  "package_url": "https://pypi.org/project/orange3-sqlquery/"
+}
