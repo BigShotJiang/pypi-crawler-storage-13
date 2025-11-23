@@ -1,11 +1,11 @@
 {
   "name": "bluetti-bt-lib",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Bluetti BT",
   "author": "Patrick762",
   "license": null,
   "home_page": "https://github.com/Patrick762/bluetti-bt-lib",
-  "download_filename": "bluetti_bt_lib-0.0.2.tar.gz",
-  "download_time": "2025-11-22T22:22:21.423207",
+  "download_filename": "bluetti_bt_lib-0.0.3.tar.gz",
+  "download_time": "2025-11-23T10:44:01.647000",
   "package_url": "https://pypi.org/project/bluetti-bt-lib/"
 }

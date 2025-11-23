@@ -1,11 +1,11 @@
 {
   "name": "dalla-data-processing",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "data processing pipeline with deduplication, stemming, quality checking, and readability scoring, used for the DALLA Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dalla_data_processing-0.0.3.tar.gz",
-  "download_time": "2025-11-21T15:21:49.904906",
+  "download_filename": "dalla_data_processing-0.0.4.tar.gz",
+  "download_time": "2025-11-23T10:44:08.490724",
   "package_url": "https://pypi.org/project/dalla-data-processing/"
 }

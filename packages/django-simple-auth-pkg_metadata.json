@@ -1,0 +1,11 @@
+{
+  "name": "django-simple-auth-pkg",
+  "version": "1.0.0",
+  "summary": "A simple, customizable Django authentication package with JWT support, email verification, and password management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_simple_auth_pkg-1.0.0.tar.gz",
+  "download_time": "2025-11-23T10:44:07.967925",
+  "package_url": "https://pypi.org/project/django-simple-auth-pkg/"
+}

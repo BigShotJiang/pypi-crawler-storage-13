@@ -1,11 +1,11 @@
 {
   "name": "simpleterraform",
-  "version": "1.0.0",
-  "summary": "Automated Infrastructure as Code Generator for Terraform",
+  "version": "1.0.1",
+  "summary": "Automated Infrastructure as Code Generator",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/simpleterraform",
-  "download_filename": "simpleterraform-1.0.0.tar.gz",
-  "download_time": "2025-11-23T10:22:52.242845",
+  "download_filename": "simpleterraform-1.0.1.tar.gz",
+  "download_time": "2025-11-23T10:44:07.445533",
   "package_url": "https://pypi.org/project/simpleterraform/"
 }
