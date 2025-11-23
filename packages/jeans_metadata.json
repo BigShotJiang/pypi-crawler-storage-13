@@ -1,0 +1,11 @@
+{
+  "name": "jeans",
+  "version": "1.8.8",
+  "summary": "package to compute integrals related to spherical Jeans equation, including various parametric functions to describe halo and tracer components",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jeans-1.8.8.tar.gz",
+  "download_time": "2025-11-23T18:52:19.490235",
+  "package_url": "https://pypi.org/project/jeans/"
+}

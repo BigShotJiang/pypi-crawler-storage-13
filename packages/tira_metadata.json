@@ -1,11 +1,11 @@
 {
   "name": "tira",
-  "version": "0.0.187",
+  "version": "0.0.188",
   "summary": "Simple access to the TIRA API.",
   "author": "Maik Fröbe",
   "license": null,
   "home_page": "https://github.com/tira-io/tira",
-  "download_filename": "tira-0.0.187.tar.gz",
-  "download_time": "2025-11-18T11:40:33.006410",
+  "download_filename": "tira-0.0.188.tar.gz",
+  "download_time": "2025-11-23T18:52:29.372845",
   "package_url": "https://pypi.org/project/tira/"
 }

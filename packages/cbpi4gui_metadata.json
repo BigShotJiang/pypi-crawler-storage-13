@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4gui",
+  "version": "0.4.0",
+  "summary": "CraftBeerPi4 User Interface",
+  "author": "Manuel Fritsch / Alexander Vollkopf",
+  "license": null,
+  "home_page": "https://openbrewing.gitbook.io/craftbeerpi4_support/",
+  "download_filename": "cbpi4gui-0.4.0.tar.gz",
+  "download_time": "2025-11-23T18:52:30.966748",
+  "package_url": "https://pypi.org/project/cbpi4gui/"
+}

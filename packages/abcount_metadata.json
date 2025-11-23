@@ -1,11 +1,11 @@
 {
   "name": "abcount",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Extended cheminformatics package to work with acidic and basic groups in molecules.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abcount-0.2.1.tar.gz",
-  "download_time": "2025-11-23T17:42:35.997416",
+  "download_filename": "abcount-0.2.3.tar.gz",
+  "download_time": "2025-11-23T18:52:22.619533",
   "package_url": "https://pypi.org/project/abcount/"
 }

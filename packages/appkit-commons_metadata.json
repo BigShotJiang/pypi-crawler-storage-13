@@ -1,11 +1,11 @@
 {
   "name": "appkit-commons",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Add your description here",
   "author": "Jens Rehpöhler",
   "license": null,
   "home_page": null,
-  "download_filename": "appkit_commons-0.7.4.tar.gz",
-  "download_time": "2025-11-23T13:08:24.202752",
+  "download_filename": "appkit_commons-0.7.5.tar.gz",
+  "download_time": "2025-11-23T18:52:10.200690",
   "package_url": "https://pypi.org/project/appkit-commons/"
 }
