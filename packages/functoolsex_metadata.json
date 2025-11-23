@@ -1,0 +1,11 @@
+{
+  "name": "functoolsex",
+  "version": "1.1.0",
+  "summary": "ex(pyrsistent, fn, pytoolz, ...) and faster on CPython and PyPy",
+  "author": "Tony L. Fan",
+  "license": "MIT",
+  "home_page": "https://github.com/aymazon/functools-ex",
+  "download_filename": "functoolsex-1.1.0.tar.gz",
+  "download_time": "2025-11-23T16:28:00.383049",
+  "package_url": "https://pypi.org/project/functoolsex/"
+}

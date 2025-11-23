@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Security",
+  "version": "5.7.1",
+  "summary": "Quickly add security features to your Flask application.",
+  "author": "Matt Wright",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_security-5.7.1.tar.gz",
+  "download_time": "2025-11-23T16:27:52.432135",
+  "package_url": "https://pypi.org/project/Flask-Security/"
+}

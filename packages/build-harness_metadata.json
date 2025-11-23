@@ -1,0 +1,11 @@
+{
+  "name": "build-harness",
+  "version": "4.0.0",
+  "summary": "CI build harness embodying best practices for Python projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "build_harness-4.0.0.tar.gz",
+  "download_time": "2025-11-23T16:27:52.974220",
+  "package_url": "https://pypi.org/project/build-harness/"
+}

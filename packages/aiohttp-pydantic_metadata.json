@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-pydantic",
+  "version": "2.6.0",
+  "summary": "Aiohttp View using pydantic to validate request body and query sting regarding method annotations.",
+  "author": "Vincent Maillol",
+  "license": "MIT",
+  "home_page": "https://github.com/Maillol/aiohttp-pydantic",
+  "download_filename": "aiohttp_pydantic-2.6.0-py3-none-any.whl",
+  "download_time": "2025-11-23T16:27:56.701772",
+  "package_url": "https://pypi.org/project/aiohttp-pydantic/"
+}

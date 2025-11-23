@@ -1,0 +1,11 @@
+{
+  "name": "xdm1000",
+  "version": "0.1.0",
+  "summary": "Simple Python driver for OWON XDM1000 / XDM1xxx multimeters over serial (SCPI).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xdm1000-0.1.0.tar.gz",
+  "download_time": "2025-11-23T16:27:37.861376",
+  "package_url": "https://pypi.org/project/xdm1000/"
+}

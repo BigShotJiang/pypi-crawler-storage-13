@@ -1,0 +1,11 @@
+{
+  "name": "rs-metrics",
+  "version": "0.6.0",
+  "summary": "Metrics for recommender systems",
+  "author": "Darel",
+  "license": null,
+  "home_page": "https://github.com/darel13712/rs_metrics",
+  "download_filename": "rs_metrics-0.6.0.tar.gz",
+  "download_time": "2025-11-23T16:27:44.954342",
+  "package_url": "https://pypi.org/project/rs-metrics/"
+}

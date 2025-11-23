@@ -1,0 +1,11 @@
+{
+  "name": "hysteria2",
+  "version": "2.6.5",
+  "summary": "Python bindings for hysteria2.",
+  "author": "Loren Eteval",
+  "license": "MIT",
+  "home_page": "https://github.com/LorenEteval/hysteria2-python",
+  "download_filename": "hysteria2-2.6.5.tar.gz",
+  "download_time": "2025-11-23T16:27:20.430798",
+  "package_url": "https://pypi.org/project/hysteria2/"
+}

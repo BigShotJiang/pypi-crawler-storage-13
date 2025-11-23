@@ -1,0 +1,11 @@
+{
+  "name": "pelfy",
+  "version": "1.0.7",
+  "summary": "Parser for ELF files written in python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pelfy-1.0.7.tar.gz",
+  "download_time": "2025-11-23T16:27:30.381193",
+  "package_url": "https://pypi.org/project/pelfy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "intellodge-core",
+  "version": "1.0.0",
+  "summary": "Reusable core utilities for IntellLodge platform",
+  "author": "IntellLodge Omi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intellodge_core-1.0.0.tar.gz",
+  "download_time": "2025-11-23T16:27:47.103434",
+  "package_url": "https://pypi.org/project/intellodge-core/"
+}
