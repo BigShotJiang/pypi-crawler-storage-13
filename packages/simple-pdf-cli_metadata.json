@@ -1,0 +1,11 @@
+{
+  "name": "simple-pdf-cli",
+  "version": "0.1.0",
+  "summary": "A simple CLI app for basic PDF modifications.",
+  "author": "Falachi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_pdf_cli-0.1.0.tar.gz",
+  "download_time": "2025-11-23T15:21:46.765434",
+  "package_url": "https://pypi.org/project/simple-pdf-cli/"
+}

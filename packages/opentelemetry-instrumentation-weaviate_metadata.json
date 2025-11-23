@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-weaviate",
-  "version": "0.48.2",
+  "version": "0.49.0",
   "summary": "OpenTelemetry Weaviate instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_weaviate-0.48.2.tar.gz",
-  "download_time": "2025-11-23T13:54:07.783328",
+  "download_filename": "opentelemetry_instrumentation_weaviate-0.49.0.tar.gz",
+  "download_time": "2025-11-23T15:22:10.716700",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-weaviate/"
 }
