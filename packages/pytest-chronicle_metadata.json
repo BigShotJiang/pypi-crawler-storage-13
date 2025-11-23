@@ -1,0 +1,11 @@
+{
+  "name": "pytest-chronicle",
+  "version": "0.1.1",
+  "summary": "Reusable pytest results ingestion tooling with database export and CLI helpers.",
+  "author": "Survi Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_chronicle-0.1.1.tar.gz",
+  "download_time": "2025-11-23T13:54:29.701786",
+  "package_url": "https://pypi.org/project/pytest-chronicle/"
+}

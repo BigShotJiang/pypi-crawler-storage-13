@@ -1,0 +1,11 @@
+{
+  "name": "pogosim",
+  "version": "0.10.8",
+  "summary": "Pogobot Batch Runner",
+  "author": "Leo Cazenille",
+  "license": null,
+  "home_page": "https://github.com/Adacoma/pogosim",
+  "download_filename": "pogosim-0.10.8.tar.gz",
+  "download_time": "2025-11-23T13:54:22.603198",
+  "package_url": "https://pypi.org/project/pogosim/"
+}

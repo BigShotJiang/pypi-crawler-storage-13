@@ -1,0 +1,11 @@
+{
+  "name": "turtlexy",
+  "version": "1.0.0",
+  "summary": "Turtle graphics library with automatic coordinate grid",
+  "author": "Your Name",
+  "license": "Python Software Foundation License",
+  "home_page": "https://github.com/your-username/turtlexy",
+  "download_filename": "turtlexy-1.0.0.tar.gz",
+  "download_time": "2025-11-23T13:53:55.734973",
+  "package_url": "https://pypi.org/project/turtlexy/"
+}

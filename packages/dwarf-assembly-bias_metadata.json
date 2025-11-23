@@ -1,0 +1,11 @@
+{
+  "name": "dwarf-assembly-bias",
+  "version": "0.0.3",
+  "summary": "Codes for the paper: Unexpected clustering pattern in dwarf galaxies challenges formation models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dwarf_assembly_bias-0.0.3.tar.gz",
+  "download_time": "2025-11-23T13:54:04.552166",
+  "package_url": "https://pypi.org/project/dwarf-assembly-bias/"
+}
