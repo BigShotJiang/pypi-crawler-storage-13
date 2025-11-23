@@ -1,19 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T21:55:11.737155
-- **Total Packages**: 78
-- **Total Size**: 17.95 MB
+- **Download Time**: 2025-11-23T22:23:00.158550
+- **Total Packages**: 80
+- **Total Size**: 8.07 MB
 
 ## Packages List
+- tira
+- evo-sdk
+- IM-COOL-BOOY-FF
+- langroid
+- evo-sdk-common
+- langchain-cerebras
+- music-assistant-models
+- aimodelshare
+- REDItools3
+- maleo-mcu
+- koop
 - axioms-core-py
+- hhdm-apiclient-wrapper
+- site2md
+- nexalware-decorator
+- vizlint
+- opexcore
+- ozgursozluk
+- sigplay
+- fast-gov-uk
 - mcp-memory-service
 - biblemategui
 - anypytools
 - commonlog
 - ape-erpc
-- nexalware-decorator
-- aimodelshare
 - reactxpy
 - mytextgrid
 - dojo-sdk-client
@@ -46,12 +63,10 @@
 - cicada-mcp
 - dtree-cli
 - scd2-bq-engine
-- site2md
 - darts
 - u8darts
 - physics-utils
 - spectuel-engine-events
-- maleo-mcu
 - jupyterlab-todo-list
 - tooluniverse
 - api-foundry-query-engine
@@ -71,16 +86,3 @@
 - jetio
 - synthetic-payroll-lab
 - pyagentic-core
-- p1-influx-db
-- applyx
-- hel-elmuro
-- itolapi
-- flood-geoai-tool
-- yaaat
-- perpetual-context
-- py-dependency-mapper
-- abi-core-ai
-- GameSentenceMiner
-- tira
-- coolprompt
-- tencentcloud-sdk-python-waf

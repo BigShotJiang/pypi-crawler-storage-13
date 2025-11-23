@@ -1,11 +1,11 @@
 {
   "name": "vizlint",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Lint Python visualizations for common misleading patterns.",
   "author": "jaeday1212",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vizlint-0.1.1.tar.gz",
-  "download_time": "2025-11-23T05:44:14.019007",
+  "download_filename": "vizlint-0.2.0.tar.gz",
+  "download_time": "2025-11-23T22:22:24.722336",
   "package_url": "https://pypi.org/project/vizlint/"
 }
