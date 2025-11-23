@@ -1,11 +1,11 @@
 {
   "name": "zappa",
-  "version": "0.61.0",
+  "version": "0.61.1",
   "summary": "Server-less Python Web Services for AWS Lambda and API Gateway",
   "author": "Rich Jones",
   "license": "MIT License",
   "home_page": "https://github.com/zappa/Zappa",
-  "download_filename": "zappa-0.61.0.tar.gz",
-  "download_time": "2025-11-21T09:28:36.106574",
+  "download_filename": "zappa-0.61.1.tar.gz",
+  "download_time": "2025-11-23T01:59:05.330955",
   "package_url": "https://pypi.org/project/zappa/"
 }

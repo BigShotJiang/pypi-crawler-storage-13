@@ -1,11 +1,11 @@
 {
   "name": "ameliepy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Amelie database adapter for the Python programming language.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ameliepy-0.1.0.tar.gz",
-  "download_time": "2025-11-22T07:21:05.262592",
+  "download_filename": "ameliepy-0.1.1.tar.gz",
+  "download_time": "2025-11-23T01:58:45.247971",
   "package_url": "https://pypi.org/project/ameliepy/"
 }

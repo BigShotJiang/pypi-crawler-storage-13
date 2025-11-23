@@ -1,0 +1,11 @@
+{
+  "name": "h3-optimizer",
+  "version": "0.2.0",
+  "summary": "Thermodynamically efficient optimizer with Lipschitz-adaptive learning rates and information-weighted sampling",
+  "author": "Nuno Cardoso",
+  "license": "MIT",
+  "home_page": "https://github.com/nfocardoso/EMSTI",
+  "download_filename": "h3_optimizer-0.2.0.tar.gz",
+  "download_time": "2025-11-23T01:58:50.726961",
+  "package_url": "https://pypi.org/project/h3-optimizer/"
+}

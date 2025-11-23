@@ -1,0 +1,11 @@
+{
+  "name": "remotecaptury",
+  "version": "1.0.0",
+  "summary": "Python wrapper for RemoteCaptury - stream motion capture data from CapturyLive",
+  "author": "Captury",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "remotecaptury-1.0.0.tar.gz",
+  "download_time": "2025-11-23T01:59:09.354020",
+  "package_url": "https://pypi.org/project/remotecaptury/"
+}

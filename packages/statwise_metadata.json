@@ -1,0 +1,11 @@
+{
+  "name": "statwise",
+  "version": "0.1.0",
+  "summary": "Pandas-native statistical tests with clean labeled outputs.",
+  "author": "jaeday1212",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "statwise-0.1.0.tar.gz",
+  "download_time": "2025-11-23T01:59:18.706259",
+  "package_url": "https://pypi.org/project/statwise/"
+}

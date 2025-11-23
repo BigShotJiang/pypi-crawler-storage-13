@@ -1,0 +1,11 @@
+{
+  "name": "fhops",
+  "version": "1.0.0a1",
+  "summary": "Forest Harvesting Operations Planning System",
+  "author": "UBC FRESH Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fhops-1.0.0a1.tar.gz",
+  "download_time": "2025-11-23T01:59:11.116112",
+  "package_url": "https://pypi.org/project/fhops/"
+}

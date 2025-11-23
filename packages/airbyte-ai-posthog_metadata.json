@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-ai-posthog",
+  "version": "1.0.2",
+  "summary": "Type-safe Posthog connector for Airbyte SDK",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_ai_posthog-1.0.2.tar.gz",
+  "download_time": "2025-11-23T01:59:19.315800",
+  "package_url": "https://pypi.org/project/airbyte-ai-posthog/"
+}

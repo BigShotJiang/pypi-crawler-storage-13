@@ -1,0 +1,11 @@
+{
+  "name": "rna-secstruct",
+  "version": "0.1.1",
+  "summary": "A minimal package for parsing and editing RNA secondary structure",
+  "author": null,
+  "license": "Non-Commercial",
+  "home_page": null,
+  "download_filename": "rna_secstruct-0.1.1.tar.gz",
+  "download_time": "2025-11-23T01:58:46.438458",
+  "package_url": "https://pypi.org/project/rna-secstruct/"
+}

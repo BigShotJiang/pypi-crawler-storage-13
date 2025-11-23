@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-nbconvert-nocode",
+  "version": "0.5.0",
+  "summary": "A simple helper library with 2 NBConvert exporters for PDF/HTML export with no code cells",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jupyterlab_nbconvert_nocode-0.5.0.tar.gz",
+  "download_time": "2025-11-23T01:59:16.467698",
+  "package_url": "https://pypi.org/project/jupyterlab-nbconvert-nocode/"
+}
