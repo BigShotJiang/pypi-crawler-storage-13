@@ -1,0 +1,11 @@
+{
+  "name": "meikiocr",
+  "version": "0.1.3",
+  "summary": "High-speed, high-accuracy, local OCR for Japanese video games.",
+  "author": "rtr46",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meikiocr-0.1.3.tar.gz",
+  "download_time": "2025-11-23T19:40:50.181116",
+  "package_url": "https://pypi.org/project/meikiocr/"
+}
