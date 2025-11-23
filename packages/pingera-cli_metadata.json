@@ -1,0 +1,11 @@
+{
+  "name": "pingera-cli",
+  "version": "0.1.15",
+  "summary": "A beautiful Python CLI tool built with typer and rich, distributed via pip and based on Pingera SDK",
+  "author": "PingeraCLI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/pingera/pingera-cli",
+  "download_filename": "pingera_cli-0.1.15.tar.gz",
+  "download_time": "2025-11-23T08:28:56.989508",
+  "package_url": "https://pypi.org/project/pingera-cli/"
+}
