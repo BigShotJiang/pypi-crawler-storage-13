@@ -1,0 +1,11 @@
+{
+  "name": "query-tables",
+  "version": "1.16.29",
+  "summary": "Запросы в объектном стиле без моделей с поддержкой кеша данных (CORMless)",
+  "author": "Антон Глызин",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "query_tables-1.16.29-py3-none-any.whl",
+  "download_time": "2025-11-23T07:40:33.758606",
+  "package_url": "https://pypi.org/project/query-tables/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-ferropier",
-  "version": "2.1.8",
+  "version": "2.3.2",
   "summary": "A secure Python file encoder/decoder with password protection",
   "author": "LORD",
   "license": null,
   "home_page": "https://github.com/grizlyeditor/ferropier",
-  "download_filename": "py_ferropier-2.1.8.tar.gz",
-  "download_time": "2025-11-23T07:22:02.002347",
+  "download_filename": "py_ferropier-2.3.2.tar.gz",
+  "download_time": "2025-11-23T07:40:22.445326",
   "package_url": "https://pypi.org/project/py-ferropier/"
 }

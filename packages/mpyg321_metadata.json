@@ -1,0 +1,11 @@
+{
+  "name": "mpyg321",
+  "version": "2.2.4",
+  "summary": "mpg321 wrapper for python - command line music player",
+  "author": "4br3mm0rd",
+  "license": null,
+  "home_page": "https://github.com/4br3mm0rd/mpyg321",
+  "download_filename": "mpyg321-2.2.4.tar.gz",
+  "download_time": "2025-11-23T07:40:29.667970",
+  "package_url": "https://pypi.org/project/mpyg321/"
+}

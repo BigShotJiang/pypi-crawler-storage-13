@@ -1,0 +1,11 @@
+{
+  "name": "ZJS-Tools",
+  "version": "1.0.0",
+  "summary": "ZJS Python 工具包",
+  "author": "Jinshuo Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/MarchZJS/ZJS_Tools",
+  "download_filename": "zjs_tools-1.0.0.tar.gz",
+  "download_time": "2025-11-23T07:40:21.421628",
+  "package_url": "https://pypi.org/project/ZJS-Tools/"
+}

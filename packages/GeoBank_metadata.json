@@ -1,11 +1,11 @@
 {
   "name": "GeoBank",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A Django package for countries and cities with translations.",
   "author": "Ali Hosseinverdi",
   "license": "MIT",
   "home_page": "https://github.com/ali-hv/geobank",
-  "download_filename": "geobank-0.4.0.tar.gz",
-  "download_time": "2025-11-23T07:21:57.841127",
+  "download_filename": "geobank-0.4.1.tar.gz",
+  "download_time": "2025-11-23T07:40:34.269534",
   "package_url": "https://pypi.org/project/GeoBank/"
 }
