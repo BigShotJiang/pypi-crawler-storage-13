@@ -1,11 +1,11 @@
 {
   "name": "laddr",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "summary": "Laddr is a framework to build, run, and scale multi-agent systems that communicate, delegate, and execute tasks in parallel. Each agent can run multiple workers, powered by a queue-based delegation system that ensures horizontal scalability and resilience.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "laddr-0.8.7.tar.gz",
-  "download_time": "2025-11-23T15:54:06.078218",
+  "download_filename": "laddr-0.8.8.tar.gz",
+  "download_time": "2025-11-23T16:58:50.095054",
   "package_url": "https://pypi.org/project/laddr/"
 }
