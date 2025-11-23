@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T13:54:45.370447
-- **Total Packages**: 93
-- **Total Size**: 3.22 MB
+- **Download Time**: 2025-11-23T14:21:41.709427
+- **Total Packages**: 89
+- **Total Size**: 18.5 MB
 
 ## Packages List
+- krista-infinispan
+- super-bario
+- py-wait-until
+- epanet-plus
+- leap-model-parser
+- geral
+- shinkirou
+- onnx2kerastl
+- morphx
+- curllm
+- gjson
+- number-in-words
+- plugantic
+- deepface
+- SURE-tools
+- jukebox-fm
+- selector-cli
+- integreat-django-linkcheck
+- ros2-calib
+- leo-sat-sim
+- wistx-mcp
+- yfinance-ta-patterns
+- maleo-mcu
+- strique-proto-schema
+- python-socketio-stubs
+- spikard
+- lazy-log-formatter
+- aspyx-job
+- bluetti-bt-lib
+- pycep-parser
+- tratamento
+- shadowlib
+- bookmarks-curses
+- listele
+- abstract-utilities
+- pypdf
+- keras-data-format-converter
+- hos-secsuite
+- hooktest1
+- swiss-knife-py
+- dbt-autodoc
+- pytest-chronicle
+- fastapi-voyager
+- safentic
+- rediacc
+- code-review-plus
+- pandera
+- tensordict-nightly
+- webresearcher
+- PyBahn
+- iris-vector-rag
 - ruythcoref
 - kimina-ast-server
 - turtlexy
@@ -15,8 +66,6 @@
 - mongo-pipebuilder
 - gpustack
 - essent-dynamic-pricing
-- super-bario
-- hos-secsuite
 - simplebench
 - rytmuz
 - gcp-route-optimizer
@@ -26,7 +75,6 @@
 - dwarf-assembly-bias
 - xenoform
 - traceloop-sdk
-- safentic
 - ledger-sdk
 - opentelemetry-instrumentation-writer
 - opentelemetry-instrumentation-weaviate
@@ -47,55 +95,3 @@
 - opentelemetry-instrumentation-mcp
 - opentelemetry-instrumentation-marqo
 - opentelemetry-instrumentation-llamaindex
-- opentelemetry-instrumentation-langchain
-- opentelemetry-instrumentation-lancedb
-- opentelemetry-instrumentation-haystack
-- opentelemetry-instrumentation-groq
-- opentelemetry-instrumentation-google-generativeai
-- opentelemetry-instrumentation-crewai
-- opentelemetry-instrumentation-cohere
-- number-in-words
-- opentelemetry-instrumentation-chromadb
-- pogosim
-- opentelemetry-instrumentation-bedrock
-- opentelemetry-instrumentation-anthropic
-- opentelemetry-instrumentation-alephalpha
-- multi-ai-handler
-- dbt-autodoc
-- mcp-outline
-- abstract-gui
-- aspyx-service
-- rcrlm
-- crossmark-jotform-api
-- pttools-gw
-- playwright-stealth-plugin
-- pytest-chronicle
-- pypdfium2
-- alinche-math-mcp-server
-- fastapi-nacos
-- aio-service-caller
-- SimpleColoredLogs
-- curllm
-- fastapi-scaff
-- scruby
-- rusted-graphs-python
-- xpander-sdk
-- multi-llm-orchestrator
-- vllm-rs
-- evalidate
-- wildkcat
-- maps4fs
-- science-ops-cli
-- miniexact
-- toollib
-- keycardai-mcp-fastmcp
-- tokonomics
-- aio-request
-- fbgemm-gpu-nightly-cpu
-- leapocr
-- leap-model-parser
-- fastapi-users-db-beanie
-- cmdstore
-- crossvector
-- SHICTHRSENCR
-- poetry-plugin-lambda-build

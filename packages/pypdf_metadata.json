@@ -1,0 +1,11 @@
+{
+  "name": "pypdf",
+  "version": "6.4.0",
+  "summary": "A pure-python PDF library capable of splitting, merging, cropping, and transforming PDF files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypdf-6.4.0.tar.gz",
+  "download_time": "2025-11-23T14:21:13.041441",
+  "package_url": "https://pypi.org/project/pypdf/"
+}

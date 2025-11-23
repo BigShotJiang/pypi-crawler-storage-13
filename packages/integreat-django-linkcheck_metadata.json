@@ -1,0 +1,11 @@
+{
+  "name": "integreat-django-linkcheck",
+  "version": "2.4.2",
+  "summary": "A Django app that will analyze and report on links in any model that you register with it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "integreat_django_linkcheck-2.4.2.tar.gz",
+  "download_time": "2025-11-23T14:21:02.812684",
+  "package_url": "https://pypi.org/project/integreat-django-linkcheck/"
+}

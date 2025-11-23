@@ -1,11 +1,11 @@
 {
   "name": "safentic",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Safentic SDK for AI agent runtime enforcement interception.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "safentic-1.0.10.tar.gz",
-  "download_time": "2025-11-23T13:54:06.158156",
+  "download_filename": "safentic-1.0.11.tar.gz",
+  "download_time": "2025-11-23T14:21:17.126072",
   "package_url": "https://pypi.org/project/safentic/"
 }

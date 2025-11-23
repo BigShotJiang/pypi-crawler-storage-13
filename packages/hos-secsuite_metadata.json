@@ -1,11 +1,11 @@
 {
   "name": "hos-secsuite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "HOS SecSuite: modular network security toolkit (defense-first)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hos_secsuite-0.1.0-py3-none-any.whl",
-  "download_time": "2025-11-23T13:54:00.141472",
+  "download_filename": "hos_secsuite-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-23T14:21:14.060209",
   "package_url": "https://pypi.org/project/hos-secsuite/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ros2-calib",
+  "version": "0.1.3",
+  "summary": "A manual LiDAR-Camera calibration tool for ROS 2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ros2_calib-0.1.3.tar.gz",
+  "download_time": "2025-11-23T14:21:03.351306",
+  "package_url": "https://pypi.org/project/ros2-calib/"
+}
