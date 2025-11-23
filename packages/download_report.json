@@ -1,8 +1,17 @@
 {
-  "download_time": "2025-11-23T10:44:25.020300",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 24.16,
+  "download_time": "2025-11-23T10:55:31.600614",
+  "total_packages_downloaded": 86,
+  "total_size_mb": 0.29,
   "packages": [
+    "bw2ui",
+    "bw25ui",
+    "rcrlm",
+    "qqabc",
+    "nvidia-nat-semantic-kernel",
+    "DataComparerLibrary",
+    "nvidia-nat-zep-cloud",
+    "aiofdfs",
+    "nvidia-nat-agno",
     "nvidia-nat-vanna",
     "trainy-policy-nightly",
     "aiqtoolkit-semantic-kernel",
@@ -79,12 +88,6 @@
     "port-ocean",
     "lll-simple-ai-shared",
     "odoo-addon-project-task-sign-oca",
-    "wiselib",
-    "py-wlcommands",
-    "cucumber-compatibility-kit",
-    "make-argocd-fly",
-    "odoo-addon-stock-barcodes",
-    "optimum-rbln",
-    "tidychef"
+    "wiselib"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "DataComparerLibrary",
+  "version": "0.855",
+  "summary": "For comparing csv-files, 2d-array with a csv-file or 2d-arrays. For comparing text-files, text variable with a text-file or text variables. Including a sorting module.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datacomparerlibrary-0.855.tar.gz",
+  "download_time": "2025-11-23T10:54:44.180102",
+  "package_url": "https://pypi.org/project/DataComparerLibrary/"
+}
