@@ -1,11 +1,11 @@
 {
   "name": "wagtail-color-panel",
-  "version": "1.7.0",
-  "summary": null,
+  "version": "1.7.1",
+  "summary": "Introduces panels for selecting colors in Wagtail.",
   "author": "Martin Sandström",
   "license": "MIT",
   "home_page": "https://github.com/marteinn/wagtail-color-panel",
-  "download_filename": "wagtail_color_panel-1.7.0.tar.gz",
-  "download_time": "2025-11-22T06:51:43.005839",
+  "download_filename": "wagtail_color_panel-1.7.1.tar.gz",
+  "download_time": "2025-11-23T06:33:25.479974",
   "package_url": "https://pypi.org/project/wagtail-color-panel/"
 }

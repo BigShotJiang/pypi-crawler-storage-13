@@ -1,0 +1,11 @@
+{
+  "name": "java-access-bridge-wrapper",
+  "version": "2.0.0",
+  "summary": "Python wrapper for the Windows Java Access Bridge",
+  "author": "Robocorp",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/robocorp/java-access-bridge-wrapper.git",
+  "download_filename": "java_access_bridge_wrapper-2.0.0.tar.gz",
+  "download_time": "2025-11-23T06:33:29.118060",
+  "package_url": "https://pypi.org/project/java-access-bridge-wrapper/"
+}
