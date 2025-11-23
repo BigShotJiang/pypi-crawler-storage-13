@@ -1,0 +1,11 @@
+{
+  "name": "PyPNM",
+  "version": "2.21.3.4.post4",
+  "summary": "Reading, displaying and writing PNM image files, including 16 bits per channel, in pure Python",
+  "author": "Ilya Razmanov",
+  "license": null,
+  "home_page": "https://dnyarri.github.io/",
+  "download_filename": "pypnm-2.21.3.4.post4.tar.gz",
+  "download_time": "2025-11-23T20:26:11.591084",
+  "package_url": "https://pypi.org/project/PyPNM/"
+}

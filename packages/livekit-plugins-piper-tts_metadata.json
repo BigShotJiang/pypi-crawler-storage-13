@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-piper-tts",
+  "version": "0.1.0",
+  "summary": "A custom TTS plugin for LiveKit which can be used with self hosted Piper TTS",
+  "author": "Vishnu Vardhan JS",
+  "license": null,
+  "home_page": "https://github.com/VishnuVardhanJS/livekit-plugins-piper-tts",
+  "download_filename": "livekit_plugins_piper_tts-0.1.0.tar.gz",
+  "download_time": "2025-11-23T20:26:08.882555",
+  "package_url": "https://pypi.org/project/livekit-plugins-piper-tts/"
+}

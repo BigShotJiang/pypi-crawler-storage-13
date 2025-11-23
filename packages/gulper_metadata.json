@@ -1,0 +1,11 @@
+{
+  "name": "gulper",
+  "version": "0.0.17",
+  "summary": "A Command Line Tool to Backup and Restore SQLite, MySQL and PostgreSQL!",
+  "author": "clivern",
+  "license": "MIT",
+  "home_page": "https://github.com/Clivern/Gulper/",
+  "download_filename": "gulper-0.0.17.tar.gz",
+  "download_time": "2025-11-23T20:26:02.079486",
+  "package_url": "https://pypi.org/project/gulper/"
+}

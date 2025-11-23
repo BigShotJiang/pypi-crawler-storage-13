@@ -1,0 +1,11 @@
+{
+  "name": "frank-tools",
+  "version": "0.1.0",
+  "summary": "A small toolkit with Drive downloads, translation, audio splitting, and an HTTP API.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "frank_tools-0.1.0.tar.gz",
+  "download_time": "2025-11-23T20:26:05.751694",
+  "package_url": "https://pypi.org/project/frank-tools/"
+}

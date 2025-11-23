@@ -1,0 +1,11 @@
+{
+  "name": "pyqint",
+  "version": "1.1.1",
+  "summary": "Python package for evaluating integrals of Gaussian type orbitals in electronic structure calculations",
+  "author": "Ivo Filot",
+  "license": null,
+  "home_page": "https://github.com/ifilot/pyqint",
+  "download_filename": "pyqint-1.1.1.tar.gz",
+  "download_time": "2025-11-23T20:26:25.347112",
+  "package_url": "https://pypi.org/project/pyqint/"
+}

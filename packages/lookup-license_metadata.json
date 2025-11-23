@@ -1,0 +1,11 @@
+{
+  "name": "lookup-license",
+  "version": "0.1.29",
+  "summary": "Python tool to identify license from license text, urls, license names and package names.",
+  "author": "Henrik Sanklef",
+  "license": null,
+  "home_page": "https://github.com/hesa/lookup-license",
+  "download_filename": "lookup_license-0.1.29.tar.gz",
+  "download_time": "2025-11-23T20:25:56.813618",
+  "package_url": "https://pypi.org/project/lookup-license/"
+}

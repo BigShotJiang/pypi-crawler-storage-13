@@ -1,0 +1,11 @@
+{
+  "name": "bitschema",
+  "version": "0.0.1a1",
+  "summary": "Bit (and enum) oriented binary serialization library for Python and embedded systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitschema-0.0.1a1.tar.gz",
+  "download_time": "2025-11-23T20:26:02.598383",
+  "package_url": "https://pypi.org/project/bitschema/"
+}

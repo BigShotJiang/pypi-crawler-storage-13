@@ -1,11 +1,11 @@
 {
   "name": "pyetalon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PyEtalon simulates the physics of Fabry-Perot etalons.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyetalon-0.1.0.tar.gz",
-  "download_time": "2025-11-23T19:54:08.192920",
+  "download_filename": "pyetalon-0.1.1.tar.gz",
+  "download_time": "2025-11-23T20:26:06.271248",
   "package_url": "https://pypi.org/project/pyetalon/"
 }

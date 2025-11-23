@@ -1,0 +1,11 @@
+{
+  "name": "sigil-pipeline",
+  "version": "1.0.2",
+  "summary": "Static analysis pipeline for generating high-quality Rust code datasets for model fine-tuning. Phase 2 dataset generation with Phase 1 format alignment.",
+  "author": "Dave Tofflemire",
+  "license": "MIT",
+  "home_page": "https://github.com/Superuser666-Sigil/SigilDERG-Data_Production",
+  "download_filename": "sigil_pipeline-1.0.2.tar.gz",
+  "download_time": "2025-11-23T20:26:24.821078",
+  "package_url": "https://pypi.org/project/sigil-pipeline/"
+}

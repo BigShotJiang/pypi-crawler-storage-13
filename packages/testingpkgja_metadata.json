@@ -1,0 +1,11 @@
+{
+  "name": "testingpkgja",
+  "version": "0.1.0",
+  "summary": "my package im just testing hello pypi workers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testingpkgja-0.1.0.tar.gz",
+  "download_time": "2025-11-23T20:26:09.931481",
+  "package_url": "https://pypi.org/project/testingpkgja/"
+}

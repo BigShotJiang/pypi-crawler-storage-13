@@ -1,0 +1,11 @@
+{
+  "name": "GrnGame",
+  "version": "2.0.0.post2",
+  "summary": "GrnGame est un moteur de jeu 2D performant pour Python, conçu spécifiquement pour le pixel art.",
+  "author": "Baptiste GUERIN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grngame-2.0.0.post2.tar.gz",
+  "download_time": "2025-11-23T20:26:21.661428",
+  "package_url": "https://pypi.org/project/GrnGame/"
+}
