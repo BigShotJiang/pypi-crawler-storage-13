@@ -1,0 +1,11 @@
+{
+  "name": "instagrapi-extended",
+  "version": "2.2.3",
+  "summary": "Fast and effective Instagram Private API wrapper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instagrapi_extended-2.2.3.tar.gz",
+  "download_time": "2025-11-23T07:21:47.402180",
+  "package_url": "https://pypi.org/project/instagrapi-extended/"
+}

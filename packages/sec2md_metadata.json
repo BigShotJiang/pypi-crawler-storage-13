@@ -1,11 +1,11 @@
 {
   "name": "sec2md",
-  "version": "0.1.16",
+  "version": "0.1.18",
   "summary": "Convert SEC EDGAR filings to LLM-ready Markdown for AI agents and agentic RAG",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sec2md-0.1.16.tar.gz",
-  "download_time": "2025-11-21T22:44:40.489221",
+  "download_filename": "sec2md-0.1.18.tar.gz",
+  "download_time": "2025-11-23T07:21:53.657403",
   "package_url": "https://pypi.org/project/sec2md/"
 }

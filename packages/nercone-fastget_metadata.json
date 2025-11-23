@@ -1,11 +1,11 @@
 {
   "name": "nercone-fastget",
-  "version": "4.6.0",
+  "version": "4.6.1",
   "summary": "High-speed File Downloading Tool",
   "author": "Nercone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nercone_fastget-4.6.0.tar.gz",
-  "download_time": "2025-11-23T05:44:07.780517",
+  "download_filename": "nercone_fastget-4.6.1.tar.gz",
+  "download_time": "2025-11-23T07:21:47.920803",
   "package_url": "https://pypi.org/project/nercone-fastget/"
 }

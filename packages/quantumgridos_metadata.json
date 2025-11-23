@@ -1,11 +1,11 @@
 {
   "name": "quantumgridos",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Real-time quantum computing interface for power systems optimization",
   "author": "Saral Systems",
   "license": "Apache-2.0",
   "home_page": "https://github.com/saralsystems/quantumgridos",
-  "download_filename": "quantumgridos-0.1.1.tar.gz",
-  "download_time": "2025-11-23T05:44:30.764301",
+  "download_filename": "quantumgridos-0.1.2.tar.gz",
+  "download_time": "2025-11-23T07:21:49.479695",
   "package_url": "https://pypi.org/project/quantumgridos/"
 }

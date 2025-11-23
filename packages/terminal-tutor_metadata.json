@@ -1,11 +1,11 @@
 {
   "name": "terminal-tutor",
-  "version": "0.1.12",
+  "version": "0.1.15",
   "summary": "Real-time terminal command education for Zsh - 1.6ms avg predictions, 459+ commands, 100% tested (Zsh required)",
   "author": "Jatin Mayekar",
   "license": "Proprietary",
   "home_page": "https://github.com/jatinmayekar/terminal-tutor",
-  "download_filename": "terminal_tutor-0.1.12.tar.gz",
-  "download_time": "2025-11-23T03:41:37.916332",
+  "download_filename": "terminal_tutor-0.1.15.tar.gz",
+  "download_time": "2025-11-23T07:21:58.360362",
   "package_url": "https://pypi.org/project/terminal-tutor/"
 }

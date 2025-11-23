@@ -1,0 +1,11 @@
+{
+  "name": "hedayat-media",
+  "version": "1.5.5",
+  "summary": "یک کتابخانه جامع برای دسترسی به احادیث، قرآن، ذکر و اطلاعات جغرافیایی مساجد",
+  "author": "امیرحسین خزاعی",
+  "license": null,
+  "home_page": "https://github.com/amirhossinpython/hedayat_media",
+  "download_filename": "hedayat_media-1.5.5.tar.gz",
+  "download_time": "2025-11-23T07:21:45.337012",
+  "package_url": "https://pypi.org/project/hedayat-media/"
+}

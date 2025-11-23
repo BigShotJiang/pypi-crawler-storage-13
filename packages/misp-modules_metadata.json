@@ -1,0 +1,11 @@
+{
+  "name": "misp-modules",
+  "version": "3.0.4",
+  "summary": "MISP modules are autonomous modules that can be used for expansion and other services in MISP",
+  "author": "Alexandre Dulaunoy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "misp_modules-3.0.4.tar.gz",
+  "download_time": "2025-11-23T07:21:44.812734",
+  "package_url": "https://pypi.org/project/misp-modules/"
+}
