@@ -1,0 +1,11 @@
+{
+  "name": "jaxprop",
+  "version": "0.4.4",
+  "summary": "JAX-compatible thermodynamic property calculations.",
+  "author": "Roberto Agromayor",
+  "license": "MIT",
+  "home_page": "https://github.com/turbo-sim/jaxprop",
+  "download_filename": "jaxprop-0.4.4.tar.gz",
+  "download_time": "2025-11-23T17:42:57.398342",
+  "package_url": "https://pypi.org/project/jaxprop/"
+}

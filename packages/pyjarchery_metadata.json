@@ -1,11 +1,11 @@
 {
   "name": "pyjarchery",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Python binding to Java Archery Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyjarchery-0.1.9.tar.gz",
-  "download_time": "2025-11-23T17:22:04.420720",
+  "download_filename": "pyjarchery-0.1.11.tar.gz",
+  "download_time": "2025-11-23T17:42:50.187502",
   "package_url": "https://pypi.org/project/pyjarchery/"
 }

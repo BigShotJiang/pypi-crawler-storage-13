@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.audiocraft",
+  "version": "0.0.5",
+  "summary": "Audiocraft provides MusicGen and MAGNeT models for high-quality music and audio generation",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tts_webui_extension_audiocraft-0.0.5-py3-none-any.whl",
+  "download_time": "2025-11-23T17:42:51.722613",
+  "package_url": "https://pypi.org/project/tts-webui-extension.audiocraft/"
+}

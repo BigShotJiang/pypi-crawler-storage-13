@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-changelog-feed-plugin",
+  "version": "2025.11.23",
+  "summary": "MkDocs plugin that adds RSS and Atom feeds for a changelog in the Keep a Changelog format.",
+  "author": "Tobias Bölz",
+  "license": null,
+  "home_page": "https://tmb.codeberg.page/mkdocs-changelog-feed-plugin/",
+  "download_filename": "mkdocs_changelog_feed_plugin-2025.11.23.tar.gz",
+  "download_time": "2025-11-23T17:42:49.677532",
+  "package_url": "https://pypi.org/project/mkdocs-changelog-feed-plugin/"
+}

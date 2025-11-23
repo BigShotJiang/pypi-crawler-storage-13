@@ -1,0 +1,11 @@
+{
+  "name": "docu-crawler",
+  "version": "1.0.0",
+  "summary": "Lightweight web crawler library that converts HTML to Markdown",
+  "author": "Fillipi Bittencourt",
+  "license": null,
+  "home_page": "https://github.com/dataiscool/docu-crawler",
+  "download_filename": "docu_crawler-1.0.0.tar.gz",
+  "download_time": "2025-11-23T17:42:34.459263",
+  "package_url": "https://pypi.org/project/docu-crawler/"
+}
