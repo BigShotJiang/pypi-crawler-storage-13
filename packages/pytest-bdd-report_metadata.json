@@ -1,0 +1,11 @@
+{
+  "name": "pytest-bdd-report",
+  "version": "1.2.0",
+  "summary": "A pytest-bdd plugin for generating useful and informative BDD test reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_bdd_report-1.2.0.tar.gz",
+  "download_time": "2025-11-23T11:53:31.470141",
+  "package_url": "https://pypi.org/project/pytest-bdd-report/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "multimodal-agent",
-  "version": "0.1.0",
+  "version": "0.2.5",
   "summary": "A Python multimodal agent for interacting with Gemini models via text, images, and CLI.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "multimodal_agent-0.1.0.tar.gz",
-  "download_time": "2025-11-18T16:55:35.732409",
+  "download_filename": "multimodal_agent-0.2.5.tar.gz",
+  "download_time": "2025-11-23T11:53:30.893236",
   "package_url": "https://pypi.org/project/multimodal-agent/"
 }

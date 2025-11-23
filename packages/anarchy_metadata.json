@@ -1,0 +1,11 @@
+{
+  "name": "anarchy",
+  "version": "2.0",
+  "summary": "Managed chaos for procedural content generation, including incremental/reversible pseudo-random numbers and shuffling/distribution.",
+  "author": "Peter Mawhorter",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://cs.wellesley.edu/~pmwh/anarchy/anarchy/python/doc.html",
+  "download_filename": "anarchy-2.0.tar.gz",
+  "download_time": "2025-11-23T11:53:34.995735",
+  "package_url": "https://pypi.org/project/anarchy/"
+}
