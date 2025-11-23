@@ -1,0 +1,11 @@
+{
+  "name": "bandit",
+  "version": "1.9.2",
+  "summary": "Security oriented static analyser for python code.",
+  "author": "PyCQA",
+  "license": "Apache-2.0",
+  "home_page": "https://bandit.readthedocs.io/",
+  "download_filename": "bandit-1.9.2.tar.gz",
+  "download_time": "2025-11-23T21:41:07.624885",
+  "package_url": "https://pypi.org/project/bandit/"
+}

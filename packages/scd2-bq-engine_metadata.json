@@ -1,0 +1,11 @@
+{
+  "name": "scd2-bq-engine",
+  "version": "0.1.0",
+  "summary": "BigQuery SCD Type 2 dimension builder with SQLX generation",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/scd2-bq-engine",
+  "download_filename": "scd2_bq_engine-0.1.0.tar.gz",
+  "download_time": "2025-11-23T21:41:20.575164",
+  "package_url": "https://pypi.org/project/scd2-bq-engine/"
+}

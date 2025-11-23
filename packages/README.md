@@ -1,41 +1,81 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T21:21:42.953047
-- **Total Packages**: 76
-- **Total Size**: 28.32 MB
+- **Download Time**: 2025-11-23T21:41:53.153383
+- **Total Packages**: 81
+- **Total Size**: 32.86 MB
 
 ## Packages List
+- termuxpackagearchiver
+- bandit
+- ididi
+- fsc-assistant
+- bloodline
+- appkit-user
+- appkit-ui
+- axioms-core-py
+- appkit-mantine
+- appkit-imagecreator
+- appkit-commons
+- appkit-assistant
+- syncline-mcp-server
+- cardisk
+- d4rktg
+- reactxpy
+- multi-ai-handler
+- pinviz
+- remdb
+- py-pve-cloud
+- finalsa-common-http-client
+- alubia
+- pyfrontkit
+- phystool
+- cicada-mcp
+- dtree-cli
+- scd2-bq-engine
+- site2md
+- darts
+- u8darts
+- physics-utils
+- nexalware-decorator
+- spectuel-engine-events
+- maleo-mcu
+- jupyterlab-todo-list
+- tooluniverse
+- api-foundry-query-engine
+- YoungLion
+- neuronum
+- tccli-intl-en
+- context-async-sqlalchemy
+- featheros
+- ResuModel
+- stidantic
+- qlty
+- mcli-framework
 - pyautoencoder
 - tonutils
 - tencentcloud-sdk-python-intl-en
 - babicli
-- remdb
-- cardisk
 - jetio
 - synthetic-payroll-lab
 - pyagentic-core
 - queuerPy
 - p1-influx-db
 - applyx
-- pyfrontkit
 - hel-elmuro
 - itolapi
 - flood-geoai-tool
 - yaaat
 - perpetual-context
 - py-dependency-mapper
-- site2md
 - abi-core-ai
 - GameSentenceMiner
 - tira
 - coolprompt
 - tencentcloud-sdk-python-waf
-- reactxpy
 - tencentcloud-sdk-python-vod
 - tencentcloud-sdk-python-vm
 - tencentcloud-sdk-python-vcube
-- fsc-assistant
 - methurator
 - tencentcloud-sdk-python-thpc
 - tencentcloud-sdk-python-privatedns
@@ -47,38 +87,3 @@
 - tencentcloud-sdk-python-ess
 - stac-fastapi-api
 - stac-fastapi-extensions
-- stac-fastapi-types
-- tencentcloud-sdk-python-cvm
-- tencentcloud-sdk-python-ctem
-- SimpleColoredLogs
-- tencentcloud-sdk-python-common
-- tencentcloud-sdk-python-autoscaling
-- picoagents
-- pimpmyplot
-- pyfebiopt
-- fast-agent-mcp
-- fast-agent-acp
-- jaxkan
-- bunenv
-- sakuragasaki46-suou
-- suou
-- clippy-code
-- reflexio
-- deeporigin
-- zhaostephen-rebrn
-- ask-video
-- wallet-tracking
-- sshpyk
-- flowno
-- aiorunner
-- devpath
-- arbiter-engine
-- btweak
-- torchgeo
-- jaaql-middleware-python
-- py-pve-cloud
-- astreum
-- aponyx
-- anova-precision-oven-sdk
-- PyTmcStepper
-- cyberlicensing

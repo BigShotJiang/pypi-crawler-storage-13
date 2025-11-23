@@ -1,11 +1,11 @@
 {
   "name": "qlty",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "summary": "Unstitch and stitch back pytorch tensors",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "qlty-1.2.2.tar.gz",
-  "download_time": "2025-11-17T22:42:55.954180",
+  "download_filename": "qlty-1.3.0.tar.gz",
+  "download_time": "2025-11-23T21:41:30.192216",
   "package_url": "https://pypi.org/project/qlty/"
 }

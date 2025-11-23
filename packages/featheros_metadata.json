@@ -1,11 +1,11 @@
 {
   "name": "featheros",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "A Python framework for building full-stack web applications with minimal code",
   "author": "FeatherOS Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "featheros-0.1.20.tar.gz",
-  "download_time": "2025-11-23T10:22:48.798622",
+  "download_filename": "featheros-0.1.21.tar.gz",
+  "download_time": "2025-11-23T21:41:28.651904",
   "package_url": "https://pypi.org/project/featheros/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dtree-cli",
+  "version": "1.0.0",
+  "summary": "A fast and simple directory tree viewer with robust filtering",
+  "author": "FantasticOnion",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dtree_cli-1.0.0.tar.gz",
+  "download_time": "2025-11-23T21:41:20.057171",
+  "package_url": "https://pypi.org/project/dtree-cli/"
+}

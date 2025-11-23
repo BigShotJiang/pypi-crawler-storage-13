@@ -1,11 +1,11 @@
 {
   "name": "multi-ai-handler",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Unified Python interface for multiple AI providers with support for text, images, and documents.",
   "author": "Viktor Sharha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "multi_ai_handler-2.1.0.tar.gz",
-  "download_time": "2025-11-23T19:54:09.755899",
+  "download_filename": "multi_ai_handler-2.2.0.tar.gz",
+  "download_time": "2025-11-23T21:41:15.399689",
   "package_url": "https://pypi.org/project/multi-ai-handler/"
 }
