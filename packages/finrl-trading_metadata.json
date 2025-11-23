@@ -1,0 +1,11 @@
+{
+  "name": "finrl-trading",
+  "version": "2.0.2",
+  "summary": "A modern quantitative trading platform with ML strategies and live trading capabilities",
+  "author": "FinRL LLC",
+  "license": null,
+  "home_page": "https://github.com/AI4Finance-Foundation/FinRL-Trading",
+  "download_filename": "finrl_trading-2.0.2.tar.gz",
+  "download_time": "2025-11-23T05:44:22.437268",
+  "package_url": "https://pypi.org/project/finrl-trading/"
+}

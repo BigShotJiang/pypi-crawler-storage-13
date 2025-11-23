@@ -1,0 +1,11 @@
+{
+  "name": "magtrack",
+  "version": "0.7.4",
+  "summary": "Convert images of beads into XYZ positions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magtrack-0.7.4.tar.gz",
+  "download_time": "2025-11-23T05:44:18.797380",
+  "package_url": "https://pypi.org/project/magtrack/"
+}

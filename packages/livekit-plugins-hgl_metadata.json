@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-hgl",
+  "version": "1.2.19",
+  "summary": "Agent Framework plugin for HeyGen",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_hgl-1.2.19.tar.gz",
+  "download_time": "2025-11-23T05:44:19.315765",
+  "package_url": "https://pypi.org/project/livekit-plugins-hgl/"
+}

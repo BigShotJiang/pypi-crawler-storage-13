@@ -1,11 +1,11 @@
 {
   "name": "pyvegh",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Python bindings for Vegh - The CodeTease Snapshot Tool.",
-  "author": null,
+  "author": "CodeTease",
   "license": null,
   "home_page": null,
-  "download_filename": "pyvegh-0.1.0.tar.gz",
-  "download_time": "2025-11-22T19:40:25.409091",
+  "download_filename": "pyvegh-0.2.1.tar.gz",
+  "download_time": "2025-11-23T05:44:10.380953",
   "package_url": "https://pypi.org/project/pyvegh/"
 }

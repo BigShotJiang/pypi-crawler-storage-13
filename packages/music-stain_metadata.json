@@ -1,0 +1,11 @@
+{
+  "name": "music-stain",
+  "version": "0.1.1",
+  "summary": "Fast audio fingerprinting",
+  "author": "Mae Young",
+  "license": null,
+  "home_page": "https://stain.maeisgroovy.net",
+  "download_filename": "music_stain-0.1.1.tar.gz",
+  "download_time": "2025-11-23T05:44:04.120991",
+  "package_url": "https://pypi.org/project/music-stain/"
+}
