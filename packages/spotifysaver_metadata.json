@@ -1,11 +1,11 @@
 {
   "name": "spotifysaver",
-  "version": "0.7.3",
+  "version": "0.7.5",
   "summary": "Download Spotify tracks/albums with metadata via YouTube Music (Perfect for Jellyfin libraries!)",
   "author": "Gabriel Baute",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spotifysaver-0.7.3.tar.gz",
-  "download_time": "2025-11-22T17:54:17.603960",
+  "download_filename": "spotifysaver-0.7.5.tar.gz",
+  "download_time": "2025-11-23T23:42:35.670027",
   "package_url": "https://pypi.org/project/spotifysaver/"
 }
