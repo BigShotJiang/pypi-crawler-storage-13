@@ -1,0 +1,11 @@
+{
+  "name": "midlearn",
+  "version": "0.1.2",
+  "summary": "Python Wrapper of the 'midr' R package to interpret black-box models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midlearn-0.1.2.tar.gz",
+  "download_time": "2025-11-23T16:47:07.212847",
+  "package_url": "https://pypi.org/project/midlearn/"
+}

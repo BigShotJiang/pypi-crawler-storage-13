@@ -1,0 +1,11 @@
+{
+  "name": "stayease-accomm-utils",
+  "version": "0.1.0",
+  "summary": "Utility library for room booking: date validation, availability checking and pricing for StayEase.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stayease_accomm_utils-0.1.0.tar.gz",
+  "download_time": "2025-11-23T16:47:13.954510",
+  "package_url": "https://pypi.org/project/stayease-accomm-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "continuum-context-hub",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The Infinite Memory Layer for Personalized AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "continuum_context_hub-0.1.1.tar.gz",
-  "download_time": "2025-11-23T16:27:38.385837",
+  "download_filename": "continuum_context_hub-0.1.2.tar.gz",
+  "download_time": "2025-11-23T16:47:46.681782",
   "package_url": "https://pypi.org/project/continuum-context-hub/"
 }

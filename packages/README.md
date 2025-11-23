@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T16:28:04.105015
-- **Total Packages**: 84
-- **Total Size**: 30.75 MB
+- **Download Time**: 2025-11-23T16:47:52.255147
+- **Total Packages**: 88
+- **Total Size**: 11.78 MB
 
 ## Packages List
+- k7sfunc
+- midlearn
+- falkordb-orm
+- ejkernel
+- llm-proxier
+- mpneuralnetwork
+- rds-proxy-password-rotation
+- wistx-mcp
+- config-reading
+- acmecse-dev
+- science-ops-cli
+- django-spire
+- pylast
+- stayease-accomm-utils
+- pystash-secrets
+- airflow-provider-notion
+- chutes-miner-cli
+- line-solver
+- gatling
+- aiofreqlimit
+- loom-agent
+- goodgute
+- goad-py
+- tts-webui-extension.openai-tts-api
+- brazilian
+- anova-precision-oven-sdk
+- logproc
+- llama-stack-haystack
+- krista-infinispan
+- vadalog-extension
+- vadalog-jupyter-kernel
+- mediacloud-cliff
+- pip-uv
+- headson
+- trackbear-api
+- llmling-agent
+- Xray-core
+- bentopy
+- mhg-dl
+- root-mcp-server
+- depydency
+- sideseeing-tools
 - logging-loguru
 - HamiltonIO
 - flaxfile
@@ -35,8 +77,6 @@
 - mcp-forge
 - mqtt-ingestor
 - colander-data-converter
-- aiofreqlimit
-- airflow-provider-notion
 - cccc-pair
 - harborflow
 - max-div
@@ -50,43 +90,7 @@
 - dddkit
 - cycls
 - simpliml
-- headson
 - bima
 - hooktest1
 - selector-cli
 - pyspw-rmap
-- rs-metrics
-- generic-llm-api-client
-- pyodide-mkdocs-theme
-- ck-prism
-- intellodge-core
-- aiauto-client
-- facturxlib
-- unionllm
-- matrice-inference
-- agenticlypay
-- pylogbeat
-- krista-infinispan
-- sklearn-migrator
-- manager-dotfiles
-- Flask-Security
-- build-harness
-- Flask-Security-Too
-- codemine
-- trip-pay-payment
-- dbrepo
-- agent-tools-library
-- deepchecks-llm-client
-- aiohttp-pydantic
-- nova-pg
-- python-decotools
-- django-basecoat
-- pyboost-trick
-- laddr
-- functoolsex
-- netbox-plugin-bind-provisioner
-- basic-socket-rpc
-- gns3-mcp
-- hdc-py
-- inovance_tag_cyg
-- adore

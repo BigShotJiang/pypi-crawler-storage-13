@@ -1,0 +1,11 @@
+{
+  "name": "acmecse-dev",
+  "version": "20251123174149",
+  "summary": "An open source CSE Middleware for Education",
+  "author": "Andreas Kraft",
+  "license": "BSD",
+  "home_page": "https://acmecse.net",
+  "download_filename": "acmecse_dev-20251123174149-py3-none-any.whl",
+  "download_time": "2025-11-23T16:47:11.867865",
+  "package_url": "https://pypi.org/project/acmecse-dev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mediacloud-cliff",
+  "version": "2.6.2",
+  "summary": "Media Cloud CLIFF API Client Library",
+  "author": "Rahul Bhargava",
+  "license": "MIT",
+  "home_page": "http://cliff.mediacloud.org",
+  "download_filename": "mediacloud_cliff-2.6.2.tar.gz",
+  "download_time": "2025-11-23T16:47:23.211411",
+  "package_url": "https://pypi.org/project/mediacloud-cliff/"
+}
