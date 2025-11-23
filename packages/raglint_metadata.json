@@ -1,0 +1,11 @@
+{
+  "name": "raglint",
+  "version": "0.1.0",
+  "summary": "Production-ready RAG pipeline evaluation and observability platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raglint-0.1.0.tar.gz",
+  "download_time": "2025-11-23T22:55:58.251739",
+  "package_url": "https://pypi.org/project/raglint/"
+}

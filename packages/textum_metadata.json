@@ -1,0 +1,11 @@
+{
+  "name": "textum",
+  "version": "0.3.0",
+  "summary": "A syntactic patching library with char-level granularity",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/lmmx/textum",
+  "download_filename": "textum-0.3.0.tar.gz",
+  "download_time": "2025-11-23T22:55:54.008112",
+  "package_url": "https://pypi.org/project/textum/"
+}
