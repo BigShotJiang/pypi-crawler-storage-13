@@ -1,11 +1,11 @@
 {
   "name": "simexp",
-  "version": "0.4.4",
+  "version": "0.5.0",
   "summary": "A web content extractor and archiver for simplenote",
   "author": "gerico1007",
   "license": null,
   "home_page": "https://github.com/gerico1007/simexp",
-  "download_filename": "simexp-0.4.4.tar.gz",
-  "download_time": "2025-11-22T05:43:27.335617",
+  "download_filename": "simexp-0.5.0.tar.gz",
+  "download_time": "2025-11-23T19:19:16.195611",
   "package_url": "https://pypi.org/project/simexp/"
 }

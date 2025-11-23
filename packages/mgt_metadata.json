@@ -1,11 +1,11 @@
 {
   "name": "mgt",
-  "version": "1.0.9",
+  "version": "2.0.2",
   "summary": null,
   "author": "OPENSAPI",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/mgt",
-  "download_filename": "mgt-1.0.9.tar.gz",
-  "download_time": "2025-11-23T18:31:58.687399",
+  "download_filename": "mgt-2.0.2.tar.gz",
+  "download_time": "2025-11-23T19:19:23.969850",
   "package_url": "https://pypi.org/project/mgt/"
 }

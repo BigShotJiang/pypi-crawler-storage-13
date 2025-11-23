@@ -1,0 +1,11 @@
+{
+  "name": "gemmi-program",
+  "version": "0.7.4",
+  "summary": "gemmi (program executable only)",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "gemmi_program-0.7.4.tar.gz",
+  "download_time": "2025-11-23T19:19:27.176513",
+  "package_url": "https://pypi.org/project/gemmi-program/"
+}

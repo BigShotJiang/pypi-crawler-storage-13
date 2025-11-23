@@ -1,11 +1,11 @@
 {
   "name": "spikard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fast, type-safe web framework with Rust-powered Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/Goldziher/spikard",
-  "download_filename": "spikard-0.1.1.tar.gz",
-  "download_time": "2025-11-23T14:21:07.093359",
+  "download_filename": "spikard-0.1.2.tar.gz",
+  "download_time": "2025-11-23T19:19:15.163907",
   "package_url": "https://pypi.org/project/spikard/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "abi-core-ai",
-  "version": "0.1.0b93",
+  "version": "0.1.0b98",
   "summary": "Agent-Based Infrastructure Core - Runtime and CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abi_core_ai-0.1.0b93.tar.gz",
-  "download_time": "2025-11-23T18:52:16.683585",
+  "download_filename": "abi_core_ai-0.1.0b98.tar.gz",
+  "download_time": "2025-11-23T19:19:19.853312",
   "package_url": "https://pypi.org/project/abi-core-ai/"
 }
