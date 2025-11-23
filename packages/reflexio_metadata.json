@@ -1,0 +1,11 @@
+{
+  "name": "reflexio",
+  "version": "0.1.0",
+  "summary": "A composable retry policy framework with classification, jitter strategies, and observability hooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reflexio-0.1.0.tar.gz",
+  "download_time": "2025-11-23T17:54:41.903205",
+  "package_url": "https://pypi.org/project/reflexio/"
+}

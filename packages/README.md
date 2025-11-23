@@ -1,12 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T17:43:17.643383
-- **Total Packages**: 87
-- **Total Size**: 18.63 MB
+- **Download Time**: 2025-11-23T17:55:17.338858
+- **Total Packages**: 84
+- **Total Size**: 12.71 MB
 
 ## Packages List
-- flood-geoai-tool
+- veriskgo
+- cryptexx
+- timetracker-csv
+- alita-sdk
+- waldiez-runner
+- opaque-logger
+- StevenTricks
+- headson
+- waldiez-studio
+- dcisionai-mcp-server
+- ofire
+- waldiez-jupyter
+- genie-flow-invoker
+- cmping
+- reflexio
+- odsbox-jaquel-mcp
+- git-repo-sync
+- rpaframework-windows
 - tds-flatpath
 - wistx-mcp
 - docu-crawler
@@ -15,12 +32,9 @@
 - abcount
 - torch-sim-atomistic
 - dconfusion
-- alita-sdk
 - django-visual-editor
-- opaque-logger
 - triton-prep
 - rangeflow
-- veriskgo
 - curllm
 - sera-2
 - rns-page-node
@@ -33,11 +47,8 @@
 - pr-assistant-cli
 - astrocytes
 - agentsflow
-- StevenTricks
 - synrfp
 - sensei-mcp
-- rpaframework-windows
-- git-repo-sync
 - mkdocs-changelog-feed-plugin
 - pyjarchery
 - timber-common
@@ -45,10 +56,8 @@
 - tts-webui-extension.audiocraft
 - pyfiberc
 - kipart
-- cmping
 - oxc-python
 - waldiez
-- headson
 - pylxpweb
 - zdbg
 - rpaframework-pdf
@@ -81,15 +90,3 @@
 - androidmparser
 - untext
 - reroute
-- finalsa-common-http-client
-- mpneuralnetwork
-- iatoolkit
-- rolling-ball
-- diqa
-- aline-ai
-- afetch
-- prompt-unifier
-- chutes-miner-cli
-- selector-cli
-- abstract-ide
-- bluetti-bt-lib

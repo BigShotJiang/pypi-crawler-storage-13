@@ -1,11 +1,11 @@
 {
   "name": "git-repo-sync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "YAML-driven GitHub repository synchronization tool",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "git_repo_sync-0.0.1.tar.gz",
-  "download_time": "2025-11-23T17:42:49.166822",
+  "download_filename": "git_repo_sync-0.0.2.tar.gz",
+  "download_time": "2025-11-23T17:54:42.934725",
   "package_url": "https://pypi.org/project/git-repo-sync/"
 }
