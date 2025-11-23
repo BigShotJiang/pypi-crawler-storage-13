@@ -1,11 +1,11 @@
 {
   "name": "iaode",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Interpretable Autoencoder with Ordinary Differential Equations for single-cell omics analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iaode-0.2.6.tar.gz",
-  "download_time": "2025-11-22T11:53:47.487897",
+  "download_filename": "iaode-0.2.7.tar.gz",
+  "download_time": "2025-11-23T11:40:55.123747",
   "package_url": "https://pypi.org/project/iaode/"
 }

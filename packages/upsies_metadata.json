@@ -1,0 +1,11 @@
+{
+  "name": "upsies",
+  "version": "2025.11.23",
+  "summary": "Media metadata aggregator",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "upsies-2025.11.23.tar.gz",
+  "download_time": "2025-11-23T11:41:01.399263",
+  "package_url": "https://pypi.org/project/upsies/"
+}

@@ -1,21 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T11:19:28.375958
-- **Total Packages**: 88
-- **Total Size**: 36.52 MB
+- **Download Time**: 2025-11-23T11:41:22.707639
+- **Total Packages**: 80
+- **Total Size**: 11.52 MB
 
 ## Packages List
-- nandboxbotsapi
+- pip-uv
+- satnogs-db-api-client
+- zodchy-notations
+- alpaka
+- repo-ctx
+- celldisect
+- rekuest-next
+- bareBonesWeb
+- rishram-microgen
+- minizip
+- nelson-rules
+- QtFactor
+- buoyant.config
+- BitCash
+- fastapi-nacos
+- tumblrbot
+- langevin
+- z4d-certified-devices
+- Daniel2013
+- aio-service-caller
+- pypixelcolor
 - lifex-cli
+- neurocode-ai
+- VenomousPredator
+- django-vises
 - fixation-target
+- torchx-nightly
+- dailystories-generator
+- iaode
+- alita-sdk
+- temprint99
+- sgoschoolapi
+- easyrunner-cli
 - pylint-gitlab
+- torchft-nightly
+- ringgis-probability-distributions
+- invoice-pdf-unique2025
+- gns3-mcp
+- untext
+- umepr
+- upsies
+- cellrake
+- nandboxbotsapi
 - tf-keras-nightly
 - modulegraph2
 - CountryInformation
 - actingweb
-- django-vises
-- grammar-tool
 - ezga-lib
 - django-ads
 - holmesgpt
@@ -35,11 +72,9 @@
 - agentunit
 - checkov
 - webcodecs-py
-- umepr
 - ppasr
 - plotune-sdk
 - filltex
-- alita-sdk
 - topologicpy
 - odoo14-addon-ssi-odoo-implementation
 - gpustack
@@ -49,48 +84,5 @@
 - ddi-fw
 - rquote
 - fhops
-- temprint99
 - tezcrypto
 - peakrdl-euvm
-- tdrpa.tdworker
-- headson
-- scboa
-- tinygenkey
-- PyDNI
-- nvidia-nat-ragaai
-- nvidia-nat-test
-- cashare
-- nvidia-nat-strands
-- nvidia-nat-phoenix
-- nvidia-nat-mcp
-- nvidia-nat-ingestion
-- pydash2hls
-- nvidia-nat-adk
-- nvidia-nat-llama-index
-- neoteroi-mkdocs
-- nvidia-nat-profiling
-- nvidia-nat-opentelemetry
-- nvidia-nat-mem0ai
-- nvidia-nat
-- rishram-microgen
-- crdgfa
-- nvidia-nat-mysql
-- nvidia-nat-data-flywheel
-- nvidia-nat-all
-- cryptexx
-- nvidia-nat-weave
-- observer-ward
-- nvidia-nat-s3
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- konduktor-nightly
-- nvidia-nat-langchain
-- moptipyapps
-- bw2ui
-- bw25ui
-- rcrlm
-- qqabc
-- nvidia-nat-semantic-kernel
-- DataComparerLibrary
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno

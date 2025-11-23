@@ -1,0 +1,11 @@
+{
+  "name": "celldisect",
+  "version": "0.1.5",
+  "summary": "Cell DISentangled Experts for Covariate counTerfactuals (CellDISECT). Causal generative model designed to disentangle known covariate variations from unknown ones at test time while simultaneously learning to make counterfactual predictions.",
+  "author": "Arian Amani",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Lotfollahi-lab/CellDISECT",
+  "download_filename": "celldisect-0.1.5.tar.gz",
+  "download_time": "2025-11-23T11:40:42.495647",
+  "package_url": "https://pypi.org/project/celldisect/"
+}

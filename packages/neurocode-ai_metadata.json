@@ -1,0 +1,11 @@
+{
+  "name": "neurocode-ai",
+  "version": "0.1.2",
+  "summary": "Neural IR engine for deep, structural understanding and modification of codebases.",
+  "author": "NeuroCode Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "neurocode_ai-0.1.2.tar.gz",
+  "download_time": "2025-11-23T11:40:52.054374",
+  "package_url": "https://pypi.org/project/neurocode-ai/"
+}
