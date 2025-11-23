@@ -1,0 +1,11 @@
+{
+  "name": "PyTmcStepper",
+  "version": "0.7.8",
+  "summary": "This is a Python libary to drive a stepper motor with a Trinamic stepper driver and a single board computer like a Raspberry Pi",
+  "author": "Christian Köhlke",
+  "license": null,
+  "home_page": "https://github.com/Chr157i4n/PyTmcStepper",
+  "download_filename": "pytmcstepper-0.7.8.tar.gz",
+  "download_time": "2025-11-23T21:21:41.945777",
+  "package_url": "https://pypi.org/project/PyTmcStepper/"
+}

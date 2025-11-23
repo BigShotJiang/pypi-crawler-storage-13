@@ -1,11 +1,11 @@
 {
   "name": "flood-geoai-tool",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "A GeoAI tool for flood risk assessment using satellite imagery and Hugging Face models",
-  "author": "Hatim Nuh",
+  "author": "Your Name",
   "license": null,
-  "home_page": "https://github.com/hatimoo22/flood-geoai-tool",
-  "download_filename": "flood_geoai_tool-1.5.0.tar.gz",
-  "download_time": "2025-11-23T20:55:37.735909",
+  "home_page": "https://github.com/yourusername/flood-geoai-tool",
+  "download_filename": "flood_geoai_tool-1.6.0.tar.gz",
+  "download_time": "2025-11-23T21:21:09.944225",
   "package_url": "https://pypi.org/project/flood-geoai-tool/"
 }

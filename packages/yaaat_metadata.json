@@ -1,11 +1,11 @@
 {
   "name": "yaaat",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Interactive bioacoustic annotation tool for measuring vocalizations",
   "author": "laelume",
-  "license": "MIT",
-  "home_page": "https://github.com/laelume/yaaat",
-  "download_filename": "yaaat-0.1.1.tar.gz",
-  "download_time": "2025-11-22T23:41:48.368109",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaaat-0.1.6.tar.gz",
+  "download_time": "2025-11-23T21:21:10.507816",
   "package_url": "https://pypi.org/project/yaaat/"
 }

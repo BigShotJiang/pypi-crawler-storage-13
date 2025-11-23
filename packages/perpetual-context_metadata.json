@@ -1,11 +1,11 @@
 {
   "name": "perpetual-context",
-  "version": "3.0.7",
+  "version": "4.0.1",
   "summary": null,
   "author": "OPENSAPI",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/PerpetualContext",
-  "download_filename": "perpetual_context-3.0.7.tar.gz",
-  "download_time": "2025-11-23T20:25:56.292714",
+  "download_filename": "perpetual_context-4.0.1.tar.gz",
+  "download_time": "2025-11-23T21:21:11.022445",
   "package_url": "https://pypi.org/project/perpetual-context/"
 }

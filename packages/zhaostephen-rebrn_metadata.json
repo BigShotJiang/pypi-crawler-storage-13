@@ -1,11 +1,11 @@
 {
   "name": "zhaostephen-rebrn",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A CLI for bulk renaming files using dfregex search and replace.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zhaostephen_rebrn-0.2.3.tar.gz",
-  "download_time": "2025-11-22T05:54:38.830609",
+  "download_filename": "zhaostephen_rebrn-0.2.4.tar.gz",
+  "download_time": "2025-11-23T21:21:34.060259",
   "package_url": "https://pypi.org/project/zhaostephen-rebrn/"
 }

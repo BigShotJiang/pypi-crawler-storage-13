@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-ctem",
+  "version": "3.1.2",
+  "summary": "Tencent Cloud Ctem SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_ctem-3.1.2.tar.gz",
+  "download_time": "2025-11-23T21:21:25.011277",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ctem/"
+}

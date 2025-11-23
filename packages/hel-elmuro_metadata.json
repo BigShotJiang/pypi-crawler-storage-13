@@ -1,11 +1,11 @@
 {
   "name": "hel-elmuro",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Helpers for Cosmos DB and Azure Storage operations",
   "author": "Runic Zero team, Santiago García",
   "license": null,
   "home_page": null,
-  "download_filename": "hel_elmuro-0.3.0.tar.gz",
-  "download_time": "2025-11-21T18:30:53.269825",
+  "download_filename": "hel_elmuro-0.4.0.tar.gz",
+  "download_time": "2025-11-23T21:21:08.870988",
   "package_url": "https://pypi.org/project/hel-elmuro/"
 }
