@@ -1,0 +1,11 @@
+{
+  "name": "SHICTHRSENCR",
+  "version": "1.0.0",
+  "summary": "SHICTHRS ENCR system",
+  "author": "SHICTHRS",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JNTMTMTM/SHICTHRS_ENCR",
+  "download_filename": "shicthrsencr-1.0.0.tar.gz",
+  "download_time": "2025-11-23T13:34:57.947081",
+  "package_url": "https://pypi.org/project/SHICTHRSENCR/"
+}

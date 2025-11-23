@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-users-db-beanie",
+  "version": "5.0.0",
+  "summary": "FastAPI Users database adapter for Beanie",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_users_db_beanie-5.0.0.tar.gz",
+  "download_time": "2025-11-23T13:34:56.389440",
+  "package_url": "https://pypi.org/project/fastapi-users-db-beanie/"
+}

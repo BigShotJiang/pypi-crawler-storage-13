@@ -1,0 +1,11 @@
+{
+  "name": "mongo-pipebuilder",
+  "version": "0.2.1",
+  "summary": "Type-safe, fluent MongoDB aggregation pipeline builder",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mongo_pipebuilder-0.2.1.tar.gz",
+  "download_time": "2025-11-23T13:34:54.298733",
+  "package_url": "https://pypi.org/project/mongo-pipebuilder/"
+}

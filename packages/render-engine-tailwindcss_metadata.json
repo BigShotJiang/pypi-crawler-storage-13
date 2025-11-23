@@ -1,0 +1,11 @@
+{
+  "name": "render-engine-tailwindcss",
+  "version": "2025.11.1",
+  "summary": "tailwindcss-parser for Render Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "render_engine_tailwindcss-2025.11.1.tar.gz",
+  "download_time": "2025-11-23T13:35:06.358206",
+  "package_url": "https://pypi.org/project/render-engine-tailwindcss/"
+}

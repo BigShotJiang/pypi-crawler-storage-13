@@ -1,11 +1,11 @@
 {
   "name": "holmesgpt",
-  "version": "0.16.2",
+  "version": "0.16.3",
   "summary": null,
   "author": "Natan Yellin",
   "license": null,
   "home_page": null,
-  "download_filename": "holmesgpt-0.16.2.tar.gz",
-  "download_time": "2025-11-20T22:53:26.858849",
+  "download_filename": "holmesgpt-0.16.3.tar.gz",
+  "download_time": "2025-11-23T13:35:10.099910",
   "package_url": "https://pypi.org/project/holmesgpt/"
 }
