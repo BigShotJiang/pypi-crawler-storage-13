@@ -1,0 +1,11 @@
+{
+  "name": "yahoo-fantasy-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Yahoo Fantasy Sports API",
+  "author": "Matt Spilchen",
+  "license": null,
+  "home_page": "https://github.com/spilchen/yahoo_fantasy_mcp",
+  "download_filename": "yahoo_fantasy_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-23T23:22:02.014478",
+  "package_url": "https://pypi.org/project/yahoo-fantasy-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prophetverse",
+  "version": "0.11.0",
+  "summary": "A multiverse of prophet models, for forecasting and Marketing Mix Modeling.",
+  "author": "Felipe Angelim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prophetverse-0.11.0.tar.gz",
+  "download_time": "2025-11-23T23:22:07.924379",
+  "package_url": "https://pypi.org/project/prophetverse/"
+}

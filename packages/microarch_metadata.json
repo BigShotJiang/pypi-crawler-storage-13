@@ -1,11 +1,11 @@
 {
   "name": "microarch",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Knuth Microarchitecture Management (CPUID)",
   "author": "Fernando Pelliccioni",
   "license": "MIT",
   "home_page": "https://github.com/k-nuth/microarch",
-  "download_filename": "microarch-0.2.1.tar.gz",
-  "download_time": "2025-11-23T15:41:17.256622",
+  "download_filename": "microarch-0.3.0.tar.gz",
+  "download_time": "2025-11-23T23:22:01.476183",
   "package_url": "https://pypi.org/project/microarch/"
 }

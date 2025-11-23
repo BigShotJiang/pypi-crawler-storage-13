@@ -1,0 +1,11 @@
+{
+  "name": "danish-hid-keyboard",
+  "version": "0.1.0",
+  "summary": "BadUSB bibliotek for dansk keyboard layout til Raspberry Pi",
+  "author": "Mikkel B. Bentsen-Petersen",
+  "license": null,
+  "home_page": "https://github.com/MBBP1/danish-hid-keyboard",
+  "download_filename": "danish_hid_keyboard-0.1.0.tar.gz",
+  "download_time": "2025-11-23T23:22:18.968087",
+  "package_url": "https://pypi.org/project/danish-hid-keyboard/"
+}
