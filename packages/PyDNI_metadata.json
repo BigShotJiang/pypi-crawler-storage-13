@@ -1,11 +1,11 @@
 {
   "name": "PyDNI",
-  "version": "0.6.0",
-  "summary": "Validador de identificadores españoles (DNI, NIE, CIF y NIF genérico) y generador de nombres",
+  "version": "0.7.2",
+  "summary": "Spanish identity utilities: validation and generation of DNI, NIE, CIF, NIF, names, emails and birthdates.",
   "author": "Alberto Gonzalez",
   "license": "MIT",
   "home_page": "https://github.com/agonzalezla/PyDNI",
-  "download_filename": "pydni-0.6.0.tar.gz",
-  "download_time": "2025-11-22T10:22:57.440218",
+  "download_filename": "pydni-0.7.2.tar.gz",
+  "download_time": "2025-11-23T11:19:09.069760",
   "package_url": "https://pypi.org/project/PyDNI/"
 }

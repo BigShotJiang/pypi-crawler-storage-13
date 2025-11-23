@@ -1,11 +1,11 @@
 {
   "name": "aiofdfs",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "A crude but basically usable fastdfs client based on asyncio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiofdfs-0.1.21.tar.gz",
-  "download_time": "2025-11-23T10:54:45.338931",
+  "download_filename": "aiofdfs-0.1.22.tar.gz",
+  "download_time": "2025-11-23T11:18:54.439441",
   "package_url": "https://pypi.org/project/aiofdfs/"
 }

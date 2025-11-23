@@ -1,0 +1,11 @@
+{
+  "name": "masr",
+  "version": "3.0.3",
+  "summary": "Automatic speech recognition toolkit on Pytorch",
+  "author": "yeyupiaoling",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/yeyupiaoling/MASR",
+  "download_filename": "masr-3.0.3-py3-none-any.whl",
+  "download_time": "2025-11-23T11:18:55.467513",
+  "package_url": "https://pypi.org/project/masr/"
+}

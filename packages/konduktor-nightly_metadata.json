@@ -1,11 +1,11 @@
 {
   "name": "konduktor-nightly",
-  "version": "0.1.0.dev20251122104357",
+  "version": "0.1.0.dev20251123104504",
   "summary": "GPU Cluster Health Management",
   "author": "Andrew Aikawa",
   "license": null,
   "home_page": null,
-  "download_filename": "konduktor_nightly-0.1.0.dev20251122104357.tar.gz",
-  "download_time": "2025-11-22T10:53:48.467939",
+  "download_filename": "konduktor_nightly-0.1.0.dev20251123104504.tar.gz",
+  "download_time": "2025-11-23T11:19:22.791442",
   "package_url": "https://pypi.org/project/konduktor-nightly/"
 }

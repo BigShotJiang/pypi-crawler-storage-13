@@ -1,0 +1,11 @@
+{
+  "name": "agentunit",
+  "version": "0.7.0",
+  "summary": "A framework for evaluating, monitoring, and benchmarking multi-agent systems",
+  "author": "Aviral Garg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentunit-0.7.0.tar.gz",
+  "download_time": "2025-11-23T11:18:56.491440",
+  "package_url": "https://pypi.org/project/agentunit/"
+}

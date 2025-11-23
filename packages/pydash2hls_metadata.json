@@ -1,0 +1,11 @@
+{
+  "name": "pydash2hls",
+  "version": "3.0.0",
+  "summary": "Convert DASH (MPD) manifests to HLS (M3U8) playlists.",
+  "author": "hyugogirubato",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/hyugogirubato/pydash2hls",
+  "download_filename": "pydash2hls-3.0.0.tar.gz",
+  "download_time": "2025-11-23T11:19:13.133906",
+  "package_url": "https://pypi.org/project/pydash2hls/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "crdgfa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Rayleigh-Debye-Gans corrected code for fractal aggregates (C-RDGFA)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crdgfa-0.1.0.tar.gz",
-  "download_time": "2025-11-22T22:22:09.906118",
+  "download_filename": "crdgfa-0.1.1.tar.gz",
+  "download_time": "2025-11-23T11:19:17.699375",
   "package_url": "https://pypi.org/project/crdgfa/"
 }

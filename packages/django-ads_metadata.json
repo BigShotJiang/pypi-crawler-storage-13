@@ -1,0 +1,11 @@
+{
+  "name": "django-ads",
+  "version": "1.2.0",
+  "summary": "Ads Management System for Django Framework",
+  "author": "Razi Alsayyed",
+  "license": "LICENSE",
+  "home_page": "https://github.com/razisayyed/django-ads",
+  "download_filename": "django_ads-1.2.0.tar.gz",
+  "download_time": "2025-11-23T11:18:48.222251",
+  "package_url": "https://pypi.org/project/django-ads/"
+}

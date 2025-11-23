@@ -1,11 +1,11 @@
 {
   "name": "mistocr",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Batch OCR for PDFs with heading restoration and visual content integration",
   "author": "Solveit",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/franckalbinet/mistocr",
-  "download_filename": "mistocr-0.2.4.tar.gz",
-  "download_time": "2025-11-23T10:54:50.617728",
+  "download_filename": "mistocr-0.2.5.tar.gz",
+  "download_time": "2025-11-23T11:18:54.954271",
   "package_url": "https://pypi.org/project/mistocr/"
 }

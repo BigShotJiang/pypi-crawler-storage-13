@@ -1,0 +1,11 @@
+{
+  "name": "modulegraph2",
+  "version": "2.3",
+  "summary": "A module import dependency graph for Python projects.",
+  "author": "Ronald Oussoren",
+  "license": "MIT",
+  "home_page": "https://modulegraph2.readthedocs.io/",
+  "download_filename": "modulegraph2-2.3.tar.gz",
+  "download_time": "2025-11-23T11:18:45.143419",
+  "package_url": "https://pypi.org/project/modulegraph2/"
+}
