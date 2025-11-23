@@ -1,11 +1,11 @@
 {
   "name": "swiftcrawl",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A powerful, flexible web scraping abstraction layer that seamlessly handles both lightweight HTTP requests and full browser automation with anti-detection capabilities",
   "author": "MaxiLR",
   "license": null,
   "home_page": null,
-  "download_filename": "swiftcrawl-0.1.2.tar.gz",
-  "download_time": "2025-11-18T23:38:44.406353",
+  "download_filename": "swiftcrawl-0.1.5.tar.gz",
+  "download_time": "2025-11-23T18:31:56.035100",
   "package_url": "https://pypi.org/project/swiftcrawl/"
 }

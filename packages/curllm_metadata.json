@@ -1,11 +1,11 @@
 {
   "name": "curllm",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Browser Automation with Local LLM (8GB GPU compatible)",
   "author": "Tom Sapletta",
   "license": "Apache",
   "home_page": null,
-  "download_filename": "curllm-1.0.3.tar.gz",
-  "download_time": "2025-11-23T17:42:40.748217",
+  "download_filename": "curllm-1.0.6.tar.gz",
+  "download_time": "2025-11-23T18:31:53.941510",
   "package_url": "https://pypi.org/project/curllm/"
 }

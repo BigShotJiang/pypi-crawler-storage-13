@@ -1,0 +1,11 @@
+{
+  "name": "pySigma-backend-kusto",
+  "version": "0.4.5",
+  "summary": "pySigma Kusto backend",
+  "author": "Stephen Lincoln",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/AttackIQ/pySigma-backend-kusto",
+  "download_filename": "pysigma_backend_kusto-0.4.5.tar.gz",
+  "download_time": "2025-11-23T18:31:52.389302",
+  "package_url": "https://pypi.org/project/pySigma-backend-kusto/"
+}

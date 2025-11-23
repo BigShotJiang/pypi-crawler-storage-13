@@ -1,0 +1,11 @@
+{
+  "name": "project-vault",
+  "version": "1.0.0",
+  "summary": "The Unified Project Lifecycle Manager: Backup, Restore, and Teleport Projects Anywhere.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "project_vault-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-23T18:31:49.793366",
+  "package_url": "https://pypi.org/project/project-vault/"
+}

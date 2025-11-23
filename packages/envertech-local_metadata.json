@@ -1,0 +1,11 @@
+{
+  "name": "envertech-local",
+  "version": "0.0.0",
+  "summary": "Inverter discovery and communication library for envertech inverters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envertech_local-0.0.0.tar.gz",
+  "download_time": "2025-11-23T18:32:12.360378",
+  "package_url": "https://pypi.org/project/envertech-local/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tu2090-python-rekor-monitor",
+  "version": "4.0.0",
+  "summary": "A Python client for verifying Rekor transparency log entries",
+  "author": "tu2090",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tu2090_python_rekor_monitor-4.0.0.tar.gz",
+  "download_time": "2025-11-23T18:31:47.676588",
+  "package_url": "https://pypi.org/project/tu2090-python-rekor-monitor/"
+}

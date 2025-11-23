@@ -1,11 +1,11 @@
 {
   "name": "opaque-logger",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "🛡️ Enterprise Data Masking Engine - Custom Callbacks, LGPD/GDPR Compliance, 77+ Validators, Zero False Positives",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opaque_logger-1.1.1.tar.gz",
-  "download_time": "2025-11-23T17:54:37.206849",
+  "download_filename": "opaque_logger-1.1.2.tar.gz",
+  "download_time": "2025-11-23T18:31:59.740787",
   "package_url": "https://pypi.org/project/opaque-logger/"
 }

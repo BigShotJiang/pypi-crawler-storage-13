@@ -1,11 +1,11 @@
 {
   "name": "gateagent",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Local gateway for collecting and managing agent events with Google Sheets integration",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "gateagent-0.1.3.tar.gz",
-  "download_time": "2025-11-19T03:52:41.344498",
+  "download_filename": "gateagent-0.1.4.tar.gz",
+  "download_time": "2025-11-23T18:31:33.455684",
   "package_url": "https://pypi.org/project/gateagent/"
 }

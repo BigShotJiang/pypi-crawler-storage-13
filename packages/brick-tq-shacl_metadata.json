@@ -1,0 +1,11 @@
+{
+  "name": "brick-tq-shacl",
+  "version": "0.4.1",
+  "summary": "Wraps topquadrant's SHACL implementation in a simple Python wrapper to be API-compatible with pySHACL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brick_tq_shacl-0.4.1.tar.gz",
+  "download_time": "2025-11-23T18:31:48.230010",
+  "package_url": "https://pypi.org/project/brick-tq-shacl/"
+}
