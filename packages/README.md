@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T08:29:34.718265
+- **Download Time**: 2025-11-23T08:49:23.640876
 - **Total Packages**: 77
-- **Total Size**: 8.16 MB
+- **Total Size**: 0.18 MB
 
 ## Packages List
-- python-navitia-client
-- sjbillingclient
 - auth
 - dashscope
 - floread
@@ -83,3 +81,5 @@
 - GeoBank
 - structured-prompt
 - dr8-cdk-remote-stack
+- mgt
+- par-term-emu-core-rust

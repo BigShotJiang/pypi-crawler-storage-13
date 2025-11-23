@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-11-23T08:29:34.718265",
+  "download_time": "2025-11-23T08:49:23.640876",
   "total_packages_downloaded": 77,
-  "total_size_mb": 8.16,
+  "total_size_mb": 0.18,
   "packages": [
-    "python-navitia-client",
-    "sjbillingclient",
     "auth",
     "dashscope",
     "floread",
@@ -79,6 +77,8 @@
     "query-tables",
     "GeoBank",
     "structured-prompt",
-    "dr8-cdk-remote-stack"
+    "dr8-cdk-remote-stack",
+    "mgt",
+    "par-term-emu-core-rust"
   ]
 }
