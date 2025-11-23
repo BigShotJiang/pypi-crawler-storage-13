@@ -1,0 +1,11 @@
+{
+  "name": "mdnice",
+  "version": "0.0.3",
+  "summary": "🎈 将 Markdown 转换为微信公众号、知乎、稀土掘金支持的富文本格式",
+  "author": "xiaoqiang",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/xiaoqiangclub/mdnice",
+  "download_filename": "mdnice-0.0.3.tar.gz",
+  "download_time": "2025-11-23T14:53:58.048508",
+  "package_url": "https://pypi.org/project/mdnice/"
+}
