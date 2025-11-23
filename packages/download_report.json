@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-11-23T15:41:52.124594",
+  "download_time": "2025-11-23T15:54:41.133897",
   "total_packages_downloaded": 88,
-  "total_size_mb": 10.55,
+  "total_size_mb": 1.47,
   "packages": [
-    "simplevecdb",
     "ae-sideloading-server",
     "agent-tools-library",
     "abstract-utilities",
@@ -90,6 +89,7 @@
     "backend.ai-accelerator-mock",
     "backend.ai-accelerator-cuda-open",
     "capeify",
-    "vellum-workflow-server"
+    "vellum-workflow-server",
+    "freefire-api"
   ]
 }

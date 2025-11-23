@@ -1,11 +1,11 @@
 {
   "name": "selector-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Interactive web element selection and code generation tool",
   "author": "Selector CLI Team",
   "license": null,
   "home_page": "https://github.com/selector-cli/selector-cli",
-  "download_filename": "selector_cli-1.0.3-py3-none-any.whl",
-  "download_time": "2025-11-23T15:41:13.272087",
+  "download_filename": "selector_cli-1.0.4-py3-none-any.whl",
+  "download_time": "2025-11-23T15:54:03.231967",
   "package_url": "https://pypi.org/project/selector-cli/"
 }
