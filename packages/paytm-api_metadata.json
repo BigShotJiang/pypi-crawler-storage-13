@@ -1,0 +1,11 @@
+{
+  "name": "paytm-api",
+  "version": "1.2.4",
+  "summary": "Simple Python library to verify Paytm Merchant transaction status",
+  "author": "DragoServer",
+  "license": "MIT",
+  "home_page": "https://github.com/DragoServer/paytm_api",
+  "download_filename": "paytm_api-1.2.4.tar.gz",
+  "download_time": "2025-11-23T09:22:40.154709",
+  "package_url": "https://pypi.org/project/paytm-api/"
+}

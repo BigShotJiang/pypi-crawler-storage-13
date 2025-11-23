@@ -1,0 +1,11 @@
+{
+  "name": "vdweb",
+  "version": "0.1.1",
+  "summary": "Excel for Developers - A fast, local-first web GUI for exploring data with VisiData",
+  "author": "VisiLens Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vdweb-0.1.1.tar.gz",
+  "download_time": "2025-11-23T09:22:41.241453",
+  "package_url": "https://pypi.org/project/vdweb/"
+}

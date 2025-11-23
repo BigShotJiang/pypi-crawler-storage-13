@@ -1,0 +1,11 @@
+{
+  "name": "RiboMetric",
+  "version": "0.1.13",
+  "summary": "A python command-line utility for the generation of comprehensive reports on the quality of ribosome profiling (Ribo-Seq) datasets",
+  "author": "Jack Tierney",
+  "license": "MIT license",
+  "home_page": "https://github.com/JackCurragh/RiboMetric",
+  "download_filename": "ribometric-0.1.13-py2.py3-none-any.whl",
+  "download_time": "2025-11-23T09:22:46.081079",
+  "package_url": "https://pypi.org/project/RiboMetric/"
+}

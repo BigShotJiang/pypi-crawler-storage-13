@@ -1,0 +1,11 @@
+{
+  "name": "Devious-WinRM",
+  "version": "1.2.2",
+  "summary": "A Pentester's Powershell Client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devious_winrm-1.2.2.tar.gz",
+  "download_time": "2025-11-23T09:23:17.796303",
+  "package_url": "https://pypi.org/project/Devious-WinRM/"
+}

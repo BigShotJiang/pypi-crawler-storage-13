@@ -1,0 +1,11 @@
+{
+  "name": "FastSketchLSH",
+  "version": "0.1.1",
+  "summary": "High-performance FastSketch with SIMD acceleration to deduplicate large-scale data",
+  "author": "FastSketchLSH Authors",
+  "license": "MIT",
+  "home_page": "https://github.com/pzcddm/FastSketchLSH",
+  "download_filename": "fastsketchlsh-0.1.1.tar.gz",
+  "download_time": "2025-11-23T09:23:16.179751",
+  "package_url": "https://pypi.org/project/FastSketchLSH/"
+}

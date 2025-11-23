@@ -1,0 +1,11 @@
+{
+  "name": "sjfirebase",
+  "version": "1.7.0",
+  "summary": "Implement Firebase Java SDK in python",
+  "author": "Kenechukwu Akubue",
+  "license": null,
+  "home_page": "https://github.com/SimpleJnius/sj-firebase-python",
+  "download_filename": "sjfirebase-1.7.0-py3-none-any.whl",
+  "download_time": "2025-11-23T09:22:38.540780",
+  "package_url": "https://pypi.org/project/sjfirebase/"
+}

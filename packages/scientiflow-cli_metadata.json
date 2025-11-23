@@ -1,0 +1,11 @@
+{
+  "name": "scientiflow-cli",
+  "version": "0.4.5",
+  "summary": "CLI tool for scientiflow. This application runs on the client side, decodes pipelines, and executes them in the configured order!",
+  "author": "ScientiFlow",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "scientiflow_cli-0.4.5.tar.gz",
+  "download_time": "2025-11-23T09:23:12.824499",
+  "package_url": "https://pypi.org/project/scientiflow-cli/"
+}

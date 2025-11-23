@@ -1,0 +1,11 @@
+{
+  "name": "instaharvest",
+  "version": "2.5.1",
+  "summary": "Professional Instagram data collection toolkit with automation features",
+  "author": "Doston",
+  "license": "MIT",
+  "home_page": "https://github.com/mpython77/insta-harvester",
+  "download_filename": "instaharvest-2.5.1-py3-none-any.whl",
+  "download_time": "2025-11-23T09:22:35.790601",
+  "package_url": "https://pypi.org/project/instaharvest/"
+}
