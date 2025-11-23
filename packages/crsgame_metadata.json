@@ -1,11 +1,11 @@
 {
   "name": "crsgame",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An object-oriented wrapper for the Python curses library.",
   "author": "@aerialasf",
   "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
   "home_page": null,
-  "download_filename": "crsgame-0.1.0.tar.gz",
-  "download_time": "2025-11-22T10:23:00.679937",
+  "download_filename": "crsgame-0.1.1.tar.gz",
+  "download_time": "2025-11-23T03:41:20.649471",
   "package_url": "https://pypi.org/project/crsgame/"
 }

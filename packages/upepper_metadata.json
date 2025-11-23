@@ -1,0 +1,11 @@
+{
+  "name": "upepper",
+  "version": "0.1.7",
+  "summary": "A CLI front-end to a running salt-api system",
+  "author": "Seth House, Phan Dang",
+  "license": null,
+  "home_page": "http://saltstack.com",
+  "download_filename": "upepper-0.1.7.tar.gz",
+  "download_time": "2025-11-23T03:41:30.043570",
+  "package_url": "https://pypi.org/project/upepper/"
+}

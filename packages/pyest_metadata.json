@@ -1,0 +1,11 @@
+{
+  "name": "pyest",
+  "version": "0.5.0",
+  "summary": "Adaptive Gaussian Mixture State Estimation",
+  "author": "Keith A. LeGrand",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyest-0.5.0.tar.gz",
+  "download_time": "2025-11-23T03:41:22.733397",
+  "package_url": "https://pypi.org/project/pyest/"
+}

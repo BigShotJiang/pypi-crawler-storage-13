@@ -1,0 +1,11 @@
+{
+  "name": "anna-protocol-sdk",
+  "version": "1.2.0",
+  "summary": "SDK oficial em Python para o ANNA Protocol - Identidade e Reputação para Agentes de IA",
+  "author": "ANNA Protocol Team",
+  "license": "MIT",
+  "home_page": "https://github.com/anna-protocol/sdk-python",
+  "download_filename": "anna_protocol_sdk-1.2.0.tar.gz",
+  "download_time": "2025-11-23T03:41:08.447412",
+  "package_url": "https://pypi.org/project/anna-protocol-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitsimulator",
+  "version": "1.0.4",
+  "summary": "Git simulation and visualization engine - dry run dangerous Git commands with visual feedback before executing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitsimulator-1.0.4.tar.gz",
+  "download_time": "2025-11-23T03:41:24.834649",
+  "package_url": "https://pypi.org/project/gitsimulator/"
+}

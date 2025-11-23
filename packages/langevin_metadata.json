@@ -1,11 +1,11 @@
 {
   "name": "langevin",
-  "version": "2025.11.22a6",
+  "version": "2025.11.23a2",
   "summary": "Tools to integrate Langevin equations for directed-percolation and absorbing phase transition models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langevin-2025.11.22a6-cp314-cp314-macosx_14_0_arm64.whl",
-  "download_time": "2025-11-22T12:40:08.608449",
+  "download_filename": "langevin-2025.11.23a2-cp314-cp314-macosx_14_0_arm64.whl",
+  "download_time": "2025-11-23T03:41:11.061765",
   "package_url": "https://pypi.org/project/langevin/"
 }

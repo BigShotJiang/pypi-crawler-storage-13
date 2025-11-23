@@ -1,0 +1,11 @@
+{
+  "name": "pg-scram-sha256",
+  "version": "1.0.0",
+  "summary": "Generate and verify PostgreSQL-compatible SCRAM-SHA-256 password verifiers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pg_scram_sha256-1.0.0.tar.gz",
+  "download_time": "2025-11-23T03:41:17.461364",
+  "package_url": "https://pypi.org/project/pg-scram-sha256/"
+}
