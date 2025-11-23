@@ -1,0 +1,11 @@
+{
+  "name": "gemmi",
+  "version": "0.7.4",
+  "summary": "library for structural biology",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "gemmi-0.7.4.tar.gz",
+  "download_time": "2025-11-23T13:08:32.833756",
+  "package_url": "https://pypi.org/project/gemmi/"
+}

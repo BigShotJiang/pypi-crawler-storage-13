@@ -1,0 +1,11 @@
+{
+  "name": "qonscious",
+  "version": "0.1.4",
+  "summary": "Qonscious is a runtime framework designed to support conditional execution of quantum circuits based on resource introspection. It helps you build quantum applications that are aware of backend conditions — such as entanglement, coherence, or fidelity — before execution.",
+  "author": null,
+  "license": "No license has been chosen for this project yet.\n        All rights reserved.",
+  "home_page": null,
+  "download_filename": "qonscious-0.1.4.tar.gz",
+  "download_time": "2025-11-23T13:08:18.779250",
+  "package_url": "https://pypi.org/project/qonscious/"
+}

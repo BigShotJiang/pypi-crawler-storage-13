@@ -1,11 +1,11 @@
 {
   "name": "arkitekt-next",
-  "version": "0.32.0",
+  "version": "0.33.0",
   "summary": "client for the arkitekt_next platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arkitekt_next-0.32.0.tar.gz",
-  "download_time": "2025-11-23T12:40:33.178385",
+  "download_filename": "arkitekt_next-0.33.0.tar.gz",
+  "download_time": "2025-11-23T13:08:10.077964",
   "package_url": "https://pypi.org/project/arkitekt-next/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claustk",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Library for creating New Year and Christmas interfaces on Tkinter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claustk-0.1.2.tar.gz",
-  "download_time": "2025-11-20T17:25:37.395456",
+  "download_filename": "claustk-0.2.0.tar.gz",
+  "download_time": "2025-11-23T13:08:30.171177",
   "package_url": "https://pypi.org/project/claustk/"
 }

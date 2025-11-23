@@ -1,0 +1,11 @@
+{
+  "name": "metaenv",
+  "version": "0.1.0",
+  "summary": "Automated Python environment management tool that scans imports, installs dependencies, and generates requirements.txt",
+  "author": "MetaEnv Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/AnantAILabs/metaenv",
+  "download_filename": "metaenv-0.1.0.tar.gz",
+  "download_time": "2025-11-23T13:08:06.178267",
+  "package_url": "https://pypi.org/project/metaenv/"
+}

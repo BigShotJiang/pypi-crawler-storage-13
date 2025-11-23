@@ -1,11 +1,11 @@
 {
   "name": "elad12390-loki-mcp",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Grafana Loki MCP Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "elad12390_loki_mcp-0.1.1.tar.gz",
-  "download_time": "2025-11-23T12:40:39.110435",
+  "download_filename": "elad12390_loki_mcp-0.1.4.tar.gz",
+  "download_time": "2025-11-23T13:08:06.727682",
   "package_url": "https://pypi.org/project/elad12390-loki-mcp/"
 }

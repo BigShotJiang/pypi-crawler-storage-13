@@ -1,0 +1,11 @@
+{
+  "name": "extract-list",
+  "version": "0.2.13",
+  "summary": "Extract a list from JSON or XML, save to excel, csv, etc.",
+  "author": "Tom Björkholm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "extract_list-0.2.13.tar.gz",
+  "download_time": "2025-11-23T13:08:16.206813",
+  "package_url": "https://pypi.org/project/extract-list/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "VenomousPredator",
-  "version": "0.1.2",
+  "version": "1.2.9",
   "summary": "A library of elementary level algorithms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "venomouspredator-0.1.2.tar.gz",
-  "download_time": "2025-11-23T12:40:21.143314",
+  "download_filename": "venomouspredator-1.2.9.tar.gz",
+  "download_time": "2025-11-23T13:08:12.632380",
   "package_url": "https://pypi.org/project/VenomousPredator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "zon-format",
+  "version": "1.0.0",
+  "summary": "Zero Overhead Notation - Human-readable data serialization optimized for LLM token efficiency",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "zon_format-1.0.0.tar.gz",
+  "download_time": "2025-11-23T13:08:12.121423",
+  "package_url": "https://pypi.org/project/zon-format/"
+}
