@@ -1,0 +1,11 @@
+{
+  "name": "nova-pg",
+  "version": "0.1.6",
+  "summary": "PostgreSQL utilities",
+  "author": "Lorenzo Santarsieri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nova_pg-0.1.6.tar.gz",
+  "download_time": "2025-11-23T14:42:20.558939",
+  "package_url": "https://pypi.org/project/nova-pg/"
+}

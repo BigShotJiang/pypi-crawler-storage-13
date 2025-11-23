@@ -1,0 +1,11 @@
+{
+  "name": "auror-ai",
+  "version": "0.1.0",
+  "summary": "A distributed task processing framework for AI inference",
+  "author": "Jordan Roimarmier",
+  "license": "MIT",
+  "home_page": "https://github.com/auror-ai/auror",
+  "download_filename": "auror_ai-0.1.0.tar.gz",
+  "download_time": "2025-11-23T14:42:16.403363",
+  "package_url": "https://pypi.org/project/auror-ai/"
+}

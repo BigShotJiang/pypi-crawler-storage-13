@@ -1,0 +1,11 @@
+{
+  "name": "eea.api.layout",
+  "version": "3.3",
+  "summary": "RestAPI @layout endpoint",
+  "author": "European Environment Agency: IDM2 A-Team",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/eea/eea.api.layout",
+  "download_filename": "eea_api_layout-3.3.tar.gz",
+  "download_time": "2025-11-23T14:42:25.152597",
+  "package_url": "https://pypi.org/project/eea.api.layout/"
+}

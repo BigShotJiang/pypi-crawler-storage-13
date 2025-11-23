@@ -1,11 +1,11 @@
 {
   "name": "dbt-autodoc",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Automated documentation generator for dbt projects using Google Gemini AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_autodoc-1.0.13.tar.gz",
-  "download_time": "2025-11-23T14:21:15.588013",
+  "download_filename": "dbt_autodoc-1.0.14.tar.gz",
+  "download_time": "2025-11-23T14:42:26.680375",
   "package_url": "https://pypi.org/project/dbt-autodoc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "itac-pylib",
+  "version": "0.1.0",
+  "summary": "iTAC API client library",
+  "author": "Ondrejka, Martin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "itac_pylib-0.1.0.tar.gz",
+  "download_time": "2025-11-23T14:42:29.436501",
+  "package_url": "https://pypi.org/project/itac-pylib/"
+}

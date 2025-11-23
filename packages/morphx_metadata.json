@@ -1,11 +1,11 @@
 {
   "name": "morphx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Универсальный преобразователь данных: dict → Model → DataFrame → JSON → CSV",
   "author": "busyaaa_1",
   "license": null,
   "home_page": null,
-  "download_filename": "morphx-1.0.0.tar.gz",
-  "download_time": "2025-11-23T14:20:58.192077",
+  "download_filename": "morphx-1.0.1.tar.gz",
+  "download_time": "2025-11-23T14:42:23.618158",
   "package_url": "https://pypi.org/project/morphx/"
 }
