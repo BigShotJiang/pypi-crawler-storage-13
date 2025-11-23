@@ -1,11 +1,11 @@
 {
   "name": "black-litterman-mcp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Black-Litterman Portfolio Optimization MCP Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "black_litterman_mcp-0.2.2.tar.gz",
-  "download_time": "2025-11-23T06:33:18.691058",
+  "download_filename": "black_litterman_mcp-0.2.3.tar.gz",
+  "download_time": "2025-11-23T06:57:38.771308",
   "package_url": "https://pypi.org/project/black-litterman-mcp/"
 }

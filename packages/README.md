@@ -1,50 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T06:33:49.964228
-- **Total Packages**: 79
-- **Total Size**: 13.67 MB
+- **Download Time**: 2025-11-23T06:58:05.917593
+- **Total Packages**: 71
+- **Total Size**: 2.13 MB
 
 ## Packages List
-- LLM-Bridge
-- pyxui-async
-- PyQUDA-Utils
-- py-ferropier
-- PyQUDA
-- sayna-client
-- rogergiggz-demo-package
-- roger-demo-package
-- featrixsphere
-- oxapy
-- logbolt
-- TgCryptos
-- protograf
-- vllm-rs
-- spacing
-- medusa-security
-- datahold
-- reme-ai
-- black-litterman-mcp
-- aiinbx
-- bpmn-graph-transformation
-- depcycle
-- temprint99
-- hassette
-- lark-helper
-- pulumi-aws-native
-- jobber-python-client
-- createsonline
-- pyvegh
-- lifecyclelogging
-- pyg-nightly
 - wagtail-color-panel
 - anymap
 - pylxpweb
 - starhtml
 - iragca
+- bpmn-graph-transformation
 - ncuhep
 - excelstyler
 - java-access-bridge-wrapper
+- createsonline
 - AstrBot
 - pykimix
 - haniwers
@@ -54,6 +25,7 @@
 - valid8r
 - trovesuite
 - Uranus-IDE
+- black-litterman-mcp
 - rag-mem
 - hussh
 - wrapper-tls-requests
@@ -75,6 +47,7 @@
 - nextrec
 - django-vises
 - pulumi-aws-apigateway
+- pyvegh
 - malha
 - kbar
 - django-security-suite
@@ -85,3 +58,22 @@
 - pyfrontkit
 - gha-utils
 - photos_drive
+- loom-agent
+- LLM-Bridge
+- magtrack
+- livekit-plugins-hgl
+- nnunetv2-cam
+- logbolt
+- ast-tool-py
+- miunlock
+- finrl-trading
+- pmccc
+- zhaostephen-vdts
+- aiinbx
+- extended-data-types
+- machineconfig
+- ps3838api
+- ruythcore
+- srcly
+- kbc-clustering
+- easyscreen
