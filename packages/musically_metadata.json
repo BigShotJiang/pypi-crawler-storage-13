@@ -1,0 +1,11 @@
+{
+  "name": "musically",
+  "version": "1.1.2",
+  "summary": "A package for automating music-related tasks via Telegram bot.",
+  "author": "Ankit Chaubey",
+  "license": null,
+  "home_page": "https://github.com/ankit-chaubey/musically",
+  "download_filename": "musically-1.1.2.tar.gz",
+  "download_time": "2025-11-23T04:22:20.430857",
+  "package_url": "https://pypi.org/project/musically/"
+}

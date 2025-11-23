@@ -1,0 +1,11 @@
+{
+  "name": "awive",
+  "version": "3.3.2",
+  "summary": "Adaptive Water Image Velocimetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awive-3.3.2.tar.gz",
+  "download_time": "2025-11-23T04:22:17.853116",
+  "package_url": "https://pypi.org/project/awive/"
+}

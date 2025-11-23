@@ -1,11 +1,11 @@
 {
   "name": "cdktf-cdktf-provider-gitlab",
-  "version": "15.6.0",
+  "version": "15.6.1",
   "summary": "Prebuilt gitlab Provider for Terraform CDK (cdktf)",
   "author": "HashiCorp",
   "license": "MPL-2.0",
   "home_page": "https://github.com/cdktf/cdktf-provider-gitlab.git",
-  "download_filename": "cdktf_cdktf_provider_gitlab-15.6.0.tar.gz",
-  "download_time": "2025-11-21T04:27:37.607211",
+  "download_filename": "cdktf_cdktf_provider_gitlab-15.6.1.tar.gz",
+  "download_time": "2025-11-23T04:22:13.679955",
   "package_url": "https://pypi.org/project/cdktf-cdktf-provider-gitlab/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "FEAST-py",
-  "version": "0.1.7",
+  "version": "1.0.1",
   "summary": "Spatial Transcriptomics Simulator",
   "author": "Yiru CHEN",
   "license": "MIT",
   "home_page": "https://github.com/maiziezhoulab/FEAST-sim",
-  "download_filename": "feast_py-0.1.7.tar.gz",
-  "download_time": "2025-11-20T08:31:34.718597",
+  "download_filename": "feast_py-1.0.1.tar.gz",
+  "download_time": "2025-11-23T04:22:32.319383",
   "package_url": "https://pypi.org/project/FEAST-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dxel",
+  "version": "0.1.0b2",
+  "summary": "An AI-powered data analysis agent for intelligent data insights and visualization",
+  "author": "Prashant Gavit",
+  "license": null,
+  "home_page": "https://github.com/prashantgavit/dxel",
+  "download_filename": "dxel-0.1.0b2.tar.gz",
+  "download_time": "2025-11-23T04:22:30.243562",
+  "package_url": "https://pypi.org/project/dxel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kodi-nfo-generator",
+  "version": "0.0.18",
+  "summary": "Simple Python-based command-line tool to generate .nfo files for movies and TV shows for Kodi.",
+  "author": "Peter \"fracpete\" Reutemann",
+  "license": "GNU General Public License version 3.0 (GPLv3)",
+  "home_page": "https://github.com/fracpete/kodi-nfo-generator",
+  "download_filename": "kodi_nfo_generator-0.0.18.tar.gz",
+  "download_time": "2025-11-23T04:22:16.826513",
+  "package_url": "https://pypi.org/project/kodi-nfo-generator/"
+}
