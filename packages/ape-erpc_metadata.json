@@ -1,0 +1,11 @@
+{
+  "name": "ape-erpc",
+  "version": "0.8.0",
+  "summary": "ape-erpc: Ape plugin for https://erpc.cloud",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/ape-erpc",
+  "download_filename": "ape_erpc-0.8.0.tar.gz",
+  "download_time": "2025-11-23T21:54:27.354233",
+  "package_url": "https://pypi.org/project/ape-erpc/"
+}

@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T21:41:53.153383
-- **Total Packages**: 81
-- **Total Size**: 32.86 MB
+- **Download Time**: 2025-11-23T21:55:11.737155
+- **Total Packages**: 78
+- **Total Size**: 17.95 MB
 
 ## Packages List
+- axioms-core-py
+- mcp-memory-service
+- biblemategui
+- anypytools
+- commonlog
+- ape-erpc
+- nexalware-decorator
+- aimodelshare
+- reactxpy
+- mytextgrid
+- dojo-sdk-client
+- d4rktg
+- queuerPy
+- smartkdb
+- gpjax
+- ifstate
 - termuxpackagearchiver
 - bandit
 - ididi
@@ -13,15 +29,12 @@
 - bloodline
 - appkit-user
 - appkit-ui
-- axioms-core-py
 - appkit-mantine
 - appkit-imagecreator
 - appkit-commons
 - appkit-assistant
 - syncline-mcp-server
 - cardisk
-- d4rktg
-- reactxpy
 - multi-ai-handler
 - pinviz
 - remdb
@@ -37,7 +50,6 @@
 - darts
 - u8darts
 - physics-utils
-- nexalware-decorator
 - spectuel-engine-events
 - maleo-mcu
 - jupyterlab-todo-list
@@ -59,7 +71,6 @@
 - jetio
 - synthetic-payroll-lab
 - pyagentic-core
-- queuerPy
 - p1-influx-db
 - applyx
 - hel-elmuro
@@ -73,17 +84,3 @@
 - tira
 - coolprompt
 - tencentcloud-sdk-python-waf
-- tencentcloud-sdk-python-vod
-- tencentcloud-sdk-python-vm
-- tencentcloud-sdk-python-vcube
-- methurator
-- tencentcloud-sdk-python-thpc
-- tencentcloud-sdk-python-privatedns
-- tencentcloud-sdk-python-mps
-- bedrock-server-manager
-- tencentcloud-sdk-python-lke
-- tencentcloud-sdk-python-iai
-- twevals
-- tencentcloud-sdk-python-ess
-- stac-fastapi-api
-- stac-fastapi-extensions
