@@ -1,0 +1,11 @@
+{
+  "name": "Emaily",
+  "version": "1.0.0",
+  "summary": "A flexible HTML email notification library for SMTP servers",
+  "author": "Ahmed Osama",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/Emaily",
+  "download_filename": "emaily-1.0.0.tar.gz",
+  "download_time": "2025-11-23T09:53:49.025784",
+  "package_url": "https://pypi.org/project/Emaily/"
+}

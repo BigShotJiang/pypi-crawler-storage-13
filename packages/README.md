@@ -1,36 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T09:42:52.977018
+- **Download Time**: 2025-11-23T09:54:32.574967
 - **Total Packages**: 83
-- **Total Size**: 9.19 MB
+- **Total Size**: 11.17 MB
 
 ## Packages List
+- Emaily
+- untext
+- python-notion-plus
+- fastapi-nacos
+- unionllm
+- aio-service-caller
+- mangala-bulan
+- python-simple-email-sender
+- email-sender-lib
+- cognautic-cli
+- python-vault
+- heavykeeper
+- py-wlcommands
+- withoutbg
+- tfp-nightly
+- ddi-fw
+- fraq-nettrade-abstractions
+- learnMCP-huangshuai
+- e6data-python-connector
+- shadowlib
+- dbt-autodoc
+- peakrdl-euvm
+- kreuzberg
+- pykimix
+- wmain
+- rusted-graphs-python
+- openagents
+- bridgelink
+- powa-web
+- medusa-security
+- krn-harmony-adapter
+- lean-dojo-v2
+- oxgram
+- stkan
+- kraken-decompressor
+- goedels-poetry
+- paytm-api
+- colcon-cargo-ros2
+- moco-python
+- pixelcraft
 - python-jira-plus
 - talentsavvy-improveteam
 - agentic-aish
-- paytm-api
 - extendedstim
 - deme
 - python-gitlab-plus
-- dbt-autodoc
 - crossvector
 - instaharvest
-- krn-harmony-adapter
 - gopro-sdk-py
-- mangala-bulan
 - sjfirebase
 - python-github-plus
 - mail-pigeon
 - descope-pulumi
 - vdweb
 - finmind
-- pixelcraft
 - janim
 - python-databases
 - nvfuser-cu130
 - sqlthought
-- ddi-fw
 - python-base-toolkit
 - RiboMetric
 - WinToastCreator
@@ -39,7 +73,6 @@
 - pytest-plugins
 - HOS-M2F
 - autogluon
-- bridgelink
 - autogluon.timeseries
 - autogluon.multimodal
 - autogluon.tabular
@@ -56,36 +89,3 @@
 - humancheck-core
 - pytest-dynamic-parameterize
 - socket-cyg
-- scrap-imdb
-- anp
-- wiliot-tools
-- easyrunner-cli
-- pydrime
-- headson
-- sjfirebaseai
-- wiliot-testers
-- langevin
-- fastrep
-- gaurav-insurance-utils
-- eclips-blossom-ai
-- quazydb
-- fraiseql
-- vllm-rs
-- aiomoto
-- pyrest-model-client
-- datarobot-genai
-- rangebar
-- PhyloSDE
-- ai4ce-helpers
-- py-wlcommands
-- pimpmyplot
-- daffy
-- scientiflow-cli
-- lhpapi
-- csoundengine
-- chemgraphbuilder
-- cognitiveai-sdk
-- stata-mcp
-- FastSketchLSH
-- featrixsphere
-- Devious-WinRM

@@ -1,11 +1,11 @@
 {
   "name": "rusted-graphs-python",
-  "version": "0.0.0.4",
+  "version": "0.0.0.5",
   "summary": "A lightweight, fast and encrypted graph database",
   "author": null,
   "license": "CC-BY-SA-4.0",
   "home_page": "http://janya.joshi-rj.in/rusted-graphs",
-  "download_filename": "rusted_graphs_python-0.0.0.4.tar.gz",
-  "download_time": "2025-11-23T04:22:27.146179",
+  "download_filename": "rusted_graphs_python-0.0.0.5.tar.gz",
+  "download_time": "2025-11-23T09:54:02.335989",
   "package_url": "https://pypi.org/project/rusted-graphs-python/"
 }

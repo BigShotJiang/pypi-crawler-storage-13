@@ -1,11 +1,11 @@
 {
   "name": "e6data-python-connector",
-  "version": "2.3.11",
+  "version": "2.3.12",
   "summary": "Client for the e6data distributed SQL Engine.",
   "author": "e6data, Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/e6x-labs/e6data-python-connector",
-  "download_filename": "e6data_python_connector-2.3.11.tar.gz",
-  "download_time": "2025-11-18T06:33:09.970460",
+  "download_filename": "e6data_python_connector-2.3.12.tar.gz",
+  "download_time": "2025-11-23T09:53:58.692664",
   "package_url": "https://pypi.org/project/e6data-python-connector/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "openagents",
-  "version": "0.6.13",
+  "version": "0.6.14",
   "summary": "A flexible framework for building multi-agent systems with customizable protocols",
   "author": "OpenAgents Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/bestagents/openagents",
-  "download_filename": "openagents-0.6.13.tar.gz",
-  "download_time": "2025-11-22T06:32:00.774437",
+  "download_filename": "openagents-0.6.14.tar.gz",
+  "download_time": "2025-11-23T09:54:02.847187",
   "package_url": "https://pypi.org/project/openagents/"
 }

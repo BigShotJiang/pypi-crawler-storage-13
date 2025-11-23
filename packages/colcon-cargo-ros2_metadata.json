@@ -1,11 +1,11 @@
 {
   "name": "colcon-cargo-ros2",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Extension for colcon to build Rust ROS 2 packages with automatic binding generation and ament installation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "colcon_cargo_ros2-0.3.2.tar.gz",
-  "download_time": "2025-11-18T03:04:48.234082",
+  "download_filename": "colcon_cargo_ros2-0.3.3.tar.gz",
+  "download_time": "2025-11-23T09:54:08.592536",
   "package_url": "https://pypi.org/project/colcon-cargo-ros2/"
 }
