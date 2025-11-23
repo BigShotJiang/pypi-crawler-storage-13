@@ -1,0 +1,11 @@
+{
+  "name": "NeuralNetworks",
+  "version": "0.1.2",
+  "summary": "Multi-Layer Perceptrons with Fourier encoding, visualization and PyTorch compilation",
+  "author": "Alexandre Brun",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/xXxFetraxXx/NeuralNetworks",
+  "download_filename": "neuralnetworks-0.1.2.tar.gz",
+  "download_time": "2025-11-23T20:44:44.964243",
+  "package_url": "https://pypi.org/project/NeuralNetworks/"
+}

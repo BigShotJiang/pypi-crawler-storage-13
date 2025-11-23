@@ -1,16 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T20:26:31.547114
-- **Total Packages**: 72
-- **Total Size**: 41.32 MB
+- **Download Time**: 2025-11-23T20:45:02.598566
+- **Total Packages**: 59
+- **Total Size**: 18.01 MB
 
 ## Packages List
+- GameSentenceMiner
+- maleo-mcu
+- odoo-addon-helpdesk-mgmt-activity
+- agentsflow
+- babicli
+- extended-data-types
+- pyagentic-core
+- reactxpy
+- tliner
+- SciMagnet
+- endstone-inventoryui
+- vector-quantize-pytorch
+- ask-video
+- smartmemory
+- jm-networking
+- aiotgbot
+- edge-sdk
+- jusflaudio
+- reframodel
+- edgartools-async
+- jetio
+- python-pirateweather
+- essentials
+- pianosdk
+- gene-guard
+- NeuralNetworks
+- simba-uw-tf-dev
+- devpath
+- pyhelper-jkluess
+- inception-audittrail-logger
+- recallbricks-langchain
+- foss-flame
+- groundx
+- civix
+- flet-charts
+- wistx-mcp
+- gns3-mcp
+- PlannerAgent
+- YokAPI
+- ididi
 - lmapp
 - depup
 - auth
 - meson
-- babicli
 - easyborg
 - tensorial
 - perpetual-context
@@ -20,61 +59,9 @@
 - GeneralManager
 - pypolar
 - sensei-mcp
-- vector-quantize-pytorch
-- ask-video
 - toapigdc
 - gulper
 - bitschema
 - twevals
-- agentsflow
 - jaxonmodels
 - shellforgepy
-- pydrime
-- frank-tools
-- pyetalon
-- pygiskit
-- jaxonlayers
-- vogel-video-analyzer
-- panopticon-monitoring
-- livekit-plugins-piper-tts
-- pyagentic-core
-- testingpkgja
-- mactoast
-- epics-sumo
-- PyPNM
-- recallbricks
-- based-utils
-- QuickEcharts
-- remdb
-- polylith-cli
-- pdm-polylith-workspace
-- pdm-polylith-bricks
-- tensorpool
-- neural-optimiser
-- pyfrontkit
-- gambit-sdk
-- xarpes
-- edfh-data
-- GameSentenceMiner
-- IM-COOL-BOOY-FF
-- tacotoolbox
-- agent-launcher
-- GrnGame
-- abi-core-ai
-- finalsa-common-http-client
-- antsibull-docs
-- envvm
-- loce-zap
-- sigil-pipeline
-- pyqint
-- tonutils
-- robusta-api
-- bullishpy
-- aimodelshare
-- autohive-integrations-sdk
-- fastlifeweb
-- avrae-ls
-- wistx-mcp
-- smartroute
-- opsgenielib
-- aframexr

@@ -1,11 +1,11 @@
 {
   "name": "pyhelper-jkluess",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A collection of Python data structures for educational purposes",
   "author": "Jannis Kluess",
   "license": null,
   "home_page": "https://github.com/Djey8/PyHelper.git",
-  "download_filename": "pyhelper_jkluess-0.2.1.tar.gz",
-  "download_time": "2025-11-23T17:22:02.757754",
+  "download_filename": "pyhelper_jkluess-0.2.2.tar.gz",
+  "download_time": "2025-11-23T20:44:46.557901",
   "package_url": "https://pypi.org/project/pyhelper-jkluess/"
 }

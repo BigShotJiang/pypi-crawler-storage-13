@@ -1,11 +1,11 @@
 {
   "name": "extended-data-types",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "summary": "Extended functionality for data types",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "extended_data_types-5.1.0.tar.gz",
-  "download_time": "2025-11-23T05:44:24.527483",
+  "download_filename": "extended_data_types-5.1.1.tar.gz",
+  "download_time": "2025-11-23T20:44:34.099381",
   "package_url": "https://pypi.org/project/extended-data-types/"
 }
