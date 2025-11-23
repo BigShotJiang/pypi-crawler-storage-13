@@ -1,0 +1,11 @@
+{
+  "name": "bitz",
+  "version": "1.0.0",
+  "summary": "Which bits are set? A colorized bit visualization CLI tool for exploring binary values, bitwise operations, and register fields.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bitz-1.0.0.tar.gz",
+  "download_time": "2025-11-23T22:44:33.427865",
+  "package_url": "https://pypi.org/project/bitz/"
+}

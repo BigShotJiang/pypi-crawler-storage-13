@@ -1,11 +1,11 @@
 {
   "name": "msfabric-devops",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Python package to interact with Microsoft Fabric items.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "msfabric_devops-0.1.2.tar.gz",
-  "download_time": "2025-11-22T21:54:43.306919",
+  "download_filename": "msfabric_devops-0.1.5.tar.gz",
+  "download_time": "2025-11-23T22:44:37.346058",
   "package_url": "https://pypi.org/project/msfabric-devops/"
 }

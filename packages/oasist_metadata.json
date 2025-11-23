@@ -1,0 +1,11 @@
+{
+  "name": "oasist",
+  "version": "1.2.1",
+  "summary": "OASist Client Generator: generate Python clients from OpenAPI schemas with auto-formatting, custom headers and environment variables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oasist-1.2.1.tar.gz",
+  "download_time": "2025-11-23T22:45:05.389202",
+  "package_url": "https://pypi.org/project/oasist/"
+}

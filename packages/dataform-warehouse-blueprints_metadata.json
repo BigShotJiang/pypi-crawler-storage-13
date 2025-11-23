@@ -1,0 +1,11 @@
+{
+  "name": "dataform-warehouse-blueprints",
+  "version": "0.1.0",
+  "summary": "Production-ready Dataform SQLX templates for data warehouse patterns",
+  "author": "Bhavya Gada",
+  "license": "MIT",
+  "home_page": "https://github.com/bhavyagada/dataform-warehouse-blueprints",
+  "download_filename": "dataform_warehouse_blueprints-0.1.0.tar.gz",
+  "download_time": "2025-11-23T22:45:01.025968",
+  "package_url": "https://pypi.org/project/dataform-warehouse-blueprints/"
+}

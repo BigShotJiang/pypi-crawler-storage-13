@@ -1,11 +1,11 @@
 {
   "name": "pyapiq",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "PyAPIq is a modern Python toolkit for building both synchronous and asynchronous API clients with clean, minimal code and full type safety.",
   "author": "nessshon",
   "license": "MIT",
   "home_page": "https://github.com/nessshon/pyapiq",
-  "download_filename": "pyapiq-0.1.9.tar.gz",
-  "download_time": "2025-11-22T20:24:31.666174",
+  "download_filename": "pyapiq-0.2.1.tar.gz",
+  "download_time": "2025-11-23T22:45:10.773226",
   "package_url": "https://pypi.org/project/pyapiq/"
 }

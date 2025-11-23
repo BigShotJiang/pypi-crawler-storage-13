@@ -1,0 +1,11 @@
+{
+  "name": "incomfort-client",
+  "version": "0.6.10",
+  "summary": "An aiohttp-based client for Intergas InComfort/InTouch Lan2RF systems.",
+  "author": "Jan Bouwhuis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "incomfort_client-0.6.10.tar.gz",
+  "download_time": "2025-11-23T22:45:00.381070",
+  "package_url": "https://pypi.org/project/incomfort-client/"
+}

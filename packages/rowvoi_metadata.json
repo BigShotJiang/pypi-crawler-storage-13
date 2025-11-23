@@ -1,0 +1,11 @@
+{
+  "name": "rowvoi",
+  "version": "0.1.0",
+  "summary": "Interactive disambiguation of rows in a dataset using value-of-information policies",
+  "author": "Gaurav Sood",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rowvoi-0.1.0.tar.gz",
+  "download_time": "2025-11-23T22:44:53.741633",
+  "package_url": "https://pypi.org/project/rowvoi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pypolar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Routines for analysis of polarization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypolar-1.0.0.tar.gz",
-  "download_time": "2025-11-23T20:25:58.922250",
+  "download_filename": "pypolar-1.0.1.tar.gz",
+  "download_time": "2025-11-23T22:44:51.045120",
   "package_url": "https://pypi.org/project/pypolar/"
 }

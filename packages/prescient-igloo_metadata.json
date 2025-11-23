@@ -1,11 +1,11 @@
 {
   "name": "prescient-igloo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Tokenizing Loops of Antibodies (arXiv:2509.08707)",
   "author": "Prescient Design",
   "license": null,
   "home_page": null,
-  "download_filename": "prescient_igloo-0.1.0.tar.gz",
-  "download_time": "2025-11-23T19:54:16.253839",
+  "download_filename": "prescient_igloo-0.1.1.tar.gz",
+  "download_time": "2025-11-23T22:45:16.530398",
   "package_url": "https://pypi.org/project/prescient-igloo/"
 }

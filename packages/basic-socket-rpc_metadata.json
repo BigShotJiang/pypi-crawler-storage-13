@@ -1,11 +1,11 @@
 {
   "name": "basic-socket-rpc",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Basic binary socket based rpc for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "basic_socket_rpc-0.3.0.tar.gz",
-  "download_time": "2025-11-23T16:28:01.447547",
+  "download_filename": "basic_socket_rpc-0.4.0.tar.gz",
+  "download_time": "2025-11-23T22:44:53.096231",
   "package_url": "https://pypi.org/project/basic-socket-rpc/"
 }
