@@ -1,0 +1,11 @@
+{
+  "name": "PyGorse",
+  "version": "0.5.0",
+  "summary": "Python SDK for gorse recommender system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygorse-0.5.0.tar.gz",
+  "download_time": "2025-11-23T10:22:47.088130",
+  "package_url": "https://pypi.org/project/PyGorse/"
+}

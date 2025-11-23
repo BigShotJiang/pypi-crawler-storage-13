@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-23T09:54:32.574967
-- **Total Packages**: 83
-- **Total Size**: 11.17 MB
+- **Download Time**: 2025-11-23T10:23:25.834336
+- **Total Packages**: 77
+- **Total Size**: 12.68 MB
 
 ## Packages List
+- aspyx
+- zetsubou-sdk
+- genie-flow-invoker
+- cryptexx
+- laddr
+- xpander-sdk
+- code-loader
+- fastdfe
+- PyGorse
+- aiinbx
+- krn-harmony-adapter
+- featheros
+- supplychainlib
+- solarsynth
+- sgoschoolapi
+- ckb-textify
+- ai-edge-torch-nightly
+- simpleterraform
+- port-ocean
+- dbt-autodoc
+- lll-simple-ai-shared
+- odoo-addon-project-task-sign-oca
+- wiselib
+- py-wlcommands
+- cucumber-compatibility-kit
+- make-argocd-fly
+- policyengine-us
+- odoo-addon-stock-barcodes
+- optimum-rbln
+- tidychef
+- usmo
+- adiumentum
+- instaharvest
+- robyn-config
+- aframexr
+- torchax
+- mgraph-ai-service-cache-client
+- ddi-fw
+- brother
+- ms-swift
+- sensei-mcp
+- bouquin
 - Emaily
 - untext
 - python-notion-plus
@@ -18,15 +60,12 @@
 - cognautic-cli
 - python-vault
 - heavykeeper
-- py-wlcommands
 - withoutbg
 - tfp-nightly
-- ddi-fw
 - fraq-nettrade-abstractions
 - learnMCP-huangshuai
 - e6data-python-connector
 - shadowlib
-- dbt-autodoc
 - peakrdl-euvm
 - kreuzberg
 - pykimix
@@ -36,7 +75,6 @@
 - bridgelink
 - powa-web
 - medusa-security
-- krn-harmony-adapter
 - lean-dojo-v2
 - oxgram
 - stkan
@@ -45,47 +83,3 @@
 - paytm-api
 - colcon-cargo-ros2
 - moco-python
-- pixelcraft
-- python-jira-plus
-- talentsavvy-improveteam
-- agentic-aish
-- extendedstim
-- deme
-- python-gitlab-plus
-- crossvector
-- instaharvest
-- gopro-sdk-py
-- sjfirebase
-- python-github-plus
-- mail-pigeon
-- descope-pulumi
-- vdweb
-- finmind
-- janim
-- python-databases
-- nvfuser-cu130
-- sqlthought
-- python-base-toolkit
-- RiboMetric
-- WinToastCreator
-- qdesc
-- legit-api-client
-- pytest-plugins
-- HOS-M2F
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- py-encase
-- sjgeminifvai
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- apikeyrotator
-- pnotp
-- beancode
-- socketless-http
-- typrx
-- humancheck-core
-- pytest-dynamic-parameterize
-- socket-cyg
