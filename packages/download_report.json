@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-11-24T19:38:04.019894",
+  "download_time": "2025-11-24T20:29:14.033596",
   "total_packages_downloaded": 87,
-  "total_size_mb": 33.0,
+  "total_size_mb": 6.2,
   "packages": [
+    "yek",
     "gammarers.aws-waf-ip-rate-limit-rule",
     "ewoksjob",
     "durabletask.azuremanaged",
@@ -88,7 +89,6 @@
     "pyxui-async",
     "fastapi-easylimiter",
     "simplecode-mcp",
-    "pacer-tools",
-    "ismr-downloader"
+    "pacer-tools"
   ]
 }
