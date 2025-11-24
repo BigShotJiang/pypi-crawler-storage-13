@@ -1,0 +1,11 @@
+{
+  "name": "dsf-quantum-kernel",
+  "version": "1.0.0",
+  "summary": "Lightweight SDK for DSF quantum computing with IBM Quantum support",
+  "author": "Jaime Alexander Jimenez",
+  "license": null,
+  "home_page": "https://github.com/jaimeajl/dsf-quantum-kernel",
+  "download_filename": "dsf_quantum_kernel-1.0.0.tar.gz",
+  "download_time": "2025-11-24T17:46:34.800529",
+  "package_url": "https://pypi.org/project/dsf-quantum-kernel/"
+}

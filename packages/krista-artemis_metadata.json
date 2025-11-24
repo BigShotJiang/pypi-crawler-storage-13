@@ -1,0 +1,11 @@
+{
+  "name": "krista-artemis",
+  "version": "1.0.0",
+  "summary": "Artemis python package with queue integration",
+  "author": "Vijay Bhatt",
+  "license": null,
+  "home_page": "https://bitbucket.org/vijay_23051989/krista-infra-python/src/release-1.0/krista_artemis/",
+  "download_filename": "krista_artemis-1.0.0.tar.gz",
+  "download_time": "2025-11-24T17:46:38.464810",
+  "package_url": "https://pypi.org/project/krista-artemis/"
+}

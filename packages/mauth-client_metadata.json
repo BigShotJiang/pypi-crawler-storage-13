@@ -1,0 +1,11 @@
+{
+  "name": "mauth-client",
+  "version": "1.7.0",
+  "summary": "MAuth Client for Python",
+  "author": "Medidata Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/mdsol/mauth-client-python",
+  "download_filename": "mauth_client-1.7.0.tar.gz",
+  "download_time": "2025-11-24T17:46:42.702344",
+  "package_url": "https://pypi.org/project/mauth-client/"
+}

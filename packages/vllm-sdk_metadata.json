@@ -1,0 +1,11 @@
+{
+  "name": "vllm-sdk",
+  "version": "0.1.2",
+  "summary": "Minimal Python SDK for the vLLM API",
+  "author": "vLLM Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vllm_sdk-0.1.2.tar.gz",
+  "download_time": "2025-11-24T17:46:24.253438",
+  "package_url": "https://pypi.org/project/vllm-sdk/"
+}
