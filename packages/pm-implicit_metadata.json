@@ -1,0 +1,11 @@
+{
+  "name": "pm-implicit",
+  "version": "0.7.3rc1",
+  "summary": "Collaborative Filtering for Implicit Feedback Datasets",
+  "author": "Ben Frederickson",
+  "license": "MIT",
+  "home_page": "http://github.com/chezou/pm-implicit/",
+  "download_filename": "pm_implicit-0.7.3rc1.tar.gz",
+  "download_time": "2025-11-24T07:29:17.447844",
+  "package_url": "https://pypi.org/project/pm-implicit/"
+}

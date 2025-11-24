@@ -1,0 +1,11 @@
+{
+  "name": "tiramisu-framework",
+  "version": "2.0.0",
+  "summary": "Multi-expert RAG framework for domain-specific consultancy",
+  "author": "Jony Wolff",
+  "license": null,
+  "home_page": "https://github.com/tiramisu-framework/tiramisu-framework",
+  "download_filename": "tiramisu_framework-2.0.0.tar.gz",
+  "download_time": "2025-11-24T07:29:45.835479",
+  "package_url": "https://pypi.org/project/tiramisu-framework/"
+}

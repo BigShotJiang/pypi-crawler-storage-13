@@ -1,0 +1,11 @@
+{
+  "name": "crosscompute-macros",
+  "version": "0.1.0",
+  "summary": "Reusable classes and functions needed by crosscompute packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crosscompute_macros-0.1.0.tar.gz",
+  "download_time": "2025-11-24T07:29:17.966417",
+  "package_url": "https://pypi.org/project/crosscompute-macros/"
+}

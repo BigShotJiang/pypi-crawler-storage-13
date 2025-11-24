@@ -1,0 +1,11 @@
+{
+  "name": "ntrs-nebula",
+  "version": "1.0.0",
+  "summary": "NTRS: Zero-Point Optical Encryption Protocol",
+  "author": "CHETHANA ABEYSINGHE",
+  "license": null,
+  "home_page": "https://github.com/kcvabeysinghe/ntrs-nebula",
+  "download_filename": "ntrs_nebula-1.0.0.tar.gz",
+  "download_time": "2025-11-24T07:29:30.151068",
+  "package_url": "https://pypi.org/project/ntrs-nebula/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_BigGo-MCP-Server",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol (MCP) server that provides product search, price history tracking, and specification search capabilities.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_biggo_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-11-24T07:29:48.990620",
+  "package_url": "https://pypi.org/project/iflow-mcp_BigGo-MCP-Server/"
+}

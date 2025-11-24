@@ -1,0 +1,11 @@
+{
+  "name": "discord-clyde",
+  "version": "0.4.0",
+  "summary": "A modern, type-hinted Python library for seamless interaction with the Discord Webhook API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_clyde-0.4.0.tar.gz",
+  "download_time": "2025-11-24T07:29:48.464137",
+  "package_url": "https://pypi.org/project/discord-clyde/"
+}
