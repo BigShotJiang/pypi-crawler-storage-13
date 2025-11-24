@@ -1,0 +1,11 @@
+{
+  "name": "documentation-robotics",
+  "version": "0.3.0",
+  "summary": "CLI tool for managing federated architecture metadata models",
+  "author": "Documentation Robotics Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "documentation_robotics-0.3.0.tar.gz",
+  "download_time": "2025-11-24T17:57:51.356315",
+  "package_url": "https://pypi.org/project/documentation-robotics/"
+}

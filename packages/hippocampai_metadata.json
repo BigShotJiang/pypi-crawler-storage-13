@@ -1,11 +1,11 @@
 {
   "name": "hippocampai",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "HippocampAI — autonomous long-term memory engine with hybrid retrieval and cross-encoder reranking",
   "author": "HippocampAI Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "hippocampai-0.3.0.tar.gz",
-  "download_time": "2025-11-24T17:46:34.280323",
+  "download_filename": "hippocampai-0.3.1-py3-none-any.whl",
+  "download_time": "2025-11-24T17:57:58.163968",
   "package_url": "https://pypi.org/project/hippocampai/"
 }
