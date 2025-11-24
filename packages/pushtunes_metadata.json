@@ -1,11 +1,11 @@
 {
   "name": "pushtunes",
-  "version": "1.5.0",
+  "version": "2.5.0",
   "summary": "Push music (albums, tracks, playlists) from Subsonic, Jellyfin or plain CSV files to Spotify and YouTube Music",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pushtunes-1.5.0.tar.gz",
-  "download_time": "2025-11-18T14:46:20.357760",
+  "download_filename": "pushtunes-2.5.0.tar.gz",
+  "download_time": "2025-11-24T19:01:24.707564",
   "package_url": "https://pypi.org/project/pushtunes/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4-pt100x",
+  "version": "0.2.1",
+  "summary": "CraftBeerPi4 PT100/PT1000 Sensor Plugin",
+  "author": "Alexander Vollkopf",
+  "license": null,
+  "home_page": "https://github.com/PiBrewing/cbpi4-pt100x",
+  "download_filename": "cbpi4_pt100x-0.2.1.tar.gz",
+  "download_time": "2025-11-24T19:01:11.219518",
+  "package_url": "https://pypi.org/project/cbpi4-pt100x/"
+}

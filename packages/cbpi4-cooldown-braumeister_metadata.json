@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4-cooldown-braumeister",
+  "version": "0.0.3",
+  "summary": "CraftBeerPi4 Plugin",
+  "author": "Alexander Vollkopf",
+  "license": null,
+  "home_page": "https://github.com/PiBrewing/cbpi4-cooldown-braumeister",
+  "download_filename": "cbpi4_cooldown_braumeister-0.0.3.tar.gz",
+  "download_time": "2025-11-24T19:01:00.649322",
+  "package_url": "https://pypi.org/project/cbpi4-cooldown-braumeister/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rst-package-refs",
+  "version": "0.2.0",
+  "summary": "reStrucuturedText's custom roles and role builder kit for package registries of any languages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rst_package_refs-0.2.0.tar.gz",
+  "download_time": "2025-11-24T19:00:30.537713",
+  "package_url": "https://pypi.org/project/rst-package-refs/"
+}

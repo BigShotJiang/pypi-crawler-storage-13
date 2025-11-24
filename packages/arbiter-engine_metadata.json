@@ -1,11 +1,11 @@
 {
   "name": "arbiter-engine",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Arbiter — The coherence engine.",
   "author": "Joel Trout II",
   "license": null,
   "home_page": null,
-  "download_filename": "arbiter_engine-0.2.0.tar.gz",
-  "download_time": "2025-11-24T17:46:31.130359",
+  "download_filename": "arbiter_engine-0.2.2.tar.gz",
+  "download_time": "2025-11-24T19:00:55.650122",
   "package_url": "https://pypi.org/project/arbiter-engine/"
 }

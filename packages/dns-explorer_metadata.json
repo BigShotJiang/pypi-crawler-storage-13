@@ -1,0 +1,11 @@
+{
+  "name": "dns-explorer",
+  "version": "1.0.4",
+  "summary": "Python package for dns exploration",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/dns_explorer",
+  "download_filename": "dns_explorer-1.0.4.tar.gz",
+  "download_time": "2025-11-24T19:01:09.934227",
+  "package_url": "https://pypi.org/project/dns-explorer/"
+}

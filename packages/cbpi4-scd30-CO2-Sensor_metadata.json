@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4-scd30-CO2-Sensor",
+  "version": "0.1.1",
+  "summary": "CraftBeerPi4 Plugin for SCD30 based CO2 Sensor",
+  "author": "Alexander Vollkopf",
+  "license": "GPLv3",
+  "home_page": "https://github.com/PiBrewing/cbpi4-scd30-co2-sensor",
+  "download_filename": "cbpi4_scd30_co2_sensor-0.1.1.tar.gz",
+  "download_time": "2025-11-24T19:01:14.891996",
+  "package_url": "https://pypi.org/project/cbpi4-scd30-CO2-Sensor/"
+}
