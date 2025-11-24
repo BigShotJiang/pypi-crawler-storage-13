@@ -1,0 +1,11 @@
+{
+  "name": "PyDecisionGraph",
+  "version": "0.2.0",
+  "summary": "A rule-based decision tree implementation for Python",
+  "author": "Han Bolun",
+  "license": "MIT",
+  "home_page": "https://github.com/BolunHan/PyDecisionGraph",
+  "download_filename": "pydecisiongraph-0.2.0.tar.gz",
+  "download_time": "2025-11-24T04:49:50.212992",
+  "package_url": "https://pypi.org/project/PyDecisionGraph/"
+}

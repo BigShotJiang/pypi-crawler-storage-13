@@ -1,0 +1,11 @@
+{
+  "name": "stackvar",
+  "version": "3.3.0",
+  "summary": "Dispatch function's parameters through the callstack omitting arguments on intermediary functions. (a.k.a.: stack variable)",
+  "author": "Joaquin Duo",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/joaduo/stackvar",
+  "download_filename": "stackvar-3.3.0.tar.gz",
+  "download_time": "2025-11-24T04:49:48.065211",
+  "package_url": "https://pypi.org/project/stackvar/"
+}

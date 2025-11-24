@@ -1,11 +1,11 @@
 {
   "name": "hack-test",
-  "version": "0.3",
+  "version": "0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hack_test-0.3.tar.gz",
-  "download_time": "2025-11-23T15:21:58.458144",
+  "download_filename": "hack_test-0.4.tar.gz",
+  "download_time": "2025-11-24T04:50:15.703085",
   "package_url": "https://pypi.org/project/hack-test/"
 }

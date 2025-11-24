@@ -1,11 +1,11 @@
 {
   "name": "arts",
-  "version": "2025.11.21.1",
+  "version": "2025.11.24",
   "summary": "本项目用于展示本人创作的各类内容，包括但不限于观点、视频、图片、游戏、软件、教程、个人经历等。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arts-2025.11.21.1.tar.gz",
-  "download_time": "2025-11-21T18:30:27.854004",
+  "download_filename": "arts-2025.11.24.tar.gz",
+  "download_time": "2025-11-24T04:49:53.061057",
   "package_url": "https://pypi.org/project/arts/"
 }

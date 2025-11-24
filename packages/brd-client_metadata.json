@@ -1,11 +1,11 @@
 {
   "name": "brd-client",
-  "version": "2025.11.2",
+  "version": "2025.11.3",
   "summary": null,
   "author": "Woojin Cho",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "brd_client-2025.11.2.tar.gz",
-  "download_time": "2025-11-24T04:11:46.626323",
+  "download_filename": "brd_client-2025.11.3.tar.gz",
+  "download_time": "2025-11-24T04:50:21.654606",
   "package_url": "https://pypi.org/project/brd-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "poxiaoai",
-  "version": "1.0.2",
-  "summary": "A tool library with activation protection",
+  "version": "0.0.6",
+  "summary": "破晓AI工具类",
   "author": "poxiaoai",
   "license": null,
   "home_page": null,
-  "download_filename": "poxiaoai-1.0.2.tar.gz",
-  "download_time": "2025-11-18T12:45:19.024604",
+  "download_filename": "poxiaoai-0.0.6.tar.gz",
+  "download_time": "2025-11-24T04:49:59.007336",
   "package_url": "https://pypi.org/project/poxiaoai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sigdep",
+  "version": "2025.11.9",
+  "summary": "Function Signature Dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigdep-2025.11.9.tar.gz",
+  "download_time": "2025-11-24T04:50:22.699112",
+  "package_url": "https://pypi.org/project/sigdep/"
+}

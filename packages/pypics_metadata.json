@@ -1,0 +1,11 @@
+{
+  "name": "pypics",
+  "version": "0.1.1",
+  "summary": "Biblioteca simples para filtros de imagem",
+  "author": "Maria Isabel Henke, Vitor Hugo Reis de Jesus",
+  "license": "MIT",
+  "home_page": "https://github.com/o-vitorhugo/pypics",
+  "download_filename": "pypics-0.1.1.tar.gz",
+  "download_time": "2025-11-24T04:50:03.619018",
+  "package_url": "https://pypi.org/project/pypics/"
+}

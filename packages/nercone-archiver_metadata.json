@@ -1,11 +1,11 @@
 {
   "name": "nercone-archiver",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A simple and easy-to-use CLI tool for manipulating compressed files",
   "author": "Nercone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nercone_archiver-0.1.1.tar.gz",
-  "download_time": "2025-11-24T04:11:41.913257",
+  "download_filename": "nercone_archiver-0.1.3.tar.gz",
+  "download_time": "2025-11-24T04:50:08.465830",
   "package_url": "https://pypi.org/project/nercone-archiver/"
 }

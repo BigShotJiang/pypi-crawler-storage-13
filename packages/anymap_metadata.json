@@ -1,11 +1,11 @@
 {
   "name": "anymap",
-  "version": "0.11.0",
+  "version": "0.11.2",
   "summary": "A Python package for creating interactive maps with anywidget and JavaScript mapping libraries",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "anymap-0.11.0.tar.gz",
-  "download_time": "2025-11-23T06:33:26.013595",
+  "download_filename": "anymap-0.11.2.tar.gz",
+  "download_time": "2025-11-24T04:49:59.550571",
   "package_url": "https://pypi.org/project/anymap/"
 }

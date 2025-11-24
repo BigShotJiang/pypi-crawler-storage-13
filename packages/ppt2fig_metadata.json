@@ -1,0 +1,11 @@
+{
+  "name": "ppt2fig",
+  "version": "1.0.3",
+  "summary": "一键将当前PPT的页面导出为PDF，并自动裁剪白边。",
+  "author": "Elliot Zheng",
+  "license": null,
+  "home_page": "https://github.com/elliottzheng/ppt2fig",
+  "download_filename": "ppt2fig-1.0.3-py3-none-any.whl",
+  "download_time": "2025-11-24T04:50:02.545488",
+  "package_url": "https://pypi.org/project/ppt2fig/"
+}

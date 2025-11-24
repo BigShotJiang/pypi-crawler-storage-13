@@ -1,0 +1,11 @@
+{
+  "name": "think-sql",
+  "version": "0.7.9",
+  "summary": "ThinkSQL link think-orm(ThinkPHP)",
+  "author": "hbh112233abc",
+  "license": "MIT",
+  "home_page": "https://github.com/hbh112233abc/think-sql",
+  "download_filename": "think_sql-0.7.9.tar.gz",
+  "download_time": "2025-11-24T04:50:21.112881",
+  "package_url": "https://pypi.org/project/think-sql/"
+}
