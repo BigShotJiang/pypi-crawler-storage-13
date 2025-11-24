@@ -1,11 +1,11 @@
 {
   "name": "coremail",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A comprehensive Python SDK for interacting with Coremail XT API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coremail-0.4.0.tar.gz",
-  "download_time": "2025-11-21T16:49:33.871562",
+  "download_filename": "coremail-0.4.1.tar.gz",
+  "download_time": "2025-11-24T01:53:14.274487",
   "package_url": "https://pypi.org/project/coremail/"
 }

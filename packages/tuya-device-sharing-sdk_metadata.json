@@ -1,0 +1,11 @@
+{
+  "name": "tuya-device-sharing-sdk",
+  "version": "0.2.6",
+  "summary": "A Python sdk for Tuya Open API, which provides IoT capabilities, maintained by Tuya official",
+  "author": "Tuya Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/tuya/tuya-device-sharing-sdk",
+  "download_filename": "tuya_device_sharing_sdk-0.2.6-py3-none-any.whl",
+  "download_time": "2025-11-24T01:53:15.936646",
+  "package_url": "https://pypi.org/project/tuya-device-sharing-sdk/"
+}
