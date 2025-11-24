@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_polymarket-mcp",
+  "version": "0.1.1",
+  "summary": "MCP Server for PolyMarket API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_polymarket_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-24T09:01:09.674505",
+  "package_url": "https://pypi.org/project/iflow-mcp_polymarket-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mrfifo",
+  "version": "0.8.23",
+  "summary": "Map-Reduce parallelism over FIFOs (named pipes)",
+  "author": "Marvin Jens",
+  "license": "MIT",
+  "home_page": "https://github.com/marvin-jens/mrfifo",
+  "download_filename": "mrfifo-0.8.23.tar.gz",
+  "download_time": "2025-11-24T09:01:40.691050",
+  "package_url": "https://pypi.org/project/mrfifo/"
+}

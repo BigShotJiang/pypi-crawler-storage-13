@@ -1,0 +1,11 @@
+{
+  "name": "skylinetl",
+  "version": "1.0.0",
+  "summary": "Fork of Telethon with autoreconnect",
+  "author": "Neploh Vgovne",
+  "license": "CCBYNCND V4",
+  "home_page": "https://github.com/skyaree/skylinetl-tl",
+  "download_filename": "skylinetl-1.0.0.tar.gz",
+  "download_time": "2025-11-24T09:01:32.081456",
+  "package_url": "https://pypi.org/project/skylinetl/"
+}

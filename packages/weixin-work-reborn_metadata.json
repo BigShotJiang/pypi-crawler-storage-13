@@ -1,0 +1,11 @@
+{
+  "name": "weixin-work-reborn",
+  "version": "0.2.0",
+  "summary": "A Python SDK for WeChat Work API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weixin_work_reborn-0.2.0.tar.gz",
+  "download_time": "2025-11-24T09:00:59.269125",
+  "package_url": "https://pypi.org/project/weixin-work-reborn/"
+}

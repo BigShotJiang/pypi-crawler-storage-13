@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-mail-model-tracking",
+  "version": "14.0.1.0.1.dev2",
+  "summary": "Track email opens per model using a toggle on ir.model.",
+  "author": "PT. Simetri Sinergi Indonesia",
+  "license": "LGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_mail_model_tracking-14.0.1.0.1.dev2-py3-none-any.whl",
+  "download_time": "2025-11-24T09:01:31.502381",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-mail-model-tracking/"
+}

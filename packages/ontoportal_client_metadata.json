@@ -1,11 +1,11 @@
 {
   "name": "ontoportal_client",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A client to BioPortal and other OntoPortal instances",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "ontoportal_client-0.0.5.tar.gz",
-  "download_time": "2025-11-21T23:22:36.791099",
+  "download_filename": "ontoportal_client-0.0.6.tar.gz",
+  "download_time": "2025-11-24T09:01:20.002297",
   "package_url": "https://pypi.org/project/ontoportal_client/"
 }

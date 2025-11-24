@@ -1,0 +1,11 @@
+{
+  "name": "xensegripper",
+  "version": "1.2.0",
+  "summary": "xense gripper SDK for everything supported",
+  "author": "Hongzhan Yu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xensegripper-1.2.0-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-11-24T09:00:56.727631",
+  "package_url": "https://pypi.org/project/xensegripper/"
+}

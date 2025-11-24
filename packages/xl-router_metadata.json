@@ -1,11 +1,11 @@
 {
   "name": "xl-router",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "summary": "xilong router library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xl_router-1.1.8.tar.gz",
-  "download_time": "2025-11-24T07:29:25.487696",
+  "download_filename": "xl_router-1.1.10.tar.gz",
+  "download_time": "2025-11-24T09:00:57.337285",
   "package_url": "https://pypi.org/project/xl-router/"
 }
