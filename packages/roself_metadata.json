@@ -1,0 +1,11 @@
+{
+  "name": "roself",
+  "version": "1.1.0",
+  "summary": "roself is a Python-based interactive ROS1/ROS2 Topic Browser that lets you explore, filter, drill down, and monitor topics in a command-line TUI (Text-based User Interface).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "roself-1.1.0.tar.gz",
+  "download_time": "2025-11-24T10:28:27.304750",
+  "package_url": "https://pypi.org/project/roself/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "evol-aiq",
-  "version": "1.0.0.post59",
+  "version": "1.0.1.post1",
   "summary": "Evolving AIQ base build",
   "author": "Evolving AIQ Team (PD,RK)",
   "license": null,
   "home_page": null,
-  "download_filename": "evol_aiq-1.0.0.post59.tar.gz",
-  "download_time": "2025-11-24T09:37:14.156958",
+  "download_filename": "evol_aiq-1.0.1.post1.tar.gz",
+  "download_time": "2025-11-24T10:28:08.925418",
   "package_url": "https://pypi.org/project/evol-aiq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "airo-spatial-algebra",
+  "version": "2025.11.0",
+  "summary": "Code for working with SE3 poses, transforms... for robotic manipulation at the Ghent University AI and Robotics Lab",
+  "author": "Thomas Lips",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airo_spatial_algebra-2025.11.0.tar.gz",
+  "download_time": "2025-11-24T10:28:05.552991",
+  "package_url": "https://pypi.org/project/airo-spatial-algebra/"
+}

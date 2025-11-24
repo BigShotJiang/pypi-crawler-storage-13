@@ -1,0 +1,11 @@
+{
+  "name": "rockface",
+  "version": "0.91.0",
+  "summary": "Python library for the Rockface API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rockface-0.91.0.tar.gz",
+  "download_time": "2025-11-24T10:28:13.998686",
+  "package_url": "https://pypi.org/project/rockface/"
+}

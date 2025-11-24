@@ -1,0 +1,11 @@
+{
+  "name": "opclabs-mqttnet",
+  "version": "5.83.477",
+  "summary": "MQTT communication package based on MQTTnet and MQTTnet.Extensions.ManagedClient libraries by Christian Kratky.",
+  "author": "CODE Consulting and Development, s.r.o.",
+  "license": null,
+  "home_page": "https://kb.opclabs.com/OpcLabs.MqttNet_communication_package?python",
+  "download_filename": "opclabs_mqttnet-5.83.477.tar.gz",
+  "download_time": "2025-11-24T10:28:32.622688",
+  "package_url": "https://pypi.org/project/opclabs-mqttnet/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "g7-jira-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "JIRA MCP for querying JIRA details and lists",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "g7_jira_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-24T09:56:37.132718",
+  "download_filename": "g7_jira_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-24T10:28:26.197931",
   "package_url": "https://pypi.org/project/g7-jira-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ecs-deplojo",
+  "version": "0.11.0",
+  "summary": "Deployment tool for Amazon ECS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecs_deplojo-0.11.0.tar.gz",
+  "download_time": "2025-11-24T10:28:42.751423",
+  "package_url": "https://pypi.org/project/ecs-deplojo/"
+}

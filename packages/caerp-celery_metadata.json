@@ -1,0 +1,11 @@
+{
+  "name": "caerp-celery",
+  "version": "2025.3.4",
+  "summary": "caerp_celery",
+  "author": "Coopérer Pour Entreprendre",
+  "license": "GPLv3",
+  "home_page": "https://framagit.org/caerp/caerp_celery",
+  "download_filename": "caerp_celery-2025.3.4.tar.gz",
+  "download_time": "2025-11-24T10:28:28.374012",
+  "package_url": "https://pypi.org/project/caerp-celery/"
+}

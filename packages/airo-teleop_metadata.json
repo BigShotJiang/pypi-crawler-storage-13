@@ -1,0 +1,11 @@
+{
+  "name": "airo-teleop",
+  "version": "2025.11.0",
+  "summary": "Teleoperation functionality for manually controlling manipulators and grippers using gaming controllers etc. at the Ghent University AI and Robotics Lab",
+  "author": "Thomas Lips",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airo_teleop-2025.11.0.tar.gz",
+  "download_time": "2025-11-24T10:28:05.010786",
+  "package_url": "https://pypi.org/project/airo-teleop/"
+}

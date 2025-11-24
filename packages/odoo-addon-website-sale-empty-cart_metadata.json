@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-sale-empty-cart",
+  "version": "17.0.1.0.0.2",
+  "summary": "Adds a button in the website cart to empty all",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/e-commerce",
+  "download_filename": "odoo_addon_website_sale_empty_cart-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-24T10:28:15.651012",
+  "package_url": "https://pypi.org/project/odoo-addon-website-sale-empty-cart/"
+}

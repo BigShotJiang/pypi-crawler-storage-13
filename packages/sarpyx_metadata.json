@@ -1,11 +1,11 @@
 {
   "name": "sarpyx",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "A swissknife for SAR processing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sarpyx-0.1.3.tar.gz",
-  "download_time": "2025-11-21T11:53:28.922377",
+  "download_filename": "sarpyx-0.1.5.tar.gz",
+  "download_time": "2025-11-24T10:28:43.843464",
   "package_url": "https://pypi.org/project/sarpyx/"
 }
