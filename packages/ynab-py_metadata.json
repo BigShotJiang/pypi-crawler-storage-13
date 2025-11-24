@@ -1,0 +1,11 @@
+{
+  "name": "ynab-py",
+  "version": "1.0.0",
+  "summary": "A Python client for the You Need A Budget (YNAB) API",
+  "author": "Austin Conn",
+  "license": "MIT",
+  "home_page": "https://github.com/dynacylabs/ynab-py",
+  "download_filename": "ynab_py-1.0.0.tar.gz",
+  "download_time": "2025-11-24T15:28:37.618078",
+  "package_url": "https://pypi.org/project/ynab-py/"
+}

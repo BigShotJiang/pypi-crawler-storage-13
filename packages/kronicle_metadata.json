@@ -1,0 +1,11 @@
+{
+  "name": "kronicle",
+  "version": "0.0.2",
+  "summary": "FastAPI-powered TimescaleDB microservice for storing time-series sensor datas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kronicle-0.0.2.tar.gz",
+  "download_time": "2025-11-24T15:28:58.913145",
+  "package_url": "https://pypi.org/project/kronicle/"
+}

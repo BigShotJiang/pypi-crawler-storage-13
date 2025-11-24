@@ -1,11 +1,11 @@
 {
   "name": "inspqcommun",
-  "version": "2.23.2",
+  "version": "3.0.0",
   "summary": "Librairies communes de INSPQ",
   "author": "Philippe Gauthier",
   "license": "LiLiQ",
   "home_page": "https://gitlab.forge.gouv.qc.ca/inspq/commun/python/inspqcommun.git",
-  "download_filename": "inspqcommun-2.23.2.tar.gz",
-  "download_time": "2025-11-21T16:49:20.282058",
+  "download_filename": "inspqcommun-3.0.0.tar.gz",
+  "download_time": "2025-11-24T15:28:41.460506",
   "package_url": "https://pypi.org/project/inspqcommun/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "the-orb-is-awake",
+  "version": "0.1.1",
+  "summary": "Python SDK for Amp, an agentic coding assistant",
+  "author": null,
+  "license": "© Sourcegraph Inc. All rights reserved. Use of Amp is subject to Amp's [Terms of Service](https://ampcode.com/terms).",
+  "home_page": null,
+  "download_filename": "the_orb_is_awake-0.1.1.tar.gz",
+  "download_time": "2025-11-24T15:28:49.631242",
+  "package_url": "https://pypi.org/project/the-orb-is-awake/"
+}

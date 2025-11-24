@@ -1,0 +1,11 @@
+{
+  "name": "edx-sga",
+  "version": "0.27.0",
+  "summary": "edx-sga Staff Graded Assignment XBlock",
+  "author": "MITx",
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+  "home_page": "https://github.com/mitodl/edx-sga",
+  "download_filename": "edx_sga-0.27.0.tar.gz",
+  "download_time": "2025-11-24T15:28:17.206335",
+  "package_url": "https://pypi.org/project/edx-sga/"
+}

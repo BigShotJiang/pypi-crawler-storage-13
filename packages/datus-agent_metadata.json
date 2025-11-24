@@ -1,11 +1,11 @@
 {
   "name": "datus-agent",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "AI-powered SQL Agent for data engineering (Compiled Version)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datus_agent-0.2.2.tar.gz",
-  "download_time": "2025-11-24T07:44:23.530097",
+  "download_filename": "datus_agent-0.2.3.tar.gz",
+  "download_time": "2025-11-24T15:28:29.446010",
   "package_url": "https://pypi.org/project/datus-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dataverse-explorer",
+  "version": "1.0.1",
+  "summary": "Python CLI for querying Microsoft Dataverse API with SQL-like syntax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataverse_explorer-1.0.1.tar.gz",
+  "download_time": "2025-11-24T15:28:47.978252",
+  "package_url": "https://pypi.org/project/dataverse-explorer/"
+}

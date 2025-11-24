@@ -1,0 +1,11 @@
+{
+  "name": "software-supply-chain-hw-1",
+  "version": "3.0.0",
+  "summary": "project that tests cosign and the rekor api",
+  "author": "dipto718",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "software_supply_chain_hw_1-3.0.0.tar.gz",
+  "download_time": "2025-11-24T15:28:33.804426",
+  "package_url": "https://pypi.org/project/software-supply-chain-hw-1/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "octarine3d",
+  "version": "0.3.3",
+  "summary": "WGPU-based 3d viewer",
+  "author": "Philipp Schlegel",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/schlegelp/octarine",
+  "download_filename": "octarine3d-0.3.3.tar.gz",
+  "download_time": "2025-11-24T15:29:01.662255",
+  "package_url": "https://pypi.org/project/octarine3d/"
+}

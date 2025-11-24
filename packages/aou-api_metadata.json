@@ -1,0 +1,11 @@
+{
+  "name": "aou-api",
+  "version": "2.2.5",
+  "summary": "Archive ouverte UNIGE API",
+  "author": "University of Geneva",
+  "license": "GNU General Public License v2.0 or later",
+  "home_page": null,
+  "download_filename": "aou_api-2.2.5.tar.gz",
+  "download_time": "2025-11-24T15:28:28.338964",
+  "package_url": "https://pypi.org/project/aou-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "janela",
+  "version": "0.0.11",
+  "summary": "A simple tool to automate window management",
+  "author": "Gustavo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "janela-0.0.11.tar.gz",
+  "download_time": "2025-11-24T15:28:49.076355",
+  "package_url": "https://pypi.org/project/janela/"
+}

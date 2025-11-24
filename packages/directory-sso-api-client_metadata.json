@@ -1,11 +1,11 @@
 {
   "name": "directory-sso-api-client",
-  "version": "7.3.4",
+  "version": "7.3.5",
   "summary": "Python API client for Export Directory.",
   "author": "Department for International Trade",
   "license": "MIT",
   "home_page": "https://github.com/uktrade/directory-sso-api-client",
-  "download_filename": "directory_sso_api_client-7.3.4-py3-none-any.whl",
-  "download_time": "2025-11-24T11:22:58.322252",
+  "download_filename": "directory_sso_api_client-7.3.5-py3-none-any.whl",
+  "download_time": "2025-11-24T15:28:50.698635",
   "package_url": "https://pypi.org/project/directory-sso-api-client/"
 }
