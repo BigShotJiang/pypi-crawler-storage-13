@@ -1,11 +1,11 @@
 {
   "name": "anaouder",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Breton language speech-to-text tools",
   "author": "Gweltaz Duval-Guennoc",
   "license": "MIT",
   "home_page": "https://github.com/gweltou/vosk-br",
-  "download_filename": "anaouder-1.0.4.tar.gz",
-  "download_time": "2025-11-24T09:36:48.568464",
+  "download_filename": "anaouder-1.0.5.tar.gz",
+  "download_time": "2025-11-24T09:56:32.495162",
   "package_url": "https://pypi.org/project/anaouder/"
 }

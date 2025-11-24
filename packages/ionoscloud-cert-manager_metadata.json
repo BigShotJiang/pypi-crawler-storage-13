@@ -1,0 +1,11 @@
+{
+  "name": "ionoscloud-cert-manager",
+  "version": "2.0.0",
+  "summary": "Python SDK for the ionoscloud-cert-manager API",
+  "author": "Ionos Cloud",
+  "license": null,
+  "home_page": "https://github.com/ionos-cloud/sdk-python-cert-manager",
+  "download_filename": "ionoscloud-cert-manager-2.0.0.tar.gz",
+  "download_time": "2025-11-24T09:56:41.291024",
+  "package_url": "https://pypi.org/project/ionoscloud-cert-manager/"
+}

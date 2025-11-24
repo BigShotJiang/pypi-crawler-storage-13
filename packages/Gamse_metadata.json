@@ -1,0 +1,11 @@
+{
+  "name": "Gamse",
+  "version": "0.98",
+  "summary": "Generic Echelle Data Reduction Package",
+  "author": "Liang Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gamse-0.98.tar.gz",
+  "download_time": "2025-11-24T09:56:58.898051",
+  "package_url": "https://pypi.org/project/Gamse/"
+}

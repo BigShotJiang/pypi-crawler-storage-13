@@ -1,11 +1,11 @@
 {
   "name": "datametry",
-  "version": "0.1.0a0",
+  "version": "0.1.1a0",
   "summary": "LLM observability SDK for OpenAI and Anthropic",
   "author": "Datametry Team",
   "license": "MIT",
   "home_page": "https://datametry.co",
-  "download_filename": "datametry-0.1.0a0.tar.gz",
-  "download_time": "2025-11-24T09:37:18.320767",
+  "download_filename": "datametry-0.1.1a0.tar.gz",
+  "download_time": "2025-11-24T09:56:33.007651",
   "package_url": "https://pypi.org/project/datametry/"
 }

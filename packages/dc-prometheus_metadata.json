@@ -1,0 +1,11 @@
+{
+  "name": "dc-prometheus",
+  "version": "1.3.2",
+  "summary": "push discord bot data to prometheus",
+  "author": "phillychi3",
+  "license": null,
+  "home_page": "https://github.com/phillychi3/dc_grafana",
+  "download_filename": "dc_prometheus-1.3.2.tar.gz",
+  "download_time": "2025-11-24T09:56:54.208709",
+  "package_url": "https://pypi.org/project/dc-prometheus/"
+}

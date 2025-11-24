@@ -1,0 +1,11 @@
+{
+  "name": "enterpriseattack",
+  "version": "1.0.4",
+  "summary": "A lightweight Python module to interact with the MITRE ATT&CK® Enterprise dataset.",
+  "author": "xakepnz",
+  "license": null,
+  "home_page": "https://gitlab.com/xakepnz/enterpriseattack",
+  "download_filename": "enterpriseattack-1.0.4.tar.gz",
+  "download_time": "2025-11-24T09:56:56.329789",
+  "package_url": "https://pypi.org/project/enterpriseattack/"
+}

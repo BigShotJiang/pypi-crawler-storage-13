@@ -1,0 +1,11 @@
+{
+  "name": "comotion-sdk",
+  "version": "1.1.2",
+  "summary": "SDK for interacting with the Comotion APIs",
+  "author": "Comotion",
+  "license": null,
+  "home_page": "https://github.com/ComotionLabs/comotion-sdk",
+  "download_filename": "comotion_sdk-1.1.2.tar.gz",
+  "download_time": "2025-11-24T09:56:45.455638",
+  "package_url": "https://pypi.org/project/comotion-sdk/"
+}

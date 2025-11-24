@@ -1,0 +1,11 @@
+{
+  "name": "pymolfold-min",
+  "version": "0.0.1",
+  "summary": "Protein structure prediction in PyMOL",
+  "author": "Jinyuan Sun, Yifan Deng",
+  "license": "MIT",
+  "home_page": "https://github.com/JinyuanSun/PymolFold",
+  "download_filename": "pymolfold_min-0.0.1.tar.gz",
+  "download_time": "2025-11-24T09:56:53.697045",
+  "package_url": "https://pypi.org/project/pymolfold-min/"
+}

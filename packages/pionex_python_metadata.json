@@ -1,11 +1,11 @@
 {
   "name": "pionex_python",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Connector library for Pionex REST and WS api.",
   "author": "Leo Thern",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pionex_python-1.1.0.tar.gz",
-  "download_time": "2025-11-24T09:36:57.962565",
+  "download_filename": "pionex_python-1.1.1.tar.gz",
+  "download_time": "2025-11-24T09:56:45.968276",
   "package_url": "https://pypi.org/project/pionex_python/"
 }
