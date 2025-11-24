@@ -1,0 +1,11 @@
+{
+  "name": "pyglsl",
+  "version": "0.1.0",
+  "summary": "Transform Python to GLSL",
+  "author": "George Watson",
+  "license": null,
+  "home_page": "https://github.com/takeiteasy/pyglsl",
+  "download_filename": "pyglsl-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-24T14:28:22.270849",
+  "package_url": "https://pypi.org/project/pyglsl/"
+}

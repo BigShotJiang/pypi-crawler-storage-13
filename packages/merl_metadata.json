@@ -1,0 +1,11 @@
+{
+  "name": "merl",
+  "version": "0.1.3",
+  "summary": "A useless python library, aiming to emulate (not fetch/embed) the Merl experience found on the minecraft.net help page! Again, this is NOT the real Merl, but a really close copy! If you use it enough!",
+  "author": "O9CreeperBoi",
+  "license": "MIT",
+  "home_page": "https://github.com/O9Creeps/merl",
+  "download_filename": "merl-0.1.3.tar.gz",
+  "download_time": "2025-11-24T14:27:52.964557",
+  "package_url": "https://pypi.org/project/merl/"
+}

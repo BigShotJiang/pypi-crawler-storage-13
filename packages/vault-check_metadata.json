@@ -1,11 +1,11 @@
 {
   "name": "vault-check",
-  "version": "2.0.0",
+  "version": "3.0.2",
   "summary": "Production-grade secrets verifier for bot platforms",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vault_check-2.0.0.tar.gz",
-  "download_time": "2025-11-20T13:23:23.003269",
+  "download_filename": "vault_check-3.0.2.tar.gz",
+  "download_time": "2025-11-24T14:28:21.748748",
   "package_url": "https://pypi.org/project/vault-check/"
 }

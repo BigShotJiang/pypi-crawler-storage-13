@@ -1,0 +1,11 @@
+{
+  "name": "peaq-sdk",
+  "version": "1.0.1",
+  "summary": "Peaq Network SDK for DID, Storage, RBAC operations, and blockchain interactions",
+  "author": "Peaq Network",
+  "license": "MIT",
+  "home_page": "https://github.com/peaq-network/peaq-py/",
+  "download_filename": "peaq_sdk-1.0.1.tar.gz",
+  "download_time": "2025-11-24T14:28:01.828888",
+  "package_url": "https://pypi.org/project/peaq-sdk/"
+}

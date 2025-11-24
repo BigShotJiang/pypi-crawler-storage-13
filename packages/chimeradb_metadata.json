@@ -1,0 +1,11 @@
+{
+  "name": "chimeradb",
+  "version": "0.1.0",
+  "summary": "Knowledge graph + vector search + SQL analytics in SQLite",
+  "author": "Alexander Leirvåg",
+  "license": null,
+  "home_page": "https://github.com/codimusmaximus/chimeradb",
+  "download_filename": "chimeradb-0.1.0.tar.gz",
+  "download_time": "2025-11-24T14:28:12.361707",
+  "package_url": "https://pypi.org/project/chimeradb/"
+}

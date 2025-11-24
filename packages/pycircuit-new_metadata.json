@@ -1,0 +1,11 @@
+{
+  "name": "pycircuit-new",
+  "version": "0.1.1",
+  "summary": "Lightweight circuit simulator (single-file)",
+  "author": "Ege Güvener",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycircuit_new-0.1.1.tar.gz",
+  "download_time": "2025-11-24T14:28:17.052291",
+  "package_url": "https://pypi.org/project/pycircuit-new/"
+}

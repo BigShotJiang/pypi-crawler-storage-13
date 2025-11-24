@@ -1,11 +1,11 @@
 {
   "name": "test-pioneer-dev",
-  "version": "0.1.38",
+  "version": "0.1.39",
   "summary": "Test framework for CI/CD",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "test_pioneer_dev-0.1.38.tar.gz",
-  "download_time": "2025-11-24T13:37:14.812241",
+  "download_filename": "test_pioneer_dev-0.1.39.tar.gz",
+  "download_time": "2025-11-24T14:27:53.483528",
   "package_url": "https://pypi.org/project/test-pioneer-dev/"
 }

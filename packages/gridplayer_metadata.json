@@ -1,0 +1,11 @@
+{
+  "name": "gridplayer",
+  "version": "0.5.4",
+  "summary": "Play videos side-by-side",
+  "author": "vzhd1701",
+  "license": null,
+  "home_page": "https://github.com/vzhd1701/gridplayer",
+  "download_filename": "gridplayer-0.5.4.tar.gz",
+  "download_time": "2025-11-24T14:28:13.930581",
+  "package_url": "https://pypi.org/project/gridplayer/"
+}

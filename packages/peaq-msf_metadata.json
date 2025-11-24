@@ -1,0 +1,11 @@
+{
+  "name": "peaq-msf",
+  "version": "1.0.3",
+  "summary": "Peaq Network SDK for DID, Storage, RBAC operations, and blockchain interactions",
+  "author": "Peaq Network",
+  "license": "MIT",
+  "home_page": "https://github.com/peaq-network/peaq-py/",
+  "download_filename": "peaq_msf-1.0.3.tar.gz",
+  "download_time": "2025-11-24T14:27:48.218989",
+  "package_url": "https://pypi.org/project/peaq-msf/"
+}
