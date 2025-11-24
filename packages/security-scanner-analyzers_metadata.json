@@ -1,11 +1,11 @@
 {
   "name": "security-scanner-analyzers",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A collection of security scanner analyzers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "security_scanner_analyzers-0.3.0.tar.gz",
-  "download_time": "2025-11-21T12:44:53.564114",
+  "download_filename": "security_scanner_analyzers-0.4.0.tar.gz",
+  "download_time": "2025-11-24T10:51:15.564520",
   "package_url": "https://pypi.org/project/security-scanner-analyzers/"
 }

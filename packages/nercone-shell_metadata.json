@@ -1,11 +1,11 @@
 {
   "name": "nercone-shell",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Modern shell for Developers",
   "author": "Nercone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nercone_shell-0.2.2.tar.gz",
-  "download_time": "2025-11-24T10:28:15.087151",
+  "download_filename": "nercone_shell-0.2.3.tar.gz",
+  "download_time": "2025-11-24T10:51:24.757537",
   "package_url": "https://pypi.org/project/nercone-shell/"
 }

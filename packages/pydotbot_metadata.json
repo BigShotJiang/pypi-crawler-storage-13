@@ -1,0 +1,11 @@
+{
+  "name": "pydotbot",
+  "version": "0.27.0",
+  "summary": "Package to easily control your DotBots and SailBots.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "pydotbot-0.27.0.tar.gz",
+  "download_time": "2025-11-24T10:51:30.422482",
+  "package_url": "https://pypi.org/project/pydotbot/"
+}

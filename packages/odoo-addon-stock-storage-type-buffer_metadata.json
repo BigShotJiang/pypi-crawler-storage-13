@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-storage-type-buffer",
+  "version": "18.0.1.1.0",
+  "summary": "Exclude storage locations from put-away if their buffer is full",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-putaway",
+  "download_filename": "odoo_addon_stock_storage_type_buffer-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-11-24T10:51:06.294941",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-storage-type-buffer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vovk-hello-world",
+  "version": "0.0.68",
+  "summary": "A showcase app built with Next.js + Vovk.ts + Zod. For more details, visit https://vovk.dev/hello-world",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vovk_hello_world-0.0.68.tar.gz",
+  "download_time": "2025-11-24T10:51:03.750316",
+  "package_url": "https://pypi.org/project/vovk-hello-world/"
+}

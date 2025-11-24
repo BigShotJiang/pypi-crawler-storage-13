@@ -1,11 +1,11 @@
 {
   "name": "TgCryptos",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "Fast and Portable Cryptography Extension Library for Pyrofork",
   "author": "Clinton-Abraham",
-  "license": "LGPLv3+",
+  "license": null,
   "home_page": "https://github.com/Clinton-Abraham",
-  "download_filename": "tgcryptos-0.0.8-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-11-23T07:21:42.730897",
+  "download_filename": "tgcryptos-0.0.10-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-11-24T10:51:19.138167",
   "package_url": "https://pypi.org/project/TgCryptos/"
 }

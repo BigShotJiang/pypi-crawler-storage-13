@@ -1,0 +1,11 @@
+{
+  "name": "json-to-anything",
+  "version": "1.0.2",
+  "summary": "JSON → Anything converters (Python) — small, dependency-free helpers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_to_anything-1.0.2.tar.gz",
+  "download_time": "2025-11-24T10:51:18.624946",
+  "package_url": "https://pypi.org/project/json-to-anything/"
+}

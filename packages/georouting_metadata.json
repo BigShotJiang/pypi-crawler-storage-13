@@ -1,0 +1,11 @@
+{
+  "name": "georouting",
+  "version": "0.1.0",
+  "summary": "Geo routing for Python users",
+  "author": "Xiaokang Fu",
+  "license": "MIT license",
+  "home_page": "https://github.com/wybert/georouting",
+  "download_filename": "georouting-0.1.0.tar.gz",
+  "download_time": "2025-11-24T10:50:47.249985",
+  "package_url": "https://pypi.org/project/georouting/"
+}
