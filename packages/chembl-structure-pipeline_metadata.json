@@ -1,0 +1,11 @@
+{
+  "name": "chembl-structure-pipeline",
+  "version": "1.2.4",
+  "summary": "ChEMBL Structure Pipeline",
+  "author": "Greg Landrum, Eloy Félix",
+  "license": "MIT",
+  "home_page": "https://www.ebi.ac.uk/chembl/",
+  "download_filename": "chembl_structure_pipeline-1.2.4.tar.gz",
+  "download_time": "2025-11-24T16:49:20.574032",
+  "package_url": "https://pypi.org/project/chembl-structure-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-traceability-sdk",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python SDK for AI activity tracking and monitoring",
+  "author": "AI Traceability Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ai-traceability/python-sdk",
+  "download_filename": "ai_traceability_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-24T16:49:55.524981",
+  "package_url": "https://pypi.org/project/ai-traceability-sdk/"
+}
