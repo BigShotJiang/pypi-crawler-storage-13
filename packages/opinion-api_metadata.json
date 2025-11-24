@@ -1,0 +1,11 @@
+{
+  "name": "opinion-api",
+  "version": "0.1.5",
+  "summary": "Opinion Prediction Market API",
+  "author": "Opinion Team",
+  "license": null,
+  "home_page": "https://opinion.trade",
+  "download_filename": "opinion_api-0.1.5.tar.gz",
+  "download_time": "2025-11-24T05:32:55.374010",
+  "package_url": "https://pypi.org/project/opinion-api/"
+}

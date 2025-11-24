@@ -1,11 +1,11 @@
 {
   "name": "axioms-drf-py",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "OAuth2/OIDC authentication and authorization for Django REST Framework APIs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "axioms_drf_py-0.0.11.tar.gz",
-  "download_time": "2025-11-24T04:50:07.401190",
+  "download_filename": "axioms_drf_py-0.0.12.tar.gz",
+  "download_time": "2025-11-24T05:33:03.081350",
   "package_url": "https://pypi.org/project/axioms-drf-py/"
 }

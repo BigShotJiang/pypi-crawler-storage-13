@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-24T04:50:33.088791
-- **Total Packages**: 83
-- **Total Size**: 31.38 MB
+- **Download Time**: 2025-11-24T05:33:27.314516
+- **Total Packages**: 77
+- **Total Size**: 23.1 MB
 
 ## Packages List
+- idvpackage
+- weirdfingers-boards
+- core-system-grpc
+- qlty
+- langgraph-api
+- recce-nightly
+- pytest-b-logger
+- recce-cloud-nightly
+- fluidsim
+- avionmqtt
+- make-colors
+- robosystems-client
+- kubeman
+- html-reader-mode
+- ldr-modelling
+- aenet-gpr
+- pypomes-crypto
+- nonebot-plugin-abs
+- avionmesh
+- jeans
+- opinion-clob-sdk
+- robusta-hmf
+- opinion-api
+- dlght
+- utilskit
+- open-flash
+- vima-spatial
+- pyoco
+- jmesflat
+- moto-ext
+- miunlock
+- iflow-mcp_atla-mcp-server
+- mcp-monkdb
+- vald8
+- pycommons
+- axioms-drf-py
+- iamdata
+- web-perfmonitor
+- telepact-cli
+- pycronado
+- python-mecab-ko-py313
+- pycobaltix
+- gaussian-splatting-mcmc
+- panda-color
+- reveal-cli
+- quillmark
 - bomcheckgui
 - veriskgo
 - jsonl-normalizer
@@ -13,19 +59,14 @@
 - stackvar
 - animalchess
 - atomorm
-- python-mecab-ko-py313
 - PyDecisionGraph
 - fnschool
-- pypomes-crypto
 - bouquin
 - dftoy
 - arts
-- recce-nightly
 - artificer-workflows
 - pyhivision
-- recce-cloud-nightly
 - graphlit-client
-- open-flash
 - language-pipes
 - keras-nlp-nightly
 - keras-hub-nightly
@@ -34,58 +75,11 @@
 - mcp-skillkit
 - maxclientapi
 - consenrich
-- vald8
 - ppt2fig
 - CheckmarxPythonSDK
 - pypics
 - distributed-state-network
-- pycobaltix
 - apikey-gateway
 - moltres
 - loups
 - vector-vault
-- axioms-drf-py
-- serialdevicelib
-- nercone-archiver
-- robhan-cdk-lib.aws-aps
-- robhan-cdk-lib.aws-mwaa
-- robhan-cdk-lib.aws-grafana
-- linkedin-spider
-- robhan-cdk-lib.utils
-- benchmark-runner
-- rock-ptarmigan
-- edu-rdm-integration
-- scruft
-- pyclipper2
-- gllm-inference-binary
-- hack-test
-- bomcheck
-- openagents
-- cirro_api_client
-- extendedstim
-- cogent3
-- claude-mpm
-- oagi
-- oagi-core
-- think-sql
-- brd-client
-- based-utils
-- sigdep
-- mcp-ticketer
-- reveal-cli
-- shelf-backup
-- odoo-addons-oca-sign
-- odoo-addon-sign-oca
-- arifos
-- deepagents-cli
-- splatstream
-- deepagents
-- sleipnirgroup-jormungandr
-- chromedriver-binary
-- BoschMiniRpa
-- eth-ape
-- iflow-mcp_mcp-server-unitycatalog
-- cytetype
-- chalkpy
-- fgconfigtools
-- msgspec

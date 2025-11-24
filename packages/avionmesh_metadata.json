@@ -1,11 +1,11 @@
 {
   "name": "avionmesh",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "summary": "Libary for integrating with Avion Bluetooth mesh lights",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "avionmesh-2.0.6.tar.gz",
-  "download_time": "2025-11-22T22:21:56.329698",
+  "download_filename": "avionmesh-2.0.7.tar.gz",
+  "download_time": "2025-11-24T05:32:53.017273",
   "package_url": "https://pypi.org/project/avionmesh/"
 }

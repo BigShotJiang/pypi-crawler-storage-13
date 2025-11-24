@@ -1,11 +1,11 @@
 {
   "name": "pyoco",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "A workflow engine with sugar syntax",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyoco-0.3.0.tar.gz",
-  "download_time": "2025-11-22T23:41:47.851461",
+  "download_filename": "pyoco-0.5.0.tar.gz",
+  "download_time": "2025-11-24T05:32:58.323823",
   "package_url": "https://pypi.org/project/pyoco/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vima-spatial",
+  "version": "0.1.6",
+  "summary": "variational inference-based microniche analysis",
+  "author": "Yakir Reshef",
+  "license": null,
+  "home_page": "https://github.com/yakirr/vima",
+  "download_filename": "vima_spatial-0.1.6.tar.gz",
+  "download_time": "2025-11-24T05:32:57.744878",
+  "package_url": "https://pypi.org/project/vima-spatial/"
+}
