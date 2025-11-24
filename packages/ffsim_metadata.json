@@ -1,0 +1,11 @@
+{
+  "name": "ffsim",
+  "version": "0.0.62",
+  "summary": "Faster simulations of fermionic quantum circuits.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffsim-0.0.62.tar.gz",
+  "download_time": "2025-11-24T04:11:56.553337",
+  "package_url": "https://pypi.org/project/ffsim/"
+}

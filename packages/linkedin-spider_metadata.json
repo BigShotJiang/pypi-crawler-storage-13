@@ -1,11 +1,11 @@
 {
   "name": "linkedin-spider",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A modern LinkedIn scraping library with CLI and MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linkedin_spider-0.1.5.tar.gz",
-  "download_time": "2025-11-22T13:54:52.398655",
+  "download_filename": "linkedin_spider-0.1.6.tar.gz",
+  "download_time": "2025-11-24T04:11:50.809924",
   "package_url": "https://pypi.org/project/linkedin-spider/"
 }

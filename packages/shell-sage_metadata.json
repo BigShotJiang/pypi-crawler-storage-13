@@ -1,0 +1,11 @@
+{
+  "name": "shell-sage",
+  "version": "1.0.1",
+  "summary": "Your favorite AI buddy right in your terminal",
+  "author": "ncoop57",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/shell_sage",
+  "download_filename": "shell_sage-1.0.1.tar.gz",
+  "download_time": "2025-11-24T04:12:10.624788",
+  "package_url": "https://pypi.org/project/shell-sage/"
+}

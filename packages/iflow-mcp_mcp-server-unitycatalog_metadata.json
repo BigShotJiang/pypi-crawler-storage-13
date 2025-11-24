@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-unitycatalog",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol server that enables LLM agents to execute Unity Catalog functions seamlessly.",
+  "author": "Shingo OKAWA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_unitycatalog-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-24T04:11:44.520738",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-unitycatalog/"
+}

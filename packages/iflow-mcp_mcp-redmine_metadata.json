@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-redmine",
+  "version": "2025.9.3.141435",
+  "summary": "A MCP server that connects to your Redmine instance",
+  "author": "Rune Kaagaard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_redmine-2025.9.3.141435.tar.gz",
+  "download_time": "2025-11-24T04:11:57.073097",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-redmine/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-structure",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "summary": "Command-driven FastAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_structure-0.2.2.tar.gz",
-  "download_time": "2025-11-24T03:28:07.300345",
+  "download_filename": "fastapi_structure-0.2.7.tar.gz",
+  "download_time": "2025-11-24T04:11:49.763701",
   "package_url": "https://pypi.org/project/fastapi-structure/"
 }

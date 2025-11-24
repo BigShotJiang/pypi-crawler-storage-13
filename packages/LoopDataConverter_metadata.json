@@ -1,0 +1,11 @@
+{
+  "name": "LoopDataConverter",
+  "version": "0.3.0",
+  "summary": "Loop GIS data conversion library for LoopStructural and Map2Loop",
+  "author": "Rabii Chaarani",
+  "license": "MIT",
+  "home_page": "https://github.com/Loop3D/LoopDataConverter",
+  "download_filename": "loopdataconverter-0.3.0.tar.gz",
+  "download_time": "2025-11-24T04:12:11.663913",
+  "package_url": "https://pypi.org/project/LoopDataConverter/"
+}

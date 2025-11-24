@@ -1,11 +1,11 @@
 {
   "name": "writer-pdf",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "A simple Python library for creating and modifying PDF documents.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "writer_pdf-0.3.6.tar.gz",
-  "download_time": "2025-11-24T03:28:17.259017",
+  "download_filename": "writer_pdf-0.3.7.tar.gz",
+  "download_time": "2025-11-24T04:12:04.874877",
   "package_url": "https://pypi.org/project/writer-pdf/"
 }

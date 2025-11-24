@@ -1,0 +1,11 @@
+{
+  "name": "miniwalk",
+  "version": "1.0.0",
+  "summary": "miniwalk is a tool for genotyping SVs from minigraph .gfa graphs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miniwalk-1.0.0.tar.gz",
+  "download_time": "2025-11-24T04:11:59.679941",
+  "package_url": "https://pypi.org/project/miniwalk/"
+}

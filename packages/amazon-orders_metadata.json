@@ -1,0 +1,11 @@
+{
+  "name": "amazon-orders",
+  "version": "4.0.17",
+  "summary": "A Python libray (and CLI) for Amazon order history",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amazon_orders-4.0.17.tar.gz",
+  "download_time": "2025-11-24T04:11:52.912199",
+  "package_url": "https://pypi.org/project/amazon-orders/"
+}

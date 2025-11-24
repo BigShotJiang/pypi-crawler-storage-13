@@ -1,0 +1,11 @@
+{
+  "name": "enhanced-downloader",
+  "version": "0.1.0",
+  "summary": "一个功能强大的增强型下载模块，支持多线程下载、断点续传和进度显示",
+  "author": "Stabvalue",
+  "license": null,
+  "home_page": "https://github.com/Stabvalue/enhanced_downloader",
+  "download_filename": "enhanced_downloader-0.1.0.tar.gz",
+  "download_time": "2025-11-24T04:12:03.313258",
+  "package_url": "https://pypi.org/project/enhanced-downloader/"
+}
