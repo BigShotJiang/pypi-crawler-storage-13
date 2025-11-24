@@ -1,11 +1,11 @@
 {
   "name": "anchorpy3-core",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Python bindings for Anchor Rust code",
   "author": "Kevin Heavey <kevinheavey123@gmail.com>, Khaled G <kh.grira@gmail.com>",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "anchorpy3_core-0.3.1.tar.gz",
-  "download_time": "2025-11-24T11:22:38.506742",
+  "download_filename": "anchorpy3_core-0.3.2.tar.gz",
+  "download_time": "2025-11-24T11:54:38.355154",
   "package_url": "https://pypi.org/project/anchorpy3-core/"
 }

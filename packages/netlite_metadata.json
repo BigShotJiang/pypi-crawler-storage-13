@@ -1,0 +1,11 @@
+{
+  "name": "netlite",
+  "version": "1.0.0",
+  "summary": "A small white-box training framework for neural networks for education.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netlite-1.0.0.tar.gz",
+  "download_time": "2025-11-24T11:54:11.620231",
+  "package_url": "https://pypi.org/project/netlite/"
+}

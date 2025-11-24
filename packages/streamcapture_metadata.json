@@ -1,0 +1,11 @@
+{
+  "name": "streamcapture",
+  "version": "1.2.6",
+  "summary": "Capture output streams such as sys.stdout and sys.stderr.",
+  "author": "Sébastien Loisel",
+  "license": "MIT",
+  "home_page": "https://github.com/sloisel/streamcapture",
+  "download_filename": "streamcapture-1.2.6.tar.gz",
+  "download_time": "2025-11-24T11:54:18.540783",
+  "package_url": "https://pypi.org/project/streamcapture/"
+}

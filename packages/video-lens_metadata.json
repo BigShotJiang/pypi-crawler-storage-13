@@ -1,11 +1,11 @@
 {
   "name": "video-lens",
-  "version": "0.5.15",
+  "version": "0.5.16",
   "summary": "Video analysis lens for the modular assessment platform - extracts frames, transcripts, and quality metrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "video_lens-0.5.15.tar.gz",
-  "download_time": "2025-11-24T11:43:02.802229",
+  "download_filename": "video_lens-0.5.16.tar.gz",
+  "download_time": "2025-11-24T11:54:28.433737",
   "package_url": "https://pypi.org/project/video-lens/"
 }

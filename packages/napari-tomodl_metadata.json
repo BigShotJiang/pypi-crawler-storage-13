@@ -1,11 +1,11 @@
 {
   "name": "napari-tomodl",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "summary": "A plugin for optical projection tomography reconstruction with model-based neural networks.",
   "author": "Marcos Antonio Obando, Minh Nhat Trinh, David Palecek, Germán Mato, Teresa Correia",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "napari_tomodl-0.2.26.tar.gz",
-  "download_time": "2025-11-18T15:25:38.714457",
+  "download_filename": "napari_tomodl-0.2.27.tar.gz",
+  "download_time": "2025-11-24T11:54:37.838014",
   "package_url": "https://pypi.org/project/napari-tomodl/"
 }
