@@ -1,0 +1,11 @@
+{
+  "name": "BBAWSLightsailMiniV1a",
+  "version": "0.332.1",
+  "summary": "Buzzerboy Architecture for Deploying Web Applications on AWS LightSail",
+  "author": "Buzzerboy Inc",
+  "license": null,
+  "home_page": "https://www.buzzerboy.com/",
+  "download_filename": "bbawslightsailminiv1a-0.332.1.tar.gz",
+  "download_time": "2025-11-24T16:05:12.090381",
+  "package_url": "https://pypi.org/project/BBAWSLightsailMiniV1a/"
+}

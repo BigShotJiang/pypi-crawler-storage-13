@@ -1,11 +1,11 @@
 {
   "name": "veil-secure",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "High-Assurance Cryptographic Engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "veil_secure-0.1.2.tar.gz",
-  "download_time": "2025-11-24T09:56:43.874674",
+  "download_filename": "veil_secure-0.2.0.tar.gz",
+  "download_time": "2025-11-24T16:05:26.643334",
   "package_url": "https://pypi.org/project/veil-secure/"
 }

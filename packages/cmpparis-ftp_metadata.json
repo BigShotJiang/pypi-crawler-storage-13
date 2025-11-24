@@ -1,0 +1,11 @@
+{
+  "name": "cmpparis-ftp",
+  "version": "1.0.0",
+  "summary": "FTP/SFTP utilities for cmpparis libraries",
+  "author": "Sofiane Charrad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmpparis_ftp-1.0.0.tar.gz",
+  "download_time": "2025-11-24T16:04:52.533317",
+  "package_url": "https://pypi.org/project/cmpparis-ftp/"
+}

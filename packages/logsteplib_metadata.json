@@ -1,0 +1,11 @@
+{
+  "name": "logsteplib",
+  "version": "0.0.20",
+  "summary": "A library providing a standardised format for logging and data quality tracking in lakehouse environments. Designed for use within Databricks, where PySpark is already available.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logsteplib-0.0.20.tar.gz",
+  "download_time": "2025-11-24T16:05:25.099960",
+  "package_url": "https://pypi.org/project/logsteplib/"
+}

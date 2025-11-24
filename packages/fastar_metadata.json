@@ -1,11 +1,11 @@
 {
   "name": "fastar",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "High-level bindings for the Rust tar crate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastar-0.6.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-11-18T05:21:44.321353",
+  "download_filename": "fastar-0.7.0.tar.gz",
+  "download_time": "2025-11-24T16:05:15.764104",
   "package_url": "https://pypi.org/project/fastar/"
 }

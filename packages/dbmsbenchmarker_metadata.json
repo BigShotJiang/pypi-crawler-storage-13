@@ -1,0 +1,11 @@
+{
+  "name": "dbmsbenchmarker",
+  "version": "0.14.13",
+  "summary": "DBMS-Benchmarker is a Python-based application-level blackbox benchmark tool for Database Management Systems (DBMS). It connects to a given list of DBMS (via JDBC) and runs a given list of parametrized and randomized (SQL) benchmark queries. Evaluations are available via Python interface, in reports and at an interactive multi-dimensional dashboard.",
+  "author": "Patrick Erdelt",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/Beuth-Erdelt/DBMS-Benchmarker",
+  "download_filename": "dbmsbenchmarker-0.14.13.tar.gz",
+  "download_time": "2025-11-24T16:05:18.879166",
+  "package_url": "https://pypi.org/project/dbmsbenchmarker/"
+}

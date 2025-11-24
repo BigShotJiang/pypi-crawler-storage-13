@@ -1,0 +1,11 @@
+{
+  "name": "genai4seqcls",
+  "version": "1.0.6",
+  "summary": "The library is built as a subclass of Huggingface’s Trainer, tailored for encoder-style fine-tuning of generative transformer models on sequence classification tasks. It enhances the standard training loop with features like a dedicated classification head, RAG (Retrieval-Augmented Generation) integrated predictions, and label-balanced batch sampling. The framework also includes advanced callbacks for improved experiment monitoring and real-time notifications.",
+  "author": "Martin Balázs Bánóczy",
+  "license": "MIT",
+  "home_page": "https://github.com/mbnczy/GenAI4SeqCls",
+  "download_filename": "genai4seqcls-1.0.6.tar.gz",
+  "download_time": "2025-11-24T16:05:04.810857",
+  "package_url": "https://pypi.org/project/genai4seqcls/"
+}
