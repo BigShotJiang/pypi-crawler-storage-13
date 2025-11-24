@@ -1,0 +1,11 @@
+{
+  "name": "matviz",
+  "version": "0.1.5",
+  "summary": "matviz: matrix data visualization",
+  "author": "Jonathan Lansey",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/JLansey/matviz",
+  "download_filename": "matviz-0.1.5.tar.gz",
+  "download_time": "2025-11-24T11:22:54.973227",
+  "package_url": "https://pypi.org/project/matviz/"
+}

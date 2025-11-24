@@ -1,0 +1,11 @@
+{
+  "name": "batwing-ml",
+  "version": "0.1.0",
+  "summary": "Batwing ML: A Functional machine learning library for fast, visual, and parameter-driven modeling.",
+  "author": "Harshithan Kavitha Sukumar",
+  "license": null,
+  "home_page": "https://github.com/Harshithan07/batwing-ml",
+  "download_filename": "batwing_ml-0.1.0.tar.gz",
+  "download_time": "2025-11-24T11:22:17.248893",
+  "package_url": "https://pypi.org/project/batwing-ml/"
+}

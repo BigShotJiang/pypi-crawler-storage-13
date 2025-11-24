@@ -1,0 +1,11 @@
+{
+  "name": "fiftyone-location",
+  "version": "4.5.1",
+  "summary": "51Degrees Geolocation performs reverse geocoding (using longitude and latitude information) to populate postal addresses.",
+  "author": "51Degrees Engineering",
+  "license": "EUPL-1.2",
+  "home_page": "https://51degrees.com/",
+  "download_filename": "fiftyone_location-4.5.1.tar.gz",
+  "download_time": "2025-11-24T11:22:36.567647",
+  "package_url": "https://pypi.org/project/fiftyone-location/"
+}

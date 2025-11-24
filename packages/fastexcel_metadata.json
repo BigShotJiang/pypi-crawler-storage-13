@@ -1,11 +1,11 @@
 {
   "name": "fastexcel",
-  "version": "0.17.2",
+  "version": "0.18.0",
   "summary": "A fast excel file reader for Python, written in Rust",
   "author": null,
   "license": null,
   "home_page": "https://github.com/ToucanToco/fastexcel",
-  "download_filename": "fastexcel-0.17.2.tar.gz",
-  "download_time": "2025-11-18T11:21:05.439755",
+  "download_filename": "fastexcel-0.18.0.tar.gz",
+  "download_time": "2025-11-24T11:22:30.759316",
   "package_url": "https://pypi.org/project/fastexcel/"
 }

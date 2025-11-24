@@ -1,0 +1,11 @@
+{
+  "name": "waterEntropy",
+  "version": "1.2.3",
+  "summary": "Python package for calculating interfacial water entropy from molecular dynamics simulations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waterentropy-1.2.3-py3-none-any.whl",
+  "download_time": "2025-11-24T11:22:35.916216",
+  "package_url": "https://pypi.org/project/waterEntropy/"
+}

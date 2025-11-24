@@ -1,11 +1,11 @@
 {
   "name": "codeius",
-  "version": "1.0.45",
+  "version": "1.0.50",
   "summary": "AI-powered coding assistant with multiple tools and visual interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codeius-1.0.45.tar.gz",
-  "download_time": "2025-11-20T14:23:40.349804",
+  "download_filename": "codeius-1.0.50.tar.gz",
+  "download_time": "2025-11-24T11:22:23.725179",
   "package_url": "https://pypi.org/project/codeius/"
 }
