@@ -1,11 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-24T11:23:05.391111
+- **Download Time**: 2025-11-24T11:43:44.268017
 - **Total Packages**: 83
-- **Total Size**: 25.9 MB
+- **Total Size**: 0.22 MB
 
 ## Packages List
+- jinja-rdf
 - sacroml
 - hyperliquid-monitor-plus
 - tilert
@@ -22,7 +23,6 @@
 - tamar-model-client
 - writer
 - ufal.morphodita
-- jinja-rdf
 - airalo-sdk
 - vless-share-link
 - jljb

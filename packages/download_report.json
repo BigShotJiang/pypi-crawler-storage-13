@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-11-24T11:23:05.391111",
+  "download_time": "2025-11-24T11:43:44.268017",
   "total_packages_downloaded": 83,
-  "total_size_mb": 25.9,
+  "total_size_mb": 0.22,
   "packages": [
+    "jinja-rdf",
     "sacroml",
     "hyperliquid-monitor-plus",
     "tilert",
@@ -19,7 +20,6 @@
     "tamar-model-client",
     "writer",
     "ufal.morphodita",
-    "jinja-rdf",
     "airalo-sdk",
     "vless-share-link",
     "jljb",

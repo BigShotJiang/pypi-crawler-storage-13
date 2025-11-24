@@ -1,11 +1,11 @@
 {
   "name": "jljb",
-  "version": "0.1a3",
+  "version": "0.1a4",
   "summary": "JupyterLite for Jupyter Book processing",
   "author": "Matthew Brett",
   "license": null,
   "home_page": "https://github.com/matthew-brett/jljb",
-  "download_filename": "jljb-0.1a3.tar.gz",
-  "download_time": "2025-11-24T11:22:22.436530",
+  "download_filename": "jljb-0.1a4.tar.gz",
+  "download_time": "2025-11-24T11:43:09.739155",
   "package_url": "https://pypi.org/project/jljb/"
 }
