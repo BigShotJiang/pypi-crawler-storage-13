@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-servicemesh20200111",
+  "version": "3.4.0",
+  "summary": "Alibaba Cloud Alibaba Cloud Service Mesh (20200111) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_servicemesh20200111-3.4.0.tar.gz",
+  "download_time": "2025-11-24T03:28:24.468622",
+  "package_url": "https://pypi.org/project/alibabacloud-servicemesh20200111/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cycletls",
+  "version": "0.0.2",
+  "summary": "Advanced TLS fingerprinting library with JA3, JA4, HTTP/2, HTTP/3, WebSocket, and SSE support",
+  "author": "Danny-Dasilva",
+  "license": "MIT",
+  "home_page": "https://github.com/Danny-Dasilva/cycletls_python",
+  "download_filename": "cycletls-0.0.2.tar.gz",
+  "download_time": "2025-11-24T03:28:26.058986",
+  "package_url": "https://pypi.org/project/cycletls/"
+}

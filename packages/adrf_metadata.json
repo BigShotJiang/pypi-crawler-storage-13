@@ -1,0 +1,11 @@
+{
+  "name": "adrf",
+  "version": "0.1.12",
+  "summary": "Async support for Django REST framework",
+  "author": "Enrico Massa",
+  "license": "MIT",
+  "home_page": "https://github.com/em1208/adrf",
+  "download_filename": "adrf-0.1.12.tar.gz",
+  "download_time": "2025-11-24T03:28:11.475417",
+  "package_url": "https://pypi.org/project/adrf/"
+}

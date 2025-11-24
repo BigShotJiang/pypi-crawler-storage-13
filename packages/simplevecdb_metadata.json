@@ -1,11 +1,11 @@
 {
   "name": "simplevecdb",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Dead-simple local vector database powered by sqlite-vec.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplevecdb-1.1.0.tar.gz",
-  "download_time": "2025-11-23T23:21:59.377716",
+  "download_filename": "simplevecdb-1.1.1.tar.gz",
+  "download_time": "2025-11-24T03:28:34.890641",
   "package_url": "https://pypi.org/project/simplevecdb/"
 }

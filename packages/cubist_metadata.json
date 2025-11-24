@@ -1,0 +1,11 @@
+{
+  "name": "cubist",
+  "version": "1.2.0",
+  "summary": "A Python package for fitting Ross Quinlan's Cubist regression model.",
+  "author": "Ross Quinlan, Max Kuhn, Patrick Aselin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cubist-1.2.0.tar.gz",
+  "download_time": "2025-11-24T03:28:33.339948",
+  "package_url": "https://pypi.org/project/cubist/"
+}

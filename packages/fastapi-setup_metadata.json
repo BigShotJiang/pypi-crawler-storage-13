@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-setup",
+  "version": "0.2.0",
+  "summary": "Command-driven FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_setup-0.2.0.tar.gz",
+  "download_time": "2025-11-24T03:28:37.990598",
+  "package_url": "https://pypi.org/project/fastapi-setup/"
+}
