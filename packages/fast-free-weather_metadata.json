@@ -1,11 +1,11 @@
 {
   "name": "fast-free-weather",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple Python package to fetch weather data from the free Open-Meteo API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fast_free_weather-0.1.1.tar.gz",
-  "download_time": "2025-11-24T07:55:50.386303",
+  "download_filename": "fast_free_weather-0.1.2.tar.gz",
+  "download_time": "2025-11-24T08:34:29.419282",
   "package_url": "https://pypi.org/project/fast-free-weather/"
 }

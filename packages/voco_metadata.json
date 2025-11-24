@@ -1,11 +1,11 @@
 {
   "name": "voco",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Modular audio model inference runtime with plugin architecture",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "voco-0.0.4.tar.gz",
-  "download_time": "2025-11-24T07:55:45.352765",
+  "download_filename": "voco-0.0.7.tar.gz",
+  "download_time": "2025-11-24T08:34:31.360357",
   "package_url": "https://pypi.org/project/voco/"
 }
