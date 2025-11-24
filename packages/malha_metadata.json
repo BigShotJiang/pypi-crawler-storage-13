@@ -1,11 +1,11 @@
 {
   "name": "malha",
-  "version": "0.2.4",
-  "summary": "Sistema Operacional Semântico",
+  "version": "0.3.1",
+  "summary": "Sistema Operacional Semântico - Distributed Data Kernel with P2P Replication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "malha-0.2.4.tar.gz",
-  "download_time": "2025-11-24T05:48:30.152378",
+  "download_filename": "malha-0.3.1.tar.gz",
+  "download_time": "2025-11-24T16:28:19.436015",
   "package_url": "https://pypi.org/project/malha/"
 }

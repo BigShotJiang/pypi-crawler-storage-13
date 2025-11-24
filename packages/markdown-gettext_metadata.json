@@ -1,0 +1,11 @@
+{
+  "name": "markdown-gettext",
+  "version": "0.2.2",
+  "summary": "Markdown i18n with gettext",
+  "author": "Phu Hung Nguyen",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "https://github.com/phunh/markdown-gettext",
+  "download_filename": "markdown_gettext-0.2.2.tar.gz",
+  "download_time": "2025-11-24T16:28:27.905627",
+  "package_url": "https://pypi.org/project/markdown-gettext/"
+}

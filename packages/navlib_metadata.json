@@ -1,0 +1,11 @@
+{
+  "name": "navlib",
+  "version": "1.2.2",
+  "summary": "MBARI CoMPAS Lab Utilities for Navigation Data Processing",
+  "author": "srodriguez_mbari",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "navlib-1.2.2.tar.gz",
+  "download_time": "2025-11-24T16:28:26.867668",
+  "package_url": "https://pypi.org/project/navlib/"
+}

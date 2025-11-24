@@ -1,0 +1,11 @@
+{
+  "name": "pyiron-potentialfit",
+  "version": "0.3.14",
+  "summary": "Repository for user-generated plugins to the pyiron IDE.",
+  "author": "Max-Planck-Institut für Eisenforschung GmbH - Computational Materials Design (CM) Department",
+  "license": "BSD",
+  "home_page": "https://github.com/pyiron/pyiron_potentialfit",
+  "download_filename": "pyiron_potentialfit-0.3.14.tar.gz",
+  "download_time": "2025-11-24T16:28:16.277817",
+  "package_url": "https://pypi.org/project/pyiron-potentialfit/"
+}

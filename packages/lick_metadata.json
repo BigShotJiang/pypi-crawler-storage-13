@@ -1,11 +1,11 @@
 {
   "name": "lick",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "A high level Line Integral Convolution (LIC) library, including post-processing and visualization",
   "author": "G. Wafflard-Fernandez, C.M.T. Robert",
   "license": null,
   "home_page": null,
-  "download_filename": "lick-0.8.0.tar.gz",
-  "download_time": "2025-11-20T10:26:32.676815",
+  "download_filename": "lick-0.8.1.tar.gz",
+  "download_time": "2025-11-24T16:28:39.436457",
   "package_url": "https://pypi.org/project/lick/"
 }

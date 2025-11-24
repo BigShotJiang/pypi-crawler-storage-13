@@ -1,0 +1,11 @@
+{
+  "name": "Ectoplasm-Steganography",
+  "version": "0.0.12",
+  "summary": "A versatile lossless text/data encoding steganography algorithm + pipeline for images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ectoplasm_steganography-0.0.12.tar.gz",
+  "download_time": "2025-11-24T16:28:30.506038",
+  "package_url": "https://pypi.org/project/Ectoplasm-Steganography/"
+}

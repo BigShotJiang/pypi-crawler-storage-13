@@ -1,11 +1,11 @@
 {
   "name": "dockai-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A LLM Pipeline for generating optimized Dockerfiles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dockai_cli-1.0.5.tar.gz",
-  "download_time": "2025-11-24T16:05:08.446902",
+  "download_filename": "dockai_cli-1.0.6.tar.gz",
+  "download_time": "2025-11-24T16:28:11.607970",
   "package_url": "https://pypi.org/project/dockai-cli/"
 }

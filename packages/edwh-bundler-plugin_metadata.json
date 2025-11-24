@@ -1,11 +1,11 @@
 {
   "name": "edwh-bundler-plugin",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "summary": "Python-only static file (js, css) bundler for `edwh`",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edwh_bundler_plugin-4.0.3.tar.gz",
-  "download_time": "2025-11-21T14:45:04.588599",
+  "download_filename": "edwh_bundler_plugin-4.0.4.tar.gz",
+  "download_time": "2025-11-24T16:28:15.757238",
   "package_url": "https://pypi.org/project/edwh-bundler-plugin/"
 }

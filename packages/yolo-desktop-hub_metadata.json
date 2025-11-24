@@ -1,0 +1,11 @@
+{
+  "name": "yolo-desktop-hub",
+  "version": "1.0.0",
+  "summary": "Custom YOLO Training HUB SDK similar to Ultralytics HUB-SDK",
+  "author": "Duy Vu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yolo_desktop_hub-1.0.0.tar.gz",
+  "download_time": "2025-11-24T16:28:48.492404",
+  "package_url": "https://pypi.org/project/yolo-desktop-hub/"
+}

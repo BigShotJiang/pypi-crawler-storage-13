@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-picking-load",
+  "version": "16.0.1.0.0.2",
+  "summary": "Load and confirm stock pickings via Point Of Sale",
+  "author": "GRAP,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_picking_load-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-24T16:28:18.915949",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-picking-load/"
+}
