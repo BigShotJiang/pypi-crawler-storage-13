@@ -1,0 +1,11 @@
+{
+  "name": "alpacloud",
+  "version": "0.1.1",
+  "summary": "Metapackage for all my alpacloud tools",
+  "author": "lilatomic",
+  "license": null,
+  "home_page": "https://github.com/lilatomic/alpacloud",
+  "download_filename": "alpacloud-0.1.1.tar.gz",
+  "download_time": "2025-11-24T05:48:05.302962",
+  "package_url": "https://pypi.org/project/alpacloud/"
+}

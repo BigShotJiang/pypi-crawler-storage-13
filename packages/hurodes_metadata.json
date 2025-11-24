@@ -1,0 +1,11 @@
+{
+  "name": "hurodes",
+  "version": "0.1.8",
+  "summary": "hurodes (Humanoid Robot Description) is a Python toolkit for describing, converting, and processing humanoid robot models.",
+  "author": "ZyuonRobotics",
+  "license": "MIT",
+  "home_page": "https://github.com/ZyuonRobotics/humanoid-robot-description",
+  "download_filename": "hurodes-0.1.8.tar.gz",
+  "download_time": "2025-11-24T05:48:17.903317",
+  "package_url": "https://pypi.org/project/hurodes/"
+}

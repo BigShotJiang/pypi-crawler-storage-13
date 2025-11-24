@@ -1,0 +1,11 @@
+{
+  "name": "nova-agent-runtime",
+  "version": "0.0.0.dev1",
+  "summary": "Python framework for building AI agents with tool integration, multi-agent workflows, and evaluation loops",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nova_agent_runtime-0.0.0.dev1.tar.gz",
+  "download_time": "2025-11-24T05:48:25.928676",
+  "package_url": "https://pypi.org/project/nova-agent-runtime/"
+}

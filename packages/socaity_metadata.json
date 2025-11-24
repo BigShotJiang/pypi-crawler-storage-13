@@ -1,0 +1,11 @@
+{
+  "name": "socaity",
+  "version": "0.1.8",
+  "summary": "Your SDK and model zoo for generative AI. Build AI-powered applications with ease.",
+  "author": "SocAIty",
+  "license": null,
+  "home_page": null,
+  "download_filename": "socaity-0.1.8.tar.gz",
+  "download_time": "2025-11-24T05:48:06.914712",
+  "package_url": "https://pypi.org/project/socaity/"
+}

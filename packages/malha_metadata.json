@@ -1,11 +1,11 @@
 {
   "name": "malha",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Sistema Operacional Semântico",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "malha-0.2.3-py3-none-any.whl",
-  "download_time": "2025-11-23T05:44:10.899218",
+  "download_filename": "malha-0.2.4.tar.gz",
+  "download_time": "2025-11-24T05:48:30.152378",
   "package_url": "https://pypi.org/project/malha/"
 }

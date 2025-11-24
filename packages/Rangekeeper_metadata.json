@@ -1,0 +1,11 @@
+{
+  "name": "Rangekeeper",
+  "version": "0.8.65",
+  "summary": "A Python library assisting financial modelling in real estate asset & development planning, decision-making, cashflow forecasting, and scenario analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rangekeeper-0.8.65.tar.gz",
+  "download_time": "2025-11-24T05:48:16.881952",
+  "package_url": "https://pypi.org/project/Rangekeeper/"
+}

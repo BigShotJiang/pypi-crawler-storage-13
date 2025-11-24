@@ -1,0 +1,11 @@
+{
+  "name": "mcp-selenium-server",
+  "version": "1.0.0",
+  "summary": "AI-powered Selenium browser automation MCP server with test agents (Planner, Generator, Healer)",
+  "author": "R. van der Horst",
+  "license": "MIT",
+  "home_page": "https://github.com/learn-automated-testing/selenium-mcp-server",
+  "download_filename": "mcp_selenium_server-1.0.0.tar.gz",
+  "download_time": "2025-11-24T05:48:10.021181",
+  "package_url": "https://pypi.org/project/mcp-selenium-server/"
+}
