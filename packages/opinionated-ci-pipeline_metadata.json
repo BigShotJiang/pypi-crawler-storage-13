@@ -1,0 +1,11 @@
+{
+  "name": "opinionated-ci-pipeline",
+  "version": "4.3.0",
+  "summary": "CI/CD on AWS with feature-branch builds, developer-environment deployments, and build status notifications.",
+  "author": "Maciej Radzikowski<maciej.radzikowski@merapar.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/merapar/opinionated-ci-pipeline.git",
+  "download_filename": "opinionated_ci_pipeline-4.3.0.tar.gz",
+  "download_time": "2025-11-24T12:50:28.415033",
+  "package_url": "https://pypi.org/project/opinionated-ci-pipeline/"
+}

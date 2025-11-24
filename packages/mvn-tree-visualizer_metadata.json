@@ -1,0 +1,11 @@
+{
+  "name": "mvn-tree-visualizer",
+  "version": "1.8.4",
+  "summary": "A simple command line tool to visualize the dependency tree of a Maven project in a graphical format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mvn_tree_visualizer-1.8.4.tar.gz",
+  "download_time": "2025-11-24T12:51:10.584313",
+  "package_url": "https://pypi.org/project/mvn-tree-visualizer/"
+}

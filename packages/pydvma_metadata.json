@@ -1,0 +1,11 @@
+{
+  "name": "pydvma",
+  "version": "1.0.0",
+  "summary": null,
+  "author": "Tore Butlin",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/torebutlin/pydvma",
+  "download_filename": "pydvma-1.0.0.tar.gz",
+  "download_time": "2025-11-24T12:50:37.674502",
+  "package_url": "https://pypi.org/project/pydvma/"
+}

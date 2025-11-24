@@ -1,0 +1,11 @@
+{
+  "name": "django-oemof",
+  "version": "2.2.0",
+  "summary": "Django application to run oemof",
+  "author": "Hendrik Huyskens",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "django_oemof-2.2.0.tar.gz",
+  "download_time": "2025-11-24T12:51:19.041604",
+  "package_url": "https://pypi.org/project/django-oemof/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-deux",
+  "version": "0.1.4",
+  "summary": "A modern, extensible replacement for Django admin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_admin_deux-0.1.4.tar.gz",
+  "download_time": "2025-11-24T12:50:37.161391",
+  "package_url": "https://pypi.org/project/django-admin-deux/"
+}

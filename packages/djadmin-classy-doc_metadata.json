@@ -1,0 +1,11 @@
+{
+  "name": "djadmin-classy-doc",
+  "version": "0.1.0",
+  "summary": "Django admin documentation generator using django-classy-doc patterns",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djadmin_classy_doc-0.1.0.tar.gz",
+  "download_time": "2025-11-24T12:50:40.880835",
+  "package_url": "https://pypi.org/project/djadmin-classy-doc/"
+}

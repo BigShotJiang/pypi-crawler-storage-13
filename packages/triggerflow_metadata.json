@@ -1,0 +1,11 @@
+{
+  "name": "triggerflow",
+  "version": "0.2.2",
+  "summary": "Utilities for ML models targeting hardware triggers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "triggerflow-0.2.2.tar.gz",
+  "download_time": "2025-11-24T12:50:53.509374",
+  "package_url": "https://pypi.org/project/triggerflow/"
+}

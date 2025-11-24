@@ -1,11 +1,11 @@
 {
   "name": "wh-fastapi-crud-tortoise",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "summary": "A CRUD library for Tortoise ORM",
   "author": "kanbang",
   "license": null,
   "home_page": "https://github.com/kanbang/fastapi-crud-pro",
-  "download_filename": "wh_fastapi_crud_tortoise-0.1.29-py3-none-any.whl",
-  "download_time": "2025-11-19T03:05:01.047453",
+  "download_filename": "wh_fastapi_crud_tortoise-0.1.30-py3-none-any.whl",
+  "download_time": "2025-11-24T12:51:18.014247",
   "package_url": "https://pypi.org/project/wh-fastapi-crud-tortoise/"
 }

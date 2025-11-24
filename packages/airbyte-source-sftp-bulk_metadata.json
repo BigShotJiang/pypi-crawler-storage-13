@@ -1,11 +1,11 @@
 {
   "name": "airbyte-source-sftp-bulk",
-  "version": "1.8.8",
+  "version": "1.8.9",
   "summary": "Source implementation for SFTP Bulk.",
   "author": "Airbyte",
   "license": "ELv2",
   "home_page": "https://airbyte.com",
-  "download_filename": "airbyte_source_sftp_bulk-1.8.8.tar.gz",
-  "download_time": "2025-11-20T11:40:15.977328",
+  "download_filename": "airbyte_source_sftp_bulk-1.8.9.tar.gz",
+  "download_time": "2025-11-24T12:50:55.042371",
   "package_url": "https://pypi.org/project/airbyte-source-sftp-bulk/"
 }

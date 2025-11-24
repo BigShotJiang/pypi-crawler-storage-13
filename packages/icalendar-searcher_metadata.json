@@ -1,11 +1,11 @@
 {
   "name": "icalendar-searcher",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "Search, filter and sort iCalendar components",
   "author": "Tobias Brox",
   "license": null,
   "home_page": null,
-  "download_filename": "icalendar_searcher-0.1.9.tar.gz",
-  "download_time": "2025-11-19T20:22:57.879990",
+  "download_filename": "icalendar_searcher-0.2.0.tar.gz",
+  "download_time": "2025-11-24T12:51:10.008075",
   "package_url": "https://pypi.org/project/icalendar-searcher/"
 }
