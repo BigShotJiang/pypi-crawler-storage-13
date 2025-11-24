@@ -1,0 +1,11 @@
+{
+  "name": "mosaic-dataset",
+  "version": "0.0.3",
+  "summary": "A scalable framework for fMRI dataset aggregation and modeling of human vision",
+  "author": "Benjamin Lahner, Mayukh Deb, N. Apurva Ratan Murty, Aude Oliva",
+  "license": null,
+  "home_page": "https://github.com/murtylab/mosaic-dataset",
+  "download_filename": "mosaic_dataset-0.0.3.tar.gz",
+  "download_time": "2025-11-24T18:36:12.255878",
+  "package_url": "https://pypi.org/project/mosaic-dataset/"
+}

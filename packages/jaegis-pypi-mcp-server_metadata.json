@@ -1,0 +1,11 @@
+{
+  "name": "jaegis-pypi-mcp-server",
+  "version": "1.1.4",
+  "summary": "PyPI Package Management MCP Server for JAEGIS-web-os project with 8 fully implemented tools including working pypi_upload_package",
+  "author": "JAEGIS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/usemanusai/pypi-jaegis-mcp-server.git",
+  "download_filename": "jaegis_pypi_mcp_server-1.1.4.tar.gz",
+  "download_time": "2025-11-24T18:35:42.070396",
+  "package_url": "https://pypi.org/project/jaegis-pypi-mcp-server/"
+}

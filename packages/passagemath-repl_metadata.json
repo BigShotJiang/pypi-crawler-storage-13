@@ -1,11 +1,11 @@
 {
   "name": "passagemath-repl",
-  "version": "10.6.37",
+  "version": "10.6.38",
   "summary": "passagemath: IPython kernel, Sage preparser, doctester",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_repl-10.6.37-py3-none-any.whl",
-  "download_time": "2025-11-19T20:22:45.853082",
+  "download_filename": "passagemath_repl-10.6.38-py3-none-any.whl",
+  "download_time": "2025-11-24T18:35:48.580690",
   "package_url": "https://pypi.org/project/passagemath-repl/"
 }

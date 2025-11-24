@@ -1,0 +1,11 @@
+{
+  "name": "pacab",
+  "version": "0.1.2",
+  "summary": "Pacab - The Point and Click Adventure Builder",
+  "author": "neilsimp1",
+  "license": null,
+  "home_page": "https://gitlab.com/neilsimp1/pacab",
+  "download_filename": "pacab-0.1.2-py3-none-any.whl",
+  "download_time": "2025-11-24T18:35:41.436801",
+  "package_url": "https://pypi.org/project/pacab/"
+}
