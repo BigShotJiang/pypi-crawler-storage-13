@@ -1,0 +1,11 @@
+{
+  "name": "cnaas-yaml-cli",
+  "version": "0.0.7",
+  "summary": "A CLI interface for doing auto-completion of YAML items in a CNaaS settings repository",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnaas_yaml_cli-0.0.7.tar.gz",
+  "download_time": "2025-11-24T13:38:01.786095",
+  "package_url": "https://pypi.org/project/cnaas-yaml-cli/"
+}

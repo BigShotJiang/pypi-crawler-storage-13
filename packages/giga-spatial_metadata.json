@@ -1,0 +1,11 @@
+{
+  "name": "giga-spatial",
+  "version": "0.7.4",
+  "summary": "A package for spatial data download & processing",
+  "author": "Utku Can Ozturk",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "giga_spatial-0.7.4.tar.gz",
+  "download_time": "2025-11-24T13:37:54.213144",
+  "package_url": "https://pypi.org/project/giga-spatial/"
+}

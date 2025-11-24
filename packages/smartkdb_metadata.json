@@ -1,11 +1,11 @@
 {
   "name": "smartkdb",
-  "version": "5.0.3",
+  "version": "5.0.5",
   "summary": "SmartKDB v5 – The Cognitive AI-Native Database Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smartkdb-5.0.3.tar.gz",
-  "download_time": "2025-11-23T22:44:42.356807",
+  "download_filename": "smartkdb-5.0.5.tar.gz",
+  "download_time": "2025-11-24T13:37:45.612694",
   "package_url": "https://pypi.org/project/smartkdb/"
 }

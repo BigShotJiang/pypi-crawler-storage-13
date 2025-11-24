@@ -1,0 +1,11 @@
+{
+  "name": "qdata",
+  "version": "0.3.0",
+  "summary": "Python SDK for getting data quickly",
+  "author": "longxiaofei",
+  "license": null,
+  "home_page": "https://github.com/longxiaofei/spider-BaiduIndex",
+  "download_filename": "qdata-0.3.0.tar.gz",
+  "download_time": "2025-11-24T13:37:28.501474",
+  "package_url": "https://pypi.org/project/qdata/"
+}

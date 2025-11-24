@@ -1,11 +1,11 @@
 {
   "name": "msasim",
-  "version": "25.11.10",
+  "version": "25.11.11",
   "summary": "A fast MSA simulator",
   "author": "Elya Wygoda",
   "license": null,
   "home_page": "https://github.com/elyawy/Sailfish-backend",
-  "download_filename": "msasim-25.11.10.tar.gz",
-  "download_time": "2025-11-24T12:51:00.763897",
+  "download_filename": "msasim-25.11.11.tar.gz",
+  "download_time": "2025-11-24T13:37:37.078923",
   "package_url": "https://pypi.org/project/msasim/"
 }

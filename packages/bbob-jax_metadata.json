@@ -1,0 +1,11 @@
+{
+  "name": "bbob-jax",
+  "version": "1.1.0",
+  "summary": "BBOB Benchmark function implemented in JAX",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bbob_jax-1.1.0.tar.gz",
+  "download_time": "2025-11-24T13:37:17.562026",
+  "package_url": "https://pypi.org/project/bbob-jax/"
+}

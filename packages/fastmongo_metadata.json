@@ -1,0 +1,11 @@
+{
+  "name": "fastmongo",
+  "version": "0.0.48",
+  "summary": "make it easy to use pymongo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastmongo-0.0.48.tar.gz",
+  "download_time": "2025-11-24T13:37:39.171799",
+  "package_url": "https://pypi.org/project/fastmongo/"
+}

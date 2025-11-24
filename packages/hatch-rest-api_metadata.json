@@ -1,0 +1,11 @@
+{
+  "name": "hatch-rest-api",
+  "version": "1.30.0",
+  "summary": "Hatch Rest mini Api Wrapper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_rest_api-1.30.0.tar.gz",
+  "download_time": "2025-11-24T13:37:40.823022",
+  "package_url": "https://pypi.org/project/hatch-rest-api/"
+}

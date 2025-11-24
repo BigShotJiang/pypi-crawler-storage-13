@@ -1,11 +1,11 @@
 {
   "name": "nexadb",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Official Python client for NexaDB - The high-performance, easy-to-use database",
   "author": "NexaDB Team",
   "license": "MIT",
   "home_page": "https://github.com/krishcdbry/nexadb-python",
-  "download_filename": "nexadb-1.0.0.tar.gz",
-  "download_time": "2025-11-24T04:12:05.913162",
+  "download_filename": "nexadb-1.1.0.tar.gz",
+  "download_time": "2025-11-24T13:37:36.528376",
   "package_url": "https://pypi.org/project/nexadb/"
 }
