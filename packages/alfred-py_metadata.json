@@ -1,0 +1,11 @@
+{
+  "name": "alfred-py",
+  "version": "3.1.0",
+  "summary": "Alfred is a DeepLearning utility library.",
+  "author": "Lucas Jin",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/jinfagang/alfred",
+  "download_filename": "alfred_py-3.1.0.tar.gz",
+  "download_time": "2025-11-24T07:00:11.532300",
+  "package_url": "https://pypi.org/project/alfred-py/"
+}

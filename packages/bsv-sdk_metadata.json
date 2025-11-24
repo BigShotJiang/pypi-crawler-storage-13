@@ -1,0 +1,11 @@
+{
+  "name": "bsv-sdk",
+  "version": "1.0.11",
+  "summary": "BSV BLOCKCHAIN | Software Development Kit for Python",
+  "author": "Aaron",
+  "license": null,
+  "home_page": "https://github.com/bitcoin-sv/py-sdk",
+  "download_filename": "bsv_sdk-1.0.11.tar.gz",
+  "download_time": "2025-11-24T07:00:00.081809",
+  "package_url": "https://pypi.org/project/bsv-sdk/"
+}

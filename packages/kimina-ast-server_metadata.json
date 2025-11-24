@@ -1,11 +1,11 @@
 {
   "name": "kimina-ast-server",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Kimina Lean Server - FastAPI server for checking Lean 4 code at scale",
   "author": "Kimi Team - Project Numina",
   "license": null,
   "home_page": null,
-  "download_filename": "kimina_ast_server-2.0.1.tar.gz",
-  "download_time": "2025-11-23T14:42:22.601368",
+  "download_filename": "kimina_ast_server-2.0.2.tar.gz",
+  "download_time": "2025-11-24T06:59:49.958254",
   "package_url": "https://pypi.org/project/kimina-ast-server/"
 }

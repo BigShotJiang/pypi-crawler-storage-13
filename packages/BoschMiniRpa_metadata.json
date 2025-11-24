@@ -1,11 +1,11 @@
 {
   "name": "BoschMiniRpa",
-  "version": "0.1.162",
+  "version": "0.1.163",
   "summary": "This package is used for building low code or no code RPA solutions within Bosch.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boschminirpa-0.1.162.tar.gz",
-  "download_time": "2025-11-24T04:11:43.476592",
+  "download_filename": "boschminirpa-0.1.163.tar.gz",
+  "download_time": "2025-11-24T07:00:02.161921",
   "package_url": "https://pypi.org/project/BoschMiniRpa/"
 }

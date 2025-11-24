@@ -1,0 +1,11 @@
+{
+  "name": "twitter-mcp",
+  "version": "0.1.0",
+  "summary": "A twitter MCP server",
+  "author": "yanrujing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twitter_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-24T07:00:18.322345",
+  "package_url": "https://pypi.org/project/twitter-mcp/"
+}

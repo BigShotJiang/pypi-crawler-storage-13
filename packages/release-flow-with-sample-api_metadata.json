@@ -1,11 +1,11 @@
 {
   "name": "release-flow-with-sample-api",
-  "version": "1.1.1",
+  "version": "1.4.0",
   "summary": "The official Python library for the release-flow-with-sample-api API",
   "author": "Release Flow With Sample API",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "release_flow_with_sample_api-1.1.1.tar.gz",
-  "download_time": "2025-11-21T12:44:58.723967",
+  "download_filename": "release_flow_with_sample_api-1.4.0.tar.gz",
+  "download_time": "2025-11-24T07:00:04.260596",
   "package_url": "https://pypi.org/project/release-flow-with-sample-api/"
 }

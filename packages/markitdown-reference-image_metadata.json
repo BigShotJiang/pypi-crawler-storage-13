@@ -1,0 +1,11 @@
+{
+  "name": "markitdown-reference-image",
+  "version": "0.1.1",
+  "summary": "Extract images from markdown files and highlight text chunks with bounding boxes",
+  "author": "Naveen Kumar Rajarajan",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/markitdown-reference-image",
+  "download_filename": "markitdown_reference_image-0.1.1.tar.gz",
+  "download_time": "2025-11-24T07:00:28.667357",
+  "package_url": "https://pypi.org/project/markitdown-reference-image/"
+}

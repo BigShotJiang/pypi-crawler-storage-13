@@ -1,0 +1,11 @@
+{
+  "name": "ia-auth-sessions",
+  "version": "0.1.0",
+  "summary": "Industry-standard session-based authentication for FastAPI with secure cookies",
+  "author": "Fiberwise AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ia_auth_sessions-0.1.0.tar.gz",
+  "download_time": "2025-11-24T07:00:10.486725",
+  "package_url": "https://pypi.org/project/ia-auth-sessions/"
+}

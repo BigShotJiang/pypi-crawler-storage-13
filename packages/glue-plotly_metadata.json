@@ -1,0 +1,11 @@
+{
+  "name": "glue-plotly",
+  "version": "0.13.0",
+  "summary": "Experimental plot.ly exporters for glue",
+  "author": "Thomas Robitaille and Catherine Zucker",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/glue-viz/glue-plotly",
+  "download_filename": "glue_plotly-0.13.0-py3-none-any.whl",
+  "download_time": "2025-11-24T07:00:27.630677",
+  "package_url": "https://pypi.org/project/glue-plotly/"
+}
