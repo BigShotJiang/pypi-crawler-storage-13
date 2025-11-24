@@ -1,11 +1,11 @@
 {
   "name": "large-image-source-tifffile",
-  "version": "1.33.3",
+  "version": "1.33.4",
   "summary": "A tifffile tilesource for large_image.",
   "author": "Kitware, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/girder/large_image",
-  "download_filename": "large_image_source_tifffile-1.33.3.tar.gz",
-  "download_time": "2025-11-17T21:40:39.552577",
+  "download_filename": "large_image_source_tifffile-1.33.4.tar.gz",
+  "download_time": "2025-11-24T17:23:45.833612",
   "package_url": "https://pypi.org/project/large-image-source-tifffile/"
 }

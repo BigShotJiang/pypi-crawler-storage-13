@@ -1,0 +1,11 @@
+{
+  "name": "ballistics-engine",
+  "version": "0.13.3",
+  "summary": "High-performance ballistics trajectory engine with professional physics",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "ballistics_engine-0.13.3-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-24T17:24:11.078460",
+  "package_url": "https://pypi.org/project/ballistics-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "receptor-digger",
+  "version": "0.8.1",
+  "summary": "Tools for de novo discovery of genomic germline IG and TR receptor sequences",
+  "author": "William Lees",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/williamdlees/digger",
+  "download_filename": "receptor_digger-0.8.1.tar.gz",
+  "download_time": "2025-11-24T17:23:26.851813",
+  "package_url": "https://pypi.org/project/receptor-digger/"
+}

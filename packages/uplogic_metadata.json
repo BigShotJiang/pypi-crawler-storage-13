@@ -1,0 +1,11 @@
+{
+  "name": "uplogic",
+  "version": "5.0.0",
+  "summary": "Uplogic utility for UPBGE.",
+  "author": "Leopold Auersperg-Castell",
+  "license": "GPLv2",
+  "home_page": "https://github.com/UPBGE/uplogic",
+  "download_filename": "uplogic-5.0.0.tar.gz",
+  "download_time": "2025-11-24T17:23:50.402629",
+  "package_url": "https://pypi.org/project/uplogic/"
+}

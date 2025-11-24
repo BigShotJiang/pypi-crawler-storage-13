@@ -1,0 +1,11 @@
+{
+  "name": "enigma-meg",
+  "version": "1.0.1",
+  "summary": "Package to calculate metrics for the Enigma MEG consortium",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enigma_meg-1.0.1.tar.gz",
+  "download_time": "2025-11-24T17:23:39.729225",
+  "package_url": "https://pypi.org/project/enigma-meg/"
+}

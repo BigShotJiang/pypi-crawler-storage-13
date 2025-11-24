@@ -1,11 +1,11 @@
 {
   "name": "krista-infinispan",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Cache operations package with Infinispan integration",
   "author": "Vijay Bhatt",
   "license": null,
-  "home_page": "https://github.com/Vijay2351989/krista-infra-python/krista_infinispan",
-  "download_filename": "krista_infinispan-1.0.6.tar.gz",
-  "download_time": "2025-11-23T16:47:21.671877",
+  "home_page": "https://bitbucket.org/vijay_23051989/krista-infra-python/src/release-1.0/krista_infinispan/",
+  "download_filename": "krista_infinispan-1.0.7.tar.gz",
+  "download_time": "2025-11-24T17:23:23.692641",
   "package_url": "https://pypi.org/project/krista-infinispan/"
 }

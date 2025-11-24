@@ -1,11 +1,11 @@
 {
   "name": "infrahub-server",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "Infrahub is taking a new approach to Infrastructure Management by providing a new generation of datastore to organize and control all the data that defines how an infrastructure should run.",
   "author": "OpsMill",
   "license": "Apache-2.0",
   "home_page": "https://opsmill.com",
-  "download_filename": "infrahub_server-1.5.2.tar.gz",
-  "download_time": "2025-11-18T14:46:20.880555",
+  "download_filename": "infrahub_server-1.5.3.tar.gz",
+  "download_time": "2025-11-24T17:24:08.524641",
   "package_url": "https://pypi.org/project/infrahub-server/"
 }

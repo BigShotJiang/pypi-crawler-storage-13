@@ -1,0 +1,11 @@
+{
+  "name": "edx-enterprise",
+  "version": "6.5.5",
+  "summary": "Your project description goes here",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/edx-enterprise",
+  "download_filename": "edx_enterprise-6.5.5.tar.gz",
+  "download_time": "2025-11-24T17:23:24.346947",
+  "package_url": "https://pypi.org/project/edx-enterprise/"
+}
