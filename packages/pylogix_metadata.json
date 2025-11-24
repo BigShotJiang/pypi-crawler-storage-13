@@ -1,0 +1,11 @@
+{
+  "name": "pylogix",
+  "version": "1.1.4",
+  "summary": "Read/Write Rockwell Automation Logix based PLC's",
+  "author": "Dustin Roeder",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/dmroeder/pylogix",
+  "download_filename": "pylogix-1.1.4-py2.py3-none-any.whl",
+  "download_time": "2025-11-24T19:37:36.775687",
+  "package_url": "https://pypi.org/project/pylogix/"
+}

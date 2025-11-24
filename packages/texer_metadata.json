@@ -1,11 +1,11 @@
 {
   "name": "texer",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Generate LaTeX tables and figures with glom-style specs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "texer-0.1.0.tar.gz",
-  "download_time": "2025-11-24T01:53:22.535930",
+  "download_filename": "texer-0.3.0.tar.gz",
+  "download_time": "2025-11-24T19:37:31.068063",
   "package_url": "https://pypi.org/project/texer/"
 }

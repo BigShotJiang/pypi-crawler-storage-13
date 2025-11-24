@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4-system",
+  "version": "0.1.0",
+  "summary": "CraftBeerPi4 Plugin for system fucntions",
+  "author": "Alexander Vollkopf",
+  "license": null,
+  "home_page": "https://github.com/PiBrewing/cbpi4-system",
+  "download_filename": "cbpi4_system-0.1.0.tar.gz",
+  "download_time": "2025-11-24T19:37:53.615246",
+  "package_url": "https://pypi.org/project/cbpi4-system/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thetemani-common-utils",
+  "version": "0.1.8",
+  "summary": "A collection of common utility functions and scripts",
+  "author": "Omer Hadad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thetemani_common_utils-0.1.8.tar.gz",
+  "download_time": "2025-11-24T19:37:50.162368",
+  "package_url": "https://pypi.org/project/thetemani-common-utils/"
+}

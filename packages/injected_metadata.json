@@ -1,0 +1,11 @@
+{
+  "name": "injected",
+  "version": "0.3.0",
+  "summary": "Simple, type-safe dependency injection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "injected-0.3.0.tar.gz",
+  "download_time": "2025-11-24T19:37:25.932495",
+  "package_url": "https://pypi.org/project/injected/"
+}

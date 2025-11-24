@@ -1,0 +1,11 @@
+{
+  "name": "minipil",
+  "version": "0.1.2",
+  "summary": "minipil — mini Pillow-based CLI for NLP image edits",
+  "author": "Yadhnika Wakde",
+  "license": "MIT",
+  "home_page": "https://github.com/SuzanTurner/Mini-Pillow",
+  "download_filename": "minipil-0.1.2.tar.gz",
+  "download_time": "2025-11-24T19:37:17.827516",
+  "package_url": "https://pypi.org/project/minipil/"
+}

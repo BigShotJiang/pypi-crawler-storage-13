@@ -1,11 +1,11 @@
 {
   "name": "chimeradb",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Knowledge graph + vector search + SQL analytics powered by DuckDB",
   "author": "Alexander Leirvåg",
   "license": null,
   "home_page": "https://github.com/codimusmaximus/chimeradb",
-  "download_filename": "chimeradb-0.2.1.tar.gz",
-  "download_time": "2025-11-24T19:00:59.418825",
+  "download_filename": "chimeradb-0.2.2.tar.gz",
+  "download_time": "2025-11-24T19:37:32.219655",
   "package_url": "https://pypi.org/project/chimeradb/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fronts",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "Numerical library for nonlinear diffusion problems in semi-infinite domains",
   "author": "Gabriel S. Gerlero",
   "license": null,
   "home_page": null,
-  "download_filename": "fronts-1.2.8.tar.gz",
-  "download_time": "2025-11-21T23:58:08.252027",
+  "download_filename": "fronts-1.2.9.tar.gz",
+  "download_time": "2025-11-24T19:37:29.376459",
   "package_url": "https://pypi.org/project/fronts/"
 }

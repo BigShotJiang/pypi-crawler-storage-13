@@ -1,0 +1,11 @@
+{
+  "name": "gohl",
+  "version": "1.0.3",
+  "summary": "Go Highlevel Python ease of use library implementation to their API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gohl-1.0.3.tar.gz",
+  "download_time": "2025-11-24T19:37:25.361652",
+  "package_url": "https://pypi.org/project/gohl/"
+}
