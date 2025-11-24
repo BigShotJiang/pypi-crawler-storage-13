@@ -1,0 +1,11 @@
+{
+  "name": "pavatools",
+  "version": "1.0.4",
+  "summary": "A collection of AWS FinOps and utility tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pavatools-1.0.4.tar.gz",
+  "download_time": "2025-11-24T14:49:53.550695",
+  "package_url": "https://pypi.org/project/pavatools/"
+}

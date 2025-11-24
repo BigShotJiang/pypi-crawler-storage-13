@@ -1,0 +1,11 @@
+{
+  "name": "djinitx",
+  "version": "0.2.1",
+  "summary": "A CLI tool to setup Django project",
+  "author": "Sankalp Tharu",
+  "license": "MIT",
+  "home_page": "https://github.com/S4NKALP/djinit",
+  "download_filename": "djinitx-0.2.1.tar.gz",
+  "download_time": "2025-11-24T14:50:15.493930",
+  "package_url": "https://pypi.org/project/djinitx/"
+}

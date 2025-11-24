@@ -1,11 +1,11 @@
 {
   "name": "fnschool",
-  "version": "20251124.81635.834",
+  "version": "20251124.82240.839",
   "summary": "Just some school related scripts, without any ambition.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fnschool-20251124.81635.834.tar.gz",
-  "download_time": "2025-11-24T09:01:42.989224",
+  "download_filename": "fnschool-20251124.82240.839.tar.gz",
+  "download_time": "2025-11-24T14:50:05.608858",
   "package_url": "https://pypi.org/project/fnschool/"
 }

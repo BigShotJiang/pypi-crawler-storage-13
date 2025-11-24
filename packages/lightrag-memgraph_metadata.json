@@ -1,0 +1,11 @@
+{
+  "name": "lightrag-memgraph",
+  "version": "0.1.2",
+  "summary": "LightRAG integration with Memgraph",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightrag_memgraph-0.1.2.tar.gz",
+  "download_time": "2025-11-24T14:50:19.185623",
+  "package_url": "https://pypi.org/project/lightrag-memgraph/"
+}

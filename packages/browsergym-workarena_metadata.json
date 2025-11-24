@@ -1,0 +1,11 @@
+{
+  "name": "browsergym-workarena",
+  "version": "0.5.0",
+  "summary": "WorkArena benchmark for BrowserGym",
+  "author": "Léo Boisvert, Alex Drouin, Maxime Gasse, Alex Lacoste, Manuel Del Verme, Megh Thakkar",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "browsergym_workarena-0.5.0.tar.gz",
+  "download_time": "2025-11-24T14:50:32.119918",
+  "package_url": "https://pypi.org/project/browsergym-workarena/"
+}

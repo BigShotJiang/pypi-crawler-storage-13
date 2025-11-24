@@ -1,0 +1,11 @@
+{
+  "name": "classy",
+  "version": "3.3.4.0",
+  "summary": "Python interface to the Cosmological Boltzmann code CLASS",
+  "author": "Julien Lesgourgues, Thomas Tram, Nils Schöneberg, ... and many more (see webpage)",
+  "license": null,
+  "home_page": "http://www.class-code.net",
+  "download_filename": "classy-3.3.4.0.tar.gz",
+  "download_time": "2025-11-24T14:50:13.946456",
+  "package_url": "https://pypi.org/project/classy/"
+}

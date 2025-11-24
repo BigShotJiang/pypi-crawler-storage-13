@@ -1,0 +1,11 @@
+{
+  "name": "phonexia-deepfake-detection-client",
+  "version": "4.0.0",
+  "summary": "Deepfake Detection Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonexia_deepfake_detection_client-4.0.0-py3-none-any.whl",
+  "download_time": "2025-11-24T14:49:55.719518",
+  "package_url": "https://pypi.org/project/phonexia-deepfake-detection-client/"
+}

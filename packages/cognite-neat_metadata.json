@@ -1,11 +1,11 @@
 {
   "name": "cognite-neat",
-  "version": "0.127.22",
+  "version": "0.127.23",
   "summary": "Knowledge graph transformation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cognite_neat-0.127.22-py3-none-any.whl",
-  "download_time": "2025-11-24T13:37:15.946032",
+  "download_filename": "cognite_neat-0.127.23-py3-none-any.whl",
+  "download_time": "2025-11-24T14:50:01.952029",
   "package_url": "https://pypi.org/project/cognite-neat/"
 }
