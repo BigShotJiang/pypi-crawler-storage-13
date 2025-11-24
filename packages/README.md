@@ -1,19 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-24T07:29:56.676498
-- **Total Packages**: 83
-- **Total Size**: 34.06 MB
+- **Download Time**: 2025-11-24T07:44:54.759563
+- **Total Packages**: 79
+- **Total Size**: 29.26 MB
 
 ## Packages List
+- cracknuts
+- jettask
+- mongodb-ai-widgets
+- vicoa
+- adhd-copilot
+- qass-tools-analyzer
+- sphinx-multiversion-scylla
+- echopykits3
+- match-predicting-ann-server-pub-api
+- pythermal
+- geo-explorer
+- fastquadtree
+- odoo-addon-report-xlsx
+- KairoCore
+- pylimer-tools
+- pyqwikswitch
+- remdb
+- curllm
+- type-bridge
+- nano-banana-onekey-mcp
+- unique_toolkit
+- shebangmarkdown
+- datus-agent
+- keble-db
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- aabd
+- odoo-addon-helpdesk-restrict-followers
 - func-to-web
 - llm-wasm-sandbox
 - odoo-addon-contract
 - lean-dojo-v2
 - iragca
 - aegis-bio
-- type-bridge
-- shebangmarkdown
 - oarepo-rdm
 - structured-prompt
 - airflow-unicore-integration
@@ -46,10 +72,8 @@
 - uipath-runtime
 - doc-store
 - release-flow-with-sample-api
-- unique_toolkit
 - gaussian-splatting
 - overflow-hydro
-- jettask
 - django-filer
 - twitter-mcp
 - uipath-dev
@@ -61,31 +85,3 @@
 - gsmod
 - uapg
 - askpablos-scrapy-api
-- tencent-wedata-auto-ml
-- xp-tool
-- jfjoch-client
-- snowflake-tool
-- gha-utils
-- medusa-security
-- typing-schema
-- gllm-inference-binary
-- tiramisu-framework
-- weirdfingers-boards
-- nb-config-center
-- doblib
-- discord-clyde
-- iflow-mcp_BigGo-MCP-Server
-- unicex
-- pymermaider
-- kimina-ast-server
-- kuaijs-ios
-- pyclipper2
-- KairoCore
-- summer-modules
-- summer-modules-ssh
-- summer-modules-security
-- cognite-toolkit
-- summer-modules-prefect
-- summer-modules-excel
-- summer-modules-database
-- summer-modules-charts

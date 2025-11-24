@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-restrict-followers",
+  "version": "16.0.1.0.0.1",
+  "summary": "Restrict adding followers to only partners with an internal user associated.",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_helpdesk_restrict_followers-16.0.1.0.0.1.tar.gz",
+  "download_time": "2025-11-24T07:44:26.159640",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-restrict-followers/"
+}

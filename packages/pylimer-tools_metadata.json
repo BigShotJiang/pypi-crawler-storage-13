@@ -1,0 +1,11 @@
+{
+  "name": "pylimer-tools",
+  "version": "0.3.14",
+  "summary": "A toolkit for handling bead-spring polymers and LAMMPS output in Python",
+  "author": "Tim Bernhard",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/GenieTim/pylimer-tools",
+  "download_filename": "pylimer_tools-0.3.14.tar.gz",
+  "download_time": "2025-11-24T07:44:19.323215",
+  "package_url": "https://pypi.org/project/pylimer-tools/"
+}

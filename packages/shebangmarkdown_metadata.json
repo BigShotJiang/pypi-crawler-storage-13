@@ -1,11 +1,11 @@
 {
   "name": "shebangmarkdown",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Terminal-based Markdown IDE built with Textual by Aryaneel Shivam",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shebangmarkdown-0.1.2.tar.gz",
-  "download_time": "2025-11-24T07:29:14.856647",
+  "download_filename": "shebangmarkdown-0.1.4.tar.gz",
+  "download_time": "2025-11-24T07:44:22.990992",
   "package_url": "https://pypi.org/project/shebangmarkdown/"
 }

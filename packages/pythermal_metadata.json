@@ -1,11 +1,11 @@
 {
   "name": "pythermal",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A lightweight Python library for thermal sensing and analytics on Linux platforms",
   "author": "ThermalCare Team",
   "license": null,
   "home_page": "https://github.com/AIoT-Infrastructure/pythermal",
-  "download_filename": "pythermal-0.2.5.tar.gz",
-  "download_time": "2025-11-18T07:52:56.220115",
+  "download_filename": "pythermal-0.2.6.tar.gz",
+  "download_time": "2025-11-24T07:44:16.666383",
   "package_url": "https://pypi.org/project/pythermal/"
 }
