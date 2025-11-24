@@ -1,0 +1,11 @@
+{
+  "name": "coze-workload-identity",
+  "version": "0.1.0",
+  "summary": "Python SDK for Coze workload identity authentication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coze_workload_identity-0.1.0.tar.gz",
+  "download_time": "2025-11-24T09:37:11.558422",
+  "package_url": "https://pypi.org/project/coze-workload-identity/"
+}

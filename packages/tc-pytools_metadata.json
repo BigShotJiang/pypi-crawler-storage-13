@@ -1,0 +1,11 @@
+{
+  "name": "tc-pytools",
+  "version": "1.1.0",
+  "summary": "Toolkit for processing genomic data files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tc_pytools-1.1.0.tar.gz",
+  "download_time": "2025-11-24T09:36:42.160284",
+  "package_url": "https://pypi.org/project/tc-pytools/"
+}

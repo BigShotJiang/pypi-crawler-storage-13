@@ -1,0 +1,11 @@
+{
+  "name": "tianmoucv",
+  "version": "0.4.0.0",
+  "summary": "Algorithms library for Tianmouc sensor_preview version",
+  "author": "Yihan Lin,Taoyi Wang",
+  "license": null,
+  "home_page": "https://github.com/Tianmouc/tianmoucv",
+  "download_filename": "tianmoucv-0.4.0.0-py3-none-any.whl",
+  "download_time": "2025-11-24T09:36:46.923532",
+  "package_url": "https://pypi.org/project/tianmoucv/"
+}

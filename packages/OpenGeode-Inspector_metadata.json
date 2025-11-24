@@ -1,11 +1,11 @@
 {
   "name": "OpenGeode-Inspector",
-  "version": "6.8.6",
+  "version": "6.8.7",
   "summary": "Open source framework for inspecting the validity of geometric models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opengeode_inspector-6.8.6-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-11-18T08:53:30.719077",
+  "download_filename": "opengeode_inspector-6.8.7-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-24T09:37:20.944673",
   "package_url": "https://pypi.org/project/OpenGeode-Inspector/"
 }

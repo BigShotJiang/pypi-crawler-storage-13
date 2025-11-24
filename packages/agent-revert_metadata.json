@@ -1,0 +1,11 @@
+{
+  "name": "agent-revert",
+  "version": "0.1.3",
+  "summary": "A simple decorator for tracking and reverting agent actions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_revert-0.1.3.tar.gz",
+  "download_time": "2025-11-24T09:36:51.166013",
+  "package_url": "https://pypi.org/project/agent-revert/"
+}

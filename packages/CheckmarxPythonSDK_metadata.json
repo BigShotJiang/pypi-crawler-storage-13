@@ -1,11 +1,11 @@
 {
   "name": "CheckmarxPythonSDK",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "summary": "Checkmarx Python SDK",
   "author": "Happy Yang",
   "license": null,
   "home_page": "https://github.com/checkmarx-ts/checkmarx-python-sdk",
-  "download_filename": "checkmarxpythonsdk-1.7.1.tar.gz",
-  "download_time": "2025-11-24T04:50:03.097747",
+  "download_filename": "checkmarxpythonsdk-1.7.2.tar.gz",
+  "download_time": "2025-11-24T09:37:00.082387",
   "package_url": "https://pypi.org/project/CheckmarxPythonSDK/"
 }

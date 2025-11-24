@@ -1,0 +1,11 @@
+{
+  "name": "amilib",
+  "version": "1.1.2",
+  "summary": "A library for processing and analyzing scientific documents",
+  "author": "Peter Murray-Rust and semanticClimate team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/petermr/amilib",
+  "download_filename": "amilib-1.1.2.tar.gz",
+  "download_time": "2025-11-24T09:37:13.637605",
+  "package_url": "https://pypi.org/project/amilib/"
+}
